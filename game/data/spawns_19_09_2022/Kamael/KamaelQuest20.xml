@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="16_19">
+		<group>
+			<npc id="21983" x="-120089" y="56031" z="-1630" heading="28195" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120089" y="56031" z="-1630" heading="28195" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120089" y="56031" z="-1630" heading="28195" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120089" y="56031" z="-1630" heading="28195" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21982" x="-120191" y="55943" z="-1617" heading="40192" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120191" y="55943" z="-1617" heading="40192" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21983" x="-120191" y="55943" z="-1617" heading="40192" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120191" y="55943" z="-1617" heading="40192" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21982" x="-120345" y="55720" z="-1590" heading="42848" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120345" y="55720" z="-1590" heading="42848" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120345" y="55720" z="-1590" heading="42848" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120345" y="55720" z="-1590" heading="42848" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120393" y="55468" z="-1563" heading="47164" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120394" y="55466" z="-1563" heading="47164" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21983" x="-120394" y="55466" z="-1563" heading="47164" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120394" y="55466" z="-1563" heading="47164" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21982" x="-120336" y="55402" z="-1552" heading="56831" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120336" y="55402" z="-1552" heading="56831" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120336" y="55402" z="-1552" heading="56831" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120336" y="55402" z="-1552" heading="56831" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120203" y="55322" z="-1535" heading="59887" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120203" y="55322" z="-1535" heading="59887" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120203" y="55322" z="-1535" heading="59887" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120203" y="55322" z="-1535" heading="59887" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119954" y="55210" z="-1528" heading="61127" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119954" y="55210" z="-1528" heading="61127" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119954" y="55210" z="-1528" heading="61127" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119954" y="55210" z="-1528" heading="61127" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119873" y="55120" z="-1526" heading="56795" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119873" y="55120" z="-1526" heading="56795" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119873" y="55120" z="-1526" heading="56795" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119873" y="55120" z="-1526" heading="56795" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119716" y="55058" z="-1529" heading="61613" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119716" y="55058" z="-1529" heading="61613" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119716" y="55058" z="-1529" heading="61613" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119716" y="55058" z="-1529" heading="61613" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119541" y="55209" z="-1536" heading="7425" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119541" y="55209" z="-1536" heading="7425" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119541" y="55209" z="-1536" heading="7425" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119541" y="55209" z="-1536" heading="7425" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119440" y="55370" z="-1535" heading="10540" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119440" y="55370" z="-1535" heading="10540" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119440" y="55370" z="-1535" heading="10540" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119440" y="55370" z="-1535" heading="10540" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119320" y="55509" z="-1535" heading="8955" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119320" y="55509" z="-1535" heading="8955" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119320" y="55509" z="-1535" heading="8955" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119320" y="55509" z="-1535" heading="8955" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119259" y="55639" z="-1541" heading="11807" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119259" y="55639" z="-1541" heading="11807" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119259" y="55639" z="-1541" heading="11807" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119259" y="55639" z="-1541" heading="11807" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119305" y="55814" z="-1567" heading="19065" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119305" y="55814" z="-1567" heading="19065" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119305" y="55814" z="-1567" heading="19065" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119305" y="55814" z="-1567" heading="19065" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119386" y="55992" z="-1595" heading="20838" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119386" y="55992" z="-1595" heading="20838" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119386" y="55992" z="-1595" heading="20838" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119386" y="55992" z="-1595" heading="20838" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119576" y="56119" z="-1622" heading="26622" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119576" y="56119" z="-1622" heading="26622" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119576" y="56119" z="-1622" heading="26622" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119576" y="56119" z="-1622" heading="26622" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119697" y="56351" z="-1668" heading="21398" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119697" y="56351" z="-1668" heading="21398" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119697" y="56351" z="-1668" heading="21398" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119697" y="56351" z="-1668" heading="21398" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119834" y="56477" z="-1691" heading="25011" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119834" y="56477" z="-1691" heading="25011" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119834" y="56477" z="-1691" heading="25011" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119834" y="56477" z="-1691" heading="25011" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120000" y="56508" z="-1694" heading="30842" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120000" y="56508" z="-1694" heading="30842" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120000" y="56508" z="-1694" heading="30842" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120000" y="56508" z="-1694" heading="30842" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120180" y="56515" z="-1695" heading="32362" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120180" y="56515" z="-1695" heading="32362" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120180" y="56515" z="-1695" heading="32362" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120180" y="56515" z="-1695" heading="32362" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120342" y="56493" z="-1700" heading="34175" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120342" y="56493" z="-1700" heading="34175" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120342" y="56493" z="-1700" heading="34175" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120342" y="56493" z="-1700" heading="34175" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120477" y="56337" z="-1688" heading="41682" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120503" y="56308" z="-1685" heading="41682" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120503" y="56308" z="-1685" heading="41682" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120503" y="56308" z="-1685" heading="41682" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120538" y="56101" z="-1655" heading="47404" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120538" y="56101" z="-1655" heading="47404" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120538" y="56101" z="-1655" heading="47404" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120538" y="56101" z="-1655" heading="47404" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120658" y="55915" z="-1643" heading="43175" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120658" y="55915" z="-1643" heading="43175" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120658" y="55915" z="-1643" heading="43175" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120658" y="55915" z="-1643" heading="43175" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120752" y="55792" z="-1635" heading="42267" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120769" y="55772" z="-1634" heading="42267" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120769" y="55772" z="-1634" heading="42267" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120769" y="55772" z="-1634" heading="42267" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120714" y="55556" z="-1619" heading="51752" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120714" y="55556" z="-1619" heading="51752" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120714" y="55556" z="-1619" heading="51752" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120714" y="55556" z="-1619" heading="51752" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120770" y="55413" z="-1621" heading="45258" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120770" y="55413" z="-1621" heading="45258" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120770" y="55413" z="-1621" heading="45258" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120770" y="55413" z="-1621" heading="45258" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120786" y="55305" z="-1609" heading="47617" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120786" y="55305" z="-1609" heading="47617" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120786" y="55305" z="-1609" heading="47617" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120786" y="55305" z="-1609" heading="47617" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120475" y="55363" z="-1562" heading="58859" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120475" y="55363" z="-1562" heading="58859" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120475" y="55363" z="-1562" heading="58859" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120475" y="55363" z="-1562" heading="58859" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119679" y="55525" z="-1553" heading="2066" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119679" y="55525" z="-1553" heading="2066" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119679" y="55525" z="-1553" heading="2066" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119679" y="55525" z="-1553" heading="2066" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119670" y="55672" z="-1562" heading="15746" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119670" y="55672" z="-1562" heading="15746" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119670" y="55672" z="-1562" heading="15746" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119670" y="55672" z="-1562" heading="15746" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120352" y="56819" z="-1754" heading="18970" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120371" y="56891" z="-1771" heading="18970" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120371" y="56891" z="-1771" heading="18970" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120371" y="56891" z="-1771" heading="18970" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120183" y="56919" z="-1774" heading="1542" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120183" y="56919" z="-1774" heading="1542" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120183" y="56919" z="-1774" heading="1542" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120183" y="56919" z="-1774" heading="1542" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120052" y="56800" z="-1752" heading="57844" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120052" y="56800" z="-1752" heading="57844" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120052" y="56800" z="-1752" heading="57844" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120052" y="56800" z="-1752" heading="57844" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119774" y="56756" z="-1741" heading="63898" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119774" y="56756" z="-1741" heading="63898" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119774" y="56756" z="-1741" heading="63898" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119774" y="56756" z="-1741" heading="63898" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119522" y="56812" z="-1745" heading="2309" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119503" y="56817" z="-1747" heading="2309" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119503" y="56817" z="-1747" heading="2309" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119503" y="56817" z="-1747" heading="2309" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119483" y="56635" z="-1709" heading="50293" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119483" y="56635" z="-1709" heading="50293" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119483" y="56635" z="-1709" heading="50293" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119483" y="56635" z="-1709" heading="50293" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120047" y="53379" z="-1208" heading="18636" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120047" y="53379" z="-1208" heading="18636" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120047" y="53379" z="-1208" heading="18636" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120047" y="53379" z="-1208" heading="18636" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119865" y="53477" z="-1208" heading="5211" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119840" y="53492" z="-1208" heading="5211" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119840" y="53492" z="-1208" heading="5211" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119840" y="53492" z="-1208" heading="5211" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120299" y="53271" z="-1199" heading="39732" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120334" y="53244" z="-1196" heading="39732" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120334" y="53244" z="-1196" heading="39732" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120334" y="53244" z="-1196" heading="39732" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120584" y="53275" z="-1246" heading="31479" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120733" y="53293" z="-1279" heading="31479" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120809" y="53303" z="-1299" heading="31479" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120809" y="53303" z="-1299" heading="31479" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120600" y="53454" z="-1289" heading="6572" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120591" y="53462" z="-1289" heading="6572" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120591" y="53462" z="-1289" heading="6572" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120591" y="53462" z="-1289" heading="6572" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120373" y="53587" z="-1263" heading="5430" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120373" y="53587" z="-1263" heading="5430" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120373" y="53587" z="-1263" heading="5430" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120373" y="53587" z="-1263" heading="5430" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120166" y="53740" z="-1269" heading="6663" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120097" y="53792" z="-1275" heading="6663" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120097" y="53792" z="-1275" heading="6663" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120097" y="53792" z="-1275" heading="6663" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-119948" y="53773" z="-1250" heading="64213" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-119948" y="53773" z="-1250" heading="64213" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-119948" y="53773" z="-1250" heading="64213" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-119948" y="53773" z="-1250" heading="64213" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120401" y="53756" z="-1293" heading="33035" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120401" y="53756" z="-1293" heading="33035" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120401" y="53756" z="-1293" heading="33035" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120401" y="53756" z="-1293" heading="33035" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120598" y="53697" z="-1302" heading="35762" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120611" y="53694" z="-1304" heading="35762" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120611" y="53694" z="-1304" heading="35762" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120611" y="53694" z="-1304" heading="35762" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21982" x="-120792" y="53600" z="-1330" heading="37703" respawnTime="10sec" /> <!-- Elder Grey Keltir -->
+			<npc id="21983" x="-120861" y="53566" z="-1343" heading="37703" respawnTime="10sec" /> <!-- Black Wolf -->
+			<npc id="21984" x="-120861" y="53566" z="-1343" heading="37703" respawnTime="10sec" /> <!-- Elder Black Wolf -->
+			<npc id="21983" x="-120861" y="53566" z="-1343" heading="37703" respawnTime="10sec" /> <!-- Black Wolf -->
+		</group>
+	</spawn>
+</list>

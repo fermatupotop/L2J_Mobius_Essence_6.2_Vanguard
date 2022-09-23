@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<event name="Blossom Festival" active="19 08 2020-16 10 2021" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/eventConfig.xsd">
+	<droplist>
+		<add item="94446" min="1" max="3" chance="5%" minLevel="40" /> <!-- Augustina's Seed -->
+		<add item="94439" min="1" max="1" chance="1%" minLevel="40" /> <!-- Augustina's Essence Lv. 1 (Craft points +10,000) -->
+		<add item="94440" min="1" max="1" chance="0.5%" minLevel="40" /> <!-- Augustina's Essence Lv. 2 (Craft points +20,000) -->
+		<add item="93264" min="1" max="1" chance="0.2%" minLevel="40" /> <!-- Package: Sayha's Blessing (5 pcs.) -->
+		<add item="94442" min="1" max="1" chance="0.2%" minLevel="40" /> <!-- Augustina's Essence Lv. 3 (Craft points +60,000) -->
+		<add item="94443" min="1" max="1" chance="0.05%" minLevel="40" /> <!-- Augustina's Essence Lv. 4 (Craft points +100,000) -->
+	</droplist>
+	<spawnlist>
+		<add npc="34163" x="83332" y="149161" z="-3384" heading="49151" /> <!-- Augustina -->
+	</spawnlist>
+</event>

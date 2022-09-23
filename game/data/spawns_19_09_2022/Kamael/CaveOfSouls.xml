@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="CaveOfSouls">
+		<npc id="34109" x="-124744" y="38176" z="1208" heading="62981" /> <!-- Ragnir - Elder -->
+		<npc id="34108" x="-124731" y="38070" z="1208" heading="0" /> <!-- Newbie Helper - Tutorial Indicator -->
+	</spawn>
+</list>

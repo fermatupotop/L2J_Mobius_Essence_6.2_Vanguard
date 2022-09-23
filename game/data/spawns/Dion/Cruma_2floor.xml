@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_21">
+		<group>
+			<npc id="22206" x="15108" y="109213" z="-9050" heading="38594" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15108" y="109213" z="-9050" heading="38594" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15108" y="109213" z="-9050" heading="38594" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="15180" y="109181" z="-9050" heading="61173" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15180" y="109181" z="-9050" heading="61173" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15180" y="109181" z="-9050" heading="61173" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15281" y="109229" z="-9050" heading="4627" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15281" y="109229" z="-9050" heading="4627" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15281" y="109229" z="-9050" heading="4627" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15048" y="109415" z="-9050" heading="25679" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15048" y="109415" z="-9050" heading="25679" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15048" y="109415" z="-9050" heading="25679" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="14963" y="109377" z="-9050" heading="37152" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="14963" y="109377" z="-9050" heading="37152" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="14963" y="109377" z="-9050" heading="37152" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15323" y="109512" z="-9050" heading="7201" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15323" y="109512" z="-9050" heading="7201" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15323" y="109512" z="-9050" heading="7201" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15282" y="109697" z="-9050" heading="18658" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15282" y="109697" z="-9050" heading="18658" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15282" y="109697" z="-9050" heading="18658" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15070" y="109745" z="-9050" heading="30445" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15070" y="109745" z="-9050" heading="30445" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15070" y="109745" z="-9050" heading="30445" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="14992" y="109770" z="-9050" heading="29532" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="14992" y="109770" z="-9050" heading="29532" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="14992" y="109770" z="-9050" heading="29532" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="14910" y="109686" z="-9049" heading="41085" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="14910" y="109686" z="-9049" heading="41085" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="14910" y="109686" z="-9049" heading="41085" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15182" y="109252" z="-9050" heading="35892" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15182" y="109252" z="-9050" heading="35892" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15182" y="109252" z="-9050" heading="35892" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15085" y="109296" z="-9050" heading="24470" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15085" y="109296" z="-9050" heading="24470" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15085" y="109296" z="-9050" heading="24470" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22206" x="15128" y="118882" z="-9050" heading="48036" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15128" y="118882" z="-9050" heading="48036" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15128" y="118882" z="-9050" heading="48036" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="15052" y="118850" z="-9050" heading="36924" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15052" y="118850" z="-9050" heading="36924" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15052" y="118850" z="-9050" heading="36924" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15023" y="118760" z="-9050" heading="45900" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15023" y="118760" z="-9050" heading="45900" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15023" y="118760" z="-9050" heading="45900" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15171" y="119109" z="-9050" heading="11373" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15171" y="119109" z="-9050" heading="11373" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15171" y="119109" z="-9050" heading="11373" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15243" y="119204" z="-9050" heading="9619" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15243" y="119204" z="-9050" heading="9619" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15243" y="119204" z="-9050" heading="9619" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15245" y="119330" z="-9050" heading="16218" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15245" y="119330" z="-9050" heading="16218" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15245" y="119330" z="-9050" heading="16218" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15098" y="119414" z="-9050" heading="27353" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15098" y="119414" z="-9050" heading="27353" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15098" y="119414" z="-9050" heading="27353" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15000" y="119385" z="-9050" heading="35768" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15000" y="119385" z="-9050" heading="35768" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15000" y="119385" z="-9050" heading="35768" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="14919" y="119374" z="-9050" heading="34175" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="14919" y="119374" z="-9050" heading="34175" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="14919" y="119374" z="-9050" heading="34175" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15250" y="119486" z="-9050" heading="3650" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15250" y="119486" z="-9050" heading="3650" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15250" y="119486" z="-9050" heading="3650" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15354" y="119331" z="-9049" heading="55316" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15354" y="119331" z="-9049" heading="55316" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15354" y="119331" z="-9049" heading="55316" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15344" y="118917" z="-9049" heading="49103" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15344" y="118911" z="-9050" heading="49103" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15344" y="118911" z="-9050" heading="49103" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="15351" y="118698" z="-9050" heading="49494" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="15351" y="118698" z="-9050" heading="49494" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="15351" y="118698" z="-9050" heading="49494" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="14889" y="118684" z="-9049" heading="63165" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="14889" y="118684" z="-9049" heading="63165" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="14889" y="118684" z="-9049" heading="63165" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22206" x="20461" y="118782" z="-9050" heading="55991" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20461" y="118782" z="-9050" heading="55991" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20461" y="118782" z="-9050" heading="55991" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="20483" y="118681" z="-9050" heading="51432" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20487" y="118665" z="-9050" heading="51432" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20487" y="118665" z="-9050" heading="51432" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20374" y="118662" z="-9050" heading="33044" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20374" y="118662" z="-9050" heading="33044" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20374" y="118662" z="-9050" heading="33044" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20246" y="118634" z="-9050" heading="35014" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20246" y="118634" z="-9050" heading="35014" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20246" y="118634" z="-9050" heading="35014" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20121" y="118615" z="-9050" heading="34341" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20121" y="118615" z="-9050" heading="34341" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20121" y="118615" z="-9050" heading="34341" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20148" y="118935" z="-9050" heading="13706" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20148" y="118935" z="-9050" heading="13706" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20148" y="118935" z="-9050" heading="13706" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20278" y="119118" z="-9050" heading="4184" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20278" y="119118" z="-9050" heading="4184" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20278" y="119118" z="-9050" heading="4184" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20414" y="119194" z="-9050" heading="5315" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20414" y="119194" z="-9050" heading="5315" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20414" y="119194" z="-9050" heading="5315" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20473" y="119254" z="-9050" heading="8279" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20473" y="119254" z="-9050" heading="8279" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20473" y="119254" z="-9050" heading="8279" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20127" y="119237" z="-9050" heading="36853" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20127" y="119237" z="-9050" heading="36853" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20127" y="119237" z="-9050" heading="36853" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20171" y="119442" z="-9050" heading="17477" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20171" y="119442" z="-9050" heading="17477" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20171" y="119442" z="-9050" heading="17477" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20166" y="119364" z="-9050" heading="28449" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20166" y="119364" z="-9050" heading="28449" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20166" y="119364" z="-9050" heading="28449" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20463" y="119355" z="-9050" heading="718" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20463" y="119355" z="-9050" heading="718" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20463" y="119355" z="-9050" heading="718" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20546" y="119306" z="-9049" heading="59973" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20546" y="119306" z="-9049" heading="59973" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20546" y="119306" z="-9049" heading="59973" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20127" y="118757" z="-9032" heading="42104" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20095" y="118717" z="-9032" heading="42104" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20031" y="118637" z="-9031" heading="42104" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22211" x="21642" y="109298" z="-8980" heading="21404" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21642" y="109298" z="-8980" heading="21404" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21550" y="109374" z="-8980" heading="25566" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21419" y="109386" z="-8980" heading="31815" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21419" y="109386" z="-8980" heading="31815" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21433" y="109161" z="-8980" heading="49493" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21433" y="109161" z="-8980" heading="49493" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21357" y="109382" z="-8980" heading="24945" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21401" y="109520" z="-8980" heading="13164" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21478" y="109565" z="-8980" heading="5516" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21478" y="109565" z="-8980" heading="5516" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21635" y="109364" z="-8980" heading="36368" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="21864" y="108802" z="-8957" heading="46873" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22365" y="114151" z="-9071" heading="12471" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22486" y="114378" z="-9071" heading="10941" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22757" y="114718" z="-9059" heading="5037" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22999" y="114781" z="-9054" heading="65161" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23241" y="114722" z="-9049" heading="59932" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23502" y="114556" z="-9045" heading="48465" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23517" y="114300" z="-9042" heading="53589" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23640" y="114018" z="-9036" heading="50561" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23627" y="113761" z="-9032" heading="47075" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23494" y="113543" z="-9032" heading="32268" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23339" y="113554" z="-9032" heading="32290" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23140" y="113597" z="-9032" heading="26223" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22969" y="113848" z="-9032" heading="24967" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22660" y="114032" z="-9032" heading="27566" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22324" y="114162" z="-9032" heading="28893" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22248" y="114224" z="-9032" heading="22043" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="22220" y="114323" z="-9032" heading="13209" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23424" y="114280" z="-9032" heading="2301" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23567" y="114313" z="-9032" heading="10367" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23880" y="119408" z="-8980" heading="53031" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23880" y="119408" z="-8980" heading="53031" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23880" y="119408" z="-8980" heading="53031" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23880" y="119408" z="-8980" heading="53031" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23880" y="119408" z="-8980" heading="53031" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23646" y="119388" z="-8980" heading="33625" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23646" y="119388" z="-8980" heading="33625" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23646" y="119388" z="-8980" heading="33625" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23582" y="119223" z="-8980" heading="45292" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23798" y="119296" z="-8980" heading="3300" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="24050" y="119619" z="-8980" heading="8763" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23888" y="119745" z="-8980" heading="26526" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23883" y="119749" z="-8980" heading="26526" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23611" y="119664" z="-8980" heading="26056" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23611" y="119664" z="-8980" heading="26056" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23611" y="119664" z="-8980" heading="26056" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="23591" y="119560" z="-8958" heading="37712" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22210" x="23933" y="118135" z="-9022" heading="13531" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23802" y="117679" z="-9049" heading="48319" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="23802" y="117679" z="-9049" heading="48319" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23802" y="117679" z="-9049" heading="48319" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="23802" y="117679" z="-9049" heading="48319" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22210" x="23757" y="118140" z="-9049" heading="17358" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23752" y="118195" z="-9049" heading="17358" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="23752" y="118195" z="-9049" heading="17358" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22210" x="23764" y="118502" z="-9049" heading="14468" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23772" y="118541" z="-9049" heading="14468" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="23772" y="118541" z="-9049" heading="14468" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23703" y="118697" z="-9049" heading="20727" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="23703" y="118697" z="-9049" heading="20727" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22210" x="23890" y="117307" z="-9048" heading="48857" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23889" y="117263" z="-9049" heading="48857" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="23889" y="117263" z="-9049" heading="48857" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22210" x="23786" y="116888" z="-9049" heading="47641" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23786" y="116888" z="-9049" heading="47641" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="23786" y="116888" z="-9049" heading="47641" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22210" x="23704" y="116794" z="-9049" heading="41670" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="23704" y="116794" z="-9049" heading="41670" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20328" y="109511" z="-9043" heading="50948" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20340" y="109445" z="-9050" heading="50948" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20340" y="109445" z="-9050" heading="50948" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22210" x="20221" y="109512" z="-9050" heading="27419" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20221" y="109512" z="-9050" heading="27419" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20221" y="109512" z="-9050" heading="27419" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20126" y="109574" z="-9050" heading="26736" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20126" y="109574" z="-9050" heading="26736" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20126" y="109574" z="-9050" heading="26736" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20543" y="109482" z="-9049" heading="35386" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20543" y="109482" z="-9049" heading="35386" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20543" y="109482" z="-9049" heading="35386" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20508" y="109422" z="-9050" heading="43643" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20508" y="109422" z="-9050" heading="43643" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20508" y="109422" z="-9050" heading="43643" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20507" y="109264" z="-9050" heading="49085" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20507" y="109264" z="-9050" heading="49085" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20507" y="109264" z="-9050" heading="49085" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20259" y="109169" z="-9050" heading="31712" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20259" y="109169" z="-9050" heading="31712" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20259" y="109169" z="-9050" heading="31712" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20230" y="109246" z="-9050" heading="20140" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20230" y="109246" z="-9050" heading="20140" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20230" y="109246" z="-9050" heading="20140" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20169" y="109313" z="-9050" heading="24087" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20169" y="109313" z="-9050" heading="24087" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20169" y="109313" z="-9050" heading="24087" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="19999" y="109118" z="-9049" heading="49232" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="19999" y="109118" z="-9049" heading="49232" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="19999" y="109118" z="-9049" heading="49232" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20144" y="108906" z="-9050" heading="55605" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20144" y="108906" z="-9050" heading="55605" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20144" y="108906" z="-9050" heading="55605" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20261" y="108930" z="-9050" heading="2110" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20261" y="108930" z="-9050" heading="2110" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20261" y="108930" z="-9050" heading="2110" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20432" y="108901" z="-9050" heading="63783" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20432" y="108901" z="-9050" heading="63783" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20432" y="108901" z="-9050" heading="63783" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20548" y="108927" z="-9049" heading="2299" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20548" y="108927" z="-9049" heading="2299" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20548" y="108927" z="-9049" heading="2299" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="20575" y="108720" z="-9049" heading="50504" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="20575" y="108720" z="-9049" heading="50504" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="20575" y="108720" z="-9049" heading="50504" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22210" x="19909" y="109096" z="-9027" heading="40576" respawnTime="10sec" /> <!-- Torfe -->
+			<npc id="22207" x="19909" y="109096" z="-9027" heading="40576" respawnTime="10sec" /> <!-- Validus -->
+			<npc id="22206" x="19834" y="109026" z="-9027" heading="40576" respawnTime="10sec" /> <!-- Premo -->
+			<npc id="22211" x="13044" y="110000" z="-9049" heading="35306" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="12893" y="109962" z="-9049" heading="33272" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="12789" y="109957" z="-9049" heading="34401" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="12643" y="109912" z="-9049" heading="38721" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="12503" y="109768" z="-9049" heading="45644" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13048" y="109529" z="-9049" heading="55090" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13204" y="109207" z="-9048" heading="51210" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13115" y="109037" z="-9048" heading="38026" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="12684" y="109128" z="-9048" heading="27192" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="12451" y="109383" z="-9047" heading="19882" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="12715" y="109484" z="-9047" heading="64198" respawnTime="10sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13063" y="109340" z="-9047" heading="53106" respawnTime="10sec" /> <!-- Death Lord -->
+		</group>
+	</spawn>
+</list>

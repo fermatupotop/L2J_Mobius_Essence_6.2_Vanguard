@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="23_11">
+		<group>
+			<npc id="20508" x="125646" y="-200627" z="-3673" heading="12968" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125646" y="-200627" z="-3673" heading="12968" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125646" y="-200627" z="-3673" heading="12968" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125646" y="-200627" z="-3673" heading="12968" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125646" y="-200627" z="-3673" heading="12968" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125615" y="-200815" z="-3654" heading="47447" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125615" y="-200815" z="-3654" heading="47447" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125615" y="-200815" z="-3654" heading="47447" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125615" y="-200815" z="-3654" heading="47447" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125756" y="-201140" z="-3636" heading="53869" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125758" y="-201144" z="-3636" heading="53869" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125758" y="-201144" z="-3636" heading="53869" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125758" y="-201144" z="-3636" heading="53869" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125691" y="-201258" z="-3612" heading="43609" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125691" y="-201258" z="-3612" heading="43609" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125691" y="-201258" z="-3612" heading="43609" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125691" y="-201258" z="-3612" heading="43609" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125582" y="-201396" z="-3590" heading="42179" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125582" y="-201396" z="-3590" heading="42179" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125582" y="-201396" z="-3590" heading="42179" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125582" y="-201396" z="-3590" heading="42179" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125674" y="-201493" z="-3590" heading="57068" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125302" y="-200881" z="-3607" heading="18489" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125278" y="-200761" z="-3617" heading="18489" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125278" y="-200761" z="-3617" heading="18489" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125278" y="-200761" z="-3617" heading="18489" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125320" y="-200430" z="-3628" heading="15067" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125476" y="-200227" z="-3657" heading="9494" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125543" y="-200143" z="-3673" heading="9494" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125543" y="-200143" z="-3673" heading="9494" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125543" y="-200143" z="-3673" heading="9494" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125767" y="-200022" z="-3705" heading="5148" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125859" y="-199973" z="-3722" heading="5148" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125859" y="-199973" z="-3722" heading="5148" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125859" y="-199973" z="-3722" heading="5148" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125858" y="-199663" z="-3722" heading="16411" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125858" y="-199597" z="-3721" heading="16411" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125858" y="-199597" z="-3721" heading="16411" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="125858" y="-199597" z="-3721" heading="16411" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126147" y="-199812" z="-3721" heading="58928" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126222" y="-199867" z="-3725" heading="58928" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126222" y="-199867" z="-3725" heading="58928" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126327" y="-200086" z="-3728" heading="53815" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126327" y="-200086" z="-3728" heading="53815" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126327" y="-200086" z="-3728" heading="53815" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126327" y="-200086" z="-3728" heading="53815" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126440" y="-200357" z="-3728" heading="53272" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126440" y="-200357" z="-3728" heading="53272" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126440" y="-200357" z="-3728" heading="53272" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126482" y="-200690" z="-3728" heading="44315" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126413" y="-200828" z="-3726" heading="44315" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126396" y="-200864" z="-3726" heading="44315" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126331" y="-201003" z="-3719" heading="44589" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126331" y="-201003" z="-3719" heading="44589" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126331" y="-201003" z="-3719" heading="44589" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126331" y="-201003" z="-3719" heading="44589" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126331" y="-201181" z="-3712" heading="48596" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126331" y="-201181" z="-3712" heading="48596" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126331" y="-201181" z="-3712" heading="48596" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126252" y="-201246" z="-3697" heading="40042" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126183" y="-201305" z="-3683" heading="40042" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126062" y="-200686" z="-3712" heading="14548" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126067" y="-200664" z="-3715" heading="14548" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126067" y="-200664" z="-3715" heading="14548" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126067" y="-200664" z="-3715" heading="14548" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126652" y="-200108" z="-3727" heading="8388" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126652" y="-200108" z="-3727" heading="8388" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126652" y="-200108" z="-3727" heading="8388" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+			<npc id="20508" x="126652" y="-200108" z="-3727" heading="8388" respawnTime="10sec" /> <!-- Plunder Tarantula -->
+		</group>
+	</spawn>
+</list>

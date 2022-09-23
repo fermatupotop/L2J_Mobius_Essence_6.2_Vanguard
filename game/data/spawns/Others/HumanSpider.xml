@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="16_24">
+		<group>
+			<npc id="20106" x="-117566" y="226879" z="-2898" heading="53413" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117540" y="226820" z="-2898" heading="53413" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117525" y="226785" z="-2898" heading="53413" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117516" y="226763" z="-2902" heading="53413" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117516" y="226763" z="-2902" heading="53413" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117129" y="226662" z="-2914" heading="1628" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117066" y="226672" z="-2919" heading="1628" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117003" y="226682" z="-2925" heading="1628" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116927" y="226694" z="-2931" heading="1628" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116877" y="226702" z="-2938" heading="1628" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116815" y="226712" z="-2949" heading="1628" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116785" y="226754" z="-2957" heading="14528" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116752" y="226877" z="-2954" heading="11897" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116695" y="227137" z="-2945" heading="14816" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116715" y="227241" z="-2953" heading="23117" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116761" y="227302" z="-2943" heading="22837" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116791" y="227344" z="-2939" heading="22837" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116836" y="227407" z="-2933" heading="22837" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116880" y="227453" z="-2928" heading="25314" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116930" y="227492" z="-2923" heading="26473" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-116972" y="227521" z="-2919" heading="25972" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117023" y="227560" z="-2914" heading="25972" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117248" y="227731" z="-2901" heading="25972" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117767" y="227600" z="-2879" heading="38417" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117858" y="227551" z="-2874" heading="37571" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117927" y="227517" z="-2871" heading="37571" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117930" y="227516" z="-2871" heading="37571" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117951" y="227483" z="-2871" heading="43121" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118016" y="227372" z="-2871" heading="44209" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118062" y="227294" z="-2868" heading="41547" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118105" y="227246" z="-2866" heading="41547" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118157" y="227176" z="-2863" heading="47667" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118170" y="227086" z="-2863" heading="47667" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118179" y="226984" z="-2863" heading="49888" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118174" y="226894" z="-2863" heading="47941" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118186" y="226791" z="-2863" heading="47941" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118196" y="226701" z="-2863" heading="57484" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118131" y="226638" z="-2863" heading="57484" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-118066" y="226575" z="-2863" heading="57484" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117993" y="226502" z="-2871" heading="56664" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117942" y="226444" z="-2871" heading="56664" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117883" y="226377" z="-2877" heading="56664" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117825" y="226310" z="-2889" heading="56664" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+			<npc id="20106" x="-117593" y="226169" z="-2903" heading="59030" respawnTime="10sec" /> <!-- Giant Fang Spider -->
+		</group>
+	</spawn>
+</list>

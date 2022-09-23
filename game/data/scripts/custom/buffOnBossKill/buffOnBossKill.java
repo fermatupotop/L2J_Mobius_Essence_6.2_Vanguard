@@ -1,0 +1,158 @@
+package custom.buffOnBossKill;
+
+import java.util.Map;
+import java.util.concurrent.ConcurrentHashMap;
+
+import org.l2jmobius.gameserver.data.xml.CategoryData;
+import org.l2jmobius.gameserver.enums.CategoryType;
+import org.l2jmobius.gameserver.model.World;
+import org.l2jmobius.gameserver.model.actor.Npc;
+import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.events.EventType;
+import org.l2jmobius.gameserver.model.events.ListenerRegisterType;
+import org.l2jmobius.gameserver.model.events.annotations.RegisterEvent;
+import org.l2jmobius.gameserver.model.events.annotations.RegisterType;
+import org.l2jmobius.gameserver.model.events.impl.creature.player.OnPlayerLevelChanged;
+import org.l2jmobius.gameserver.model.holders.ItemHolder;
+import org.l2jmobius.gameserver.model.holders.SkillHolder;
+import org.l2jmobius.gameserver.model.skill.Skill;
+
+import ai.AbstractNpcAI;
+
+/**
+ * @author Index
+ */
+public class buffOnBossKill extends AbstractNpcAI
+{
+	private static final int[] RAID_BOSSES =
+	{
+		// 65
+		25102, // Shacram
+		25122, // Refugee Applicant Leo
+		25226, // Roaring Lord Kastor
+		25420, // Orfen's Handmaiden
+		25749, // Tayga Feron King
+		25750, // Tayga Marga Shaman
+		25751, // Tayga Septon Champion
+		// 70
+		25004, // Turek Mercenary Captain
+		25230, // Priest Ragoth
+		25256, // High Prefect Arak
+		25431, // Flamestone Golem
+		25463, // Guardian Garangky
+		25747, // Rael Mahum Radium
+		25748, // Rael Mahum Supercium
+		25754, // Flamestone Giant
+		// 75
+		25026, // Atis
+		25044, // Barion
+		25051, // Rahha
+		25095, // Renoa
+		25099, // Repiro
+		25146, // Cursed Bifrons
+		25152, // Cursed Shadir
+		25155, // Selu
+		25217, // Cursed Kele
+		25369, // Cursed Scavenger
+		25746, // Magikus
+		// 80
+		25909, // Carcs
+		25910, // Drak
+		25911, // Ourick
+		25057, // Beacon of Blue Sky
+		25398, // Gaze of Abyss
+		25159, // Paniel the Unicorn
+		25757, // Grousse
+		25441, // Cyrion
+		25163, // Roaring Skylancer
+		25255, // Tiphon
+		25176, // Black Lily
+		
+		25925, // Jisra
+		25926, // Kuka
+	};
+	
+	private static final int[] MINI_BOSSES =
+	{
+		
+		21037, // Nova Beast (Cruma 65)
+	};
+	
+	private buffOnBossKill()
+	{
+		addAttackId(RAID_BOSSES);
+		addKillId(RAID_BOSSES);
+		addAttackId(MINI_BOSSES);
+		addKillId(MINI_BOSSES);
+	}
+	
+	private final static int min_damage = 0;
+	private final SkillHolder buff = new SkillHolder(55297, 1);
+	private static final Map<Npc, Map<Integer, Integer>> RAIDBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
+	private static final Map<Npc, Map<Integer, Integer>> MINIBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
+	
+	private static final ItemHolder SOE_HIGH_PRIEST_OVEN = new ItemHolder(91768, 1);
+	private static final int MIN_LEVEL = 76;
+	
+	@Override
+	public String onAttack(Npc npc, Player attacker, int damage, boolean isSummon, Skill skill)
+	{
+		if (RAIDBOSS_HITS.getOrDefault(npc, null) == null)
+		{
+			RAIDBOSS_HITS.put(npc, new ConcurrentHashMap<>());
+		}
+		if (MINIBOSS_HITS.getOrDefault(npc, null) == null)
+		{
+			MINIBOSS_HITS.put(npc, new ConcurrentHashMap<>());
+		}
+		
+		RAIDBOSS_HITS.get(npc).replace(attacker.getObjectId(), RAIDBOSS_HITS.get(npc).getOrDefault(attacker.getObjectId(), 0) + damage);
+		MINIBOSS_HITS.get(npc).replace(attacker.getObjectId(), MINIBOSS_HITS.get(npc).getOrDefault(attacker.getObjectId(), 0) + damage);
+		return super.onAttack(npc, attacker, damage, isSummon, skill);
+	}
+	
+	@Override
+	public String onKill(Npc npc, Player killer, boolean isSummon)
+	{
+		for (Player killers : World.getInstance().getVisibleObjects(npc, Player.class))
+		{
+			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage >= RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
+			{
+				killers.doCast(buff.getSkill());
+			}
+		}
+		
+		for (Player killers : World.getInstance().getVisibleObjects(npc, Player.class))
+		{
+			if (MINIBOSS_HITS.containsKey(npc) && (min_damage >= MINIBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
+			{
+				killers.doCast(buff.getSkill());
+			}
+		}
+		
+		RAIDBOSS_HITS.get(npc).clear();
+		MINIBOSS_HITS.get(npc).clear();
+		return super.onKill(npc, killer, isSummon);
+	}
+	
+	@RegisterEvent(EventType.ON_PLAYER_LEVEL_CHANGED)
+	@RegisterType(ListenerRegisterType.GLOBAL_PLAYERS)
+	public void onPlayerLevelChanged(OnPlayerLevelChanged event)
+	{
+		final Player player = event.getPlayer();
+		if (player == null)
+		{
+			return;
+		}
+		if ((player.getLevel() >= MIN_LEVEL) && CategoryData.getInstance().isInCategory(CategoryType.SECOND_CLASS_GROUP, player.getClassId().getId()))
+		{
+			giveItems(player, SOE_HIGH_PRIEST_OVEN);
+		}
+		
+	}
+	
+	public static void main(String[] args)
+	{
+		new buffOnBossKill();
+	}
+}

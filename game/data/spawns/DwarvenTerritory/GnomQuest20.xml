@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="23_12">
+		<group>
+			<npc id="18342" x="108075" y="-174226" z="-402" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108070" y="-174185" z="-412" heading="17827" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108258" y="-174392" z="-412" heading="61918" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108118" y="-174302" z="-412" heading="21628" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108118" y="-174302" z="-412" heading="21628" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108118" y="-174302" z="-412" heading="21628" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108118" y="-174302" z="-412" heading="21628" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="108118" y="-174302" z="-412" heading="21628" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="20533" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20539" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116014" y="-174185" z="-905" heading="51680" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115799" y="-174146" z="-877" heading="30896" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115799" y="-174146" z="-877" heading="30896" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115647" y="-174174" z="-868" heading="34726" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115596" y="-174184" z="-865" heading="34726" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115478" y="-174207" z="-859" heading="34726" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115478" y="-174207" z="-859" heading="34726" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115428" y="-174191" z="-855" heading="29654" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115379" y="-174176" z="-851" heading="29654" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115330" y="-174161" z="-847" heading="29654" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="115107" y="-174286" z="-871" heading="41513" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115017" y="-174502" z="-914" heading="47052" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="114997" y="-174601" z="-932" heading="47052" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="114997" y="-174601" z="-932" heading="47052" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="114987" y="-174652" z="-944" heading="47052" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="114957" y="-174802" z="-963" heading="47136" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="114957" y="-174802" z="-963" heading="47136" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="114928" y="-174952" z="-984" heading="47136" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="114918" y="-175002" z="-992" heading="47136" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="114942" y="-175124" z="-1001" heading="52086" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="114956" y="-175173" z="-1003" heading="52086" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="114964" y="-175198" z="-1006" heading="52086" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="114964" y="-175198" z="-1006" heading="52086" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="114964" y="-175198" z="-1006" heading="52086" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="114964" y="-175198" z="-1006" heading="52086" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115024" y="-175340" z="-1006" heading="53332" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115039" y="-175375" z="-1008" heading="53332" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20539" x="115039" y="-175375" z="-1008" heading="53332" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115039" y="-175375" z="-1008" heading="53332" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="115122" y="-175435" z="-1003" heading="58982" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115164" y="-175465" z="-1001" heading="58982" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115262" y="-175537" z="-995" heading="58982" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="115304" y="-175566" z="-993" heading="59213" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115346" y="-175595" z="-991" heading="59213" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20539" x="115431" y="-175654" z="-986" heading="59213" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115438" y="-175659" z="-986" heading="59213" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="115517" y="-175725" z="-986" heading="58267" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115517" y="-175725" z="-986" heading="58267" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115622" y="-175813" z="-991" heading="58267" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115622" y="-175813" z="-991" heading="58267" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115821" y="-175761" z="-1004" heading="2632" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115870" y="-175748" z="-1008" heading="2632" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115920" y="-175735" z="-1012" heading="2632" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116020" y="-175710" z="-1020" heading="2632" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116064" y="-175699" z="-1026" heading="2632" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="116165" y="-175685" z="-1038" heading="1345" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116216" y="-175679" z="-1044" heading="1345" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116367" y="-175659" z="-1065" heading="1345" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116411" y="-175654" z="-1073" heading="1345" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116411" y="-175654" z="-1073" heading="1345" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="116508" y="-175620" z="-1077" heading="3468" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116557" y="-175603" z="-1079" heading="3468" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116605" y="-175587" z="-1083" heading="3468" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116605" y="-175587" z="-1083" heading="3468" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20539" x="116250" y="-175391" z="-1051" heading="24345" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116214" y="-175354" z="-1044" heading="24345" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116144" y="-175280" z="-1031" heading="24345" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116144" y="-175280" z="-1031" heading="24345" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="116070" y="-175208" z="-1022" heading="24728" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116033" y="-175172" z="-1017" heading="24728" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115901" y="-175044" z="-1001" heading="24728" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115901" y="-175044" z="-1001" heading="24728" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115840" y="-174960" z="-991" heading="22927" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115810" y="-174919" z="-986" heading="22927" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115727" y="-174804" z="-973" heading="22927" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115727" y="-174804" z="-973" heading="22927" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115703" y="-174704" z="-959" heading="18815" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115694" y="-174665" z="-953" heading="18815" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116227" y="-174480" z="-960" heading="2510" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116277" y="-174467" z="-959" heading="2510" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116297" y="-174463" z="-958" heading="2510" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116297" y="-174463" z="-958" heading="2510" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116450" y="-174479" z="-958" heading="64405" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116502" y="-174485" z="-959" heading="64405" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116536" y="-174489" z="-961" heading="64405" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116536" y="-174489" z="-961" heading="64405" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116575" y="-174522" z="-964" heading="58238" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116614" y="-174555" z="-968" heading="58238" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116675" y="-174606" z="-976" heading="58238" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20533" x="116772" y="-174640" z="-973" heading="61975" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116820" y="-174657" z="-971" heading="61975" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116827" y="-174660" z="-971" heading="61975" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116827" y="-174660" z="-971" heading="61975" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116728" y="-174687" z="-983" heading="35644" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116679" y="-174701" z="-989" heading="35644" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116562" y="-174735" z="-1006" heading="35644" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116562" y="-174735" z="-1006" heading="35644" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116650" y="-174348" z="-927" heading="7783" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116687" y="-174314" z="-916" heading="7783" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116759" y="-174248" z="-896" heading="7783" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116759" y="-174248" z="-896" heading="7783" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116762" y="-174198" z="-883" heading="15556" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116766" y="-174148" z="-870" heading="15556" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116773" y="-174072" z="-850" heading="15556" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116773" y="-174072" z="-850" heading="15556" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116744" y="-173975" z="-828" heading="19398" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116744" y="-173975" z="-828" heading="19398" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116718" y="-173887" z="-808" heading="19398" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116718" y="-173887" z="-808" heading="19398" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116666" y="-173888" z="-812" heading="33092" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116615" y="-173890" z="-816" heading="33092" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116564" y="-173891" z="-820" heading="33092" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116429" y="-173896" z="-835" heading="33092" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116377" y="-173894" z="-836" heading="32397" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116325" y="-173892" z="-837" heading="32397" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116204" y="-173888" z="-842" heading="32397" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116204" y="-173888" z="-842" heading="32397" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="116204" y="-173888" z="-842" heading="32397" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="116204" y="-173888" z="-842" heading="32397" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115998" y="-173868" z="-840" heading="31768" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115998" y="-173868" z="-840" heading="31768" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115923" y="-173861" z="-839" heading="31768" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115923" y="-173861" z="-839" heading="31768" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115823" y="-173890" z="-838" heading="35744" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115773" y="-173905" z="-837" heading="35744" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115773" y="-173905" z="-837" heading="35744" respawnTime="10sec" /> <!-- Longtail Keltir -->
+			<npc id="20539" x="115773" y="-173905" z="-837" heading="35744" respawnTime="10sec" /> <!-- Elder Longtail Keltir -->
+			<npc id="20533" x="115773" y="-173905" z="-837" heading="35744" respawnTime="10sec" /> <!-- Longtail Keltir -->
+		</group>
+	</spawn>
+</list>

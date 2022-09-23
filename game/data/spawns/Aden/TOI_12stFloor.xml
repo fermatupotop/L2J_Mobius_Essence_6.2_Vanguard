@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="TOI_12stFloor">
+		<group>
+			<npc id="22038" x="114473" y="15988" z="7995" heading="15118" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22039" x="114561" y="16032" z="7995" heading="4836" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22038" x="114837" y="15958" z="7995" heading="62803" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22039" x="114542" y="16390" z="7995" heading="23095" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22038" x="114517" y="16224" z="7995" heading="50819" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22038" x="114654" y="17017" z="7995" heading="15967" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22039" x="114626" y="17085" z="7995" heading="20458" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22038" x="113738" y="16385" z="7995" heading="43677" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22039" x="113611" y="16037" z="7995" heading="45925" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22039" x="113687" y="16341" z="7995" heading="6924" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22038" x="115458" y="16461" z="7995" heading="20886" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22039" x="115605" y="16243" z="7995" heading="55340" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22038" x="115602" y="15943" z="7995" heading="49176" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22039" x="115113" y="15279" z="8009" heading="38507" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22038" x="114882" y="15061" z="7995" heading="41912" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+			<npc id="22039" x="114471" y="15141" z="7995" heading="30942" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Messenger -->
+			<npc id="22038" x="114348" y="15184" z="7995" heading="13744" respawnTime="22sec" respawnRandom="9sec" /> <!-- Tower Guardian Shaman -->
+		</group>
+	</spawn>
+</list>

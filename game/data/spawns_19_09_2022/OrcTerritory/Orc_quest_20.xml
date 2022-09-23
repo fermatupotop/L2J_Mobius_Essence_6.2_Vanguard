@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="18_14">
+		<group>
+			<npc id="20319" x="-39679" y="-118683" z="-1848" heading="28915" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39679" y="-118683" z="-1848" heading="28915" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39679" y="-118683" z="-1848" heading="28915" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20475" x="-39679" y="-118683" z="-1848" heading="28915" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20319" x="-39679" y="-118683" z="-1848" heading="28915" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39679" y="-118683" z="-1848" heading="28915" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20475" x="-39547" y="-118932" z="-1816" heading="53443" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39547" y="-118932" z="-1816" heading="53443" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39547" y="-118932" z="-1816" heading="53443" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39566" y="-119240" z="-1816" heading="46580" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20319" x="-39566" y="-119240" z="-1816" heading="46580" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20311" x="-39566" y="-119240" z="-1816" heading="46580" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20475" x="-39690" y="-119437" z="-1816" heading="43292" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39690" y="-119437" z="-1816" heading="43292" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39690" y="-119437" z="-1816" heading="43292" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39690" y="-119437" z="-1816" heading="43292" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39690" y="-119437" z="-1816" heading="43292" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39690" y="-119437" z="-1816" heading="43292" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40537" y="-119401" z="-1876" heading="30230" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40566" y="-119394" z="-1880" heading="30230" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40566" y="-119394" z="-1880" heading="30230" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40566" y="-119394" z="-1880" heading="30230" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40566" y="-119394" z="-1880" heading="30230" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40566" y="-119394" z="-1880" heading="30230" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-41016" y="-119188" z="-1912" heading="28424" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-41016" y="-119188" z="-1912" heading="28424" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-41016" y="-119188" z="-1912" heading="28424" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-41016" y="-119188" z="-1912" heading="28424" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-41016" y="-119188" z="-1912" heading="28424" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-41016" y="-119188" z="-1912" heading="28424" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-41034" y="-118731" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-41054" y="-118669" z="-1912" heading="19605" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40860" y="-118525" z="-1912" heading="7876" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40860" y="-118525" z="-1912" heading="7876" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40860" y="-118525" z="-1912" heading="7876" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40860" y="-118525" z="-1912" heading="7876" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40860" y="-118525" z="-1912" heading="7876" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40860" y="-118525" z="-1912" heading="7876" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40814" y="-118228" z="-1912" heading="16143" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40814" y="-118228" z="-1912" heading="16143" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40814" y="-118228" z="-1912" heading="16143" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40814" y="-118228" z="-1912" heading="16143" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40814" y="-118228" z="-1912" heading="16143" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40814" y="-118228" z="-1912" heading="16143" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40503" y="-118265" z="-1912" heading="64300" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40503" y="-118265" z="-1912" heading="64300" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40503" y="-118265" z="-1912" heading="64300" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20311" x="-40503" y="-118265" z="-1912" heading="64300" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20475" x="-40503" y="-118265" z="-1912" heading="64300" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20475" x="-40048" y="-118233" z="-1896" heading="711" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20319" x="-40048" y="-118233" z="-1896" heading="711" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40048" y="-118233" z="-1896" heading="711" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40048" y="-118233" z="-1896" heading="711" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40048" y="-118233" z="-1896" heading="711" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40048" y="-118233" z="-1896" heading="711" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20475" x="-39921" y="-119510" z="-1833" heading="49935" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39920" y="-119530" z="-1832" heading="49935" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39920" y="-119530" z="-1832" heading="49935" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39920" y="-119530" z="-1832" heading="49935" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39920" y="-119530" z="-1832" heading="49935" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39920" y="-119530" z="-1832" heading="49935" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39920" y="-119530" z="-1832" heading="49935" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20475" x="-39022" y="-118420" z="-1769" heading="8853" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39015" y="-118412" z="-1768" heading="8853" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39346" y="-118198" z="-1832" heading="26781" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39346" y="-118198" z="-1832" heading="26781" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39346" y="-118198" z="-1832" heading="26781" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39346" y="-118198" z="-1832" heading="26781" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39346" y="-118198" z="-1832" heading="26781" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39346" y="-118198" z="-1832" heading="26781" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39346" y="-118198" z="-1832" heading="26781" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20475" x="-39417" y="-117796" z="-1832" heading="19914" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39418" y="-117795" z="-1832" heading="19914" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39418" y="-117795" z="-1832" heading="19914" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39418" y="-117795" z="-1832" heading="19914" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39418" y="-117795" z="-1832" heading="19914" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39418" y="-117795" z="-1832" heading="19914" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39631" y="-117571" z="-1843" heading="24332" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39669" y="-117532" z="-1848" heading="24332" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39669" y="-117532" z="-1848" heading="24332" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39669" y="-117532" z="-1848" heading="24332" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39669" y="-117532" z="-1848" heading="24332" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39669" y="-117532" z="-1848" heading="24332" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39968" y="-117336" z="-1891" heading="26734" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40081" y="-117263" z="-1912" heading="26734" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40081" y="-117263" z="-1912" heading="26734" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-40081" y="-117263" z="-1912" heading="26734" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-40081" y="-117263" z="-1912" heading="26734" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-40081" y="-117263" z="-1912" heading="26734" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39053" y="-118925" z="-1768" heading="59733" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38931" y="-119259" z="-1752" heading="47535" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38931" y="-119259" z="-1752" heading="47535" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38931" y="-119259" z="-1752" heading="47535" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38931" y="-119259" z="-1752" heading="47535" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38931" y="-119259" z="-1752" heading="47535" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38931" y="-119259" z="-1752" heading="47535" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38919" y="-120769" z="-1688" heading="46456" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38919" y="-120769" z="-1688" heading="46456" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38919" y="-120769" z="-1688" heading="46456" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38919" y="-120769" z="-1688" heading="46456" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38919" y="-120769" z="-1688" heading="46456" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38919" y="-120769" z="-1688" heading="46456" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39215" y="-120824" z="-1688" heading="34684" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20319" x="-39215" y="-120824" z="-1688" heading="34684" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20311" x="-39215" y="-120824" z="-1688" heading="34684" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39215" y="-120824" z="-1688" heading="34684" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39215" y="-120824" z="-1688" heading="34684" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39215" y="-120824" z="-1688" heading="34684" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20475" x="-39223" y="-121039" z="-1688" heading="48764" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39223" y="-121039" z="-1688" heading="48764" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39223" y="-121039" z="-1688" heading="48764" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39069" y="-121177" z="-1688" heading="57883" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39040" y="-121204" z="-1688" heading="57883" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39040" y="-121204" z="-1688" heading="57883" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39040" y="-121204" z="-1688" heading="57883" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39040" y="-121204" z="-1688" heading="57883" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39040" y="-121204" z="-1688" heading="57883" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38790" y="-121089" z="-1672" heading="4496" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38790" y="-121089" z="-1672" heading="4496" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38790" y="-121089" z="-1672" heading="4496" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38577" y="-120864" z="-1684" heading="8494" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38556" y="-120841" z="-1688" heading="8494" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38556" y="-120841" z="-1688" heading="8494" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38556" y="-120841" z="-1688" heading="8494" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20475" x="-38548" y="-120645" z="-1688" heading="15958" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38548" y="-120645" z="-1688" heading="15958" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38548" y="-120645" z="-1688" heading="15958" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-38652" y="-120268" z="-1688" heading="19390" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-38652" y="-120268" z="-1688" heading="19390" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-38652" y="-120268" z="-1688" heading="19390" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39182" y="-120092" z="-1715" heading="31355" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39228" y="-120086" z="-1720" heading="31355" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39228" y="-120086" z="-1720" heading="31355" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39087" y="-120282" z="-1704" heading="55638" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39087" y="-120282" z="-1704" heading="55638" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39087" y="-120282" z="-1704" heading="55638" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-39565" y="-119758" z="-1789" heading="25216" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-39603" y="-119725" z="-1797" heading="25216" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-39641" y="-119691" z="-1805" heading="25216" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20475" x="-41421" y="-118001" z="-1910" heading="28093" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20311" x="-41438" y="-117994" z="-1912" heading="28093" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-41438" y="-117994" z="-1912" heading="28093" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20311" x="-41438" y="-117994" z="-1912" heading="28093" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20475" x="-41438" y="-117994" z="-1912" heading="28093" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20319" x="-41438" y="-117994" z="-1912" heading="28093" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20311" x="-41579" y="-118093" z="-1912" heading="39152" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20475" x="-41579" y="-118093" z="-1912" heading="39152" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20319" x="-41579" y="-118093" z="-1912" heading="39152" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20311" x="-41579" y="-118093" z="-1912" heading="39152" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20319" x="-41579" y="-118093" z="-1912" heading="39152" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+			<npc id="20311" x="-41579" y="-118093" z="-1912" heading="39152" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20311" x="-41269" y="-118091" z="-1912" heading="64868" respawnTime="10sec" /> <!-- Rakeclaw Imp -->
+			<npc id="20475" x="-41268" y="-118092" z="-1912" heading="64868" respawnTime="10sec" /> <!-- Kasha Wolf -->
+			<npc id="20319" x="-41268" y="-118092" z="-1912" heading="64868" respawnTime="10sec" /> <!-- Goblin Tomb Raider -->
+		</group>
+	</spawn>
+</list>

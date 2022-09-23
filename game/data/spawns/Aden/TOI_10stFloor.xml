@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="TOI_10stFloor">
+		<group>
+			<npc id="22032" x="115131" y="18246" z="5985" heading="28096" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115170" y="18558" z="5985" heading="15222" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="115065" y="18650" z="5985" heading="25263" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22033" x="114689" y="18567" z="5985" heading="35034" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114642" y="18678" z="5985" heading="20561" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114802" y="18357" z="5985" heading="53439" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="114617" y="18295" z="5985" heading="30184" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="114253" y="18446" z="5985" heading="27219" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114222" y="18628" z="5985" heading="15516" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22033" x="113965" y="18362" z="5985" heading="3538" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114010" y="18281" z="5985" heading="54441" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114284" y="18432" z="5985" heading="55801" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="113677" y="18251" z="5985" heading="32607" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="113366" y="18329" z="5985" heading="30728" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="113390" y="18208" z="5985" heading="55664" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="113390" y="18208" z="5985" heading="55664" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="113382" y="18387" z="5985" heading="12212" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="113263" y="18246" z="5985" heading="41323" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="113014" y="18065" z="5985" heading="38215" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="113200" y="17882" z="5985" heading="59855" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="112959" y="17773" z="5985" heading="6948" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="113226" y="18256" z="5985" heading="15780" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="113662" y="18493" z="5985" heading="61429" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112952" y="17489" z="5985" heading="42321" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112733" y="17430" z="5985" heading="35512" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22034" x="112551" y="17540" z="5985" heading="16248" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="112324" y="17306" z="5985" heading="41114" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112239" y="16961" z="5985" heading="47590" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22033" x="112433" y="17050" z="5985" heading="12415" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112720" y="17833" z="5985" heading="12196" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112564" y="16824" z="5985" heading="45325" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112176" y="16928" z="5985" heading="17918" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22034" x="112221" y="16734" z="5985" heading="50663" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="112140" y="16393" z="5985" heading="42195" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112273" y="16358" z="5985" heading="62852" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22033" x="112240" y="16174" z="5985" heading="41120" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112034" y="16010" z="5985" heading="37797" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112060" y="15660" z="5985" heading="49925" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112206" y="15726" z="5985" heading="4428" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22034" x="112467" y="16022" z="5985" heading="6803" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="112411" y="16392" z="5985" heading="13754" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112207" y="15490" z="5985" heading="44527" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112318" y="14970" z="5985" heading="42270" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112551" y="15325" z="5985" heading="24935" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112145" y="15268" z="5985" heading="35472" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112097" y="15380" z="5985" heading="20607" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="112389" y="15146" z="5985" heading="57119" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22033" x="112426" y="15230" z="5985" heading="12056" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="112341" y="16542" z="5985" heading="16099" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="112408" y="17366" z="5985" heading="10896" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="113506" y="18194" z="5985" heading="4692" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22034" x="116989" y="14991" z="5985" heading="15818" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22033" x="116847" y="15077" z="5985" heading="21095" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="116595" y="14718" z="5985" heading="42611" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="116405" y="14682" z="5985" heading="36231" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="116564" y="14412" z="5985" heading="54709" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="116679" y="14466" z="5985" heading="5057" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="116535" y="14504" z="5985" heading="30076" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="116454" y="14504" z="5985" heading="32767" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="116125" y="14258" z="5985" heading="26825" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="116115" y="13964" z="5985" heading="50904" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22033" x="116047" y="14027" z="5985" heading="24973" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="115867" y="13964" z="5985" heading="36279" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115659" y="14061" z="5985" heading="33614" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="115618" y="13928" z="5985" heading="50579" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115699" y="13740" z="5985" heading="54686" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="115757" y="13751" z="5985" heading="1954" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115695" y="13883" z="5985" heading="29990" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="115572" y="13743" z="5985" heading="41633" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22034" x="115431" y="13888" z="5985" heading="24430" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22032" x="115410" y="13715" z="5985" heading="47892" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115510" y="13655" z="5985" heading="18159" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="115510" y="13655" z="5985" heading="30391" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22032" x="115302" y="13791" z="5985" heading="60802" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115396" y="13443" z="5985" heading="56814" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="115122" y="13598" z="5985" heading="9369" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115038" y="13846" z="5985" heading="17722" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114750" y="13633" z="5985" heading="39603" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="115106" y="13685" z="5985" heading="4836" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="115778" y="14037" z="5985" heading="6762" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="116135" y="14426" z="5985" heading="8583" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="116796" y="14845" z="5985" heading="4836" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="116197" y="14047" z="5985" heading="43519" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114905" y="13439" z="5985" heading="40546" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22032" x="114966" y="15846" z="5985" heading="1948" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114907" y="15941" z="5985" heading="22180" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22033" x="114992" y="16213" z="5985" heading="13224" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114830" y="16296" z="5985" heading="27829" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114609" y="16319" z="5985" heading="31686" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114386" y="16185" z="5985" heading="38411" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114395" y="15954" z="5985" heading="49558" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="114726" y="15975" z="5985" heading="24671" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+			<npc id="22033" x="114770" y="15799" z="5985" heading="53109" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114435" y="15718" z="5985" heading="29217" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114420" y="15763" z="5985" heading="19739" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114568" y="16073" z="5985" heading="9583" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114824" y="16372" z="5985" heading="12336" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114733" y="16467" z="5985" heading="32608" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114564" y="16368" z="5985" heading="38383" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22032" x="114463" y="16344" z="5985" heading="31786" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Angel -->
+			<npc id="22033" x="114496" y="15869" z="5985" heading="54982" respawnTime="14sec" respawnRandom="8sec" /> <!-- Seal Guardian Angel -->
+			<npc id="22034" x="114853" y="16319" z="5985" heading="13305" respawnTime="24sec" respawnRandom="8sec" /> <!-- Seal Archangel -->
+		</group>
+	</spawn>
+</list>

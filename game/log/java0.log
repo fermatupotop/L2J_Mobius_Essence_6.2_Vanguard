@@ -1,0 +1,1265 @@
+2022.09.23 21:51:52,049	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: ipconfig.xml doesn't exists using automatic configuration...
+2022.09.23 21:51:52,799	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 127.0.0.0/8 address: 127.0.0.1
+2022.09.23 21:51:52,815	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 192.168.0.0/24 address: 192.168.0.25
+2022.09.23 21:51:52,887	INFO	1	org.l2jmobius.commons.util.IXmlReader	Network Config: Adding new subnet: 0.0.0.0/0 address: 188.123.230.22
+2022.09.23 21:51:52,898	INFO	22	org.l2jmobius.gameserver.model.World	World: (288 by 272) World Region Grid set up.
+2022.09.23 21:51:52,908	WARNING	1	org.l2jmobius.commons.util.PropertiesParser	[General.ini] missing property for key: DebugIncomingPackets using default value: true
+2022.09.23 21:51:52,909	WARNING	1	org.l2jmobius.commons.util.PropertiesParser	[General.ini] missing property for key: DebugExIncomingPackets using default value: true
+2022.09.23 21:51:52,909	WARNING	1	org.l2jmobius.commons.util.PropertiesParser	[General.ini] missing property for key: DebugOutgoingPackets using default value: true
+2022.09.23 21:51:52,909	WARNING	1	org.l2jmobius.commons.util.PropertiesParser	[General.ini] missing property for key: DebugUnknownPackets using default value: true
+2022.09.23 21:51:52,909	WARNING	1	org.l2jmobius.commons.util.PropertiesParser	[General.ini] missing property for key: ExcludedPacketList using default value: 
+2022.09.23 21:51:52,924	INFO	1	org.l2jmobius.Config	Loaded 6 Filter Words.
+2022.09.23 21:51:52,941	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
+2022.09.23 21:51:53,125	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2022.09.23 21:51:53,125	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ ThreadPool ]
+2022.09.23 21:51:53,126	INFO	1	org.l2jmobius.commons.threads.ThreadPool	ThreadPool: Initialized
+2022.09.23 21:51:53,126	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...6 scheduled pool executors with 24 total threads.
+2022.09.23 21:51:53,127	INFO	1	org.l2jmobius.commons.threads.ThreadPool	...6 instant pool executors with 12 total threads.
+2022.09.23 21:51:53,132	INFO	1	org.l2jmobius.gameserver.GameServer	-----------------------------------------------=[ IdManager ]
+2022.09.23 21:51:53,135	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	Updated characters online status.
+2022.09.23 21:51:53,151	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 0 elements from database in 0 seconds.
+2022.09.23 21:51:53,155	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: Cleaned 0 expired timestamps from database.
+2022.09.23 21:51:53,159	INFO	1	org.l2jmobius.gameserver.instancemanager.IdManager	IdManager: 102912 id's available.
+2022.09.23 21:51:53,159	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------=[ Scripting Engine ]
+2022.09.23 21:51:53,272	INFO	1	org.l2jmobius.gameserver.scripting.ScriptEngineManager	Loaded 845 files to exclude.
+2022.09.23 21:51:53,272	INFO	1	org.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Telnet ]
+2022.09.23 21:51:53,382	INFO	1	org.l2jmobius.gameserver.network.telnet.TelnetServer	Telnet server is currently disabled.
+2022.09.23 21:51:53,383	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ World ]
+2022.09.23 21:51:53,543	INFO	1	org.l2jmobius.gameserver.instancemanager.MapRegionManager	MapRegionManager: Loaded 57 map regions.
+2022.09.23 21:51:53,546	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager 19 by 18 Zone Region Grid set up.
+2022.09.23 21:51:53,896	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager: Loaded 34 zone classes and 2734 zones.
+2022.09.23 21:51:53,922	INFO	1	org.l2jmobius.gameserver.instancemanager.ZoneManager	ZoneManager: Last static id 200224.
+2022.09.23 21:51:54,161	INFO	1	org.l2jmobius.gameserver.data.xml.DoorData	DoorData: Loaded 1478 doors.
+2022.09.23 21:51:54,166	INFO	1	FenceData	FenceData: Loaded 1 fences.
+2022.09.23 21:51:54,171	INFO	1	org.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Loaded 5 variables.
+2022.09.23 21:51:54,171	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ Data ]
+2022.09.23 21:51:54,176	INFO	1	org.l2jmobius.gameserver.data.xml.ActionData	ActionData: Loaded 222 player actions.
+2022.09.23 21:51:54,183	INFO	1	org.l2jmobius.gameserver.data.xml.CategoryData	CategoryData: Loaded 36 categories.
+2022.09.23 21:51:54,188	INFO	1	org.l2jmobius.gameserver.data.xml.SecondaryAuthData	SecondaryAuthData: Loaded 328 forbidden passwords.
+2022.09.23 21:51:54,192	INFO	1	org.l2jmobius.gameserver.data.xml.SayuneData	SayuneData: Loaded 0 maps.
+2022.09.23 21:51:54,203	INFO	1	org.l2jmobius.gameserver.data.xml.ClanRewardData	ClanRewardData: Loaded 4 rewards for MEMBERS_ONLINE.
+2022.09.23 21:51:54,204	INFO	1	org.l2jmobius.gameserver.data.xml.ClanRewardData	ClanRewardData: Loaded 4 rewards for HUNTING_MONSTERS.
+2022.09.23 21:51:54,215	INFO	1	org.l2jmobius.gameserver.data.xml.MissionLevel	MissionLevel: Loaded 14 seasons.
+2022.09.23 21:51:54,971	INFO	1	handlers.DailyMissionMasterHandler	DailyMissionMasterHandler:  Loaded 10 handlers.
+2022.09.23 21:51:54,985	INFO	1	org.l2jmobius.gameserver.data.xml.DailyMissionData	DailyMissionData: Loaded 70 one day rewards.
+2022.09.23 21:51:54,993	INFO	1	org.l2jmobius.gameserver.data.xml.ElementalSpiritData	ElementalSpiritData: Loaded 4 elemental spirit templates.
+2022.09.23 21:51:54,999	INFO	1	org.l2jmobius.gameserver.data.xml.SubjugationData	SubjugationData: Loaded 9 data.
+2022.09.23 21:51:55,003	INFO	1	org.l2jmobius.gameserver.data.xml.SubjugationGacha	SubjugationGacha: Loaded 9 data.
+2022.09.23 21:51:55,007	INFO	1	org.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Skills ]
+2022.09.23 21:51:57,339	INFO	1	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 392 effect handlers.
+2022.09.23 21:51:57,356	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantSkillGroupsData	EnchantSkillGroupsData: Loaded 30 enchant routes, max enchant set to 30.
+2022.09.23 21:51:58,886	INFO	1	org.l2jmobius.gameserver.data.xml.SkillData	SkillData: Loaded 53328 Skills.
+2022.09.23 21:51:59,285	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 19582 Class skills for 119 class skill trees.
+2022.09.23 21:51:59,286	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 sub-class skills.
+2022.09.23 21:51:59,286	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 dual-class skills.
+2022.09.23 21:51:59,286	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 transfer skills for 0 transfer skill trees.
+2022.09.23 21:51:59,286	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 race skills for 0 race skill trees.
+2022.09.23 21:51:59,286	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 18 fishing skills, 8 Dwarven only fishing skills.
+2022.09.23 21:51:59,286	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 collect skills.
+2022.09.23 21:51:59,289	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 76 clan skills, 46 for clan and 30 residential.
+2022.09.23 21:51:59,289	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 18 sub-pledge skills.
+2022.09.23 21:51:59,289	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 transform skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 5 noble skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 5 hero skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 34 game master skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 1 game master aura skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 ability skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 alchemy skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 class awaken save skills.
+2022.09.23 21:51:59,290	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 0 Revelation skills.
+2022.09.23 21:51:59,291	INFO	1	org.l2jmobius.gameserver.data.xml.SkillTreeData	SkillTreeData: Loaded 1 common skills.
+2022.09.23 21:51:59,300	INFO	1	org.l2jmobius.gameserver.data.xml.PetSkillData	PetSkillData: Loaded 883 skills.
+2022.09.23 21:51:59,305	INFO	1	org.l2jmobius.gameserver.data.xml.PetAcquireList	PetAcquireList: Loaded 6 pet skills.
+2022.09.23 21:51:59,305	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Items ]
+2022.09.23 21:51:59,948	WARNING	1	org.l2jmobius.gameserver.model.item.ItemTemplate	Found sellable [Sealed] item 93412
+2022.09.23 21:51:59,949	WARNING	1	org.l2jmobius.gameserver.model.item.ItemTemplate	Found sellable [Sealed] item 93413
+2022.09.23 21:51:59,949	WARNING	1	org.l2jmobius.gameserver.model.item.ItemTemplate	Found sellable [Sealed] item 93414
+2022.09.23 21:52:00,090	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Highest item id used: 99357
+2022.09.23 21:52:00,093	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 12054 Etc Items
+2022.09.23 21:52:00,093	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 3034 Armor Items
+2022.09.23 21:52:00,093	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 2196 Weapon Items
+2022.09.23 21:52:00,093	INFO	1	org.l2jmobius.gameserver.data.ItemTable	ItemTable: Loaded 17284 Items in total.
+2022.09.23 21:52:00,098	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Loaded 27 item group templates.
+2022.09.23 21:52:00,098	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemGroupsData	EnchantItemGroupsData: Loaded 4 scroll group templates.
+2022.09.23 21:52:00,102	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemData	EnchantItemData: Loaded 76 enchant scrolls.
+2022.09.23 21:52:00,102	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemData	EnchantItemData: Loaded 0 support items.
+2022.09.23 21:52:00,112	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemOptionsData	EnchantItemOptionsData: Loaded 128 items and 2231 options.
+2022.09.23 21:52:00,116	INFO	1	org.l2jmobius.commons.util.IXmlReader	ElementalAttributeData: Loaded 0 elemental attribute items.
+2022.09.23 21:52:00,118	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Loaded 12 crystallization templates.
+2022.09.23 21:52:00,119	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Loaded 0 pre-defined crystallizable items.
+2022.09.23 21:52:00,122	INFO	1	org.l2jmobius.gameserver.data.xml.ItemCrystallizationData	ItemCrystallizationData: Generated 0 crystallizable items from templates.
+2022.09.23 21:52:00,332	INFO	1	org.l2jmobius.gameserver.data.xml.OptionData	OptionData: Loaded 6563 options.
+2022.09.23 21:52:00,343	INFO	1	VariationData	VariationData: Loaded 21 variations.
+2022.09.23 21:52:00,343	INFO	1	VariationData	VariationData: Loaded 1061 fees.
+2022.09.23 21:52:00,361	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 210 fees.
+2022.09.23 21:52:00,361	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 810 options.
+2022.09.23 21:52:00,362	INFO	1	org.l2jmobius.gameserver.data.xml.EnsoulData	EnsoulData: Loaded 250 stones.
+2022.09.23 21:52:00,365	INFO	1	org.l2jmobius.gameserver.data.xml.EnchantItemHPBonusData	EnchantItemHPBonusData: Loaded 11 enchant HP bonuses.
+2022.09.23 21:52:00,932	INFO	1	org.l2jmobius.gameserver.data.xml.BuyListData	BuyListData: Loaded 452 buyLists.
+2022.09.23 21:52:01,148	INFO	1	org.l2jmobius.gameserver.data.xml.MultisellData	MultisellData: Loaded 133 multisell lists.
+2022.09.23 21:52:01,159	INFO	1	org.l2jmobius.gameserver.data.xml.CombinationItemsData	CombinationItemsData: Loaded 602 combinations.
+2022.09.23 21:52:01,162	INFO	1	org.l2jmobius.gameserver.data.xml.EquipmentUpgradeData	EquipmentUpgradeData: Loaded 74 upgrade equipment data.
+2022.09.23 21:52:01,169	INFO	1	org.l2jmobius.gameserver.data.xml.EquipmentUpgradeNormalData	EquipmentUpgradeNormalData: Loaded 68 upgrade-normal equipment data. Adena commission is 100.
+2022.09.23 21:52:01,174	INFO	1	org.l2jmobius.gameserver.data.xml.AgathionData	AgathionData: Loaded 50 agathion data.
+2022.09.23 21:52:01,179	INFO	1	org.l2jmobius.gameserver.data.xml.RaidTeleportListData	RaidTeleportListData: Loaded 98 teleports.
+2022.09.23 21:52:01,200	INFO	1	org.l2jmobius.gameserver.data.xml.RecipeData	RecipeData: Loaded 636 recipes.
+2022.09.23 21:52:01,211	INFO	1	org.l2jmobius.gameserver.data.xml.ArmorSetData	ArmorSetData: Loaded 51 armor sets.
+2022.09.23 21:52:01,215	INFO	1	org.l2jmobius.gameserver.data.xml.FishingData	FishingData: Loaded 2 bait and 2 rod data.
+2022.09.23 21:52:01,242	INFO	1	org.l2jmobius.gameserver.data.xml.HennaData	HennaData: Loaded 126 henna data.
+2022.09.23 21:52:01,246	INFO	1	org.l2jmobius.gameserver.data.xml.HennaCombinationData	HennaCombinationData: Loaded 120 henna combinations.
+2022.09.23 21:52:01,249	INFO	1	org.l2jmobius.gameserver.data.xml.HennaPatternPotentialData	HennaPatternPotentialData: Loaded 3 dye pattern fee data.
+2022.09.23 21:52:01,253	INFO	1	org.l2jmobius.gameserver.data.xml.PrimeShopData	PrimeShopData: Loaded 20 items.
+2022.09.23 21:52:01,257	INFO	1	org.l2jmobius.gameserver.data.xml.LimitShopData	LimitShopData: Loaded 89 items.
+2022.09.23 21:52:01,265	INFO	1	org.l2jmobius.gameserver.data.xml.LimitShopData	LimitShopCraftData: Loaded 316 items.
+2022.09.23 21:52:01,268	INFO	1	org.l2jmobius.gameserver.data.xml.LimitShopClanData	LimitShopClanData: Loaded 8 items.
+2022.09.23 21:52:01,280	INFO	1	org.l2jmobius.gameserver.data.xml.CollectionData	CollectionData: Loaded 370 collections.
+2022.09.23 21:52:01,285	INFO	1	org.l2jmobius.gameserver.data.xml.AppearanceItemData	AppearanceItemData: Loaded 2 stones.
+2022.09.23 21:52:01,293	INFO	1	org.l2jmobius.commons.util.IXmlReader	LuckyGameData: Loaded 2 lucky game data.
+2022.09.23 21:52:01,296	INFO	1	org.l2jmobius.gameserver.data.xml.AttendanceRewardData	AttendanceRewardData: Loaded 28 rewards.
+2022.09.23 21:52:01,299	INFO	1	org.l2jmobius.commons.util.IXmlReader	MagicLampData: Loaded 9 magic lamps.
+2022.09.23 21:52:01,306	INFO	1	org.l2jmobius.commons.util.IXmlReader	RandomCraftData: Loaded 1170 extraction data.
+2022.09.23 21:52:01,310	INFO	1	org.l2jmobius.commons.util.IXmlReader	RandomCraftData: Loaded 688 rewards.
+2022.09.23 21:52:01,311	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------=[ Characters ]
+2022.09.23 21:52:01,314	INFO	1	org.l2jmobius.gameserver.data.xml.ClassListData	ClassListData: Loaded 119 class data.
+2022.09.23 21:52:01,316	INFO	1	org.l2jmobius.gameserver.data.xml.InitialEquipmentData	InitialEquipmentData: Loaded 15 initial equipment data.
+2022.09.23 21:52:01,319	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 6 initial global shortcuts data.
+2022.09.23 21:52:01,319	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 5 initial shortcuts data.
+2022.09.23 21:52:01,320	INFO	1	org.l2jmobius.gameserver.data.xml.InitialShortcutData	InitialShortcutData: Loaded 0 macro presets.
+2022.09.23 21:52:01,322	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Loaded 100 levels.
+2022.09.23 21:52:01,322	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Player Level is 99.
+2022.09.23 21:52:01,322	INFO	1	org.l2jmobius.gameserver.data.xml.ExperienceData	ExperienceData: Max Pet Level is 99.
+2022.09.23 21:52:01,326	INFO	1	org.l2jmobius.gameserver.data.xml.KarmaData	KarmaData: Loaded 99 karma modifiers.
+2022.09.23 21:52:01,328	INFO	1	org.l2jmobius.gameserver.data.xml.HitConditionBonusData	HitConditionBonusData: Loaded hit condition bonuses.
+2022.09.23 21:52:01,629	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Loaded 119 character templates.
+2022.09.23 21:52:01,629	INFO	1	org.l2jmobius.gameserver.data.xml.PlayerTemplateData	PlayerTemplateData: Loaded 70686 level up gain records.
+2022.09.23 21:52:01,631	INFO	1	org.l2jmobius.gameserver.data.sql.CharNameTable	CharNameTable: Loaded 44 char names.
+2022.09.23 21:52:01,635	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 10 access levels.
+2022.09.23 21:52:01,639	INFO	1	org.l2jmobius.gameserver.data.xml.AdminData	AdminData: Loaded 435 access commands.
+2022.09.23 21:52:02,118	INFO	1	org.l2jmobius.gameserver.data.xml.PetDataTable	PetDataTable: Loaded 79 pets.
+2022.09.23 21:52:02,156	INFO	1	org.l2jmobius.gameserver.data.xml.CubicData	CubicData: Loaded 21 cubics.
+2022.09.23 21:52:02,165	INFO	1	org.l2jmobius.gameserver.GameServer	PremiumManager: Premium system is enabled.
+2022.09.23 21:52:02,166	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Clans ]
+2022.09.23 21:52:02,168	INFO	1	org.l2jmobius.gameserver.data.sql.ClanTable	ClanTable: Restored 0 clans from the database.
+2022.09.23 21:52:02,172	INFO	1	org.l2jmobius.gameserver.data.xml.ResidenceFunctionsData	ResidenceFunctionsData: Loaded 8 functions.
+2022.09.23 21:52:02,264	INFO	1	org.l2jmobius.gameserver.data.xml.ClanHallData	ClanHallData: Succesfully loaded 46 clan halls.
+2022.09.23 21:52:02,265	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanHallAuctionManager	ClanHallAuctionManager: Clan Hall Auction has started!
+2022.09.23 21:52:02,275	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 clan entries.
+2022.09.23 21:52:02,276	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 players in waiting list.
+2022.09.23 21:52:02,276	INFO	1	org.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded 0 player applications.
+2022.09.23 21:52:02,276	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Geodata ]
+2022.09.23 21:52:06,870	INFO	1	org.l2jmobius.gameserver.geoengine.GeoEngine	GeoEngine: Loaded 236 regions.
+2022.09.23 21:52:06,870	INFO	1	org.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ NPCs ]
+2022.09.23 21:52:08,312	INFO	1	org.l2jmobius.gameserver.data.xml.NpcData	NpcData: Loaded 7293 NPCs.
+2022.09.23 21:52:08,333	INFO	1	org.l2jmobius.gameserver.data.xml.NpcData	NpcData: Loaded 15 custom NPCs.
+2022.09.23 21:52:08,334	INFO	1	org.l2jmobius.gameserver.data.xml.FakePlayerData	FakePlayerData: Disabled.
+2022.09.23 21:52:08,335	INFO	1	org.l2jmobius.gameserver.instancemanager.FakePlayerChatManager	FakePlayerChatManager: Disabled.
+2022.09.23 21:52:08,799	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Loaded 31371 spawns
+2022.09.23 21:52:08,806	INFO	1	org.l2jmobius.gameserver.instancemanager.WalkingManager	WalkingManager: Loaded 1 walking routes.
+2022.09.23 21:52:08,814	INFO	1	org.l2jmobius.gameserver.data.xml.StaticObjectData	StaticObjectData: Loaded 86 static object templates.
+2022.09.23 21:52:08,815	INFO	1	org.l2jmobius.gameserver.instancemanager.ItemAuctionManager	ItemAuctionManager: Disabled.
+2022.09.23 21:52:08,832	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManager	CastleManager: Loaded 2 castles.
+2022.09.23 21:52:08,840	INFO	1	org.l2jmobius.gameserver.data.SchemeBufferTable	SchemeBufferTable: Loaded 0 players schemes and 60 available buffs.
+2022.09.23 21:52:08,844	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Queen Ant(29001) status is 0
+2022.09.23 21:52:08,844	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Core(29006) status is 0
+2022.09.23 21:52:08,844	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Orfen(29014) status is 0
+2022.09.23 21:52:08,844	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Baium(29020) status is 0
+2022.09.23 21:52:08,844	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Zaken(29022) status is 0
+2022.09.23 21:52:08,844	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Antharas(29068) status is 0
+2022.09.23 21:52:08,844	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 6 instances.
+2022.09.23 21:52:08,845	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Instance ]
+2022.09.23 21:52:08,849	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 55 instance names.
+2022.09.23 21:52:08,899	WARNING	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Instance template with ID 209 already exists
+2022.09.23 21:52:08,905	WARNING	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Instance template with ID 210 already exists
+2022.09.23 21:52:08,918	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded 20 instance templates.
+2022.09.23 21:52:08,919	INFO	1	org.l2jmobius.gameserver.instancemanager.InstanceManager	InstanceManager: Loaded instance reenter times for 1 players.
+2022.09.23 21:52:08,919	INFO	1	org.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Olympiad ]
+2022.09.23 21:52:08,923	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loading....
+2022.09.23 21:52:08,923	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Currently in Olympiad Period
+2022.09.23 21:52:08,924	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: 26767 minutes until period ends
+2022.09.23 21:52:08,924	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Next weekly change is in 4485 minutes
+2022.09.23 21:52:08,924	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loaded 0 Nobles
+2022.09.23 21:52:08,928	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 0 hours and 0 mins.
+2022.09.23 21:52:08,938	INFO	1	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started: Fri Sep 23 20:00:08 MSK 2022
+2022.09.23 21:52:08,941	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 Heroes.
+2022.09.23 21:52:08,941	INFO	1	org.l2jmobius.gameserver.model.olympiad.Hero	Hero System: Loaded 0 all time Heroes.
+2022.09.23 21:52:08,941	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Cache ]
+2022.09.23 21:52:08,942	INFO	1	org.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2022.09.23 21:52:08,951	INFO	45	org.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Games have started.
+2022.09.23 21:52:09,341	INFO	45	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Loaded 93 instances.
+2022.09.23 21:52:09,342	INFO	45	org.l2jmobius.gameserver.instancemanager.DBSpawnManager	DBSpawnManager: Scheduled 0 instances.
+2022.09.23 21:52:09,421	INFO	45	org.l2jmobius.gameserver.model.olympiad.OlympiadGameManager	Olympiad System: Loaded 80 stadiums.
+2022.09.23 21:52:11,859	INFO	1	org.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 4,361 megabytes on 6253 files loaded.
+2022.09.23 21:52:11,861	INFO	1	org.l2jmobius.gameserver.data.sql.CrestTable	CrestTable: Loaded 0 Crests.
+2022.09.23 21:52:11,865	INFO	1	org.l2jmobius.gameserver.data.xml.TeleportListData	TeleportListData: Loaded 131 teleports.
+2022.09.23 21:52:11,869	INFO	1	org.l2jmobius.gameserver.data.xml.PetTypesListData	PetTypesListData: Loaded 168 pet types.
+2022.09.23 21:52:12,289	INFO	1	org.l2jmobius.gameserver.data.xml.TeleporterData	TeleporterData: Loaded 103 npc teleporters.
+2022.09.23 21:52:12,292	INFO	1	org.l2jmobius.gameserver.data.xml.TimedHuntingZoneData	TimedHuntingZoneData: Loaded 13 timed hunting zones.
+2022.09.23 21:52:12,386	INFO	1	org.l2jmobius.gameserver.data.xml.TransformData	TransformData: Loaded 47 transform templates.
+2022.09.23 21:52:12,395	INFO	1	org.l2jmobius.gameserver.data.BotReportTable	BotReportTable: Loaded 0 bot reports
+2022.09.23 21:52:12,399	INFO	1	org.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Scripts ]
+2022.09.23 21:52:12,404	INFO	1	org.l2jmobius.gameserver.instancemanager.AirShipManager	AirShipManager: Loaded 0 private airships
+2022.09.23 21:52:12,414	INFO	1	org.l2jmobius.gameserver.data.xml.ShuttleData	ShuttleData: Loaded 3 shuttles.
+2022.09.23 21:52:12,415	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Loading server scripts:
+2022.09.23 21:52:14,209	INFO	1	handlers.MasterHandler	Loading Handlers...
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	ActionHandler: Loaded 10 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	ActionShiftHandler: Loaded 6 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	AdminCommandHandler: Loaded 428 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	BypassHandler: Loaded 32 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	ChatHandler: Loaded 14 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	CommunityBoardHandler: Loaded 24 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	ItemHandler: Loaded 35 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	PunishmentHandler: Loaded 3 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	UserCommandHandler: Loaded 16 handlers.
+2022.09.23 21:52:14,262	INFO	1	handlers.MasterHandler	VoicedCommandHandler: Loaded 8 handlers.
+2022.09.23 21:52:14,263	INFO	1	handlers.MasterHandler	TargetHandler: Loaded 22 handlers.
+2022.09.23 21:52:14,263	INFO	1	handlers.MasterHandler	AffectObjectHandler: Loaded 11 handlers.
+2022.09.23 21:52:14,263	INFO	1	handlers.MasterHandler	AffectScopeHandler: Loaded 19 handlers.
+2022.09.23 21:52:14,263	INFO	1	handlers.MasterHandler	PlayerActionHandler: Loaded 24 handlers.
+2022.09.23 21:52:14,263	INFO	1	handlers.MasterHandler	Handlers Loaded...
+2022.09.23 21:52:16,018	INFO	1	org.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Updated Zaken(29022) status to 0.
+2022.09.23 21:52:16,036	INFO	1	ai.others.ClassMaster.ClassMaster	ClassMaster: Loaded 0 class change options.
+2022.09.23 21:52:16,113	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Battle With Keber active till Mon Oct 16 00:00:00 MSK 2023
+2022.09.23 21:52:16,118	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Blossom Festival has passed... Ignored 
+2022.09.23 21:52:16,121	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Chef Monkey Event has passed... Ignored 
+2022.09.23 21:52:16,124	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event DefeatTheQueen will be started at Fri Sep 22 00:00:00 MSK 2023
+2022.09.23 21:52:16,127	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Eve the Fortune Teller has passed... Ignored 
+2022.09.23 21:52:16,131	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Happy Hours has passed... Ignored 
+2022.09.23 21:52:16,136	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Letter Collector active till Sun Jul 29 00:00:00 MSK 2029
+2022.09.23 21:52:16,143	INFO	1	org.l2jmobius.gameserver.instancemanager.events.LetterCollectorManager	LetterCollectorManager: Loaded 3 words.
+2022.09.23 21:52:16,143	INFO	1	org.l2jmobius.gameserver.instancemanager.events.LetterCollectorManager	LetterCollectorManager: Loaded 23 letters.
+2022.09.23 21:52:16,150	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Merry Squashmas Event has passed... Ignored 
+2022.09.23 21:52:16,155	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Squash Event has passed... Ignored 
+2022.09.23 21:52:16,159	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event The Power Of Love has passed... Ignored 
+2022.09.23 21:52:16,163	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Total Recall has passed... Ignored 
+2022.09.23 21:52:16,166	INFO	1	org.l2jmobius.gameserver.model.quest.Quest	Event Watermelon Ninja has passed... Ignored 
+2022.09.23 21:52:16,234	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: Initializing spawns...
+2022.09.23 21:52:22,969	INFO	1	org.l2jmobius.gameserver.data.xml.SpawnData	SpawnData: All spawns has been initialized!
+2022.09.23 21:52:22,970	INFO	1	org.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Siege ]
+2022.09.23 21:52:22,983	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Giran: Sun Oct 02 16:00:00 MSK 2022
+2022.09.23 21:52:22,985	INFO	1	org.l2jmobius.gameserver.model.siege.Siege	Siege of Goddard: Tue Sep 27 16:00:00 MSK 2022
+2022.09.23 21:52:22,997	INFO	1	org.l2jmobius.gameserver.data.xml.SiegeScheduleData	SiegeScheduleData: Loaded 2 siege schedulers.
+2022.09.23 21:52:23,000	INFO	1	org.l2jmobius.gameserver.instancemanager.CastleManorManager	CastleManorManager: Manor system is deactivated.
+2022.09.23 21:52:23,006	INFO	1	org.l2jmobius.gameserver.instancemanager.SiegeGuardManager	SiegeGuardManager: Loaded 0 siege guards tickets.
+2022.09.23 21:52:23,006	INFO	1	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 43 quests.
+2022.09.23 21:52:23,006	INFO	1	org.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded 143 scripts.
+2022.09.23 21:52:23,018	INFO	1	org.l2jmobius.gameserver.taskmanager.TaskManager	TaskManager: Loaded 5 Tasks.
+2022.09.23 21:52:23,021	INFO	1	org.l2jmobius.gameserver.instancemanager.DailyTaskManager	DailyTaskManager: Next schedule at 24/09 06:30.
+2022.09.23 21:52:23,023	INFO	1	org.l2jmobius.gameserver.instancemanager.MailManager	MailManager: Loaded 0 messages.
+2022.09.23 21:52:23,028	INFO	1	org.l2jmobius.gameserver.instancemanager.PunishmentManager	PunishmentManager: Loaded 0 active and 0 expired punishments.
+2022.09.23 21:52:23,029	INFO	1	org.l2jmobius.gameserver.GameServer	IdManager: Free ObjectID's remaining: 1879012754
+2022.09.23 21:52:23,032	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loading offline traders...
+2022.09.23 21:52:23,032	INFO	1	org.l2jmobius.gameserver.data.sql.OfflineTraderTable	OfflineTraderTable: Loaded 0 offline traders.
+2022.09.23 21:52:23,034	INFO	1	org.l2jmobius.gameserver.instancemanager.ServerRestartManager	Scheduled server restart at Sat Sep 24 19:00:00 MSK 2022.
+2022.09.23 21:52:23,655	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Started, using 1887 of 6144 MB total memory.
+2022.09.23 21:52:23,655	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Maximum number of connected players is 2000.
+2022.09.23 21:52:23,655	INFO	1	org.l2jmobius.gameserver.GameServer	GameServer: Server loaded in 32 seconds.
+2022.09.23 21:52:25,431	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:7777
+2022.09.23 21:52:25,437	INFO	69	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Connecting to login on 127.0.0.1:9014
+2022.09.23 21:52:25,599	INFO	69	org.l2jmobius.gameserver.LoginServerThread	LoginServerThread: Registered on login as Server 2: Bartz
+2022.09.23 21:56:52,413	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ProtocolVersion
+2022.09.23 21:56:52,459	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] AuthLogin
+2022.09.23 21:56:58,239	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:56:58,410	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] RequestBRVersion
+2022.09.23 21:57:02,018	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:02,019	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] 350
+2022.09.23 21:57:03,297	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] CharacterSelect
+2022.09.23 21:57:03,360	WARNING	72	org.l2jmobius.gameserver.model.actor.Creature	Master access level set for character 32323232! Just a warning to be careful ;)
+2022.09.23 21:57:03,557	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CharSelected
+2022.09.23 21:57:03,663	INFO	51	org.l2jmobius.gameserver.network.PacketLogger	[S] SkillList
+2022.09.23 21:57:03,672	INFO	51	org.l2jmobius.gameserver.network.PacketLogger	[S] AcquireSkillList
+2022.09.23 21:57:03,678	INFO	36	org.l2jmobius.gameserver.network.PacketLogger	[S] AbnormalStatusUpdate
+2022.09.23 21:57:03,694	INFO	41	org.l2jmobius.gameserver.network.PacketLogger	[S] ExStorageMaxCount
+2022.09.23 21:57:05,379	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] ElementalSpiritInfo
+2022.09.23 21:57:06,639	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:06,639	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] RequestManorList
+2022.09.23 21:57:08,799	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:08,799	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] RequestKeyMapping
+2022.09.23 21:57:08,803	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUISetting
+2022.09.23 21:57:11,490	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] EnterWorld
+2022.09.23 21:57:11,494	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,507	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserViewInfoParameter
+2022.09.23 21:57:11,511	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] EtcStatusUpdate
+2022.09.23 21:57:11,514	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,515	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserViewInfoParameter
+2022.09.23 21:57:11,516	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserInfoAbnormalVisualEffect
+2022.09.23 21:57:11,520	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:57:11,521	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:57:11,521	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:57:11,524	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExEnterWorld
+2022.09.23 21:57:11,526	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,527	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,527	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,528	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,528	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,529	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,529	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,529	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,529	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,530	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,530	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,530	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,540	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,540	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,541	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,542	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,543	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,543	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,544	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,544	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,544	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,545	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SendMacroList
+2022.09.23 21:57:11,545	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExGetBookMarkInfoPacket
+2022.09.23 21:57:11,547	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ItemList
+2022.09.23 21:57:11,547	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ItemList
+2022.09.23 21:57:11,553	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExQuestItemList
+2022.09.23 21:57:11,554	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExQuestItemList
+2022.09.23 21:57:11,554	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ShortCutInit
+2022.09.23 21:57:11,555	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExBasicActionList
+2022.09.23 21:57:11,556	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SkillList
+2022.09.23 21:57:11,557	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] HennaInfo
+2022.09.23 21:57:11,557	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] EtcStatusUpdate
+2022.09.23 21:57:11,559	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExPledgeWaitingListAlarm
+2022.09.23 21:57:11,561	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExSubjobInfo
+2022.09.23 21:57:11,562	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserInfoInvenWeight
+2022.09.23 21:57:11,564	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAdenaInvenCount
+2022.09.23 21:57:11,565	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExBloodyCoinCount
+2022.09.23 21:57:11,566	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExPledgeCoinInfo
+2022.09.23 21:57:11,567	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExBrPremiumState
+2022.09.23 21:57:11,573	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] QuestList
+2022.09.23 21:57:11,579	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,580	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,581	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,581	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,582	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,582	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,583	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,583	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,584	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,584	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,585	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,585	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,585	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,585	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,586	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,586	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,586	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,586	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,587	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,587	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,587	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,588	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,588	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,588	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,589	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,589	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,590	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,590	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,590	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,592	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,592	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,593	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,593	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,593	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,594	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,594	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,594	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,595	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,595	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,595	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:57:11,596	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExSetCompassZoneCode
+2022.09.23 21:57:11,597	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExRotation
+2022.09.23 21:57:11,597	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserInfoEquipSlot
+2022.09.23 21:57:11,599	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] L2FriendList
+2022.09.23 21:57:11,600	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:57:11,601	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:57:11,602	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:57:11,602	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:57:11,603	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:57:11,605	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,610	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,611	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,612	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,613	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,614	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,615	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,616	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,617	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,617	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,618	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,619	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,620	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,620	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,621	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,622	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,623	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,624	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,629	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SkillCoolTime
+2022.09.23 21:57:11,630	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExVoteSystemInfo
+2022.09.23 21:57:11,632	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:57:11,633	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserViewInfoParameter
+2022.09.23 21:57:11,633	INFO	59	org.l2jmobius.gameserver.network.PacketLogger	[S] ExBrPremiumState
+2022.09.23 21:57:11,635	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExBeautyItemList
+2022.09.23 21:57:11,636	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExWorldChatCnt
+2022.09.23 21:57:11,647	INFO	59	org.l2jmobius.gameserver.network.PacketLogger	[S] ExLetterCollectorUI
+2022.09.23 21:57:11,670	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExConnectedTimeAndGettableReward
+2022.09.23 21:57:11,681	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExOneDayReceiveRewardList
+2022.09.23 21:57:11,695	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoSoulShot
+2022.09.23 21:57:11,696	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoSoulShot
+2022.09.23 21:57:11,696	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoSoulShot
+2022.09.23 21:57:11,696	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoSoulShot
+2022.09.23 21:57:11,697	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExActivateAutoShortcut
+2022.09.23 21:57:11,699	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExActivateAutoShortcut
+2022.09.23 21:57:11,700	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoPlaySettingSend
+2022.09.23 21:57:11,702	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExItemAnnounceSetting
+2022.09.23 21:57:11,703	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExVitalityEffectInfo
+2022.09.23 21:57:11,704	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExMagicLampExpInfoUI
+2022.09.23 21:57:11,705	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCraftInfo
+2022.09.23 21:57:11,706	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] HuntPassSimpleInfo
+2022.09.23 21:57:11,707	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCollectionInfo
+2022.09.23 21:57:11,708	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCollectionInfo
+2022.09.23 21:57:11,708	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCollectionInfo
+2022.09.23 21:57:11,709	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCollectionInfo
+2022.09.23 21:57:11,709	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCollectionInfo
+2022.09.23 21:57:11,709	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCollectionInfo
+2022.09.23 21:57:11,709	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExCollectionInfo
+2022.09.23 21:57:11,710	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExSubjugationSidebar
+2022.09.23 21:57:11,710	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ItemDeletionInfo
+2022.09.23 21:57:11,716	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExVipAttendanceItemList
+2022.09.23 21:57:11,819	INFO	45	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:57:11,819	INFO	45	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:57:11,819	INFO	45	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:57:11,820	INFO	45	org.l2jmobius.gameserver.network.PacketLogger	[S] ExVitalityEffectInfo
+2022.09.23 21:57:11,866	INFO	48	org.l2jmobius.gameserver.network.PacketLogger	[S] SkillList
+2022.09.23 21:57:11,871	INFO	48	org.l2jmobius.gameserver.network.PacketLogger	[S] AcquireSkillList
+2022.09.23 21:57:11,912	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] AbnormalStatusUpdate
+2022.09.23 21:57:11,913	INFO	42	org.l2jmobius.gameserver.network.PacketLogger	[S] ExStorageMaxCount
+2022.09.23 21:57:12,450	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:12,450	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] ExAutoPlaySetting
+2022.09.23 21:57:12,907	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] 166
+2022.09.23 21:57:12,960	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] 166
+2022.09.23 21:57:14,088	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:14,088	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] RequestAutoSoulShot
+2022.09.23 21:57:14,089	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoSoulShot
+2022.09.23 21:57:14,090	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:57:14,091	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:57:14,093	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] InventoryUpdate
+2022.09.23 21:57:14,093	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAdenaInvenCount
+2022.09.23 21:57:14,094	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserInfoInvenWeight
+2022.09.23 21:57:14,095	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillUse
+2022.09.23 21:57:14,095	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:14,095	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] RequestAutoSoulShot
+2022.09.23 21:57:14,096	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoSoulShot
+2022.09.23 21:57:14,096	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:57:14,096	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:57:14,097	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] InventoryUpdate
+2022.09.23 21:57:14,097	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAdenaInvenCount
+2022.09.23 21:57:14,097	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserInfoInvenWeight
+2022.09.23 21:57:14,098	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillUse
+2022.09.23 21:57:14,766	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] 166
+2022.09.23 21:57:15,716	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:15,716	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] ExRequestClassChangeVerifying
+2022.09.23 21:57:17,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:17,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] RequestTodoList
+2022.09.23 21:57:17,546	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExOneDayReceiveRewardList
+2022.09.23 21:57:17,554	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:57:17,554	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] RequestMissionRewardList
+2022.09.23 21:57:17,555	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExMissionLevelRewardList
+2022.09.23 21:57:17,582	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:19,786	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:19,788	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:19,818	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:20,359	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:20,360	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:20,361	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:20,373	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:20,386	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:20,423	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:20,424	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:20,666	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:20,666	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:20,667	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:20,676	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:20,692	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:20,767	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:20,768	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:21,223	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:21,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:21,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:21,605	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:21,606	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:21,606	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:21,618	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:22,456	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:22,456	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:23,267	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:23,460	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:23,460	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:24,464	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:24,465	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:24,472	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:25,464	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:25,465	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:25,677	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:26,478	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:26,478	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:26,578	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:26,876	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:27,480	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:27,480	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:27,764	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:27,764	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:27,765	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:27,788	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:28,281	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:28,282	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:28,581	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:29,284	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:29,284	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:29,781	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:30,225	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:30,225	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:30,225	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:30,234	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:30,580	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:32,578	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:32,619	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:32,736	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:32,736	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:33,465	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:33,465	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:33,465	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:33,473	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:33,564	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:33,564	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:33,582	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:33,582	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:33,602	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:34,174	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:34,174	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:34,803	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:35,179	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:35,180	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:35,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:35,998	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:36,182	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:36,182	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:36,576	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:36,576	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:37,183	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:37,184	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:37,204	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:37,582	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:37,582	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:37,582	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:37,997	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:37,998	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:38,404	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:39,002	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:39,002	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:39,606	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:40,005	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:40,005	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:40,757	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:40,757	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:40,758	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:40,768	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:41,577	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:42,586	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:42,586	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:42,586	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:42,586	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:44,577	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:45,590	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:45,591	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:47,586	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:47,587	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:48,883	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:48,887	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:48,932	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:49,590	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:49,590	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:49,590	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:50,382	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:51,382	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:51,577	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:51,998	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:51,998	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:52,537	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:52,631	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:52,632	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:53,589	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:53,737	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:54,538	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:55,530	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:55,530	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:55,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:55,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:55,622	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:55,623	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:55,634	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:55,634	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:55,933	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:55,992	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:55,992	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:56,773	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:56,773	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:56,947	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:56,948	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:56,964	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:56,964	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:57,140	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:57,431	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:57,431	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:57:57,431	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:57,438	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:57,576	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:57:57,576	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:57:57,581	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:57,581	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:58,488	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:57:59,485	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Action
+2022.09.23 21:57:59,488	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ValidateLocation
+2022.09.23 21:57:59,489	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MyTargetSelected
+2022.09.23 21:57:59,489	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:57:59,491	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAbnormalStatusUpdateFromTarget
+2022.09.23 21:57:59,492	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:57:59,580	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:59,580	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:59,580	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:59,580	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:59,580	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:57:59,691	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:00,887	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:01,577	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:01,577	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:02,083	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:02,513	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:02,516	INFO	61	org.l2jmobius.gameserver.network.PacketLogger	[S] TargetUnselected
+2022.09.23 21:58:02,516	INFO	61	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:02,525	INFO	61	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:02,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:02,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:02,577	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:03,069	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Action
+2022.09.23 21:58:03,069	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ValidateLocation
+2022.09.23 21:58:03,070	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MyTargetSelected
+2022.09.23 21:58:03,070	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:03,070	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAbnormalStatusUpdateFromTarget
+2022.09.23 21:58:03,073	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:03,083	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcHtmlMessage
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Set html action npc(NPC_ITEM_HTML): 0
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_kill'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_delete'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_recall_npc'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_getbuffs'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_show_quests 30767'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'NpcViewMod view 268447409'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'NpcViewMod skills 268447409'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'NpcViewMod aggrolist 268447409'
+2022.09.23 21:58:03,086	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:03,289	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:03,583	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:03,583	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:03,583	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:03,583	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:03,583	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:04,489	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:04,507	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:05,418	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:05,418	INFO	56	org.l2jmobius.gameserver.network.PacketLogger	[S] TargetUnselected
+2022.09.23 21:58:05,419	INFO	56	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:05,425	INFO	56	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:05,580	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:05,580	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:05,580	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:06,786	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcHtmlMessage
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Set html action npc(NPC_ITEM_HTML): 0
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin6'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin2'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin7'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_html help/main_menu.htm'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_create_item $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_move_to $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_spawn_monster $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_find_character $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_list_positions $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_list_spawns $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_list_positions $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_list_spawns $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_scan $'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_pccafepoints'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_primepoints'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_premium_menu'
+2022.09.23 21:58:06,788	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_kill_menu'
+2022.09.23 21:58:06,789	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_res'
+2022.09.23 21:58:06,789	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_open'
+2022.09.23 21:58:06,789	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_close'
+2022.09.23 21:58:06,789	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_recall_npc'
+2022.09.23 21:58:06,789	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_delete'
+2022.09.23 21:58:06,789	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_heal'
+2022.09.23 21:58:06,789	INFO	59	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_fullfood'
+2022.09.23 21:58:07,452	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] RequestBypassToServer
+2022.09.23 21:58:07,454	INFO	62	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:07,454	INFO	62	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcHtmlMessage
+2022.09.23 21:58:07,455	INFO	62	org.l2jmobius.gameserver.util.Util	Set html action npc(NPC_ITEM_HTML): 0
+2022.09.23 21:58:07,455	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin'
+2022.09.23 21:58:07,455	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin6'
+2022.09.23 21:58:07,455	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin2'
+2022.09.23 21:58:07,455	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin7'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_html help/main_menu.htm'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_gmliston'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_gmlistoff'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_diet'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_invis_menu'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_view_petitions'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_silence'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_tradeoff'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_invul'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_announces list'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_enchant'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_gmshop'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_html instancezone.htm'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_event_menu'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_exceptions'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_admin4'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_superhaste 1'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_superhaste 2'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_superhaste 3'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_superhaste 4'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_superhaste 0'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_announce $'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_announce_crit $'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_announce_screen $'
+2022.09.23 21:58:07,458	INFO	62	org.l2jmobius.gameserver.util.Util	Cached html bypass(NPC_ITEM_HTML): 'admin_gmchat_menu $'
+2022.09.23 21:58:08,439	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] RequestBypassToServer
+2022.09.23 21:58:08,441	INFO	54	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:58:08,443	INFO	54	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:58:08,744	INFO	42	org.l2jmobius.gameserver.network.PacketLogger	[S] ExStorageMaxCount
+2022.09.23 21:58:08,745	INFO	36	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:08,745	INFO	36	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:08,745	INFO	36	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:08,745	INFO	36	org.l2jmobius.gameserver.network.PacketLogger	[S] ExVitalityEffectInfo
+2022.09.23 21:58:08,749	INFO	45	org.l2jmobius.gameserver.network.PacketLogger	[S] AbnormalStatusUpdate
+2022.09.23 21:58:08,842	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:08,842	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:09,871	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:09,871	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:10,044	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:10,103	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:10,103	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:10,578	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:10,578	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:10,578	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:11,240	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:11,394	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:11,394	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:11,443	INFO	28	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:12,119	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:12,120	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:12,329	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:12,329	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:12,436	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,436	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:12,437	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:12,441	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:12,578	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:12,578	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:12,578	INFO	34	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:13,081	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:13,082	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:13,577	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:13,647	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:14,316	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:14,443	INFO	28	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:15,275	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Action
+2022.09.23 21:58:15,276	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ValidateLocation
+2022.09.23 21:58:15,276	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MyTargetSelected
+2022.09.23 21:58:15,276	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:15,276	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAbnormalStatusUpdateFromTarget
+2022.09.23 21:58:15,276	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:17,445	INFO	28	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:17,589	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:17,601	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:17,602	INFO	54	org.l2jmobius.gameserver.network.PacketLogger	[S] TargetUnselected
+2022.09.23 21:58:17,602	INFO	54	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:17,604	INFO	54	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:17,718	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:17,718	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:18,248	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:18,254	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Action
+2022.09.23 21:58:18,254	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ValidateLocation
+2022.09.23 21:58:18,254	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MyTargetSelected
+2022.09.23 21:58:18,255	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:18,255	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAbnormalStatusUpdateFromTarget
+2022.09.23 21:58:18,255	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:18,577	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:18,583	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:18,778	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:18,778	INFO	55	org.l2jmobius.gameserver.network.PacketLogger	[S] TargetUnselected
+2022.09.23 21:58:18,779	INFO	55	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:18,782	INFO	55	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:19,035	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:19,035	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:19,471	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:19,471	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:19,910	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,994	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,995	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,995	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,995	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,995	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:19,995	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:20,079	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Action
+2022.09.23 21:58:20,079	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ValidateLocation
+2022.09.23 21:58:20,079	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MyTargetSelected
+2022.09.23 21:58:20,079	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:20,079	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAbnormalStatusUpdateFromTarget
+2022.09.23 21:58:20,079	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:20,106	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:20,442	INFO	28	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:20,563	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:20,563	INFO	56	org.l2jmobius.gameserver.network.PacketLogger	[S] TargetUnselected
+2022.09.23 21:58:20,564	INFO	56	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:20,567	INFO	56	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:20,840	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:20,840	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:21,203	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Action
+2022.09.23 21:58:21,203	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ValidateLocation
+2022.09.23 21:58:21,204	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MyTargetSelected
+2022.09.23 21:58:21,204	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:21,204	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAbnormalStatusUpdateFromTarget
+2022.09.23 21:58:21,204	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:21,485	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:21,485	INFO	63	org.l2jmobius.gameserver.network.PacketLogger	[S] TargetUnselected
+2022.09.23 21:58:21,485	INFO	63	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:21,488	INFO	63	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:21,864	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:22,225	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:22,225	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:22,501	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:23,442	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:23,497	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Action
+2022.09.23 21:58:23,497	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ValidateLocation
+2022.09.23 21:58:23,498	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MyTargetSelected
+2022.09.23 21:58:23,498	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:23,498	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAbnormalStatusUpdateFromTarget
+2022.09.23 21:58:23,498	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:23,578	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:23,578	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:23,686	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] SendBypassBuildCmd
+2022.09.23 21:58:23,686	INFO	63	org.l2jmobius.gameserver.network.PacketLogger	[S] TargetUnselected
+2022.09.23 21:58:23,687	INFO	63	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:23,690	INFO	63	org.l2jmobius.gameserver.network.PacketLogger	[S] CreatureSay
+2022.09.23 21:58:24,218	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:24,218	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:24,413	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:24,413	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:24,712	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:24,713	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:24,767	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:24,767	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:24,784	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:24,816	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:24,816	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:24,852	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:24,853	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,031	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,031	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,041	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,042	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,060	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,061	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,133	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,133	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,334	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,334	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,377	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,377	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,588	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,588	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,604	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,605	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,745	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,745	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,787	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:25,787	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:25,811	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:58:25,811	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] ExRequestTeleportFavoriteList
+2022.09.23 21:58:25,812	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExTeleportFavoritesList
+2022.09.23 21:58:25,995	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,229	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,230	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,230	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,230	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,230	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,230	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,230	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,230	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:26,442	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:26,794	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:26,794	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:26,844	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:26,844	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,136	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,137	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:27,137	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:58:27,152	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:27,152	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,153	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,153	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,153	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,153	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,154	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,154	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,154	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,154	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,154	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,154	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,155	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,155	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,155	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,156	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,156	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,156	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,157	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,157	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:27,607	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:27,608	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:27,641	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:27,641	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:58:27,641	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:27,650	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:27,650	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:27,943	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:58:27,953	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:29,022	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:58:29,023	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] ExRequestTeleport
+2022.09.23 21:58:29,023	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:29,023	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAdenaInvenCount
+2022.09.23 21:58:29,024	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] InventoryUpdate
+2022.09.23 21:58:29,024	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAdenaInvenCount
+2022.09.23 21:58:29,024	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserInfoInvenWeight
+2022.09.23 21:58:29,024	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:58:29,024	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:58:29,025	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillUse
+2022.09.23 21:58:29,025	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:58:29,026	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SetupGauge
+2022.09.23 21:58:29,027	INFO	45	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillLaunched
+2022.09.23 21:58:29,052	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:29,053	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:29,448	INFO	29	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:29,530	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:29,530	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillCanceld
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,531	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:29,532	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] TeleportToLocation
+2022.09.23 21:58:29,533	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] ExTeleportToLocationActivate
+2022.09.23 21:58:29,533	INFO	49	org.l2jmobius.gameserver.network.PacketLogger	[S] ExSetCompassZoneCode
+2022.09.23 21:58:29,547	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:32,442	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:32,925	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Appearing
+2022.09.23 21:58:32,925	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,925	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,925	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,925	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,925	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,926	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,926	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,926	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,926	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,926	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,927	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,927	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,927	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,929	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StaticObjectInfo
+2022.09.23 21:58:32,929	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,930	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,930	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,930	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,930	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StaticObjectInfo
+2022.09.23 21:58:32,930	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:32,931	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExSetCompassZoneCode
+2022.09.23 21:58:32,932	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoPlaySettingSend
+2022.09.23 21:58:32,933	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExActivateAutoShortcut
+2022.09.23 21:58:32,933	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExActivateAutoShortcut
+2022.09.23 21:58:32,933	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:58:33,245	INFO	39	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:33,245	INFO	39	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:33,245	INFO	39	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:33,245	INFO	39	org.l2jmobius.gameserver.network.PacketLogger	[S] ExVitalityEffectInfo
+2022.09.23 21:58:34,036	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:34,037	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:34,224	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:34,225	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:34,236	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:34,236	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:34,311	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:34,311	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:34,467	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:34,467	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:34,670	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:34,670	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:34,876	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:34,876	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,081	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,081	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,244	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:35,287	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,287	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,322	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,323	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,414	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,414	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,436	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,436	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,451	INFO	29	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:35,451	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,451	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,467	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,467	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,672	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,672	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:35,726	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:35,726	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,082	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,082	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,191	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,191	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,211	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,212	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,225	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,226	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,240	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,240	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,252	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,253	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,268	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,268	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,302	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,302	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,336	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,336	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,377	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,378	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,442	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:36,581	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,581	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,780	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,781	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:36,807	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:36,807	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:58:36,807	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:36,816	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:36,989	INFO	71	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:58:36,991	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:37,549	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] MoveBackwardToLocation
+2022.09.23 21:58:37,549	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:38,136	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:38,443	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:39,036	INFO	42	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:39,589	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:39,727	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:58:39,728	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] ExRequestTeleportFavoriteList
+2022.09.23 21:58:39,728	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExTeleportFavoritesList
+2022.09.23 21:58:41,432	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:58:41,432	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] ExRequestTeleportFavoriteList
+2022.09.23 21:58:41,432	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExTeleportFavoritesList
+2022.09.23 21:58:41,442	INFO	28	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:41,577	INFO	33	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:43,046	INFO	43	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:43,586	INFO	35	org.l2jmobius.gameserver.network.PacketLogger	[S] SocialAction
+2022.09.23 21:58:44,443	INFO	30	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:44,762	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ExPacket
+2022.09.23 21:58:44,763	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C EX] ExRequestTeleport
+2022.09.23 21:58:44,763	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:44,763	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAdenaInvenCount
+2022.09.23 21:58:44,763	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] InventoryUpdate
+2022.09.23 21:58:44,763	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAdenaInvenCount
+2022.09.23 21:58:44,763	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserInfoInvenWeight
+2022.09.23 21:58:44,764	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:58:44,764	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] StopMove
+2022.09.23 21:58:44,764	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillUse
+2022.09.23 21:58:44,764	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SystemMessage
+2022.09.23 21:58:44,764	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] SetupGauge
+2022.09.23 21:58:44,765	INFO	29	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillLaunched
+2022.09.23 21:58:44,806	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:44,806	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:45,035	INFO	42	org.l2jmobius.gameserver.network.PacketLogger	[S] MoveToLocation
+2022.09.23 21:58:45,279	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:45,279	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] MagicSkillCanceld
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] ActionFailed
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,280	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] DeleteObject
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] TeleportToLocation
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] ExTeleportToLocationActivate
+2022.09.23 21:58:45,281	INFO	32	org.l2jmobius.gameserver.network.PacketLogger	[S] ExSetCompassZoneCode
+2022.09.23 21:58:45,296	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] ValidatePosition
+2022.09.23 21:58:47,442	INFO	28	org.l2jmobius.gameserver.network.PacketLogger	[S] StatusUpdate
+2022.09.23 21:58:47,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[C] Appearing
+2022.09.23 21:58:47,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,531	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,532	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,533	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,534	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,535	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] NpcInfo
+2022.09.23 21:58:47,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExSetCompassZoneCode
+2022.09.23 21:58:47,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExAutoPlaySettingSend
+2022.09.23 21:58:47,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExActivateAutoShortcut
+2022.09.23 21:58:47,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] ExActivateAutoShortcut
+2022.09.23 21:58:47,536	INFO	72	org.l2jmobius.gameserver.network.PacketLogger	[S] UserInfo
+2022.09.23 21:58:47,839	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:47,839	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:47,840	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] ExUserBoostStat
+2022.09.23 21:58:47,840	INFO	31	org.l2jmobius.gameserver.network.PacketLogger	[S] ExVitalityEffectInfo

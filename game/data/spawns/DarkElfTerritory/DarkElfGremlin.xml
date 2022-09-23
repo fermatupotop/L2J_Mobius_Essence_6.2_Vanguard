@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_18">
+		<group>
+			<npc id="18342" x="28827" y="11091" z="-4230" heading="50168" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28833" y="11032" z="-4235" heading="50168" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28833" y="11032" z="-4235" heading="50168" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28833" y="11032" z="-4235" heading="50168" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28562" y="11209" z="-4237" heading="26738" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28562" y="11209" z="-4237" heading="26738" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28562" y="11209" z="-4237" heading="26738" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28562" y="11209" z="-4237" heading="26738" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28197" y="11278" z="-4235" heading="33380" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28197" y="11278" z="-4235" heading="33380" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28197" y="11278" z="-4235" heading="33380" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28197" y="11278" z="-4235" heading="33380" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="27997" y="11260" z="-4235" heading="33704" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="27997" y="11260" z="-4235" heading="33704" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="27997" y="11260" z="-4235" heading="33704" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="27971" y="10875" z="-4235" heading="53558" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="27997" y="10819" z="-4235" heading="53558" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="27997" y="10819" z="-4235" heading="53558" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28135" y="10716" z="-4235" heading="58848" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28135" y="10716" z="-4235" heading="58848" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28135" y="10716" z="-4235" heading="58848" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28322" y="10760" z="-4235" heading="2410" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28322" y="10760" z="-4235" heading="2410" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28322" y="10760" z="-4235" heading="2410" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28725" y="10792" z="-4237" heading="1160" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28725" y="10792" z="-4237" heading="1160" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28725" y="10792" z="-4237" heading="1160" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28728" y="10967" z="-4235" heading="16205" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28728" y="10967" z="-4235" heading="16205" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28804" y="11228" z="-4237" heading="13428" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28804" y="11228" z="-4237" heading="13428" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="18342" x="28410" y="11248" z="-4236" heading="35785" respawnTime="10sec" /> <!-- Gremlin -->
+			<npc id="20004" x="9329" y="3132" z="-2500" heading="64987" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9329" y="3132" z="-2500" heading="64987" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9329" y="3132" z="-2500" heading="64987" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20003" x="9329" y="3132" z="-2500" heading="64987" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20004" x="9329" y="3132" z="-2500" heading="64987" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20456" x="9329" y="3132" z="-2500" heading="64987" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20003" x="8989" y="3046" z="-2510" heading="33640" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8965" y="3044" z="-2513" heading="33640" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8965" y="3044" z="-2513" heading="33640" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8965" y="3044" z="-2513" heading="33640" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8965" y="3044" z="-2513" heading="33640" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8965" y="3044" z="-2513" heading="33640" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8760" y="3020" z="-2526" heading="33966" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8731" y="3017" z="-2530" heading="33966" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8731" y="3017" z="-2530" heading="33966" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8681" y="3031" z="-2533" heading="29865" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8535" y="3073" z="-2544" heading="29865" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8535" y="3073" z="-2544" heading="29865" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8520" y="3175" z="-2543" heading="17891" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8512" y="3231" z="-2542" heading="17891" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8512" y="3231" z="-2542" heading="17891" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20004" x="8512" y="3231" z="-2542" heading="17891" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8512" y="3231" z="-2542" heading="17891" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8512" y="3231" z="-2542" heading="17891" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20003" x="8556" y="3448" z="-2538" heading="14297" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8556" y="3448" z="-2538" heading="14297" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8556" y="3448" z="-2538" heading="14297" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8505" y="3538" z="-2541" heading="21668" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8455" y="3630" z="-2547" heading="21668" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8455" y="3630" z="-2547" heading="21668" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8520" y="3770" z="-2547" heading="11827" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8585" y="3910" z="-2551" heading="11827" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8589" y="3917" z="-2553" heading="11827" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8630" y="3776" z="-2538" heading="45875" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8630" y="3776" z="-2538" heading="45875" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8630" y="3776" z="-2538" heading="45875" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8677" y="3976" z="-2549" heading="13940" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8693" y="4040" z="-2555" heading="13940" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8693" y="4040" z="-2555" heading="13940" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8756" y="4121" z="-2554" heading="9512" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8850" y="4243" z="-2553" heading="9512" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8885" y="4288" z="-2552" heading="9512" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8965" y="4452" z="-2550" heading="11650" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8965" y="4452" z="-2550" heading="11650" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8965" y="4452" z="-2550" heading="11650" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9124" y="4583" z="-2548" heading="7193" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9142" y="4598" z="-2548" heading="7193" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9142" y="4598" z="-2548" heading="7193" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9278" y="4622" z="-2547" heading="1821" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9278" y="4622" z="-2547" heading="1821" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9278" y="4622" z="-2547" heading="1821" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9526" y="4553" z="-2544" heading="62736" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9558" y="4545" z="-2544" heading="62736" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9558" y="4545" z="-2544" heading="62736" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9710" y="4521" z="-2542" heading="63937" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9761" y="4513" z="-2541" heading="63937" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9791" y="4509" z="-2541" heading="63937" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9791" y="4509" z="-2541" heading="63937" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20003" x="9969" y="4445" z="-2532" heading="61935" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9969" y="4445" z="-2532" heading="61935" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9969" y="4445" z="-2532" heading="61935" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="10029" y="4361" z="-2524" heading="55713" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="10090" y="4278" z="-2516" heading="55713" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="10132" y="4221" z="-2510" heading="55713" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="10219" y="4093" z="-2504" heading="55385" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="10277" y="4007" z="-2501" heading="55385" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="10294" y="3983" z="-2500" heading="55385" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="10179" y="3878" z="-2498" heading="40469" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="10103" y="3809" z="-2497" heading="40469" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="10065" y="3774" z="-2496" heading="40469" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9987" y="3707" z="-2496" heading="39928" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9811" y="3563" z="-2494" heading="39928" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9811" y="3563" z="-2494" heading="39928" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9811" y="3563" z="-2494" heading="39928" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9811" y="3563" z="-2494" heading="39928" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20003" x="9747" y="3644" z="-2494" heading="23273" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9716" y="3685" z="-2494" heading="23273" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9652" y="3766" z="-2494" heading="23273" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9616" y="3814" z="-2495" heading="23273" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20003" x="9469" y="3763" z="-2495" heading="36220" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9389" y="3736" z="-2497" heading="36220" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9389" y="3736" z="-2497" heading="36220" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9292" y="3772" z="-2498" heading="29009" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9195" y="3808" z="-2500" heading="29009" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9182" y="3814" z="-2502" heading="29009" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9182" y="3814" z="-2502" heading="29009" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9182" y="3814" z="-2502" heading="29009" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9182" y="3814" z="-2502" heading="29009" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8976" y="3808" z="-2513" heading="33037" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20004" x="8950" y="3808" z="-2516" heading="33037" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8950" y="3808" z="-2516" heading="33037" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8950" y="3808" z="-2516" heading="33037" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20003" x="8818" y="3962" z="-2532" heading="21029" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8752" y="4101" z="-2546" heading="21029" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8686" y="4239" z="-2563" heading="21029" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8551" y="4193" z="-2574" heading="36818" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8551" y="4193" z="-2574" heading="36818" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8551" y="4193" z="-2574" heading="36818" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8450" y="4169" z="-2584" heading="35201" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8450" y="4169" z="-2584" heading="35201" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8450" y="4169" z="-2584" heading="35201" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8387" y="3971" z="-2578" heading="46213" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8373" y="3921" z="-2577" heading="46213" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8365" y="3892" z="-2576" heading="46213" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8315" y="3801" z="-2572" heading="43902" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8290" y="3756" z="-2570" heading="43902" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8278" y="3734" z="-2569" heading="43902" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8171" y="3443" z="-2569" heading="45506" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8157" y="3402" z="-2570" heading="45506" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8157" y="3402" z="-2570" heading="45506" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8174" y="3325" z="-2568" heading="51418" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8174" y="3325" z="-2568" heading="51418" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8174" y="3325" z="-2568" heading="51418" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8220" y="3232" z="-2565" heading="53988" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8222" y="3229" z="-2565" heading="53988" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8222" y="3229" z="-2565" heading="53988" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8275" y="3083" z="-2565" heading="52844" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8293" y="3035" z="-2564" heading="52844" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8307" y="2999" z="-2564" heading="52844" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="8398" y="2950" z="-2558" heading="60449" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="8489" y="2902" z="-2552" heading="60449" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="8534" y="2878" z="-2549" heading="60449" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20004" x="8859" y="2817" z="-2525" heading="64534" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9060" y="2798" z="-2511" heading="64534" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9060" y="2798" z="-2511" heading="64534" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9060" y="2798" z="-2511" heading="64534" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9164" y="2912" z="-2507" heading="8643" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9199" y="2950" z="-2506" heading="8643" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9234" y="2988" z="-2504" heading="8643" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9281" y="3039" z="-2502" heading="8643" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9281" y="3039" z="-2502" heading="8643" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20003" x="9482" y="3199" z="-2498" heading="7094" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9522" y="3231" z="-2498" heading="7094" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9562" y="3264" z="-2497" heading="7094" respawnTime="10sec" /> <!-- Imp -->
+			<npc id="20003" x="9587" y="3284" z="-2497" heading="7094" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9587" y="3284" z="-2497" heading="7094" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20003" x="9578" y="3334" z="-2497" heading="18047" respawnTime="10sec" /> <!-- Goblin -->
+			<npc id="20456" x="9562" y="3436" z="-2496" heading="18047" respawnTime="10sec" /> <!-- Ashen Wolf -->
+			<npc id="20004" x="9555" y="3483" z="-2496" heading="18047" respawnTime="10sec" /> <!-- Imp -->
+		</group>
+	</spawn>
+</list>

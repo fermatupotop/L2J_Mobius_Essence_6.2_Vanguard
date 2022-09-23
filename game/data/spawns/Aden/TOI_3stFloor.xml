@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="TOI_3stFloor">
+		<group>
+			<npc id="22000" x="115510" y="14445" z="-2129" heading="49332" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115542" y="14369" z="-2129" heading="56261" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115505" y="14331" z="-2129" heading="41099" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115505" y="14331" z="-2129" heading="41099" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115482" y="14262" z="-2129" heading="42730" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22000" x="115558" y="14265" z="-2129" heading="31266" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115513" y="14350" z="-2129" heading="21462" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115827" y="14373" z="-2129" heading="61770" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116006" y="14301" z="-2129" heading="61547" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="116165" y="14486" z="-2129" heading="8978" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="116175" y="14683" z="-2129" heading="15854" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="116047" y="14721" z="-2129" heading="29757" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115764" y="14733" z="-2129" heading="34272" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="115366" y="14733" z="-2129" heading="32133" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115363" y="14755" z="-2129" heading="17797" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115587" y="14919" z="-2129" heading="6591" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115822" y="14898" z="-2129" heading="56271" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="116038" y="14865" z="-2129" heading="769" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="116239" y="14896" z="-2129" heading="1869" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="116172" y="14998" z="-2129" heading="31732" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115903" y="15098" z="-2129" heading="26921" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="115826" y="15133" z="-2129" heading="28318" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22000" x="116282" y="15391" z="-2129" heading="2069" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="116268" y="15334" z="-2129" heading="46639" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116526" y="15084" z="-2129" heading="54187" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116652" y="15147" z="-2129" heading="6358" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="116672" y="15296" z="-2129" heading="14992" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22000" x="115969" y="14823" z="-2129" heading="38870" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115875" y="14661" z="-2129" heading="43668" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115838" y="14360" z="-2129" heading="51139" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115615" y="14027" z="-2129" heading="42553" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115335" y="13956" z="-2129" heading="27857" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22002" x="116296" y="14735" z="-2129" heading="5721" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116380" y="14783" z="-2129" heading="45339" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="116455" y="14965" z="-2129" heading="16229" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="116578" y="15373" z="-2129" heading="9638" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116092" y="15406" z="-2129" heading="49050" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116109" y="15163" z="-2129" heading="48549" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="115961" y="14714" z="-2129" heading="52687" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116127" y="14296" z="-2129" heading="45514" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="116192" y="14427" z="-2129" heading="14047" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115843" y="14724" z="-2129" heading="20210" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22001" x="115745" y="15032" z="-2129" heading="19378" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22003" x="115637" y="14726" z="-2129" heading="40268" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="115424" y="14605" z="-2129" heading="36073" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115804" y="14832" z="-2129" heading="44525" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115470" y="13838" z="-2129" heading="39739" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22002" x="115525" y="13864" z="-2129" heading="11753" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115524" y="13951" z="-2129" heading="16503" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="113412" y="15180" z="-2127" heading="26844" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113072" y="15244" z="-2128" heading="32732" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="112900" y="15272" z="-2129" heading="30378" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="112657" y="15195" z="-2129" heading="39443" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="112812" y="15106" z="-2129" heading="60114" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113013" y="14860" z="-2129" heading="56078" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22001" x="113077" y="14643" z="-2129" heading="51001" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="113417" y="14297" z="-2129" heading="58110" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113417" y="14297" z="-2129" heading="58110" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22001" x="113660" y="14124" z="-2129" heading="59126" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113955" y="14057" z="-2129" heading="65281" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="114036" y="14292" z="-2129" heading="12921" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113917" y="14378" z="-2129" heading="26240" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22000" x="113959" y="14440" z="-2129" heading="7305" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="114120" y="14703" z="-2129" heading="17345" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="114120" y="14704" z="-2129" heading="17345" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="114016" y="14771" z="-2129" heading="26798" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113845" y="14906" z="-2129" heading="19563" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113754" y="14828" z="-2129" heading="40159" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22001" x="113687" y="14656" z="-2129" heading="46124" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="113687" y="14656" z="-2129" heading="46124" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113666" y="14782" z="-2129" heading="18106" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113556" y="14829" z="-2129" heading="28454" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113355" y="14772" z="-2129" heading="41857" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113287" y="14559" z="-2129" heading="45633" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113291" y="14548" z="-2129" heading="11803" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113307" y="14468" z="-2129" heading="51210" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="113161" y="14442" z="-2129" heading="34606" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="112930" y="14704" z="-2129" heading="18778" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113009" y="15029" z="-2129" heading="12272" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113203" y="15156" z="-2129" heading="6045" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22002" x="113401" y="15386" z="-2129" heading="8970" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113303" y="15405" z="-2129" heading="30770" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22000" x="113206" y="15422" z="-2129" heading="30958" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113062" y="15410" z="-2129" heading="33635" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="112841" y="15445" z="-2129" heading="31129" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="112721" y="15442" z="-2129" heading="32966" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="112683" y="15442" z="-2129" heading="32966" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22002" x="112663" y="15307" z="-2129" heading="47617" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="112531" y="15278" z="-2129" heading="46522" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="112582" y="15245" z="-2129" heading="59545" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="112788" y="14866" z="-2129" heading="2480" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="112729" y="14758" z="-2129" heading="43936" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22003" x="112688" y="14928" z="-2129" heading="16498" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="112763" y="14765" z="-2129" heading="53677" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="112987" y="14500" z="-2129" heading="56587" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="112952" y="14468" z="-2129" heading="22267" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="113168" y="14266" z="-2129" heading="54609" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113556" y="14082" z="-2129" heading="60002" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113682" y="14096" z="-2129" heading="1154" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="114059" y="14085" z="-2129" heading="5032" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="114026" y="14202" z="-2129" heading="19251" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113726" y="14458" z="-2129" heading="23140" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113649" y="14539" z="-2129" heading="25475" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="113410" y="14755" z="-2129" heading="24456" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="113314" y="14952" z="-2129" heading="19802" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113276" y="14910" z="-2129" heading="41481" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113389" y="14782" z="-2129" heading="59380" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113366" y="15122" z="-2129" heading="16952" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113023" y="15397" z="-2129" heading="24072" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="112967" y="15326" z="-2129" heading="42186" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113306" y="15004" z="-2129" heading="57304" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="113440" y="14967" z="-2129" heading="2336" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="113291" y="16654" z="-2129" heading="33539" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113083" y="16695" z="-2129" heading="31682" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="112884" y="16731" z="-2129" heading="30379" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="112533" y="16817" z="-2129" heading="30191" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="112431" y="16894" z="-2129" heading="25989" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="112430" y="16845" z="-2129" heading="48939" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="112448" y="16775" z="-2129" heading="51777" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="112617" y="17069" z="-2129" heading="15528" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="112816" y="17107" z="-2129" heading="531" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113096" y="17004" z="-2129" heading="61879" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113341" y="16908" z="-2129" heading="61567" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113562" y="17014" z="-2129" heading="4664" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113413" y="17079" z="-2129" heading="28477" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113238" y="17260" z="-2129" heading="24400" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113119" y="17281" z="-2129" heading="30946" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="112968" y="17337" z="-2129" heading="29063" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="112943" y="17472" z="-2129" heading="18293" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113112" y="17635" z="-2129" heading="8003" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113132" y="17825" z="-2129" heading="15290" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113414" y="17619" z="-2129" heading="51864" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113452" y="17390" z="-2129" heading="50608" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22004" x="113605" y="17297" z="-2129" heading="59863" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113826" y="17233" z="-2129" heading="63781" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113901" y="17325" z="-2129" heading="9242" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="113955" y="17391" z="-2129" heading="9242" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="113979" y="17504" z="-2129" heading="14201" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113926" y="17726" z="-2129" heading="18828" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="113779" y="17656" z="-2129" heading="42042" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113900" y="17649" z="-2129" heading="56014" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113805" y="17592" z="-2129" heading="38404" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113524" y="17655" z="-2129" heading="24941" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113436" y="17817" z="-2129" heading="21574" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22000" x="113630" y="18152" z="-2129" heading="24313" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113746" y="18266" z="-2129" heading="8101" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113903" y="18281" z="-2129" heading="993" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113966" y="18099" z="-2129" heading="52627" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113892" y="18032" z="-2129" heading="40442" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22000" x="113847" y="17967" z="-2129" heading="42835" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113771" y="17940" z="-2129" heading="36328" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113544" y="17590" z="-2129" heading="43799" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113629" y="17478" z="-2129" heading="57956" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113731" y="17447" z="-2129" heading="62458" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113713" y="17383" z="-2129" heading="46292" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22000" x="113470" y="17342" z="-2129" heading="29673" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113316" y="17384" z="-2129" heading="29990" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113071" y="17663" z="-2129" heading="21941" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113128" y="17755" z="-2129" heading="1941" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113631" y="17908" z="-2129" heading="62939" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="113709" y="18001" z="-2129" heading="14849" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22000" x="113348" y="16703" z="-2129" heading="50842" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113055" y="17029" z="-2129" heading="26602" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="112771" y="17219" z="-2129" heading="26655" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22002" x="112797" y="17388" z="-2129" heading="11750" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113090" y="17872" z="-2129" heading="8656" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="113462" y="17731" z="-2129" heading="4271" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22004" x="113960" y="17870" z="-2129" heading="1762" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22002" x="114086" y="17283" z="-2129" heading="46049" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="112882" y="17280" z="-2129" heading="33713" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="112310" y="16983" z="-2129" heading="30550" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="114078" y="18169" z="-2129" heading="1891" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="114076" y="17832" z="-2129" heading="48483" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="114210" y="17628" z="-2129" heading="55406" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113686" y="17062" z="-2129" heading="41105" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="113490" y="16851" z="-2129" heading="41369" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113211" y="16818" z="-2129" heading="35835" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="115304" y="17411" z="-2129" heading="26494" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115229" y="17392" z="-2129" heading="59720" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115278" y="17468" z="-2129" heading="14888" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115260" y="17765" z="-2129" heading="16642" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115339" y="17932" z="-2129" heading="9734" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="115314" y="18170" z="-2129" heading="14186" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="115381" y="18203" z="-2129" heading="61254" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115435" y="18180" z="-2129" heading="61254" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="115492" y="17999" z="-2129" heading="51862" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115461" y="17831" z="-2129" heading="44986" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115480" y="17576" z="-2129" heading="50954" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115479" y="17316" z="-2129" heading="49111" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115568" y="17183" z="-2129" heading="59059" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="115630" y="17287" z="-2129" heading="10776" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="115681" y="17419" z="-2129" heading="12538" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115814" y="17673" z="-2129" heading="14888" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="115768" y="17817" z="-2129" heading="23073" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115771" y="17979" z="-2129" heading="16190" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115874" y="17967" z="-2129" heading="64326" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115907" y="17791" z="-2129" heading="51118" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115903" y="17597" z="-2129" heading="46233" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="115834" y="17499" z="-2129" heading="42740" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="115954" y="17515" z="-2129" heading="1681" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="116040" y="17654" z="-2129" heading="10604" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="116108" y="17768" z="-2129" heading="10774" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="116073" y="17700" z="-2129" heading="44193" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116117" y="17578" z="-2129" heading="52762" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116076" y="17512" z="-2129" heading="43354" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115877" y="17294" z="-2129" heading="41268" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="115713" y="17119" z="-2129" heading="42008" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="115606" y="16988" z="-2129" heading="42008" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115883" y="16884" z="-2129" heading="62719" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="115844" y="16796" z="-2129" heading="44268" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115946" y="16646" z="-2129" heading="55380" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116061" y="16661" z="-2129" heading="1352" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116187" y="16652" z="-2129" heading="64792" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="116298" y="16694" z="-2129" heading="3834" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="116564" y="16643" z="-2129" heading="62650" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="116578" y="16640" z="-2129" heading="62650" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="116768" y="16697" z="-2129" heading="3040" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="116705" y="16841" z="-2129" heading="20685" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116628" y="17039" z="-2129" heading="20252" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22002" x="116626" y="17185" z="-2129" heading="23206" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116495" y="17278" z="-2129" heading="26328" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="116329" y="17427" z="-2129" heading="25138" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="116296" y="17601" z="-2129" heading="18338" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="116206" y="17590" z="-2129" heading="34036" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="116180" y="17486" z="-2129" heading="46596" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="116145" y="17407" z="-2129" heading="44802" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="116214" y="17256" z="-2129" heading="53622" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22001" x="116188" y="17103" z="-2129" heading="47396" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116118" y="16972" z="-2129" heading="44033" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116233" y="16834" z="-2129" heading="56447" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="116360" y="16907" z="-2129" heading="6133" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22002" x="116380" y="16769" z="-2129" heading="50653" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="116380" y="16769" z="-2129" heading="50653" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="116180" y="16751" z="-2129" heading="37113" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="116035" y="16828" z="-2129" heading="27676" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115612" y="17211" z="-2129" heading="24064" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="115170" y="17471" z="-2129" heading="24812" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="115319" y="17507" z="-2129" heading="64518" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22002" x="115396" y="17773" z="-2129" heading="4836" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22002" x="115844" y="17332" z="-2129" heading="52795" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115656" y="17480" z="-2129" heading="26434" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116096" y="17239" z="-2129" heading="63708" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="116301" y="17556" z="-2129" heading="13725" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22003" x="116470" y="17075" z="-2129" heading="58094" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="116088" y="16858" z="-2129" heading="35679" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="115672" y="17090" z="-2129" heading="28693" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22001" x="115110" y="17406" z="-2129" heading="26795" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="115948" y="17259" z="-2129" heading="8831" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="115900" y="15289" z="-2129" heading="15086" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="116374" y="15295" z="-2129" heading="64886" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="116771" y="15214" z="-2129" heading="63499" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="117053" y="15227" z="-2129" heading="58525" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22004" x="117100" y="15157" z="-2129" heading="49151" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Grief -->
+			<npc id="22003" x="116866" y="15087" z="-2129" heading="39971" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="116306" y="14593" z="-2129" heading="37846" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22001" x="115293" y="14422" z="-2129" heading="20135" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="115200" y="14701" z="-2129" heading="17197" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="115342" y="14639" z="-2129" heading="61011" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22001" x="115693" y="14228" z="-2129" heading="12806" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="114133" y="14861" z="-2129" heading="9708" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="114086" y="14724" z="-2129" heading="54045" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22002" x="113571" y="14331" z="-2129" heading="51004" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22000" x="113362" y="15180" z="-2129" heading="34670" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="113299" y="17329" z="-2129" heading="26389" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22002" x="113258" y="17620" z="-2129" heading="15618" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
+			<npc id="22003" x="113288" y="17727" z="-2129" heading="7960" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+			<npc id="22000" x="113506" y="17384" z="-2129" heading="55553" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22001" x="112903" y="17671" z="-2129" heading="27014" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
+			<npc id="22000" x="112905" y="17638" z="-2129" heading="49783" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
+			<npc id="22003" x="113389" y="17439" z="-2129" heading="59875" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
+		</group>
+	</spawn>
+</list>
