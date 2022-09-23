@@ -6,8 +6,6 @@
 			<npc id="31277" x="149008" y="-52560" z="-2728" heading="49500" respawnTime="60sec" /> <!-- Felix - Master -->
 			<npc id="31278" x="148736" y="-52560" z="-2728" heading="49500" respawnTime="60sec" /> <!-- Bronwyn - Master -->
 			<npc id="31279" x="147712" y="-52688" z="-2728" heading="49000" respawnTime="60sec" /> <!-- Gregory - High Priest -->
-			<npc id="31280" x="148048" y="-52416" z="-2728" heading="49000" respawnTime="60sec" /> <!-- Bastian - Priest -->
-			<npc id="31281" x="147376" y="-52416" z="-2728" heading="49000" respawnTime="60sec" /> <!-- Cerenas - Priest -->
 			<npc id="31282" x="146688" y="-52576" z="-2728" heading="49500" respawnTime="60sec" /> <!-- Justin - Magister -->
 			<npc id="31283" x="146416" y="-52564" z="-2728" heading="49500" respawnTime="60sec" /> <!-- Alminas - Magister -->
 			<npc id="31585" x="146688" y="-52592" z="-2728" heading="16000" respawnTime="60sec" /> <!-- Sparky the Cat - Keats Servitor -->
