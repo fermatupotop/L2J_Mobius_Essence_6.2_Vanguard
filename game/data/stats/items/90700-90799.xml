@@ -888,7 +888,7 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="time" val="10080" />
+		<set name="time" val="1440" />
 		<skills>
 			<skill id="50442" level="1" /> <!-- Zaken Earring Lv .1 -->
 		</skills>

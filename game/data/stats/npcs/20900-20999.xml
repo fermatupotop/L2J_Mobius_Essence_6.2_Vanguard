@@ -323,7 +323,7 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
+			<skill name="Buff" id="4031" level="2" />
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
@@ -350,7 +350,7 @@
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="3" /> <!-- Light Armor -->
 			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
-
+			<skill id="4031" level="2" /> <!-- NPC Clan Aegis -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -3530,7 +3530,6 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="DDMagic" id="4087" level="6" />
 			<skill name="MagicHeal" id="4065" level="6" />
 		</parameters>
 		<race>UNDEAD</race>
@@ -3550,23 +3549,13 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="6" /> <!-- HP Very High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="4071" level="1" /> <!-- Bow Resistance -->
 			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
 			<skill id="4065" level="6" /> <!-- NPC Heal -->
-			<skill id="4087" level="6" /> <!-- NPC Blaze -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450" />
 		<collision>
 			<radius normal="10" />
 			<height normal="32" />
@@ -3607,11 +3596,10 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="Buff" id="4099" level="2" />
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="4378" sp="341" attributeExp="18" />
+		<acquire exp="4377" sp="341" attributeExp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="2149.58946769827" hpRegen="7.5" mp="1097" mpRegen="2.7" />
 			<attack physical="521.12391" magical="355.86007" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -3626,22 +3614,13 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="6" /> <!-- HP Very High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="4071" level="1" /> <!-- Bow Resistance -->
 			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
-			<skill id="4099" level="2" /> <!-- NPC Berserk -->
+			<skill id="4408" level="6" /> <!-- HP Very High -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450" />
 		<collision>
 			<radius normal="12" />
 			<height normal="33" />
@@ -4862,8 +4841,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20996" level="48" type="Monster" name="Spiteful Ghost of Ruins" element="FIRE">
-		<!-- L2wiki: https://l2wiki.com/classic/Spiteful_Ghost_of_Ruins -->
+	<npc id="20996" level="49" type="Monster" name="Spiteful Ghost of Ruins" element="FIRE">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -4873,13 +4851,12 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="DDMagicSlow" id="4254" level="5" /> <!-- NPC Prominence - Slow -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2187" sp="83" attributeExp="7" />
+		<acquire exp="3241" sp="86" attributeExp="7" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1396.64158795631" hpRegen="5.5" mp="692.4" mpRegen="2.1" />
+			<vitals hp="2538.875" hpRegen="5.5" mp="692.4" mpRegen="2.1" />
 			<attack physical="275.82705" magical="188.35412" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="191.12803" magical="139.8592" />
 			<speed>
@@ -4892,26 +4869,12 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="3" /> <!-- HP Medium-High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="18" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4085" level="1" /> <!-- Critical Damage -->
-			<skill id="4071" level="5" /> <!-- Bow Resistance -->
-			<skill id="4284" level="5" /> <!-- Infection Resistance -->
+			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="350" clanHelpRange="300">
-			<clanList>
-				<clan>UNDEAD</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="13" />
 			<height normal="21" />
@@ -4945,23 +4908,20 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20997" level="51" type="Monster" name="Soldier of Grief" element="FIRE">
-		<!-- L2wiki: https://l2wiki.com/classic/Soldier_of_Grief -->
+	<npc id="20997" level="49" type="Monster" name="Soldier of Grief" element="FIRE">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
 			<param name="MoveAroundSocial2" value="100" />
-			<skill name="DDMagic" id="4034" level="5" /> <!-- Decrease Speed -->
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="DDMagic" id="4001" level="5" /> <!-- NPC Windstrike -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2651" sp="165" attributeExp="8" />
+		<acquire exp="3241" sp="152" attributeExp="8" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="1551.07168578515" hpRegen="6.5" mp="775.8" mpRegen="2.4" />
 			<attack physical="321.13207" magical="219.29157" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
@@ -4976,24 +4936,11 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="4" /> <!-- HP High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="350" clanHelpRange="0" isAggressive="false">
-			<clanList>
-				<clan>UNDEAD</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="12" />
 			<height normal="26" />
@@ -5030,8 +4977,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20998" level="52" type="Monster" name="Cruel Punisher" element="FIRE">
-		<!-- L2wiki: https://l2wiki.com/classic/Cruel_Punisher -->
+	<npc id="20998" level="50" type="Monster" name="Cruel Punisher" element="FIRE">
 		<parameters>
 			<param name="MoveAroundSocial" value="130" />
 			<param name="MoveAroundSocial1" value="130" />
@@ -5041,13 +4987,12 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="DeBuff" id="4036" level="5" /> <!-- Poison -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2759" sp="170" attributeExp="9" />
+		<acquire exp="3450" sp="157" attributeExp="9" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1603.77800520503" hpRegen="6.5" mp="804" mpRegen="2.4" />
+			<vitals hp="2600.305" hpRegen="6.5" mp="804" mpRegen="2.4" />
 			<attack physical="337.18867" magical="230.25615" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="209.50106" magical="153.30378" />
 			<speed>
@@ -5060,24 +5005,11 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="4" /> <!-- HP High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="350" clanHelpRange="0" isAggressive="false">
-			<clanList>
-				<clan>UNDEAD</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="30" grown="15.5" />
 			<height normal="40" grown="48.5" />
@@ -5112,8 +5044,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20999" level="49" type="Monster" name="Roving Soul" element="FIRE">
-		<!-- L2wiki: https://l2wiki.com/classic/Roving_Soul -->
+	<npc id="20999" level="50" type="Monster" name="Roving Soul" element="FIRE">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -5123,14 +5054,13 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="PhysicalSpecial" id="4032" level="5" /> <!-- NPC Strike -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="75" /> <!-- rhand: Caliburs -->
-		<acquire exp="2297" sp="152" attributeExp="7" />
+		<acquire exp="3450" sp="158" attributeExp="7" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1447.45325347694" hpRegen="5.5" mp="720" mpRegen="2.1" />
+			<vitals hp="2600.305" hpRegen="5.5" mp="720" mpRegen="2.1" />
 			<attack physical="290.44588" magical="198.33688" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
 			<defence physical="195.66302" magical="143.17771" />
 			<speed>
@@ -5143,23 +5073,11 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="3" /> <!-- HP Medium-High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="9" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="7" /> <!-- Dagger -->
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
+			<skill id="5620" level="1" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="350" clanHelpRange="300" isAggressive="true">
-			<clanList>
-				<clan>UNDEAD</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="11" grown="13" />
 			<height normal="25" grown="31" />

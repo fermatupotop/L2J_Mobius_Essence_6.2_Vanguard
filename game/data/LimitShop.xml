@@ -3,19 +3,19 @@
 	<!-- Cat 0 Equipment -->
 	<product id="506" category="0">
 		<ingredient id="91663" count="600" /> <!-- L-Coin -->
-		<production id="97266" /> <!-- Enchant Kit: Piercing Mask -->
+		<production id="97266" accountDailyLimit="30" /> <!-- Enchant Kit: Piercing Mask -->
 	</product>
 <product id="507" category="0">
 		<ingredient id="91663" count="600" /> <!-- L-Coin -->
-		<production id="91767" /> <!-- Enchant Kit: Talisman of Aden -->
+		<production id="91767" accountDailyLimit="50" /> <!-- Enchant Kit: Talisman of Aden -->
 	</product>
 	<product id="508" category="0">
 		<ingredient id="91663" count="600" /> <!-- L-Coin -->
-		<production id="93303" /> <!-- Package: Cloak of Protection -->
+		<production id="93303" accountDailyLimit="50" /> <!-- Package: Cloak of Protection -->
 	</product>
 	<product id="509" category="0">
 		<ingredient id="91663" count="600" /> <!-- L-Coin -->
-		<production id="91864" /> <!-- Dragon Belt Pack -->
+		<production id="91864" accountDailyLimit="50" /> <!-- Dragon Belt Pack -->
 	</product>
 	<product id="212" category="0" maxLevel="84">
 		<ingredient id="91663" count="4000" /> <!-- L-Coin -->
@@ -48,15 +48,15 @@
 	<!-- Cat 1 Upgrade -->
 	<product id="219" category="1">
 		<ingredient id="91663" count="1500" /> <!-- L-Coin -->
-		<production id="729" /> <!-- Scroll: Enchant A-grade Weapon -->
+		<production id="93976" /> <!-- Scroll: Enchant A-grade Weapon -->
 	</product>
 	<product id="220" category="1">
 		<ingredient id="91663" count="600" /> <!-- L-Coin -->
-		<production id="947" /> <!-- Scroll: Enchant B-grade Weapon -->
+		<production id="93406" /> <!-- Scroll: Enchant B-grade Weapon -->
 	</product>
 	<product id="221" category="1">
 		<ingredient id="91663" count="200" /> <!-- L-Coin -->
-		<production id="951" /> <!-- Scroll: Enchant C-grade Weapon -->
+		<production id="93408" /> <!-- Scroll: Enchant C-grade Weapon -->
 	</product>
 		<product id="204" category="1">
 		<ingredient id="91663" count="200" /> <!-- L-Coin -->
@@ -64,15 +64,15 @@
 	</product>
 	<product id="222" category="1">
 		<ingredient id="91663" count="350" /> <!-- L-Coin -->
-		<production id="730" /> <!-- Scroll: Enchant A-grade Armor -->
+		<production id="93977" /> <!-- Scroll: Enchant A-grade Armor -->
 	</product>
 	<product id="223" category="1">
 		<ingredient id="91663" count="100" /> <!-- L-Coin -->
-		<production id="948" /> <!-- Scroll: Enchant B-grade Armor -->
+		<production id="93407" /> <!-- Scroll: Enchant B-grade Armor -->
 	</product>
 	<product id="224" category="1">
 		<ingredient id="91663" count="50" /> <!-- L-Coin -->
-		<production id="952" /> <!-- Scroll: Enchant C-grade Armor -->
+		<production id="93409" /> <!-- Scroll: Enchant C-grade Armor -->
 	</product>
 		<product id="208" category="1">
 		<ingredient id="91663" count="50" /> <!-- L-Coin -->
@@ -127,18 +127,7 @@
 		<ingredient id="91663" count="100" /> <!-- L-Coin -->
 		<production id="92973" /> <!-- Scroll of Escape Pack: Tower of Isolence (8-12 Floors)  -->
 	</product>
-	<product id="313" category="2">
-		<ingredient id="91663" count="300" /> <!-- L-Coin -->
-		<production id="92400" accountDailyLimit="1" /> <!-- Forgotten Primeval Garden's Time Stone -->
-	</product>
-	<product id="314" category="2">
-		<ingredient id="91663" count="200" /> <!-- L-Coin -->
-		<production id="91983" accountDailyLimit="1" /> <!-- Primeval Isle's Time Stone -->
-	</product>
-	<product id="315" category="2">
-		<ingredient id="91663" count="200" /> <!-- L-Coin -->
-		<production id="93704" accountDailyLimit="1" /> <!-- Alligator Island's Time Stone -->
-	</product>
+
 
 	<!-- Cat 3 Ancient Adena Shop. -->
 	<product id="325" category="3">

@@ -452,13 +452,13 @@
 			<height normal="37.5" />
 		</collision>
 	</npc>
-	<npc id="24014" level="66" type="Monster" name="Vanor" element="WIND">
+	<npc id="24014" level="62" type="Monster" name="Vanor" element="WIND">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="5007" sp="459" attributeExp="23" />
+		<acquire exp="5958" sp="404" attributeExp="22" />
 		<equipment rhand="160" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2367.80290477825" hpRegen="7.5" mp="1219.8" mpRegen="2.7" />
+			<vitals hp="4807.433" hpRegen="7.5" mp="1219.8" mpRegen="2.7" />
 			<attack physical="603.79903" magical="412.31647" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="276.72752" magical="202.49719" />
 			<speed>
@@ -471,18 +471,9 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="6" /> <!-- HP Very High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="14" /> <!-- Strong M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
 			<skill id="4085" level="1" /> <!-- Critical Damage -->
 			<skill id="4086" level="1" /> <!-- Critical Chance -->
-			<skill id="4071" level="1" /> <!-- Bow Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>

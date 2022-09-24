@@ -421,7 +421,6 @@
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Spirits -->
 		</skillList>
-		<ai aggroRange="450" isAggressive="true" />
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<collision>
@@ -458,7 +457,6 @@
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Spirits -->
 		</skillList>
-		<ai aggroRange="450" isAggressive="true" />
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
 		<collision>
@@ -820,7 +818,6 @@
 			<skill id="4416" level="2" /> <!-- Magical Creatures -->
 			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
 		</skillList>
-		<ai aggroRange="500" isAggressive="true" />
 		<collision>
 			<radius normal="24" />
 			<height normal="19" />

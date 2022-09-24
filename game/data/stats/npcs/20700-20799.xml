@@ -1288,7 +1288,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20758" level="80" type="Monster" name="Dragon Bearer Captain" element="EARTH">
+	<npc id="20758" level="81" type="Monster" name="Dragon Bearer Captain" element="EARTH">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
@@ -1298,7 +1298,6 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="PhysicalSpecial" id="4032" level="9" /> <!-- NPC Strike -->
 			<minions name="Privates">
 				<npc id="20759" count="1" respawnTime="300" weightPoint="1" />
 				<npc id="20760" count="1" respawnTime="300" weightPoint="1" />
@@ -1307,7 +1306,7 @@
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="123" lhand="945" />
-		<acquire exp="35186" sp="3601" attributeExp="1144" />
+		<acquire exp="36071" sp="5721" attributeExp="1158" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="4041.03422549214" hpRegen="8.5" mp="2227.484" mpRegen="3" />
 			<attack physical="1844.02134215877" magical="1259.22752534588" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1323,31 +1322,18 @@
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
 			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
-			<skill id="4032" level="9" /> <!-- NPC Strike -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="500" clanHelpRange="300">
-			<clanList>
-				<clan>CAVE_SERVANT</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="11" grown="13" />
 			<height normal="27" grown="34" />
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="3168" max="3500" chance="70" /> <!-- Adena -->
+				<item id="57" min="2168" max="2500" chance="70" /> <!-- Adena -->
 				<item id="92476" min="1" max="1" chance="8.3578" /> <!-- Metal Ingot -->
 				<item id="92479" min="1" max="1" chance="8.3578" /> <!-- Metallograph -->
 				<item id="92481" min="1" max="1" chance="8.3578" /> <!-- Cloth -->
@@ -1379,7 +1365,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20759" level="80" type="Monster" name="Dragon Bearer Warrior" element="EARTH">
+	<npc id="20759" level="81" type="Monster" name="Dragon Bearer Warrior" element="EARTH">
 		<parameters>
 			<param name="MoveAroundSocial" value="167" />
 			<param name="MoveAroundSocial1" value="167" />
@@ -1389,12 +1375,11 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="PhysicalSpecial" id="4073" level="9" /> <!-- Stun -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="2" lhand="945" /> <!-- rhand: Long Sword lhand: Skeleton Buckler -->
-		<acquire exp="35805" sp="2908" attributeExp="1056" />
+		<acquire exp="36705" sp="4619" attributeExp="1069" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="4041.03422549214" hpRegen="8.5" mp="2227.484" mpRegen="3" />
 			<attack physical="1844.02134215877" magical="1259.22752534588" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
@@ -1410,16 +1395,8 @@
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
 			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
-			<skill id="4073" level="9" /> <!-- Stun -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -1468,7 +1445,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20760" level="80" type="Monster" name="Dragon Bearer Archer" element="EARTH">
+	<npc id="20760" level="81" type="Monster" name="Dragon Bearer Archer" element="EARTH">
 		<parameters>
 			<param name="MoveAroundSocial" value="157" />
 			<param name="MoveAroundSocial1" value="157" />
@@ -1477,12 +1454,11 @@
 			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
-			<skill name="PhysicalSpecial" id="4120" level="9" /> <!-- Stun -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
 		<equipment rhand="14" /> <!-- rhand: Bow -->
-		<acquire exp="35805" sp="2908" attributeExp="1056" />
+		<acquire exp="36705" sp="4619" attributeExp="1069" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="4041.03422549214" hpRegen="8.5" mp="2227.484" mpRegen="3" />
 			<attack physical="1844.02134215877" magical="1259.22752534588" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
@@ -1498,24 +1474,11 @@
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
 			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="14" /> <!-- Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="9" /> <!-- Bow -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
-			<skill id="4120" level="9" /> <!-- Stun -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai type="ARCHER" aggroRange="500" clanHelpRange="300" isAggressive="false">
-			<clanList>
-				<clan>CAVE_SERVANT</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="11" />
 			<height normal="27" />

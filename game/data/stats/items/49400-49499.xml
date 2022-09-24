@@ -1442,7 +1442,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
 	</item>
-	<item id="49493" name="Orfen's Earring Lv. 1" additionalName="15-day" type="Armor">
+	<item id="49493" name="Orfen's Earring Lv. 1" additionalName="2-day" type="Armor">
 		<!-- <Properties>. MP Consumption -2%. Received Healing +2%. Max MP +19. Silence Resistance and Atk. Rate +5%. Fear Resistance and Atk. Rate +5%. Hold Resistance and Atk. Rate +10%. Available for 15 d. Effects of two identical earrings do not stack. Cannot be enchanted. -->
 		<set name="icon" val="icon.accessory_earring_of_orfen_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1456,8 +1456,8 @@
 		<set name="is_stackable" val="false" />
 		<set name="commissionItemType" val="EARRING" />
 		<set name="handler" val="ItemSkills" />
-		<set name="enchant_enabled" val="true" />
-		<set name="time" val="21600" />
+		<set name="enchant_enabled" val="false" />
+		<set name="time" val="1440" />
 		<skills>
 			<skill id="3560" level="1" /> <!-- Orfen's Earring -->
 		</skills>

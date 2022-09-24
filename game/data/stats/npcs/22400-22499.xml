@@ -806,8 +806,7 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="92915" min="1" max="1" chance="100" /> <!-- Material: Bag of Low-grade Stuff - Sealed -->
-				<item id="92916" min="1" max="1" chance="100" /> <!-- Material: Animal Spirit - Sealed -->
+				<item id="92917" min="1" max="1" chance="100" /> <!-- 300k -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -1025,7 +1024,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<equipment rhand="95007" /> <!-- Dagger of Mana - Sealed -->
+		<equipment rhand="238" /> <!-- Dagger of Mana - Sealed -->
 		<acquire exp="129725" sp="5936" attributeExp="1216" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="61301.26582" hpRegen="10.2" mp="11290.8" mpRegen="3.6" />
@@ -1722,7 +1721,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<equipment rhand="95007" /> <!-- Dagger of Mana - Sealed -->
+		<equipment rhand="238" /> <!-- Dagger of Mana - Sealed -->
 		<acquire exp="351305" sp="21881" attributeExp="1800" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="214432.91139" hpRegen="10.2" mp="11928" mpRegen="3.6" />
@@ -2409,7 +2408,7 @@
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<equipment rhand="95007" /> <!-- Dagger of Mana - Sealed -->
+		<equipment rhand="238" /> <!-- Dagger of Mana - Sealed -->
 		<acquire exp="2710714" sp="21881" attributeExp="1800" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="428865.82278" hpRegen="10.2" mp="11928" mpRegen="3.6" />

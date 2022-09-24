@@ -2704,12 +2704,12 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21962" level="66" type="Monster" name="Wild Strider" element="EARTH">
+	<npc id="21962" level="80" type="Monster" name="Wild Strider" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="3943" sp="1092" attributeExp="23" />
+		<acquire exp="12607" sp="3070" attributeExp="845" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2367.80290477825" hpRegen="7.5" mp="1219.8" mpRegen="2.7" />
+			<vitals hp="4041.03422549214" hpRegen="7.5" mp="1219.8" mpRegen="2.7" />
 			<attack physical="603.79903" magical="412.31647" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="276.72752" magical="202.49719" />
 			<speed>
@@ -2722,14 +2722,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="6" /> <!-- HP Very High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Very High x2 -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
@@ -2743,12 +2736,12 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21963" level="71" type="Monster" name="Elroki" element="EARTH">
+	<npc id="21963" level="80" type="Monster" name="Elroki" element="EARTH">
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
-		<acquire exp="4563" sp="1264" attributeExp="32" />
+		<acquire exp="12607" sp="3070" attributeExp="845" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2629.45885739491" hpRegen="8.5" mp="1377.8" mpRegen="3" />
+			<vitals hp="4041.03422549214" hpRegen="8.5" mp="1377.8" mpRegen="3" />
 			<attack physical="710.2185" magical="484.98717" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="300.65359" magical="220.00525" />
 			<speed>
@@ -2761,14 +2754,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
-			<skill id="4408" level="6" /> <!-- HP Very High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Very High x2 -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
@@ -2782,12 +2768,12 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21964" level="67" type="Monster" name="Pachycephalosaurus" element="EARTH">
+	<npc id="21964" level="80" type="Monster" name="Pachycephalosaurus" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="8126" sp="885" attributeExp="25" />
+		<acquire exp="12607" sp="3070" attributeExp="845" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2421.39403210377" hpRegen="7.5" mp="1251" mpRegen="2.7" />
+			<vitals hp="4041.03422549214" hpRegen="7.5" mp="1251" mpRegen="2.7" />
 			<attack physical="624.93199" magical="426.74754" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="281.55251" magical="206.02791" />
 			<speed>
@@ -2800,16 +2786,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="13" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
-			<skill id="4071" level="2" /> <!-- Bow Resistance -->
 			<skill id="5620" level="8" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -2822,12 +2800,12 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21966" level="68" type="Monster" name="Ornithomimus" element="EARTH">
+	<npc id="21966" level="80" type="Monster" name="Ornithomimus" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="4181" sp="1182" attributeExp="26" />
+		<acquire exp="12607" sp="3070" attributeExp="845" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2474.43773844242" hpRegen="7.5" mp="1282.4" mpRegen="2.7" />
+			<vitals hp="4041.03422549214" hpRegen="7.5" mp="1282.4" mpRegen="2.7" />
 			<attack physical="646.17968" magical="441.25696" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="286.3615" magical="209.54692" />
 			<speed>
@@ -2840,14 +2818,7 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="6" /> <!-- HP Very High -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Very High x2 -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
@@ -2904,12 +2875,12 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21968" level="69" type="Monster" name="Ornithomimus" element="EARTH">
+	<npc id="21968" level="80" type="Monster" name="Ornithomimus" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="8618" sp="1255" attributeExp="28" />
+		<acquire exp="12607" sp="3070" attributeExp="845" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2526.85161916379" hpRegen="7.5" mp="1314" mpRegen="2.7" />
+			<vitals hp="4041.03422549214" hpRegen="7.5" mp="1314" mpRegen="2.7" />
 			<attack physical="667.50361" magical="455.81844" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="291.15063" magical="213.05139" />
 			<speed>
@@ -2922,18 +2893,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
-			<skill id="4085" level="1" /> <!-- Critical Damage -->
-			<skill id="4086" level="1" /> <!-- Critical Chance -->
-			<skill id="4071" level="2" /> <!-- Bow Resistance -->
 			<skill id="5620" level="8" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -2946,12 +2907,12 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21969" level="74" type="Monster" name="Deinonychus" element="EARTH">
+	<npc id="21969" level="80" type="Monster" name="Deinonychus" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="9912" sp="1443" attributeExp="38" />
+		<acquire exp="12607" sp="3070" attributeExp="845" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2776.57843923523" hpRegen="8.5" mp="1475" mpRegen="3" />
+			<vitals hp="4041.03422549214" hpRegen="8.5" mp="1475" mpRegen="3" />
 			<attack physical="773.81598" magical="528.41601" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="314.65987" magical="230.25444" />
 			<speed>
@@ -2964,16 +2925,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
-			<skill id="4071" level="2" /> <!-- Bow Resistance -->
 			<skill id="5620" level="8" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -3027,14 +2980,14 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21971" level="80" type="Monster" name="Velociraptor" element="EARTH">
+	<npc id="21971" level="85" type="Monster" name="Velociraptor" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="10374" sp="839" attributeExp="360" />
+		<acquire exp="34222" sp="9739" attributeExp="360" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2869.17670907346" hpRegen="8.5" mp="1540.8" mpRegen="3" />
-			<attack physical="824.422073095" magical="562.9734023" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="323.78455" magical="236.93149" />
+			<vitals hp="5543.85675" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="1824.422073095" magical="2562.9734023" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="523.78455" magical="336.93149" />
 			<speed>
 				<walk ground="33" />
 				<run ground="210" />
@@ -3045,16 +2998,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Increase (3x) -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
-			<skill id="4071" level="2" /> <!-- Bow Resistance -->
 			<skill id="5620" level="8" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -3064,7 +3009,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="355" max="828" chance="100" /> <!-- Adena -->
+					<item id="57" min="638" max="705" chance="100" /> <!-- Adena -->
 				</group>
 			</drop>
 		</dropLists>
@@ -3151,14 +3096,14 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21974" level="80" type="Monster" name="Ornithomimus" element="EARTH">
+	<npc id="21974" level="85" type="Monster" name="Ornithomimus" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="10635" sp="1589" attributeExp="440" />
+		<acquire exp="34222" sp="9739" attributeExp="899" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2956.64545357656" hpRegen="8.5" mp="1607.4" mpRegen="3" />
-			<attack physical="890.50085998804" magical="608.096657928153" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="332.70061" magical="243.45587" />
+			<vitals hp="5543.85675" hpRegen="8.5" mp="1607.4" mpRegen="3" />
+			<attack physical="1890.50085998804" magical="1208.096657928153" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="532.70061" magical="443.45587" />
 			<speed>
 				<walk ground="36" />
 				<run ground="200" />
@@ -3170,15 +3115,7 @@
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
 			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
-			<skill id="4071" level="2" /> <!-- Bow Resistance -->
 			<skill id="5620" level="8" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -3232,14 +3169,14 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21976" level="80" type="Monster" name="Deinonychus" element="EARTH">
+	<npc id="21976" level="85" type="Monster" name="Deinonychus" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="10723" sp="2467" attributeExp="480" />
+		<acquire exp="34222" sp="9739" attributeExp="899" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2998.26357950914" hpRegen="8.5" mp="1641" mpRegen="3" />
-			<attack physical="929.930814318487" magical="635.022195830619" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="337.07008" magical="246.65326" />
+			<vitals hp="5543.85675" hpRegen="8.5" mp="1641" mpRegen="3" />
+			<attack physical="1929.930814318487" magical="835.022195830619" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="537.07008" magical="446.65326" />
 			<speed>
 				<walk ground="24" />
 				<run ground="190" />
@@ -3250,16 +3187,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="10" /> <!-- HP Increase (3x) -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
-			<skill id="4071" level="2" /> <!-- Bow Resistance -->
 			<skill id="5620" level="8" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -3313,12 +3242,12 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21978" level="80" type="Monster" name="Tyrannosaurus" element="EARTH">
+	<npc id="21978" level="85" type="Monster" name="Tyrannosaurus" element="EARTH">
 		<race>BEAST</race>
 		<sex>MALE</sex>
-		<acquire exp="21632" sp="2696" attributeExp="520" />
+		<acquire exp="47911" sp="13635" attributeExp="899" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3038.37159811439" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<vitals hp="5543.85675" hpRegen="8.5" mp="1674.8" mpRegen="3" />
 			<attack physical="970.537548504614" magical="662.751329129412" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="341.375" magical="249.80341" />
 			<speed>
@@ -3331,16 +3260,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="3" /> <!-- Beasts -->
-			<skill id="4408" level="14" /> <!-- HP Increase (6x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="16" /> <!-- Very Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="14" /> <!-- Strong P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="13" /> <!-- HP Increase (5x) -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
-			<skill id="4071" level="2" /> <!-- Bow Resistance -->
 			<skill id="5620" level="8" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -3873,12 +3794,12 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21989" level="76" type="Monster" name="Ghost of the Tower" element="WIND">
+	<npc id="21989" level="77" type="Monster" name="Ghost of the Tower" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="9283" sp="3385" attributeExp="752" />
+		<acquire exp="10909" sp="3474" attributeExp="762" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3816.0050230677" hpRegen="8.5" mp="2049.264" mpRegen="3" />
+			<vitals hp="8155.304542" hpRegen="8.5" mp="2049.264" mpRegen="3" />
 			<attack physical="1566.4019388805" magical="1069.64946437" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="414.444224" magical="303.2723072" />
 			<speed>
@@ -3891,17 +3812,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -3917,9 +3829,9 @@
 	<npc id="21990" level="77" type="Monster" name="Tower Watchman" element="WIND">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="9425" sp="4228" attributeExp="847" />
+		<acquire exp="10909" sp="4227" attributeExp="847" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3875.07630825451" hpRegen="8.5" mp="2093.42" mpRegen="3" />
+			<vitals hp="8155.304542" hpRegen="8.5" mp="2093.42" mpRegen="3" />
 			<attack physical="1627.23706201287" magical="1111.19198517759" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="420.1865344" magical="307.4742656" />
 			<speed>
@@ -3932,17 +3844,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -3993,9 +3896,9 @@
 	<npc id="21991" level="78" type="Monster" name="Ghastly Warrior" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="7985" sp="5154" attributeExp="943" />
+		<acquire exp="8213" sp="5153" attributeExp="944" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3932.33845325683" hpRegen="8.5" mp="2137.842" mpRegen="3" />
+			<vitals hp="8277.63411013" hpRegen="8.5" mp="2137.842" mpRegen="3" />
 			<attack physical="1691.95163397728" magical="1155.38365006349" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
 			<defence physical="425.8567808" magical="311.6235136" />
 			<speed>
@@ -4008,17 +3911,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="7" /> <!-- Dagger -->
+			<skill id="4408" level="4" /> <!-- HP Increase (1/2) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4060,13 +3954,13 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21992" level="79" type="Monster" name="Archer of Despair" element="WIND">
+	<npc id="21992" level="78" type="Monster" name="Archer of Despair" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="9605" sp="2834" attributeExp="1042" />
+		<acquire exp="11073" sp="2762" attributeExp="1030" />
 		<equipment rhand="284" /> <!-- Dark Elven Longbow -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3987.69056074716" hpRegen="8.5" mp="2182.53" mpRegen="3" />
+			<vitals hp="8277.63411013" hpRegen="8.5" mp="2182.53" mpRegen="3" />
 			<attack physical="1766.86854720512" magical="1206.54217207818" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
 			<defence physical="431.4497024" magical="315.7161728" />
 			<speed>
@@ -4079,17 +3973,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="9" /> <!-- Bow -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4130,12 +4015,12 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21993" level="80" type="Monster" name="Judge of Despair" element="WIND">
+	<npc id="21993" level="79" type="Monster" name="Judge of Despair" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="15367" sp="5396" attributeExp="1144" />
+		<acquire exp="14604" sp="5261" attributeExp="1130" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="4041.03422549214" hpRegen="8.5" mp="2227.484" mpRegen="3" />
+			<vitals hp="8401.79862178195" hpRegen="8.5" mp="2227.484" mpRegen="3" />
 			<attack physical="1844.02134215877" magical="1259.22752534588" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
 			<defence physical="436.96" magical="319.7483648" />
 			<speed>
@@ -4148,17 +4033,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="13" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="7" /> <!-- Dagger -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4168,11 +4044,11 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="865" max="2023" chance="100" /> <!-- Adena -->
+					<item id="57" min="1013" max="1119" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.0681">
-					<item id="90045" min="1" max="1" chance="99.0099" /> <!-- Magical Tablet -->
-					<item id="93903" min="1" max="1" chance="0.9901" /> <!-- Antharas' Lair's Time Stone -->
+				<group chance="100">
+					<item id="90045" min="1" max="1" chance="1.15" /> <!-- Magical Tablet -->
+					<item id="93903" min="1" max="1" chance="0.1901" /> <!-- Antharas' Lair's Time Stone -->
 				</group>
 				<group chance="11.1162">
 					<item id="92909" min="1" max="1" chance="11.5616" /> <!-- Material: Pack of Knickknacks - Sealed -->
@@ -4208,12 +4084,12 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21994" level="76" type="Monster" name="Crendion" element="WIND">
+	<npc id="21994" level="79" type="Monster" name="Crendion" element="WIND">
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="9745" sp="3385" attributeExp="752" />
+		<acquire exp="11671" sp="3657" attributeExp="782" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3816.0050230677" hpRegen="8.5" mp="2049.264" mpRegen="3" />
+			<vitals hp="8401.79862178195" hpRegen="8.5" mp="2049.264" mpRegen="3" />
 			<attack physical="1566.4019388805" magical="1069.64946437" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="414.444224" magical="303.2723072" />
 			<speed>
@@ -4224,24 +4100,10 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai clanHelpRange="300" aggroRange="450" isAggressive="true">
-			<clanList>
-				<clan>CRENDION</clan>
-			</clanList>
-		</ai>
 		<skillList>
 			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4255,13 +4117,13 @@
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="21995" level="77" type="Monster" name="Swordsman of Ordeal" element="WIND">
+	<npc id="21995" level="79" type="Monster" name="Swordsman of Ordeal" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="11876" sp="4228" attributeExp="847" />
+		<acquire exp="11671" sp="4450" attributeExp="869" />
 		<equipment rhand="79" /> <!-- Damascus Sword -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3875.07630825451" hpRegen="8.5" mp="2093.42" mpRegen="3" />
+			<vitals hp="8401.79862178195" hpRegen="8.5" mp="2093.42" mpRegen="3" />
 			<attack physical="1627.23706201287" magical="1111.19198517759" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
 			<defence physical="420.1865344" magical="307.4742656" />
 			<speed>
@@ -4274,17 +4136,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="11" /> <!-- HP Increase (3x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4306,12 +4159,12 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21996" level="78" type="Monster" name="Hound of Destruction" element="WIND">
+	<npc id="21996" level="79" type="Monster" name="Hound of Destruction" element="WIND">
 		<race>ANIMAL</race>
 		<sex>MALE</sex>
-		<acquire exp="9990" sp="5154" attributeExp="943" />
+		<acquire exp="11671" sp="5286" attributeExp="956" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3932.33845325683" hpRegen="8.5" mp="2137.842" mpRegen="3" />
+			<vitals hp="8401.79862178195" hpRegen="8.5" mp="2137.842" mpRegen="3" />
 			<attack physical="1691.95163397728" magical="1155.38365006349" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="425.8567808" magical="311.6235136" />
 			<speed>
@@ -4324,17 +4177,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="4" /> <!-- Animals -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4355,13 +4199,13 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21997" level="79" type="Monster" name="Royal Guard of Insolence" element="WIND">
+	<npc id="21997" level="80" type="Monster" name="Royal Guard of Insolence" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="10086" sp="2834" attributeExp="1042" />
+		<acquire exp="12096" sp="2906" attributeExp="1056" />
 		<equipment rhand="946" lhand="945" /> <!-- Skeleton Dagger / Skeleton Buckler -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3987.69056074716" hpRegen="8.5" mp="2182.53" mpRegen="3" />
+			<vitals hp="8527.82560110868" hpRegen="8.5" mp="2182.53" mpRegen="3" />
 			<attack physical="1766.86854720512" magical="1206.54217207818" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
 			<defence physical="431.4497024" magical="315.7161728" />
 			<speed>
@@ -4374,17 +4218,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="14" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="7" /> <!-- Dagger -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4418,13 +4253,13 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21998" level="79" type="Monster" name="Archer of Insolence" element="WIND">
+	<npc id="21998" level="80" type="Monster" name="Archer of Insolence" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="10086" sp="2834" attributeExp="1042" />
+		<acquire exp="12096" sp="2906" attributeExp="1056" />
 		<equipment rhand="284" /> <!-- Dark Elven Longbow -->
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="3987.69056074716" hpRegen="8.5" mp="2182.53" mpRegen="3" />
+			<vitals hp="8527.82560110868" hpRegen="8.5" mp="2182.53" mpRegen="3" />
 			<attack physical="1766.86854720512" magical="1206.54217207818" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0" />
 			<defence physical="431.4497024" magical="315.7161728" />
 			<speed>
@@ -4437,17 +4272,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="10" /> <!-- HP Increase (2x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="9" /> <!-- Bow -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4457,7 +4283,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="563" max="1315" chance="100" /> <!-- Adena -->
+					<item id="57" min="728" max="804" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0009">
 					<item id="93903" min="1" max="1" chance="100" /> <!-- Antharas' Lair's Time Stone -->
@@ -4490,9 +4316,9 @@
 	<npc id="21999" level="80" type="Monster" name="Haughty Judge" element="WIND">
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="16135" sp="5396" attributeExp="1144" />
+		<acquire exp="15488" sp="5395" attributeExp="1144" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="4041.03422549214" hpRegen="8.5" mp="2227.484" mpRegen="3" />
+			<vitals hp="8527.82560110868" hpRegen="8.5" mp="2227.484" mpRegen="3" />
 			<attack physical="1844.02134215877" magical="1259.22752534588" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
 			<defence physical="436.96" magical="319.7483648" />
 			<speed>
@@ -4505,17 +4331,8 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="12" /> <!-- HP Increase (4x) -->
-			<skill id="4409" level="10" /> <!-- MP Increase (2x) -->
-			<skill id="4410" level="15" /> <!-- Strong P. Atk. -->
-			<skill id="4411" level="15" /> <!-- Strong M. Atk. -->
-			<skill id="4412" level="13" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="20" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="7" /> <!-- Dagger -->
+			<skill id="4408" level="3" /> <!-- HP Increase (Medium High) -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="3" /> <!-- Greater Bow Resistance -->
-			<skill id="4116" level="8" /> <!-- Magic Damage Resistance -->
 			<skill id="5620" level="3" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<collision>
@@ -4525,6 +4342,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="932" max="1030" chance="70" /> <!-- Adena -->
+				<item id="90045" min="1" max="1" chance="1.78" /> <!-- Magical Tablet -->
 				<item id="3031" min="1" max="1" chance="2.3057" /> <!-- Spirit Ore - Sealed -->
 				<item id="92476" min="1" max="1" chance="1.8445" /> <!-- Metal Ingot -->
 				<item id="92479" min="1" max="1" chance="1.8445" /> <!-- Metallograph -->
@@ -4537,8 +4355,8 @@
 				<item id="92855" min="1" max="1" chance="0.0013" /> <!-- Elemental Sword Edge -->
 				<item id="93903" min="1" max="1" chance="0.001" /> <!-- Antharas' Lair's Time Stone -->
 				<item id="95569" min="1" max="1" chance="0.0184" /> <!-- Adena Pouch - Sealed -->
-				<item id="95783" min="1" max="1" chance="0.0055" /> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
-				<item id="91745" min="1" max="1" chance="0.0011" /> <!-- Talisman of Aden - Sealed -->
+				<item id="95783" min="1" max="1" chance="0.0531" /> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
+				<item id="91745" min="1" max="1" chance="0.0111" /> <!-- Talisman of Aden - Sealed -->
 				<item id="287" min="1" max="1" chance="0.001" /> <!-- Bow of Peril -->
 				<item id="2398" min="1" max="1" chance="0.001" /> <!-- Blue Wolf Tunic -->
 				<item id="2403" min="1" max="1" chance="0.0012" /> <!-- Blue Wolf Stockings -->

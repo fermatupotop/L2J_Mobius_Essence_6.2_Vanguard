@@ -1056,6 +1056,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="1" /> <!-- Venir Talisman -->
 		</skills>
@@ -1070,6 +1071,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="2" /> <!-- Venir Talisman -->
 		</skills>
@@ -1084,6 +1086,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="3" /> <!-- Venir Talisman -->
 		</skills>
@@ -1098,6 +1101,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="4" /> <!-- Venir Talisman -->
 		</skills>
@@ -1112,6 +1116,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="5" /> <!-- Venir Talisman -->
 		</skills>
@@ -1126,6 +1131,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="6" /> <!-- Venir Talisman -->
 		</skills>
@@ -1140,6 +1146,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="7" /> <!-- Venir Talisman -->
 		</skills>
@@ -1154,6 +1161,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="8" /> <!-- Venir Talisman -->
 		</skills>
@@ -1168,6 +1176,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="9" /> <!-- Venir Talisman -->
 		</skills>
@@ -1182,6 +1191,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="10" /> <!-- Venir Talisman -->
 		</skills>
@@ -1196,6 +1206,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="11" /> <!-- Venir Talisman -->
 		</skills>
@@ -1210,6 +1221,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="12" /> <!-- Venir Talisman -->
 		</skills>
@@ -1224,6 +1236,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="13" /> <!-- Venir Talisman -->
 		</skills>
@@ -1238,6 +1251,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="14" /> <!-- Venir Talisman -->
 		</skills>
@@ -1252,6 +1266,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="15" /> <!-- Venir Talisman -->
 		</skills>
@@ -1266,6 +1281,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="16" /> <!-- Venir Talisman -->
 		</skills>
@@ -1280,6 +1296,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="17" /> <!-- Venir Talisman -->
 		</skills>
@@ -1294,6 +1311,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_tradable" val="false" />
+		<set name="is_freightable" val="true" />
 		<skills>
 			<skill id="18024" level="18" /> <!-- Venir Talisman -->
 		</skills>

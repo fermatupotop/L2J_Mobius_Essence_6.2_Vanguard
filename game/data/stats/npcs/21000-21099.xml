@@ -2219,8 +2219,11 @@
 			<height normal="20" grown="24" />
 		</collision>
 	</npc>
-		<npc id="21037" level="65" type="Monster" name="Nova Beast" title="Cruma Guardian">
+	<npc id="21037" level="47" type="Monster" name="Nova Beast" title="Device Guardian">
 		<parameters>
+			<param name="MoveAroundSocial" value="40" />
+			<param name="MoveAroundSocial1" value="40" />
+			<param name="MoveAroundSocial2" value="40" />
 			<param name="IsAggressive" value="1" />
 			<param name="Attack_DecayRatio" value="30" />
 			<param name="SoulShot" value="100" />
@@ -2228,17 +2231,18 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
+			<skill name="Skill01_ID" id="4032" level="4" />
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="120000" sp="3404" />
-		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="31615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
-			<attack physical="710.8508484" magical="551.612985" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="1631.34198" magical="795.84" />
+		<acquire exp="14093" sp="423" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1346.55725878612" hpRegen="5.5" mp="665" mpRegen="2.1" />
+			<attack physical="261.69549" magical="178.7041" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="186.63569" magical="136.5719" />
 			<speed>
-				<walk ground="40" />
-				<run ground="170" />
+				<walk ground="70" />
+				<run ground="174" />
 			</speed>
 			<hitTime>410</hitTime>
 			<abnormalResist physical="10" magical="10" />
@@ -2256,6 +2260,7 @@
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4095" level="1" /> <!-- Damage Shield -->
 			<skill id="5549" level="1" /> <!-- Melee Attack Vulnerability -->
+			<skill id="4032" level="4" /> <!-- NPC Strike -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -2267,7 +2272,7 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="800" max="1230" chance="100" /> <!-- Adena -->
+					<item id="57" min="66" max="155" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.0032">
 					<item id="162" min="1" max="1" chance="0.363" /> <!-- War Axe -->

@@ -107,7 +107,11 @@
 			<skill id="4415" level="5" /> <!-- Blunt Weapon -->
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
-
+		<ai clanHelpRange="300" aggroRange="450">
+			<clanList>
+				<clan>GOBLIN</clan>
+			</clanList>
+		</ai>
 		<collision>
 			<radius normal="10" />
 			<height normal="16.5" />
@@ -4033,7 +4037,7 @@
 		<equipment rhand="88" /> <!-- rhand: Morning Star -->
 		<acquire exp="525" sp="42" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="359.224016948565" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
+			<vitals hp="459.224016948565" hpRegen="3.5" mp="245.52" mpRegen="1.5" />
 			<attack physical="60.19687" magical="41.10666" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
 			<defence physical="98.70919" magical="72.2311" />
 			<speed>
@@ -4144,7 +4148,7 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
+			<skill name="Buff" id="4031" level="2" />
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
@@ -4172,6 +4176,7 @@
 			<skill id="4413" level="10" /> <!-- Slightly Weak M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<skill id="4031" level="2" /> <!-- NPC Clan Aegis -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -4813,7 +4818,7 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
+			<skill name="Buff" id="4030" level="2" />
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
@@ -4841,7 +4846,7 @@
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-
+			<skill id="4030" level="2" /> <!-- NPC Clan Might -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>

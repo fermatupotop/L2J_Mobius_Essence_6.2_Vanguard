@@ -1181,7 +1181,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
 	</item>
-	<item id="96185" name="Onyx Lv. 4 (Time-limited)" additionalName="Sealed" type="Armor">
+	<item id="96185" name="Onyx Lv. 4 (Time-limited)"  additionalName="2-day" type="Armor">
 		<!-- <Properties> Soulshot/ Spiritshot damage +8% <font color=eeaa22><Permanent item craft></font> Can be created in the Accessories tab of the Special Craft window. <font color=ff6666>Note!</font> Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->
 		<set name="icon" val="icon.etc_bm_jewel_onyx_i00" />
 		<set name="default_action" val="EQUIP" />
@@ -1192,7 +1192,12 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
-		<set name="is_freightable" val="true" />
+		<set name="is_stackable" val="false" />
+		<set name="is_freightable" val="false" />
+		<set name="time" val="1440" />
+				<skills>
+			<skill id="50204" level="4" /> <!-- Gem: Onyx -->
+		</skills>
 	</item>
 	<item id="96186" name="Spinel Lv. 4 (Time-limited)" additionalName="Sealed" type="Armor">
 		<!-- <Properties> DEX/ WIT +1 CON/ MEN +1 Received P. Critical Damage -4% Received M. Skill Critical Damage -4% P. Def. +100 M. Def. +60 With a certain chance, recovers 30 MP when using skills (cooldown: 3 sec.). <font color=eeaa22><Permanent item craft></font> Can be created in the Accessories tab of the Special Crfat windown. <font color=ff6666>Note!</font> Effects of two identical jewels do not stack, the higher-level jewel takes precedence. -->

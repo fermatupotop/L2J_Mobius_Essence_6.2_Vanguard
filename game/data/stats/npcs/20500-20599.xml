@@ -529,6 +529,11 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
+			<clanList>
+				<clan>ALL</clan>
+			</clanList>
+		</ai>
 		<collision>
 			<radius normal="26" />
 			<height normal="25.5" />
@@ -2993,7 +2998,7 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
+			<skill name="Buff" id="4029" level="2" />
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
@@ -3020,7 +3025,7 @@
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-
+			<skill id="4029" level="2" /> <!-- NPC Shield -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -3143,7 +3148,7 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
+			<skill name="Buff" id="4074" level="2" />
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
@@ -3171,7 +3176,7 @@
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-
+			<skill id="4074" level="2" /> <!-- NPC Haste -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -3292,7 +3297,10 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
+			<skill name="SelfBuff1" id="4089" level="1" />
+			<skill name="SelfBuff2" id="4090" level="1" />
+			<skill name="SelfBuff3" id="4092" level="1" />
+			<skill name="SelfBuff4" id="4091" level="1" />
 		</parameters>
 		<race>GIANT</race>
 		<sex>MALE</sex>
@@ -3319,7 +3327,10 @@
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-
+			<skill id="4089" level="1" /> <!-- NPC Bear Spirit Totem -->
+			<skill id="4090" level="1" /> <!-- NPC Wolf Spirit Totem -->
+			<skill id="4091" level="1" /> <!-- NPC Ogre Spirit Totem -->
+			<skill id="4092" level="1" /> <!-- NPC Puma Spirit Totem -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -3354,7 +3365,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20555" level="40" type="Monster" name="Giant Fungus" element="WATER">
+	<npc id="20555" level="41" type="Monster" name="Giant Fungus" element="WATER">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -3364,13 +3375,12 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
 		</parameters>
 		<race>PLANT</race>
 		<sex>MALE</sex>
-		<acquire exp="2051" sp="101" attributeExp="4" />
+		<acquire exp="2051" sp="106" attributeExp="4" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1019.59695680077" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
+			<vitals hp="1755.663" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
 			<attack physical="176.36077" magical="120.43155" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="156.55035" magical="114.55675" />
 			<speed>
@@ -3383,25 +3393,21 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="5" /> <!-- Plants -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="11" /> <!-- Average Damage Dealer -->
-			<skill id="4411" level="11" /> <!-- Average M. Atk. -->
-			<skill id="4412" level="11" /> <!-- Average P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" />  MP Increase (1x) -->
+			<!--<skill id="4410" level="11" />  Average Damage Dealer -->
+			<!--<skill id="4411" level="11" />  Average M. Atk. -->
+			<!-- <skill id="4412" level="11" /> Average P. Def. -->
+			<!--<skill id="4413" level="11" />  Average M. Def. -->
+			<!--<skill id="4414" level="2" /> Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
 			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4277" level="5" /> <!-- Infection Resistance -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
-
+			<!--<skill id="4277" level="5" />  Infection Resistance -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" />  Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
-
-		</ai>
 		<collision>
 			<radius normal="15" />
 			<height normal="31.3" />
@@ -3445,7 +3451,6 @@
 		</dropLists>
 	</npc>
 	<npc id="20556" level="41" type="Monster" name="Giant Monster Eye" element="WATER">
-		<!-- L2wiki: https://l2wiki.com/classic/Giant_Monster_Eye -->
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -3454,13 +3459,12 @@
 			<param name="SoulShotRate" value="5" />
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
-
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2051" sp="107" attributeExp="4" />
+		<acquire exp="2051" sp="106" attributeExp="4" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1063.54199060681" hpRegen="5.5" mp="504.8" mpRegen="2.1" />
+			<vitals hp="1755.663" hpRegen="5.5" mp="504.8" mpRegen="2.1" />
 			<attack physical="187.11878" magical="127.77787" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="160.69002" magical="117.58598" />
 			<speed>
@@ -3473,23 +3477,20 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" />  MP Increase (1x) -->
+			<!--<skill id="4410" level="12" />  Slightly Strong P. Atk. -->
+			<!--<skill id="4411" level="12" />  Slightly Strong M. Atk. -->
+			<!--<skill id="4412" level="10" />  Slightly Weak P. Def. -->
+			<!--<skill id="4413" level="11" />  Average M. Def. -->
+			<!--<skill id="4414" level="2" />  Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
+			<skill id="48045" level="1" />  <!-- Water Attribute Monster -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" />  Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="500" clanHelpRange="300" isAggressive="false">
-
-		</ai>
 		<collision>
 			<radius normal="29" />
 			<height normal="60" />
@@ -3533,7 +3534,6 @@
 		</dropLists>
 	</npc>
 	<npc id="20557" level="42" type="Monster" name="Dire Wyrm" element="WATER">
-		<!-- L2wiki: https://l2wiki.com/classic/Dire_Wyrm -->
 		<parameters>
 			<param name="MoveAroundSocial" value="60" />
 			<param name="MoveAroundSocial1" value="60" />
@@ -3546,9 +3546,9 @@
 		</parameters>
 		<race>DRAGON</race>
 		<sex>MALE</sex>
-		<acquire exp="2155" sp="111" attributeExp="4" />
+		<acquire exp="2205" sp="111" attributeExp="5" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1108.45623972656" hpRegen="5.5" mp="531" mpRegen="2.1" />
+			<vitals hp="1825.89" hpRegen="5.5" mp="531" mpRegen="2.1" />
 			<attack physical="198.34591" magical="135.44454" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="164.88513" magical="120.65578" />
 			<speed>
@@ -3561,21 +3561,20 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="10" /> <!-- Dragons -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" />  MP Increase (1x) -->
+			<!--<skill id="4410" level="10" />  Slightly Weak P. Atk. -->
+			<!--<skill id="4411" level="10" />  Slightly Weak M. Atk. -->
+			<!--<skill id="4412" level="12" />  Slightly Strong P. Def. -->
+			<!--<skill id="4413" level="12" />  Slightly Strong M. Def. -->
+			<!--<skill id="4414" level="2" />  Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
 			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" />  Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="500" clanHelpRange="300" />
 		<collision>
 			<radius normal="29" />
 			<height normal="72" />
@@ -3618,7 +3617,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20558" level="43" type="Monster" name="Rotting Tree" element="WATER">
+	<npc id="20558" level="42" type="Monster" name="Rotting Tree" element="WATER">
 		<parameters>
 			<param name="MoveAroundSocial" value="100" />
 			<param name="MoveAroundSocial1" value="100" />
@@ -3631,9 +3630,9 @@
 		</parameters>
 		<race>PLANT</race>
 		<sex>MALE</sex>
-		<acquire exp="2367" sp="116" attributeExp="4" />
+		<acquire exp="2205" sp="111" attributeExp="5" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1154.31374327461" hpRegen="5.5" mp="557.4" mpRegen="2.1" />
+			<vitals hp="1825.89" hpRegen="5.5" mp="557.4" mpRegen="2.1" />
 			<attack physical="210.04832" magical="143.43577" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="169.13417" magical="123.76505" />
 			<speed>
@@ -3646,23 +3645,21 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="5" /> <!-- Plants -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" />  MP Increase (1x) -->
+			<!--<skill id="4410" level="10" />  Slightly Weak P. Atk. -->
+			<!--<skill id="4411" level="10" />  Slightly Weak M. Atk. -->
+			<!--<skill id="4412" level="12" />  Slightly Strong P. Def. -->
+			<!--<skill id="4413" level="12" />  Slightly Strong M. Def. -->
+			<!--<skill id="4414" level="2" />  Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
 			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
-			<skill id="4076" level="3" /> <!-- Decrease Speed -->
+			<!--<skill id="4274" level="1" />  Blunt Weapon Vulnerability -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" />  Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450" />
 		<collision>
 			<radius normal="35" grown="42" />
 			<height normal="80" grown="96" />
@@ -3702,8 +3699,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20559" level="44" type="Monster" name="Rotting Golem" element="WATER">
-		<!-- L2wiki: https://l2wiki.com/classic/Rotting_Golem -->
+	<npc id="20559" level="43" type="Monster" name="Rotting Golem" element="WATER">
 		<parameters>
 			<param name="MoveAroundSocial" value="116" />
 			<param name="MoveAroundSocial1" value="116" />
@@ -3713,13 +3709,12 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
-		<acquire exp="2367" sp="138" attributeExp="5" />
+		<acquire exp="2367" sp="131" attributeExp="5" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1201.08570061422" hpRegen="5.5" mp="584" mpRegen="2.1" />
+			<vitals hp="1898.925" hpRegen="5.5" mp="584" mpRegen="2.1" />
 			<attack physical="222.23112" magical="151.75505" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="173.43552" magical="126.91259" />
 			<speed>
@@ -3732,21 +3727,21 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="19" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4444" level="2" /> <!-- Greater Bow Resistance -->
-			<skill id="4273" level="3" /> <!-- Dagger Resistance -->
-			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-			<skill id="4284" level="5" /> <!-- Infection Resistance -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" />  MP Increase (1x) -->
+			<!--<skill id="4410" level="10" />  Slightly Weak P. Atk. -->
+			<!--<skill id="4411" level="10" />  Slightly Weak M. Atk. -->
+			<!--<skill id="4412" level="12" />  Slightly Strong P. Def. -->
+			<!--<skill id="4413" level="19" />  Extremely Strong M. Def. -->
+			<!--<skill id="4414" level="2" />  Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
+			<skill id="48045" level="1" />  <!-- Water Attribute Monster -->
+			<!--<skill id="4444" level="2" />  Greater Bow Resistance -->
+			<!--<skill id="4273" level="3" />  Dagger Resistance -->
+			<!--<skill id="4274" level="1" />  Blunt Weapon Vulnerability -->
+			<!--<skill id="4284" level="5" />  Infection Resistance -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" />  Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -3790,8 +3785,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20560" level="45" type="Monster" name="Trisalim" element="WATER">
-		<!-- L2wiki: https://l2wiki.com/classic/Trisalim -->
+	<npc id="20560" level="43" type="Monster" name="Trisalim" element="WATER">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -3804,9 +3798,9 @@
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="2367" sp="129" attributeExp="5" />
+		<acquire exp="2367" sp="117" attributeExp="5" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1248.74044783714" hpRegen="5.5" mp="610.8" mpRegen="2.1" />
+			<vitals hp="1898.925" hpRegen="5.5" mp="610.8" mpRegen="2.1" />
 			<attack physical="234.89829" magical="160.40508" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="177.78746" magical="130.09715" />
 			<speed>
@@ -3819,17 +3813,17 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="12" /> <!-- Bugs -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" />  MP Increase (1x) -->
+			<!--<skill id="4410" level="12" />  Slightly Strong P. Atk. -->
+			<!--<skill id="4411" level="12" />  Slightly Strong M. Atk. -->
+			<!--<skill id="4412" level="10" />  Slightly Weak P. Def. -->
+			<!--<skill id="4413" level="11" />  Average M. Def. -->
+			<!--<skill id="4414" level="2" />  Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
 			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" />  Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -3871,8 +3865,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20561" level="46" type="Monster" name="Trisalim Tarantula" element="WATER">
-		<!-- L2wiki: https://l2wiki.com/classic/Trisalim_Tarantula -->
+	<npc id="20561" level="43" type="Monster" name="Trisalim Tarantula" element="WATER">
 		<parameters>
 			<param name="MoveAroundSocial" value="80" />
 			<param name="MoveAroundSocial1" value="80" />
@@ -3882,13 +3875,12 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-			<skill name="DeBuff" id="4035" level="4" /> <!-- Poison -->
 		</parameters>
 		<race>BUG</race>
 		<sex>MALE</sex>
-		<acquire exp="2367" sp="133" attributeExp="6" />
+		<acquire exp="2367" sp="131" attributeExp="6" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1297.24344275991" hpRegen="5.5" mp="637.8" mpRegen="2.1" />
+			<vitals hp="1898.925" hpRegen="5.5" mp="637.8" mpRegen="2.1" />
 			<attack physical="248.0526" magical="169.38777" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="182.18816" magical="133.31739" />
 			<speed>
@@ -3901,25 +3893,20 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="12" /> <!-- Bugs -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="12" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" /> MP Increase (1x) -->
+			<!--<skill id="4410" level="10" />  Slightly Weak P. Atk. -->
+			<!--<skill id="4411" level="10" />  Slightly Weak M. Atk. -->
+			<!--<skill id="4412" level="12" />  Slightly Strong P. Def. -->
+			<!--<skill id="4413" level="12" />  Slightly Strong M. Def. -->
+			<!--<skill id="4414" level="2" />  Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
 			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" /> Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="500" clanHelpRange="300">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="27" />
 			<height normal="25.5" />
@@ -3956,8 +3943,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20562" level="47" type="Monster" name="Spore Zombie" element="WATER">
-		<!-- L2wiki: https://l2wiki.com/classic/Spore_Zombie -->
+	<npc id="20562" level="44" type="Monster" name="Spore Zombie" element="WATER">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -3967,13 +3953,12 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-			<skill name="DDMagicSlow" id="4250" level="4" /> <!-- NPC Twister - Slow -->
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="2467" sp="148" attributeExp="6" />
+		<acquire exp="2536" sp="129" attributeExp="6" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1346.55725878612" hpRegen="5.5" mp="665" mpRegen="2.1" />
+			<vitals hp="1974.882" hpRegen="5.5" mp="665" mpRegen="2.1" />
 			<attack physical="261.69549" magical="178.7041" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="186.63569" magical="136.5719" />
 			<speed>
@@ -3986,18 +3971,18 @@
 		<status attackable="true" />
 		<skillList>
 			<skill id="4416" level="1" /> <!-- Undead -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="13" /> <!-- Slightly Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
+			<!--<skill id="4408" level="1" />  HP Increase (1x) -->
+			<!--<skill id="4409" level="1" />  MP Increase (1x) -->
+			<!--<skill id="4410" level="12" />  Slightly Strong P. Atk. -->
+			<!--<skill id="4411" level="12" />  Slightly Strong M. Atk. -->
+			<!--<skill id="4412" level="10" />  Slightly Weak P. Def. -->
+			<!--<skill id="4413" level="13" />  Slightly Strong M. Def. -->
+			<!--<skill id="4414" level="2" />  Standard Type -->
+			<!--<skill id="4415" level="3" />  One-handed Sword -->
 			<skill id="48045" level="1" /> <!-- Water Attribute Monster -->
-			<skill id="4284" level="5" /> <!-- Infection Resistance -->
-			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
-			<skill id="4071" level="4" /> <!-- Bow Resistance -->
+			<!--<skill id="4284" level="5" />  Infection Resistance -->
+			<!--<skill id="4116" level="6" />  Magic Damage Resistance -->
+			<!--<skill id="4071" level="4" />  Bow Resistance -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>

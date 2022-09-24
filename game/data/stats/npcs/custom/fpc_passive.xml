@@ -23,4 +23,116 @@
 			<height normal="24" />
 		</collision>
 	</npc>
+	<npc id="80001" level="78" type="Folk" name="Ghost">
+		<race>DARK_ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="18857" hpRegen="10.8" mp="3863" mpRegen="3.0" />
+			<attack physical="10198" magical="1305" random="30" critical="132" accuracy="177" attackSpeed="588" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="3388" magical="2450" />
+			<attribute>
+				<defence fire="200" water="250" wind="250" earth="250" holy="250" dark="250" />
+				<attack type="WATER" value="330" />
+			</attribute>
+			<speed>
+				<walk ground="85" />
+				<run ground="139" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="true" undying="true" attackable="false" />
+		<collision>
+			<radius normal="7.5" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="80002" level="25" type="Folk" name="Asap">
+		<race>DARK_ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="957" hpRegen="10.8" mp="863" mpRegen="3.0" />
+			<attack physical="998" magical="705" random="30" critical="132" accuracy="177" attackSpeed="588" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="588" magical="450" />
+			<speed>
+				<walk ground="85" />
+				<run ground="169" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="true" undying="false" attackable="true" />
+		<collision>
+			<radius normal="7.5" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="80003" level="25" type="Folk" name="sKeech">
+		<race>ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="957" hpRegen="10.8" mp="863" mpRegen="3.0" />
+			<attack physical="998" magical="705" random="30" critical="132" accuracy="177" attackSpeed="588" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="588" magical="450" />
+			<speed>
+				<walk ground="85" />
+				<run ground="169" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="true" undying="false" attackable="true" />
+		<collision>
+			<radius normal="7.5" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="80004" level="25" type="Folk" name="Ligaua">
+		<race>ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="957" hpRegen="10.8" mp="863" mpRegen="3.0" />
+			<attack physical="998" magical="705" random="30" critical="132" accuracy="177" attackSpeed="588" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="588" magical="450" />
+			<speed>
+				<walk ground="85" />
+				<run ground="169" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="true" undying="false" attackable="true" />
+		<collision>
+			<radius normal="7.5" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="80005" level="25" type="Folk" name="Shaman">
+		<race>ORC</race>
+		<sex>FEMALE</sex>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="957" hpRegen="10.8" mp="863" mpRegen="3.0" />
+			<attack physical="998" magical="705" random="30" critical="132" accuracy="177" attackSpeed="588" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="588" magical="450" />
+			<speed>
+				<walk ground="85" />
+				<run ground="169" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="true" undying="false" attackable="true" />
+		<collision>
+			<radius normal="7.5" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="80006" level="25" type="Folk" name="Gestalt">
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="103" int="40" dex="53" wit="37" con="84" men="39">
+			<vitals hp="957" hpRegen="10.8" mp="863" mpRegen="3.0" />
+			<attack physical="998" magical="705" random="30" critical="132" accuracy="177" attackSpeed="588" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="588" magical="450" />
+			<speed>
+				<walk ground="85" />
+				<run ground="169" />
+			</speed>
+		</stats>
+		<status fakePlayer="true" talkable="false" randomAnimation="false" randomWalk="true" undying="false" attackable="true" />
+		<collision>
+			<radius normal="7.5" />
+			<height normal="24" />
+		</collision>
+	</npc>
 </list>
