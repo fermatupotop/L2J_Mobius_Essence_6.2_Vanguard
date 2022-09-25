@@ -901,7 +901,7 @@
 		<handler name="monster">
 			<param name="minLevel">76</param>
 			<param name="maxLevel">99</param>
-			<param name="ids">22269</param>
+			<param name="ids">22269,22270</param>
 		</handler>
 		<items>
 			<item id="92459" count="4" /> 
@@ -913,7 +913,7 @@
 		<handler name="monster">
 			<param name="minLevel">76</param>
 			<param name="maxLevel">99</param>
-			<param name="ids">22269</param>
+			<param name="ids">22269,22270</param>
 		</handler>
 		<items>
 			<item id="92459" count="6" />
@@ -925,7 +925,7 @@
 		<handler name="monster">
 			<param name="minLevel">76</param>
 			<param name="maxLevel">99</param>
-			<param name="ids">22269</param>
+			<param name="ids">22269,22270</param>
 		</handler>
 		<items>
 			<item id="97145" count="100" /> 

@@ -287,7 +287,6 @@
 			<npc id="20930" x="22314" y="177384" z="-3479" heading="57109" respawnTime="32sec" /> <!-- Hatu Brown Bear -->
 			<npc id="27112" x="6317" y="184549" z="-3161" heading="25731" respawnTime="180sec" /> <!-- Gorr - Quest Monster -->
 			<npc id="27113" x="20898" y="184689" z="-3358" heading="0" respawnTime="180sec" /> <!-- Baraham - Quest Monster -->
-			<npc id="27103" x="23354" y="187991" z="-3721" heading="0" respawnTime="180sec" /> <!-- Unicorn - Quest Monster -->
 			<npc id="27093" x="28448" y="174080" z="-3408" heading="0" respawnTime="60sec" /> <!-- Delu Chief Kalkis - Quest Monster -->
 			<npc id="35372" x="44368" y="107440" z="-2032" heading="0" respawnTime="60sec" /> <!-- Partisan Soldier -->
 			<npc id="35372" x="44768" y="108604" z="-2034" heading="44231" respawnTime="60sec" /> <!-- Partisan Soldier -->

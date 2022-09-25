@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="16_24">
+		<group>
+			<npc id="22270" x="-114546" y="209731" z="-13059" heading="20039" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-114910" y="209738" z="-13060" heading="34106" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-114897" y="209696" z="-13060" heading="50460" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-116055" y="207569" z="-12954" heading="56073" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-115671" y="207392" z="-12957" heading="61528" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-115407" y="207265" z="-12947" heading="61070" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-115080" y="207187" z="-12939" heading="1707" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-114737" y="207252" z="-12937" heading="2528" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-114451" y="207309" z="-12934" heading="1415" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-113990" y="207370" z="-12927" heading="1340" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-113720" y="207468" z="-12922" heading="5172" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-113525" y="207670" z="-12931" heading="10539" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-113405" y="207988" z="-12958" heading="14754" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-114122" y="208047" z="-12965" heading="38082" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-114338" y="207857" z="-12960" heading="37747" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-114596" y="207724" z="-12956" heading="37615" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111235" y="208167" z="-12905" heading="65259" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111457" y="208242" z="-12939" heading="22384" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111527" y="209449" z="-13011" heading="19523" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111631" y="209818" z="-13036" heading="18099" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111704" y="210404" z="-13074" heading="17510" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111085" y="210333" z="-13046" heading="64318" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-110739" y="210292" z="-13022" heading="64318" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-110365" y="210697" z="-13001" heading="15871" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-110155" y="210845" z="-12990" heading="60669" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-109759" y="210405" z="-12937" heading="53592" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111333" y="212623" z="-13101" heading="16724" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111453" y="212497" z="-13109" heading="43319" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111465" y="212381" z="-13109" heading="48036" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-111271" y="212394" z="-13077" heading="3679" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-110731" y="212612" z="-13052" heading="4332" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22269" x="-109914" y="213970" z="-13114" heading="10932" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-109905" y="214562" z="-13088" heading="17920" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-110009" y="214759" z="-13094" heading="21450" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-110513" y="215078" z="-13125" heading="32767" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-110942" y="215418" z="-13104" heading="24239" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-111264" y="215643" z="-13083" heading="26736" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-111764" y="215387" z="-13159" heading="31779" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-111809" y="215351" z="-13167" heading="39596" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112082" y="215135" z="-13219" heading="39953" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112422" y="214893" z="-13241" heading="38498" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112663" y="214684" z="-13255" heading="41656" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112838" y="214340" z="-13275" heading="47707" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112554" y="214103" z="-13287" heading="62868" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-113357" y="213966" z="-13286" heading="34670" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-113513" y="213744" z="-13286" heading="44564" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-113938" y="213318" z="-13270" heading="41624" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-114591" y="212998" z="-13244" heading="35557" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-114756" y="212691" z="-13211" heading="44016" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-114808" y="212307" z="-13179" heading="50471" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-115045" y="212010" z="-13154" heading="37784" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-115453" y="211694" z="-13120" heading="41096" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-115638" y="211516" z="-13099" heading="40333" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-115953" y="211266" z="-13069" heading="36053" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-116572" y="211454" z="-13086" heading="24136" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-116792" y="211663" z="-13103" heading="24884" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-117054" y="211890" z="-13117" heading="26173" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-118729" y="212518" z="-13125" heading="33916" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-119004" y="212593" z="-13127" heading="29015" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-119631" y="212993" z="-13144" heading="24988" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-119929" y="213348" z="-13140" heading="23239" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-119654" y="214198" z="-13155" heading="11739" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-119457" y="214877" z="-13115" heading="19121" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-119199" y="215192" z="-13105" heading="9250" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-118658" y="215034" z="-13165" heading="58511" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-118282" y="214768" z="-13215" heading="60126" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-117820" y="214530" z="-13243" heading="61476" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-116472" y="214179" z="-13271" heading="61890" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-116173" y="214003" z="-13272" heading="59064" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-115775" y="213772" z="-13269" heading="63028" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-115321" y="213711" z="-13270" heading="2000" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-114891" y="213853" z="-13275" heading="7529" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-114601" y="213983" z="-13273" heading="63460" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-114098" y="213844" z="-13279" heading="61248" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-113345" y="213897" z="-13280" heading="6376" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112970" y="214411" z="-13270" heading="10753" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112657" y="214825" z="-13241" heading="8262" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-112280" y="215184" z="-13205" heading="6851" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-111901" y="215449" z="-13155" heading="5911" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-111428" y="215663" z="-13096" heading="3686" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-110513" y="214480" z="-13161" heading="49879" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-110375" y="214223" z="-13151" heading="54395" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-110174" y="214012" z="-13132" heading="57079" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-110311" y="213025" z="-13084" heading="46596" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22270" x="-118482" y="208161" z="-12918" heading="31038" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-118506" y="208684" z="-12917" heading="16877" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-118395" y="208934" z="-12925" heading="11073" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-118251" y="209307" z="-12941" heading="14545" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-118154" y="209820" z="-12971" heading="14404" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-118331" y="210205" z="-13004" heading="25016" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-119064" y="210554" z="-13046" heading="29432" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-119459" y="210780" z="-13058" heading="27085" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-119873" y="211095" z="-13063" heading="25119" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-120359" y="211367" z="-13036" heading="30973" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-120702" y="211427" z="-13009" heading="30973" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-121019" y="211537" z="-12975" heading="28484" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-120992" y="210150" z="-12956" heading="56041" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22270" x="-120084" y="210054" z="-12960" heading="2599" respawnTime="15sec" /> <!-- Kastia's Elite Captain -->
+			<npc id="22269" x="-118570" y="211837" z="-13070" heading="24025" respawnTime="15sec" /> <!-- Kalix -->
+			<npc id="22269" x="-118847" y="212134" z="-13088" heading="24628" respawnTime="15sec" /> <!-- Kalix -->
+		</group>
+	</spawn>
+</list>

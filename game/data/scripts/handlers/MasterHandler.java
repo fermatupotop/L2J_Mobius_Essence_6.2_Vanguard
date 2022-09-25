@@ -139,6 +139,7 @@ import handlers.admincommandhandlers.AdminZone;
 import handlers.admincommandhandlers.AdminZones;
 import handlers.bypasshandlers.Augment;
 import handlers.bypasshandlers.Buy;
+import handlers.bypasshandlers.ChangeColorTitle;
 import handlers.bypasshandlers.ChatLink;
 import handlers.bypasshandlers.ClanWarehouse;
 import handlers.bypasshandlers.EnsoulWindow;
@@ -505,6 +506,7 @@ public class MasterHandler
 			UpgradeEquipment.class,
 			VoiceCommand.class,
 			Wear.class,
+			ChangeColorTitle.class,
 		},
 		{
 			// Chat Handlers
