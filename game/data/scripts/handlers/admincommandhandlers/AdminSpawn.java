@@ -319,7 +319,7 @@ public class AdminSpawn implements IAdminCommandHandler
 			{
 				final String cmd = st.nextToken();
 				final String id = st.nextToken();
-				int respawnTime = 60;
+				int respawnTime = 15;
 				int mobCount = 1;
 				if (st.hasMoreTokens())
 				{
@@ -485,7 +485,7 @@ public class AdminSpawn implements IAdminCommandHandler
 			default:
 			case 0:
 			{
-				LOGGER.info("('',1," + i + "," + x + "," + y + "," + z + ",0,0," + h + ",60,0,0),");
+				LOGGER.info("('',1," + i + "," + x + "," + y + "," + z + ",0,0," + h + ",15,0,0),");
 				break;
 			}
 			case 1:
@@ -583,7 +583,7 @@ public class AdminSpawn implements IAdminCommandHandler
 			spawn.setXYZ(x, y, z);
 			spawn.setAmount(1);
 			spawn.setHeading(h);
-			spawn.setRespawnDelay(60);
+			spawn.setRespawnDelay(15);
 			if (activeChar.isInInstance())
 			{
 				spawn.setInstanceId(activeChar.getInstanceId());
