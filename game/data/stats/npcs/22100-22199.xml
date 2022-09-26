@@ -1461,6 +1461,11 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
+		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
+			<clanList>
+				<clan>ORC</clan>
+			</clanList>
+		</ai>
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4408" level="16" /> <!-- HP Increase (8x) -->
