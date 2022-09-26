@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="25_17">
+		<group>
+			<npc id="20674" x="183353" y="-23679" z="-2568" heading="6459" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183884" y="-23847" z="-2568" heading="62139" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183896" y="-23792" z="-2552" heading="31450" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184371" y="-23257" z="-2472" heading="43845" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184282" y="-23448" z="-2489" heading="63170" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="183616" y="-22756" z="-2552" heading="43207" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="185180" y="-25597" z="-2354" heading="52779" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185319" y="-26049" z="-2308" heading="52174" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185596" y="-25852" z="-2260" heading="27543" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185549" y="-25826" z="-2256" heading="14685" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185556" y="-25722" z="-2255" heading="9489" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185578" y="-25589" z="-2254" heading="23169" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185526" y="-25579" z="-2255" heading="35960" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185322" y="-25634" z="-2267" heading="31065" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185128" y="-25551" z="-2283" heading="13203" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185261" y="-25422" z="-2300" heading="3503" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185404" y="-25435" z="-2303" heading="59791" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185537" y="-25518" z="-2295" heading="1640" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185686" y="-25389" z="-2262" heading="22045" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185316" y="-25254" z="-2248" heading="26679" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184838" y="-24704" z="-2405" heading="1282" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185787" y="-24819" z="-2240" heading="51678" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185827" y="-24962" z="-2208" heading="12060" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185827" y="-24962" z="-2208" heading="12060" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185827" y="-24962" z="-2208" heading="12060" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185827" y="-24962" z="-2208" heading="12060" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185827" y="-24962" z="-2208" heading="12060" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185827" y="-24962" z="-2208" heading="12060" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185827" y="-24962" z="-2208" heading="12060" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185698" y="-25093" z="-2215" heading="28207" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185492" y="-25071" z="-2224" heading="32687" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185267" y="-24814" z="-2269" heading="31731" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185087" y="-24858" z="-2297" heading="44246" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184960" y="-24692" z="-2352" heading="5395" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185140" y="-24593" z="-2366" heading="12545" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185218" y="-24409" z="-2367" heading="17935" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185121" y="-24283" z="-2369" heading="32450" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184676" y="-25058" z="-2490" heading="49423" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184625" y="-25130" z="-2481" heading="31913" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184397" y="-25005" z="-2467" heading="26403" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184432" y="-24799" z="-2467" heading="13206" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184539" y="-24557" z="-2471" heading="8875" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185018" y="-23907" z="-2496" heading="28673" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185437" y="-24047" z="-2401" heading="59894" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185565" y="-24370" z="-2360" heading="51218" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185111" y="-23676" z="-2431" heading="27922" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184977" y="-23396" z="-2424" heading="16086" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="185379" y="-23497" z="-2384" heading="55563" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184548" y="-24097" z="-2535" heading="40845" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184262" y="-24376" z="-2554" heading="40816" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183817" y="-24827" z="-2574" heading="41221" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183938" y="-25244" z="-2504" heading="55444" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184280" y="-25544" z="-2426" heading="59270" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184536" y="-25719" z="-2363" heading="59270" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184792" y="-25895" z="-2300" heading="59270" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184996" y="-26222" z="-2227" heading="50881" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183899" y="-24696" z="-2549" heading="12425" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184104" y="-24281" z="-2554" heading="6939" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184440" y="-23761" z="-2518" heading="13460" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184548" y="-23472" z="-2475" heading="8247" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184789" y="-23278" z="-2429" heading="4648" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184580" y="-23140" z="-2438" heading="30914" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184149" y="-23127" z="-2478" heading="32473" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183740" y="-23175" z="-2524" heading="36595" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183446" y="-23435" z="-2566" heading="44070" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183356" y="-23831" z="-2594" heading="49559" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183370" y="-24200" z="-2614" heading="49559" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183380" y="-24463" z="-2629" heading="49559" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183317" y="-25035" z="-2645" heading="47120" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183561" y="-24631" z="-2624" heading="12904" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183613" y="-24481" z="-2621" heading="12904" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183986" y="-24058" z="-2584" heading="7369" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183927" y="-24033" z="-2584" heading="34229" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184005" y="-24337" z="-2563" heading="50730" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="184124" y="-24494" z="-2538" heading="38208" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183937" y="-24563" z="-2556" heading="31345" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182806" y="-24784" z="-2719" heading="29128" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182885" y="-24520" z="-2738" heading="13469" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182997" y="-24172" z="-2727" heading="17033" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183058" y="-23836" z="-2699" heading="18423" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183127" y="-23557" z="-2670" heading="9429" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183190" y="-23279" z="-2640" heading="19465" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183302" y="-23058" z="-2619" heading="5774" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183414" y="-22738" z="-2592" heading="25471" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="183034" y="-22938" z="-2580" heading="42152" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182891" y="-23260" z="-2573" heading="48717" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182802" y="-23498" z="-2569" heading="52191" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182837" y="-23743" z="-2570" heading="43733" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182761" y="-23807" z="-2573" heading="36439" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182562" y="-23930" z="-2583" heading="49267" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182564" y="-24141" z="-2594" heading="49380" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="182493" y="-24332" z="-2606" heading="32344" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="183105" y="-24104" z="-2645" heading="28955" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="182593" y="-24020" z="-2639" heading="46605" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="182589" y="-24219" z="-2641" heading="52330" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="182650" y="-24420" z="-2646" heading="57932" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="182794" y="-24461" z="-2650" heading="61230" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="182921" y="-24612" z="-2656" heading="58475" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183191" y="-24739" z="-2662" heading="933" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183506" y="-24538" z="-2650" heading="11308" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183630" y="-24144" z="-2637" heading="16119" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183662" y="-23673" z="-2620" heading="17684" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183342" y="-23288" z="-2584" heading="24155" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="182987" y="-23162" z="-2568" heading="34212" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184030" y="-23175" z="-2541" heading="60963" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184319" y="-23227" z="-2524" heading="3669" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184696" y="-23325" z="-2500" heading="62618" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185004" y="-23698" z="-2478" heading="59637" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185087" y="-23860" z="-2473" heading="48820" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185286" y="-24055" z="-2470" heading="62952" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185351" y="-24333" z="-2448" heading="43305" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185118" y="-24614" z="-2439" heading="40313" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185009" y="-24819" z="-2439" heading="51958" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185352" y="-25077" z="-2427" heading="61920" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185563" y="-25195" z="-2405" heading="46940" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185469" y="-25488" z="-2363" heading="41326" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185254" y="-25701" z="-2330" heading="47582" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185220" y="-25908" z="-2314" heading="36001" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185032" y="-25877" z="-2301" heading="22734" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184658" y="-25610" z="-2302" heading="24161" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184404" y="-25426" z="-2319" heading="26868" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184090" y="-24959" z="-2368" heading="18323" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184236" y="-24602" z="-2415" heading="7895" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184440" y="-24448" z="-2443" heading="2687" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184503" y="-24188" z="-2456" heading="20525" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184341" y="-24003" z="-2466" heading="21861" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183845" y="-23602" z="-2484" heading="23705" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183033" y="-23875" z="-2581" heading="30921" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="182980" y="-23880" z="-2580" heading="18739" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183152" y="-23097" z="-2552" heading="8248" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183436" y="-23036" z="-2552" heading="2206" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183679" y="-23136" z="-2531" heading="8568" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="183929" y="-22957" z="-2510" heading="2094" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184383" y="-23681" z="-2509" heading="53262" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184575" y="-23923" z="-2519" heading="57586" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="184920" y="-24086" z="-2505" heading="1235" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="185536" y="-24117" z="-2376" heading="64292" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="183249" y="-17550" z="-2752" heading="19007" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184293" y="-18935" z="-2600" heading="60868" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184623" y="-18986" z="-2552" heading="63936" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185217" y="-18993" z="-2395" heading="60985" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185617" y="-19211" z="-2292" heading="54826" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185276" y="-19516" z="-2308" heading="30867" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184779" y="-19551" z="-2427" heading="35801" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184531" y="-19549" z="-2479" heading="29394" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="183873" y="-19551" z="-2622" heading="33928" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="183509" y="-19721" z="-2698" heading="39342" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="183946" y="-20036" z="-2631" heading="1380" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184172" y="-19704" z="-2596" heading="54768" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184422" y="-20031" z="-2529" heading="57836" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184823" y="-20111" z="-2419" heading="2387" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185544" y="-19792" z="-2248" heading="6086" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185836" y="-19800" z="-2200" heading="56914" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185583" y="-20316" z="-2233" heading="45698" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185085" y="-20552" z="-2344" heading="35284" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184607" y="-20510" z="-2488" heading="35048" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184225" y="-20608" z="-2553" heading="38798" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="183731" y="-20560" z="-2632" heading="28529" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="183312" y="-20351" z="-2709" heading="27450" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="183066" y="-20801" z="-2673" heading="46016" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="183633" y="-21081" z="-2584" heading="61301" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184226" y="-21411" z="-2505" heading="64720" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184909" y="-21154" z="-2430" heading="4081" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="185726" y="-21005" z="-2216" heading="5275" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="186103" y="-20601" z="-2073" heading="9727" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21004" x="186126" y="-20571" z="-2064" heading="9727" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="186119" y="-20307" z="-2072" heading="9155" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185763" y="-19941" z="-2186" heading="22418" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185644" y="-19445" z="-2254" heading="17212" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185424" y="-19120" z="-2332" heading="27010" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184834" y="-18810" z="-2485" heading="28325" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184246" y="-18618" z="-2607" heading="29867" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183978" y="-19253" z="-2632" heading="53236" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184741" y="-19353" z="-2471" heading="61838" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185109" y="-19845" z="-2341" heading="46069" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184961" y="-20569" z="-2344" heading="43662" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185645" y="-20682" z="-2204" heading="1900" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185854" y="-21371" z="-2215" heading="47155" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185314" y="-21332" z="-2345" heading="25451" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184820" y="-21283" z="-2426" heading="31715" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184302" y="-21167" z="-2493" heading="21352" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184202" y="-20737" z="-2540" heading="13411" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184471" y="-19985" z="-2523" heading="12561" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183762" y="-19638" z="-2657" heading="35623" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183394" y="-20160" z="-2694" heading="44710" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183332" y="-20657" z="-2671" heading="51067" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183458" y="-21225" z="-2600" heading="51552" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="182892" y="-20874" z="-2662" heading="29956" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="182438" y="-20535" z="-2730" heading="25231" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183113" y="-19817" z="-2749" heading="10611" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183528" y="-19071" z="-2714" heading="16444" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="183791" y="-18507" z="-2714" heading="10942" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="184346" y="-19352" z="-2566" heading="54959" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="185359" y="-21017" z="-2334" heading="4510" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184900" y="-20891" z="-2406" heading="34774" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="184351" y="-21040" z="-2505" heading="35964" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21004" x="184575" y="-20625" z="-2465" heading="6284" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="185379" y="-20224" z="-2276" heading="67" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="186105" y="-19997" z="-2113" heading="6092" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="186229" y="-19648" z="-2109" heading="16597" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="186226" y="-19490" z="-2123" heading="16597" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21004" x="186018" y="-18865" z="-2217" heading="21700" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="185745" y="-18704" z="-2301" heading="31163" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21004" x="185221" y="-18548" z="-2438" heading="31819" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="184866" y="-18583" z="-2510" heading="35283" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21004" x="184492" y="-18372" z="-2602" heading="25358" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="20674" x="181493" y="-22947" z="-2780" heading="28557" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="181349" y="-23219" z="-2792" heading="45838" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="181261" y="-23523" z="-2783" heading="46241" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="181316" y="-23886" z="-2743" heading="32108" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="181129" y="-23810" z="-2743" heading="25576" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="181041" y="-23801" z="-2744" heading="44124" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="180940" y="-23876" z="-2744" heading="26399" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="180897" y="-23674" z="-2752" heading="10382" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="180907" y="-23463" z="-2764" heading="17222" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="180982" y="-23329" z="-2770" heading="13155" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="181118" y="-23172" z="-2774" heading="7447" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="181243" y="-22289" z="-2833" heading="17579" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="181117" y="-21978" z="-2828" heading="27901" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="180592" y="-22138" z="-2843" heading="32856" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="180466" y="-22636" z="-2963" heading="50009" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="180542" y="-23047" z="-2950" heading="52029" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="180384" y="-23511" z="-2928" heading="45979" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="180375" y="-23811" z="-2916" heading="53601" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="179944" y="-23915" z="-2865" heading="15975" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21004" x="179983" y="-22919" z="-2917" heading="15975" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="179983" y="-22919" z="-2917" heading="15975" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="179983" y="-22919" z="-2917" heading="15975" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="180240" y="-22918" z="-2915" heading="27892" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="180674" y="-23490" z="-2920" heading="47821" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="180636" y="-24249" z="-2854" heading="61588" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="181381" y="-23536" z="-2785" heading="14189" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="181665" y="-22809" z="-2779" heading="16808" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="182039" y="-23178" z="-2739" heading="54429" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="182026" y="-23532" z="-2721" heading="47049" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="181892" y="-23866" z="-2712" heading="42105" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="182345" y="-23400" z="-2691" heading="9187" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="182498" y="-22797" z="-2658" heading="14652" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="182582" y="-22568" z="-2653" heading="4111" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21005" x="181615" y="-22622" z="-2681" heading="32196" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="180582" y="-23032" z="-2871" heading="39248" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="180228" y="-23401" z="-2930" heading="43983" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="179893" y="-23576" z="-2972" heading="34279" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="179496" y="-23237" z="-3030" heading="11705" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="179604" y="-22778" z="-3026" heading="13673" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="179645" y="-22625" z="-3027" heading="13673" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="179676" y="-22345" z="-3040" heading="25739" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="179923" y="-22030" z="-3033" heading="4384" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="179406" y="-22602" z="-3054" heading="40255" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21005" x="179274" y="-22829" z="-3072" heading="44373" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="179142" y="-23173" z="-3078" heading="46093" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="179030" y="-23404" z="-3090" heading="41932" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="178840" y="-23713" z="-3116" heading="45438" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="178589" y="-23754" z="-3166" heading="23243" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="178546" y="-23340" z="-3205" heading="13045" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="178647" y="-23098" z="-3199" heading="10939" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="178913" y="-22783" z="-3153" heading="7128" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="179047" y="-22568" z="-3137" heading="12756" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="179088" y="-22362" z="-3140" heading="15832" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="179045" y="-22107" z="-3163" heading="19635" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="178983" y="-21932" z="-3175" heading="34670" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="178782" y="-22072" z="-3212" heading="42060" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="178591" y="-22320" z="-3255" heading="42532" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="178498" y="-22446" z="-3276" heading="42532" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="178312" y="-22698" z="-3322" heading="42532" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="178190" y="-22838" z="-3335" heading="46485" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="178150" y="-22990" z="-3341" heading="46485" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="178123" y="-23092" z="-3345" heading="46485" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="178133" y="-23292" z="-3343" heading="52895" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="178170" y="-23391" z="-3335" heading="52895" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="178207" y="-23489" z="-3328" heading="52895" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="178264" y="-23793" z="-3296" heading="49314" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="178265" y="-23846" z="-3289" heading="49314" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="178266" y="-23950" z="-3275" heading="49314" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="178829" y="-24010" z="-3101" heading="3282" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="178977" y="-23961" z="-3075" heading="3282" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="179107" y="-23685" z="-3072" heading="13705" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="179324" y="-23528" z="-3064" heading="2015" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="179703" y="-23361" z="-3013" heading="6436" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="179875" y="-23239" z="-2998" heading="6436" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21010" x="179984" y="-23009" z="-2991" heading="15033" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="180003" y="-22798" z="-2990" heading="15852" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="180018" y="-22587" z="-2992" heading="15379" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="20674" x="180177" y="-22276" z="-3001" heading="8481" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="179531" y="-22043" z="-3080" heading="33380" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="177464" y="-22475" z="-3472" heading="7300" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="177433" y="-22737" z="-3472" heading="47939" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="177600" y="-23267" z="-3418" heading="54423" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="177700" y="-23449" z="-3380" heading="54423" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="177855" y="-23870" z="-3306" heading="47146" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="177815" y="-24077" z="-3292" heading="47146" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="177625" y="-24238" z="-3302" heading="29711" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="177406" y="-24129" z="-3344" heading="20359" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="177276" y="-23788" z="-3392" heading="19033" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="177250" y="-23686" z="-3402" heading="19033" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="177116" y="-23178" z="-3451" heading="19179" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="177074" y="-23026" z="-3463" heading="19179" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="176881" y="-22543" z="-3516" heading="22117" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176827" y="-22454" z="-3529" heading="22117" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="176519" y="-22355" z="-3576" heading="39297" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176391" y="-22448" z="-3585" heading="39297" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="176321" y="-22686" z="-3582" heading="53113" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176380" y="-22833" z="-3570" heading="53113" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21010" x="176516" y="-23175" z="-3542" heading="53113" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176907" y="-23476" z="-3517" heading="62900" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="177597" y="-23658" z="-3451" heading="61939" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177914" y="-23782" z="-3449" heading="51779" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177908" y="-23493" z="-3411" heading="20850" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177857" y="-23297" z="-3405" heading="20337" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177774" y="-23238" z="-3406" heading="28643" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177751" y="-23123" z="-3411" heading="9136" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177763" y="-22952" z="-3412" heading="27583" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177564" y="-22921" z="-3416" heading="36284" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177312" y="-22914" z="-3538" heading="30033" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177197" y="-23043" z="-3533" heading="48316" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177147" y="-23300" z="-3531" heading="45454" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177079" y="-23605" z="-3525" heading="48297" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="177027" y="-23855" z="-3511" heading="41940" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="176851" y="-23485" z="-3427" heading="38598" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="176533" y="-23422" z="-3431" heading="33343" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="176327" y="-23274" z="-3454" heading="19617" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176292" y="-23018" z="-3485" heading="17033" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="176142" y="-22845" z="-3511" heading="28132" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="176043" y="-22477" z="-3552" heading="16920" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="175810" y="-22509" z="-3561" heading="43764" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="175797" y="-22764" z="-3566" heading="49926" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="175853" y="-23011" z="-3575" heading="57310" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="175964" y="-23122" z="-3577" heading="54083" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="176109" y="-23401" z="-3576" heading="54201" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="176181" y="-23477" z="-3574" heading="57084" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176320" y="-23634" z="-3563" heading="56668" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="176429" y="-23747" z="-3551" heading="58204" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="176549" y="-23848" z="-3538" heading="58289" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176723" y="-24042" z="-3513" heading="56336" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="177056" y="-24675" z="-3357" heading="31719" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="176845" y="-24656" z="-3365" heading="32252" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="176702" y="-24598" z="-3536" heading="27012" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176559" y="-24445" z="-3536" heading="23205" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="176396" y="-24311" z="-3541" heading="26363" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="176266" y="-24220" z="-3677" heading="22362" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="176199" y="-24076" z="-3677" heading="20060" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="176143" y="-23926" z="-3667" heading="24781" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="176066" y="-23852" z="-3665" heading="24781" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="175952" y="-23743" z="-3662" heading="24902" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="175836" y="-23634" z="-3659" heading="25000" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="175104" y="-22788" z="-3628" heading="20448" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="175037" y="-22712" z="-3624" heading="27379" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="174899" y="-22724" z="-3618" heading="40630" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="174858" y="-22812" z="-3614" heading="49237" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="174859" y="-22916" z="-3611" heading="49404" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="174951" y="-23044" z="-3611" heading="55778" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="174966" y="-23136" z="-3611" heading="34786" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="174808" y="-23149" z="-3611" heading="33687" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="174618" y="-23116" z="-3611" heading="22935" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="174537" y="-22979" z="-3609" heading="17979" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="174431" y="-22884" z="-3602" heading="30272" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="174249" y="-22941" z="-3590" heading="43490" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="174195" y="-23031" z="-3584" heading="43520" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="174114" y="-23072" z="-3580" heading="23174" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="20674" x="174030" y="-22939" z="-3570" heading="13720" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="20674" x="174362" y="-23628" z="-3553" heading="46167" respawnTime="15sec" /> <!-- Doom Knight -->
+			<npc id="21010" x="174421" y="-23766" z="-3565" heading="3830" respawnTime="15sec" /> <!-- Doom Warrior -->
+			<npc id="21005" x="174814" y="-23616" z="-3585" heading="3105" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21004" x="184016" y="-20325" z="-2600" heading="50747" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="183877" y="-20399" z="-2616" heading="37907" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21004" x="183838" y="-20902" z="-2575" heading="50830" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="184033" y="-21231" z="-2520" heading="58690" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="187583" y="-19439" z="-1576" heading="7935" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="186311" y="-20662" z="-1972" heading="22681" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185882" y="-20826" z="-2014" heading="37175" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185200" y="-21020" z="-2306" heading="32131" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184320" y="-21155" z="-2490" heading="39296" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="183947" y="-20720" z="-2588" heading="23916" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="183188" y="-20615" z="-2677" heading="30944" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="183277" y="-19965" z="-2733" heading="6665" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="183802" y="-19993" z="-2655" heading="59977" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184369" y="-20238" z="-2521" heading="61695" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184874" y="-20259" z="-2397" heading="519" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185387" y="-20234" z="-2270" heading="519" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185891" y="-20141" z="-2156" heading="2456" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185979" y="-19708" z="-2160" heading="15445" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185579" y="-19425" z="-2285" heading="32938" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185116" y="-19411" z="-2382" heading="32054" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184554" y="-19372" z="-2512" heading="32054" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184091" y="-19423" z="-2599" heading="34126" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="183578" y="-19469" z="-2707" heading="33452" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="183742" y="-18961" z="-2702" heading="7998" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184159" y="-18559" z="-2667" heading="7992" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184540" y="-18364" z="-2616" heading="63831" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184896" y="-18543" z="-2521" heading="58751" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185259" y="-18722" z="-2417" heading="61962" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185835" y="-18810" z="-2253" heading="57288" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185973" y="-19116" z="-2218" heading="48573" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185526" y="-20901" z="-2282" heading="49704" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185365" y="-21156" z="-2322" heading="42732" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="185029" y="-21552" z="-2398" heading="41227" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="184846" y="-21546" z="-2440" heading="27605" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="183966" y="-20229" z="-2596" heading="17469" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21001" x="187599" y="-17578" z="-1288" heading="11922" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187599" y="-17578" z="-1288" heading="11922" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187599" y="-17578" z="-1288" heading="11922" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="187924" y="-17402" z="-1288" heading="5149" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187833" y="-17332" z="-1288" heading="33667" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="187424" y="-17427" z="-1288" heading="34950" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="187007" y="-17398" z="-1289" heading="31101" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="187174" y="-16990" z="-1291" heading="7472" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="187618" y="-16863" z="-1290" heading="1606" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="188178" y="-17118" z="-1288" heading="51394" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188299" y="-17154" z="-1272" heading="62519" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="188060" y="-16993" z="-1288" heading="43190" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187856" y="-16837" z="-1288" heading="28121" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187607" y="-16775" z="-1288" heading="33450" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="187309" y="-16860" z="-1288" heading="37847" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187034" y="-17017" z="-1288" heading="38606" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21001" x="186786" y="-16927" z="-1288" heading="25033" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187243" y="-17215" z="-1288" heading="7510" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="187934" y="-16614" z="-1288" heading="2942" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="188131" y="-16543" z="-1289" heading="5569" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188355" y="-16403" z="-1295" heading="6663" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="188331" y="-16205" z="-1304" heading="33016" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="188024" y="-16118" z="-1304" heading="37628" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187637" y="-16285" z="-1304" heading="36776" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187395" y="-16390" z="-1304" heading="37544" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187205" y="-16484" z="-1304" heading="37544" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186961" y="-16430" z="-1309" heading="28886" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="186762" y="-16384" z="-1313" heading="35305" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="186511" y="-16463" z="-1298" heading="38044" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186207" y="-16534" z="-1292" heading="33775" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="186133" y="-16335" z="-1290" heading="14798" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186187" y="-16193" z="-1291" heading="7932" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="186378" y="-16012" z="-1304" heading="7932" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="186609" y="-15968" z="-1310" heading="63548" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186816" y="-16003" z="-1311" heading="64512" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187025" y="-16006" z="-1308" heading="2299" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187228" y="-15953" z="-1310" heading="3426" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="187428" y="-15885" z="-1311" heading="3426" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187580" y="-15854" z="-1312" heading="64753" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187737" y="-15869" z="-1311" heading="63983" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187945" y="-15901" z="-1315" heading="113" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188208" y="-15898" z="-1318" heading="113" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="188400" y="-15956" z="-1320" heading="59147" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="188601" y="-16158" z="-1317" heading="46293" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188506" y="-16617" z="-1294" heading="47592" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="188387" y="-16906" z="-1289" heading="43887" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="188797" y="-16120" z="-1299" heading="10791" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188879" y="-15878" z="-1305" heading="16262" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="188883" y="-15508" z="-1306" heading="16262" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188780" y="-15437" z="-1309" heading="30971" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="188572" y="-15401" z="-1317" heading="30971" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="188171" y="-15431" z="-1339" heading="33769" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187910" y="-15465" z="-1345" heading="34380" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187701" y="-15486" z="-1349" heading="32220" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187490" y="-15489" z="-1356" heading="34826" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="187334" y="-15520" z="-1355" heading="34826" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187073" y="-15559" z="-1348" heading="33625" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186941" y="-15360" z="-1364" heading="17707" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="186908" y="-15100" z="-1396" heading="38724" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186615" y="-15293" z="-1324" heading="39182" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="185980" y="-15756" z="-1288" heading="38042" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="186447" y="-15184" z="-1313" heading="9363" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="186673" y="-15062" z="-1336" heading="4127" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186875" y="-15024" z="-1350" heading="65163" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="187186" y="-15068" z="-1362" heading="62959" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="187435" y="-15152" z="-1368" heading="61611" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187690" y="-15174" z="-1364" heading="1078" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187924" y="-15086" z="-1355" heading="7706" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21001" x="188150" y="-14962" z="-1341" heading="3564" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="188387" y="-14966" z="-1329" heading="59491" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188576" y="-15051" z="-1322" heading="62788" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="188874" y="-15155" z="-1314" heading="61240" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="189005" y="-15240" z="-1309" heading="58673" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="189246" y="-15298" z="-1298" heading="459" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="189449" y="-14871" z="-1289" heading="15267" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="189255" y="-14749" z="-1301" heading="29287" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="189004" y="-14669" z="-1317" heading="30686" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="188797" y="-14627" z="-1322" heading="30686" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="188507" y="-14506" z="-1326" heading="27660" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188255" y="-14456" z="-1333" heading="32747" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="188049" y="-14485" z="-1345" heading="35778" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21001" x="187781" y="-14642" z="-1372" heading="39587" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="187593" y="-14823" z="-1394" heading="41563" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187417" y="-14949" z="-1420" heading="20521" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="187198" y="-14658" z="-1445" heading="24176" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="186982" y="-14448" z="-1482" heading="25726" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="186809" y="-14330" z="-1515" heading="26789" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="186832" y="-14209" z="-1536" heading="2383" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187080" y="-14187" z="-1518" heading="59778" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="187339" y="-14347" z="-1448" heading="59778" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187494" y="-14341" z="-1423" heading="957" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="187701" y="-14314" z="-1399" heading="1681" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="187888" y="-14232" z="-1381" heading="6824" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188064" y="-14146" z="-1365" heading="63409" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="188218" y="-14155" z="-1352" heading="2300" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="188476" y="-14109" z="-1333" heading="1458" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="188720" y="-14167" z="-1324" heading="60775" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="189004" y="-14306" z="-1312" heading="60775" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="189146" y="-14376" z="-1305" heading="48298" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="189121" y="-14637" z="-1306" heading="48919" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="189123" y="-14848" z="-1306" heading="49561" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="189187" y="-15144" z="-1302" heading="1031" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="189113" y="-15005" z="-1303" heading="28697" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="188090" y="-13840" z="-1352" heading="29965" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="186964" y="-13661" z="-1556" heading="31190" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="183290" y="-11982" z="-3108" heading="22239" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="183183" y="-11883" z="-3131" heading="30675" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="182928" y="-11900" z="-3159" heading="36669" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182688" y="-12008" z="-3171" heading="37554" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="182540" y="-12050" z="-3179" heading="32031" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="182383" y="-12035" z="-3193" heading="31393" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182122" y="-12022" z="-3217" heading="33564" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="181980" y="-11984" z="-3232" heading="13018" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182063" y="-11735" z="-3257" heading="13018" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="182097" y="-11636" z="-3267" heading="5530" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="182341" y="-11543" z="-3269" heading="2587" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182545" y="-11540" z="-3259" heading="63202" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="182753" y="-11537" z="-3248" heading="905" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="183226" y="-11526" z="-3226" heading="64939" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="183226" y="-11526" z="-3226" heading="64939" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="183189" y="-11470" z="-3222" heading="33573" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="183030" y="-11481" z="-3222" heading="27710" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="182936" y="-11431" z="-3222" heading="20358" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="182899" y="-11331" z="-3226" heading="11206" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182950" y="-11238" z="-3232" heading="26347" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="182661" y="-11295" z="-3248" heading="38815" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="182531" y="-11384" z="-3256" heading="39560" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="182490" y="-11626" z="-3263" heading="31482" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182198" y="-11529" z="-3264" heading="21370" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="182021" y="-11391" z="-3271" heading="37981" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="181882" y="-11536" z="-3279" heading="43503" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="181656" y="-11625" z="-3283" heading="20703" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="181662" y="-11360" z="-3290" heading="8521" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181786" y="-11278" z="-3296" heading="63590" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="182010" y="-11202" z="-3300" heading="9851" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="182100" y="-11011" z="-3304" heading="457" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182152" y="-11008" z="-3304" heading="457" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="182338" y="-10866" z="-3304" heading="16920" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="182345" y="-10708" z="-3304" heading="13677" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182409" y="-10640" z="-3304" heading="65048" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="182512" y="-10591" z="-3304" heading="24488" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="182229" y="-10353" z="-3304" heading="23016" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182132" y="-10227" z="-3304" heading="36154" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="181931" y="-10295" z="-3308" heading="44555" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="181863" y="-10438" z="-3313" heading="44555" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181795" y="-10580" z="-3318" heading="55617" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="181880" y="-10760" z="-3321" heading="48303" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="181774" y="-10761" z="-3323" heading="33573" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="181559" y="-10876" z="-3328" heading="26772" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="181455" y="-10713" z="-3331" heading="24611" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181268" y="-10621" z="-3331" heading="29093" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="181180" y="-10639" z="-3333" heading="43477" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="181115" y="-10837" z="-3337" heading="39963" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181026" y="-10893" z="-3339" heading="31298" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="180817" y="-10859" z="-3343" heading="26092" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="180671" y="-10712" z="-3349" heading="20130" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="180629" y="-10512" z="-3359" heading="13984" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="180748" y="-10408" z="-3368" heading="7448" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="180836" y="-10353" z="-3370" heading="4245" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="180933" y="-10311" z="-3372" heading="2335" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180933" y="-10311" z="-3372" heading="2394" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="181082" y="-10261" z="-3369" heading="4873" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="181223" y="-10189" z="-3366" heading="4884" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181321" y="-10152" z="-3360" heading="2581" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="181372" y="-10141" z="-3359" heading="59780" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="182398" y="-10405" z="-3341" heading="22585" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="182118" y="-10092" z="-3341" heading="24851" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="181887" y="-9806" z="-3342" heading="60872" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181693" y="-9927" z="-3342" heading="37938" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="181482" y="-9692" z="-3321" heading="10271" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181593" y="-9513" z="-3324" heading="11319" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="181694" y="-9214" z="-3326" heading="12521" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181789" y="-8967" z="-3326" heading="36579" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="181431" y="-9334" z="-3320" heading="47878" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181405" y="-9544" z="-3320" heading="34976" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="181199" y="-9592" z="-3336" heading="35929" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181040" y="-9722" z="-3355" heading="41224" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180886" y="-9861" z="-3374" heading="38238" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180657" y="-10060" z="-3397" heading="44433" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180543" y="-10298" z="-3403" heading="44622" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180446" y="-10543" z="-3405" heading="46190" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180393" y="-10957" z="-3402" heading="49475" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180430" y="-11160" z="-3383" heading="52654" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180529" y="-11424" z="-3326" heading="29449" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180298" y="-11302" z="-3347" heading="26550" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180103" y="-11028" z="-3385" heading="17759" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180069" y="-10770" z="-3424" heading="14900" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180118" y="-10512" z="-3425" heading="12124" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180139" y="-10464" z="-3422" heading="12124" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180506" y="-9716" z="-3375" heading="4881" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180641" y="-9635" z="-3360" heading="6934" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180965" y="-9365" z="-3338" heading="7328" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="181182" y="-9137" z="-3326" heading="9539" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="181457" y="-8891" z="-3343" heading="7601" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="180522" y="-9313" z="-3352" heading="32392" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180319" y="-9280" z="-3371" heading="27371" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179885" y="-8926" z="-3399" heading="28883" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179765" y="-8991" z="-3412" heading="47047" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179771" y="-9347" z="-3430" heading="52397" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179846" y="-9476" z="-3434" heading="59250" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="180118" y="-9721" z="-3438" heading="56876" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="180067" y="-9971" z="-3447" heading="42734" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179808" y="-9982" z="-3459" heading="27719" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179564" y="-9928" z="-3473" heading="34789" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179252" y="-10278" z="-3489" heading="59057" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179470" y="-10426" z="-3476" heading="59648" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179675" y="-10658" z="-3463" heading="55234" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179820" y="-10936" z="-3438" heading="53085" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179866" y="-11084" z="-3412" heading="51960" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179874" y="-11492" z="-3325" heading="48498" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179862" y="-11694" z="-3280" heading="33107" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179620" y="-11500" z="-3368" heading="18110" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179594" y="-11294" z="-3402" heading="21226" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179472" y="-11060" z="-3425" heading="21429" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179418" y="-10805" z="-3442" heading="17856" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179419" y="-10495" z="-3454" heading="13270" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179479" y="-10238" z="-3454" heading="14996" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179514" y="-9976" z="-3454" heading="14996" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179525" y="-9767" z="-3454" heading="18273" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179469" y="-9565" z="-3458" heading="21766" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179405" y="-9376" z="-3462" heading="13512" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179448" y="-9223" z="-3456" heading="27241" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179202" y="-9031" z="-3474" heading="23103" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179076" y="-8863" z="-3489" heading="23103" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="178990" y="-8969" z="-3498" heading="45537" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179017" y="-9212" z="-3501" heading="53476" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179124" y="-9392" z="-3497" heading="55978" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179161" y="-9577" z="-3498" heading="46475" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179015" y="-10083" z="-3515" heading="46175" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="178926" y="-10387" z="-3515" heading="56746" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179113" y="-10694" z="-3494" heading="52356" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="179161" y="-10845" z="-3490" heading="52356" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179314" y="-11113" z="-3473" heading="56754" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="179128" y="-11143" z="-3486" heading="28825" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="178837" y="-11020" z="-3515" heading="28200" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="178648" y="-10878" z="-3536" heading="16041" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="178634" y="-10562" z="-3539" heading="17602" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="178630" y="-10298" z="-3539" heading="15836" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="178644" y="-10035" z="-3539" heading="15836" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="178655" y="-9824" z="-3543" heading="15836" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="178694" y="-9455" z="-3536" heading="15650" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="178712" y="-9192" z="-3526" heading="15650" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="178816" y="-9285" z="-3517" heading="52636" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="178983" y="-9611" z="-3512" heading="55204" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21003" x="179049" y="-10059" z="-3510" heading="48486" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="179011" y="-10262" z="-3513" heading="43414" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="178873" y="-10487" z="-3513" heading="43414" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="178752" y="-10498" z="-3532" heading="23473" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="178990" y="-10313" z="-3527" heading="3381" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="179685" y="-10271" z="-3464" heading="41008" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="179523" y="-10135" z="-3476" heading="25465" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="179332" y="-9953" z="-3489" heading="24672" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="179126" y="-9652" z="-3501" heading="21118" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="179146" y="-9451" z="-3496" heading="11865" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="179308" y="-9204" z="-3473" heading="1320" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="179711" y="-9110" z="-3439" heading="5599" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="180060" y="-9311" z="-3418" heading="47005" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21002" x="179987" y="-9664" z="-3464" heading="47005" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21001" x="174757" y="-7984" z="-3240" heading="25295" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174680" y="-8523" z="-3152" heading="55181" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174967" y="-8898" z="-3120" heading="56177" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="175350" y="-9332" z="-3075" heading="56989" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="175442" y="-9956" z="-2979" heading="37728" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174912" y="-10185" z="-2918" heading="36876" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174686" y="-10754" z="-2885" heading="44689" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174232" y="-10749" z="-2878" heading="26330" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174025" y="-10069" z="-2938" heading="18399" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174144" y="-9535" z="-3006" heading="11635" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174189" y="-9099" z="-3067" heading="24911" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173890" y="-8562" z="-3085" heading="17662" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174110" y="-7999" z="-3129" heading="10234" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="174158" y="-7536" z="-3169" heading="20355" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173631" y="-7347" z="-3168" heading="36153" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173228" y="-7828" z="-3127" heading="47235" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173132" y="-8713" z="-3036" heading="48601" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173320" y="-9508" z="-2952" heading="50472" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173497" y="-10210" z="-2909" heading="54938" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173845" y="-10975" z="-2877" heading="52624" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173981" y="-11588" z="-2884" heading="50266" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="173428" y="-12060" z="-2986" heading="36615" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172797" y="-12047" z="-3018" heading="25709" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172529" y="-11627" z="-2958" heading="18883" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172602" y="-10954" z="-2908" heading="16048" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172641" y="-10375" z="-2921" heading="15678" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172615" y="-9486" z="-2966" heading="20695" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172275" y="-8712" z="-2952" heading="20695" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172429" y="-8039" z="-3015" heading="14127" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172811" y="-7300" z="-3084" heading="10505" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172788" y="-6995" z="-3039" heading="36336" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="172219" y="-7358" z="-2941" heading="40119" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171851" y="-7850" z="-2879" heading="44535" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171651" y="-8501" z="-2827" heading="46731" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171680" y="-9127" z="-2829" heading="50209" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171722" y="-9759" z="-2842" heading="49732" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171770" y="-10654" z="-2867" heading="49620" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171663" y="-11153" z="-2874" heading="51106" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171790" y="-11822" z="-2950" heading="51106" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="171478" y="-12162" z="-2894" heading="33013" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="170698" y="-11170" z="-2845" heading="21479" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="170448" y="-10493" z="-2823" heading="16444" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="170346" y="-9503" z="-2744" heading="18567" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21001" x="170789" y="-8560" z="-2724" heading="2935" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21004" x="174074" y="-10293" z="-2872" heading="8346" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21002" x="174074" y="-10293" z="-2872" heading="8346" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="174354" y="-10242" z="-2880" heading="1879" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21001" x="174503" y="-9748" z="-2984" heading="13304" respawnTime="15sec" /> <!-- Archer of Destruction -->
+			<npc id="21002" x="174604" y="-9420" z="-3064" heading="13304" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="174809" y="-8719" z="-3142" heading="11921" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="174982" y="-8340" z="-3205" heading="11921" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="175204" y="-8238" z="-3246" heading="2692" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="175636" y="-8278" z="-3311" heading="60009" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="175971" y="-8590" z="-3334" heading="46435" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="175850" y="-8982" z="-3234" heading="45815" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="175760" y="-9427" z="-3111" heading="48649" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="175619" y="-9685" z="-3043" heading="41743" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="175116" y="-10047" z="-2942" heading="38459" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="175040" y="-10335" z="-2915" heading="47531" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="174967" y="-10803" z="-2888" heading="47531" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="174757" y="-11121" z="-2881" heading="31132" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="174339" y="-11055" z="-2877" heading="31130" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="173921" y="-11017" z="-2876" heading="34021" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="173357" y="-11043" z="-2875" heading="24876" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="172894" y="-10831" z="-2874" heading="30563" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="172386" y="-10686" z="-2873" heading="29566" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="171759" y="-10213" z="-2873" heading="25496" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="171337" y="-10299" z="-2853" heading="44574" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="170990" y="-10886" z="-2781" heading="43148" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="170998" y="-11516" z="-2745" heading="45728" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="171224" y="-11963" z="-2779" heading="56461" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="171905" y="-12195" z="-2918" heading="63752" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="172785" y="-12299" z="-3037" heading="64468" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="173075" y="-11995" z="-2999" heading="10799" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="173105" y="-11498" z="-2920" heading="14739" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="173605" y="-10523" z="-2907" heading="15479" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="173685" y="-9792" z="-2967" heading="15331" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="173583" y="-9173" z="-3017" heading="18604" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="173363" y="-8416" z="-3064" heading="19823" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="173523" y="-7928" z="-3104" heading="9394" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="173919" y="-7509" z="-3148" heading="7714" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="173758" y="-6909" z="-3181" heading="20681" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="173436" y="-6939" z="-3165" heading="36895" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="172954" y="-7144" z="-3101" heading="37001" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="172427" y="-7566" z="-3022" heading="40660" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21003" x="171963" y="-7900" z="-2930" heading="38788" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="171576" y="-8442" z="-2842" heading="43815" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="171759" y="-8998" z="-2821" heading="55420" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21002" x="172117" y="-9519" z="-2858" heading="55420" respawnTime="15sec" /> <!-- Doom Scout -->
+			<npc id="21003" x="172685" y="-9968" z="-2875" heading="59794" respawnTime="15sec" /> <!-- Graveyard Lich -->
+			<npc id="21004" x="176213" y="-8717" z="-3376" heading="26226" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="175830" y="-9472" z="-3104" heading="37237" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="175220" y="-10019" z="-2947" heading="47173" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="174593" y="-10638" z="-2875" heading="40505" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173789" y="-11025" z="-2872" heading="37266" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173186" y="-10608" z="-2872" heading="20693" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173566" y="-9952" z="-2940" heading="7261" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="174244" y="-9540" z="-3015" heading="63869" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="174769" y="-9394" z="-3063" heading="9386" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="175250" y="-8852" z="-3191" heading="8357" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="175781" y="-8491" z="-3321" heading="14887" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="175145" y="-7850" z="-3297" heading="25966" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="174344" y="-7661" z="-3196" heading="34237" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="174155" y="-8261" z="-3140" heading="48575" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173983" y="-8910" z="-3085" heading="37625" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173429" y="-9287" z="-2991" heading="41253" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173028" y="-9894" z="-2910" heading="43542" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172328" y="-10721" z="-2883" heading="39029" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="171655" y="-10942" z="-2858" heading="39174" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="171077" y="-11462" z="-2755" heading="42011" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="171583" y="-11835" z="-2871" heading="58723" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172368" y="-12146" z="-3055" heading="64104" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173200" y="-12151" z="-3098" heading="582" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172412" y="-11529" z="-2956" heading="25928" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172126" y="-9884" z="-2847" heading="23323" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="171416" y="-9441" z="-2808" heading="31614" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="170543" y="-9118" z="-2753" heading="7994" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="171460" y="-8678" z="-2871" heading="2928" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172191" y="-8750" z="-2942" heading="57624" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172901" y="-9379" z="-2952" heading="58404" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173430" y="-8607" z="-3056" heading="11457" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173675" y="-7972" z="-3113" heading="12987" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="174092" y="-7070" z="-3213" heading="11466" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173293" y="-6722" z="-3147" heading="31063" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172874" y="-7300" z="-3083" heading="50338" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172537" y="-8273" z="-3061" heading="45991" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="171824" y="-7895" z="-2900" heading="26826" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="172506" y="-9500" z="-2926" heading="48456" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21004" x="173100" y="-7774" z="-3111" heading="15504" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21006" x="173427" y="-7571" z="-3128" heading="3266" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21004" x="173217" y="-7993" z="-3110" heading="43380" respawnTime="15sec" /> <!-- Dismal Oak -->
+			<npc id="21005" x="172891" y="-7982" z="-3112" heading="14452" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="172297" y="-7482" z="-3003" heading="29548" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="171794" y="-7705" z="-2884" heading="42058" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="171471" y="-8300" z="-2828" heading="48593" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="171581" y="-8847" z="-2789" heading="56969" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="171694" y="-9489" z="-2813" heading="49459" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="171650" y="-10005" z="-2836" heading="45454" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="171443" y="-10431" z="-2831" heading="43666" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="171277" y="-10947" z="-2830" heading="52269" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="171301" y="-11400" z="-2817" heading="56408" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="171634" y="-11800" z="-2899" heading="56408" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="172153" y="-11883" z="-2958" heading="869" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="172342" y="-11537" z="-2928" heading="12403" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="172554" y="-11183" z="-2900" heading="7949" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="173026" y="-10856" z="-2882" heading="4959" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="173351" y="-10689" z="-2872" heading="4959" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="173574" y="-10830" z="-2872" heading="59655" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174154" y="-11076" z="-2872" heading="61888" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174661" y="-11042" z="-2872" heading="2508" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174855" y="-10690" z="-2872" heading="15052" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174816" y="-10170" z="-2913" heading="18048" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174768" y="-9703" z="-2980" heading="17288" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174687" y="-9243" z="-3039" heading="20002" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174516" y="-8861" z="-3067" heading="23091" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174323" y="-8550" z="-3083" heading="19843" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174116" y="-8067" z="-3115" heading="21370" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174234" y="-7647" z="-3164" heading="11455" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174538" y="-7472" z="-3219" heading="64939" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174898" y="-7660" z="-3259" heading="59085" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="175185" y="-8009" z="-3276" heading="52845" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="175331" y="-8405" z="-3260" heading="52845" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="175297" y="-8760" z="-3208" heading="48220" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="175365" y="-9217" z="-3129" heading="51932" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="175251" y="-9636" z="-3037" heading="43701" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="175066" y="-9946" z="-2961" heading="43544" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="175127" y="-10722" z="-2873" heading="53976" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="175531" y="-10490" z="-2878" heading="5418" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="175817" y="-10526" z="-2872" heading="59470" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="176110" y="-10548" z="-2866" heading="4414" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="176220" y="-10440" z="-2865" heading="13210" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="176009" y="-10574" z="-2868" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="176044" y="-10535" z="-2868" heading="8610" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="176153" y="-10355" z="-2871" heading="18051" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="176123" y="-10198" z="-2876" heading="18886" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="176094" y="-10096" z="-2882" heading="20498" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="176053" y="-9998" z="-2890" heading="24595" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="176015" y="-9961" z="-2895" heading="26318" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="175975" y="-9927" z="-2903" heading="23878" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174774" y="-8886" z="-3106" heading="25067" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="173729" y="-6571" z="-3201" heading="17583" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="172477" y="-8040" z="-3018" heading="45265" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="172293" y="-8474" z="-2961" heading="44851" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="172063" y="-9002" z="-2885" heading="44881" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="172063" y="-9002" z="-2885" heading="44881" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="171373" y="-10397" z="-2826" heading="40133" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="170888" y="-10812" z="-2792" heading="40133" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="171044" y="-11111" z="-2802" heading="57867" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="171700" y="-11394" z="-2883" heading="63820" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="172477" y="-12071" z="-3096" heading="57106" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="173980" y="-9108" z="-3064" heading="27389" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="173629" y="-8874" z="-3076" heading="25884" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="173158" y="-8905" z="-3061" heading="36486" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="172654" y="-9047" z="-3005" heading="35950" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="172242" y="-8886" z="-2946" heading="26995" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21005" x="172733" y="-9696" z="-2881" heading="60506" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="173062" y="-9858" z="-2878" heading="61022" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="173576" y="-10125" z="-2877" heading="59937" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="173901" y="-10299" z="-2875" heading="61555" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174145" y="-10397" z="-2875" heading="61535" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174436" y="-10519" z="-2875" heading="61206" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="174690" y="-10333" z="-2897" heading="17557" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="174389" y="-9766" z="-2960" heading="21809" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="175300" y="-9293" z="-3102" heading="41" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="175828" y="-9031" z="-3219" heading="11119" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="176021" y="-8552" z="-3305" heading="13215" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21005" x="176099" y="-8304" z="-3345" heading="13215" respawnTime="15sec" /> <!-- Graveyard Predator -->
+			<npc id="21006" x="176104" y="-7948" z="-3381" heading="18445" respawnTime="15sec" /> <!-- Doom Servant -->
+			<npc id="21006" x="175999" y="-7898" z="-3396" heading="47473" respawnTime="15sec" /> <!-- Doom Servant -->
+		</group>
+	</spawn>
+</list>
