@@ -86,8 +86,8 @@
 		<reuseDelay>8000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>-5</magicCriticalRate>
-		<targetType>SELF</targetType>
-		<affectScope>PARTY</affectScope>
+		<targetType>OWNER_PET</targetType>
+		<affectScope>SINGLE</affectScope>
 		<affectObject>FRIEND</affectObject>
 		<effects>
 			<effect name="PAtk">
@@ -153,8 +153,8 @@
 		<operateType>A1</operateType>
 		<reuseDelay>8000</reuseDelay>
 		<magicCriticalRate>-5</magicCriticalRate>
-		<targetType>SELF</targetType>
-		<affectScope>PARTY</affectScope>
+		<targetType>OWNER_PET</targetType>
+		<affectScope>SINGLE</affectScope>
 		<affectObject>FRIEND</affectObject>
 		<effects>
 			<effect name="DispelBySlotProbability">
@@ -263,8 +263,8 @@
 		<reuseDelay>8000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>-5</magicCriticalRate>
-		<targetType>SELF</targetType>
-		<affectScope>PARTY</affectScope>
+		<targetType>OWNER_PET</targetType>
+		<affectScope>SINGLE</affectScope>
 		<affectObject>FRIEND</affectObject>
 		<effects>
 			<effect name="MpRegen">
@@ -363,8 +363,8 @@
 		<reuseDelay>8000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>-5</magicCriticalRate>
-		<targetType>SELF</targetType>
-		<affectScope>PARTY</affectScope>
+		<targetType>OWNER_PET</targetType>
+		<affectScope>SINGLE</affectScope>
 		<affectObject>FRIEND</affectObject>
 		<effects>
 			<effect name="Reuse">
