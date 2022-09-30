@@ -263,9 +263,8 @@
 		<reuseDelay>8000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>-5</magicCriticalRate>
-		<targetType>SELF</targetType>
-		<affectScope>PARTY</affectScope>
-		<affectObject>FRIEND</affectObject>
+		<targetType>OWNER_PET</targetType>
+        <affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="MpRegen">
 				<amount>30</amount>
@@ -363,9 +362,8 @@
 		<reuseDelay>8000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>-5</magicCriticalRate>
-		<targetType>SELF</targetType>
-		<affectScope>PARTY</affectScope>
-		<affectObject>FRIEND</affectObject>
+		<targetType>OWNER_PET</targetType>
+        <affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="Reuse">
 				<amount>-10</amount>

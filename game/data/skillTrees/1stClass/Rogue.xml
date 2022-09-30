@@ -4,8 +4,7 @@
 		<skill skillName="Fast Run" skillId="4" skillLevel="1" getLevel="20" levelUpSp="1000" />
 		<skill skillName="Mortal Blow" skillId="16" skillLevel="10" getLevel="20" levelUpSp="1000" />
 		<skill skillName="Mortal Blow" skillId="16" skillLevel="11" getLevel="20" levelUpSp="1000" />
-		<skill skillName="Mortal Blow" skillId="16" skillLevel="12" getLevel="20" levelUpSp="1000" />
-		<skill skillName="Unlock" skillId="27" skillLevel="1" getLevel="20" levelUpSp="1000" />
+
 		<skill skillName="Power Shot" skillId="56" skillLevel="10" getLevel="20" levelUpSp="1000" />
 		<skill skillName="Power Shot" skillId="56" skillLevel="11" getLevel="20" levelUpSp="1000" />
 		<skill skillName="Power Shot" skillId="56" skillLevel="12" getLevel="20" levelUpSp="1000" />
@@ -39,7 +38,7 @@
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="5" getLevel="23" levelUpSp="2800" />
 		
 		<skill skillName="Mortal Blow" skillId="16" skillLevel="15" getLevel="24" levelUpSp="2800" />
-		<skill skillName="Unlock" skillId="27" skillLevel="2" getLevel="24" levelUpSp="2800" />
+
 		<skill skillName="Power Shot" skillId="56" skillLevel="15" getLevel="24" levelUpSp="2800" />
 		<skill skillName="Critical Damage" skillId="193" skillLevel="1" getLevel="24" levelUpSp="2800" />
 		<skill skillName="Boost Evasion" skillId="198" skillLevel="1" getLevel="24" levelUpSp="2800" />
@@ -61,7 +60,7 @@
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="8" getLevel="27" levelUpSp="5700" />
 		
 		<skill skillName="Mortal Blow" skillId="16" skillLevel="18" getLevel="28" levelUpSp="5700" />
-		<skill skillName="Unlock" skillId="27" skillLevel="3" getLevel="28" levelUpSp="5700" />
+
 		<skill skillName="Power Shot" skillId="56" skillLevel="18" getLevel="28" levelUpSp="5700" />
 		<skill skillName="Ultimate Evasion" skillId="111" skillLevel="1" getLevel="28" levelUpSp="5700" />
 		<skill skillName="Critical Rate" skillId="137" skillLevel="1" getLevel="28" levelUpSp="5700" />
@@ -92,7 +91,7 @@
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="11" getLevel="31" levelUpSp="11000" />
 		
 		<skill skillName="Mortal Blow" skillId="16" skillLevel="21" getLevel="32" levelUpSp="11000" />
-		<skill skillName="Unlock" skillId="27" skillLevel="4" getLevel="32" levelUpSp="11000" />
+
 		<skill skillName="Power Shot" skillId="56" skillLevel="21" getLevel="32" levelUpSp="11000" />
 		<skill skillName="Critical Damage" skillId="193" skillLevel="2" getLevel="32" levelUpSp="11000" />
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="12" getLevel="32" levelUpSp="11000" />
@@ -110,7 +109,7 @@
 		<skill skillName="Bow Mastery" skillId="208" skillLevel="14" getLevel="35" levelUpSp="20000" />
 		
 		<skill skillName="Mortal Blow" skillId="16" skillLevel="24" getLevel="36" levelUpSp="20000" />
-		<skill skillName="Unlock" skillId="27" skillLevel="5" getLevel="36" levelUpSp="20000" />
+
 		<skill skillName="Power Shot" skillId="56" skillLevel="24" getLevel="36" levelUpSp="20000" />
 		<skill skillName="Attack Speed Boost" skillId="168" skillLevel="1" getLevel="36" levelUpSp="20000" />
 		<skill skillName="Esprit" skillId="171" skillLevel="1" getLevel="36" levelUpSp="20000" />

@@ -2,7 +2,11 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="109" parentClassId="37">
 		<skill skillName="Confusion" skillId="2" skillLevel="21" getLevel="76" levelUpSp="6300000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="41" getLevel="76" levelUpSp="6300000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="41" getLevel="76" levelUpSp="6300000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="18" getLevel="76" levelUpSp="6300000" />
 		<skill skillName="Hex" skillId="122" skillLevel="16" getLevel="76" levelUpSp="6300000" />
 		<skill skillName="Weapon Mastery" skillId="141" skillLevel="5" getLevel="76" levelUpSp="6300000" />
@@ -72,8 +76,14 @@
 		<skill skillName="Detect Darkness" skillId="53005" skillLevel="1" getLevel="76" levelUpSp="6300000">
 			<item id="91482" count="1" /> <!-- Scroll: Detect Darkness -->
 		</skill>
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="5" getLevel="76" levelUpSp="9800000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="5" getLevel="76" levelUpSp="9800000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="5" getLevel="76" levelUpSp="9800000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="5" getLevel="76" levelUpSp="9800000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Ultimate Evasion" skillId="111" skillLevel="3" getLevel="76" levelUpSp="9800000">
 			<item id="96886,96900" count="1" /> <!-- Scroll: Perfect Mastery -->
 		</skill>
@@ -86,33 +96,49 @@
 		</skill>
 
 		<skill skillName="Confusion" skillId="2" skillLevel="22" getLevel="77" levelUpSp="6300000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="42" getLevel="77" levelUpSp="6300000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="42" getLevel="77" levelUpSp="6300000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="17" getLevel="77" levelUpSp="6300000" />
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="54" getLevel="77" levelUpSp="6300000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="49" getLevel="77" levelUpSp="6300000" />
+
 		<skill skillName="Fatal Counter" skillId="314" skillLevel="18" getLevel="77" levelUpSp="6300000" />
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="2" getLevel="77" levelUpSp="6300000" />
 		<skill skillName="Hamstring Shot" skillId="354" skillLevel="1" getLevel="77" levelUpSp="6300000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="27" getLevel="77" levelUpSp="6300000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="23" getLevel="78" levelUpSp="14700000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="43" getLevel="78" levelUpSp="14700000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="43" getLevel="78" levelUpSp="14700000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="19" getLevel="78" levelUpSp="14700000" />
 		<skill skillName="Hex" skillId="122" skillLevel="18" getLevel="78" levelUpSp="14700000" />
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="55" getLevel="78" levelUpSp="14700000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="50" getLevel="78" levelUpSp="14700000" />
+
 		<skill skillName="Fatal Counter" skillId="314" skillLevel="19" getLevel="78" levelUpSp="14700000" />
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="3" getLevel="78" levelUpSp="14700000" />
 		<skill skillName="Real Target" skillId="522" skillLevel="1" getLevel="78" levelUpSp="14700000">
 			<item id="90062" count="1" /> <!-- Scroll: Real Target -->
 		</skill>
 		<skill skillName="Drain HP" skillId="45250" skillLevel="28" getLevel="78" levelUpSp="14700000" />
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="6" getLevel="78" levelUpSp="22900000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="6" getLevel="78" levelUpSp="22900000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="6" getLevel="78" levelUpSp="22900000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="6" getLevel="78" levelUpSp="22900000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="4" getLevel="78" levelUpSp="22900000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="24" getLevel="79" levelUpSp="14700000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="44" getLevel="79" levelUpSp="14700000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="44" getLevel="79" levelUpSp="14700000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="19" getLevel="79" levelUpSp="14700000" />
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="4" getLevel="79" levelUpSp="14700000" />
 		<skill skillName="Death Sting" skillId="990" skillLevel="1" getLevel="79" levelUpSp="14700000">
@@ -121,15 +147,18 @@
 		<skill skillName="Drain HP" skillId="45250" skillLevel="29" getLevel="79" levelUpSp="14700000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="25" getLevel="80" levelUpSp="14700000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="45" getLevel="80" levelUpSp="14700000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="45" getLevel="80" levelUpSp="14700000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="20" getLevel="80" levelUpSp="14700000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="20" getLevel="80" levelUpSp="14700000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="56" getLevel="80" levelUpSp="14700000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="51" getLevel="80" levelUpSp="14700000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="5" getLevel="80" levelUpSp="14700000" />
 		<skill skillName="Dead Eye" skillId="414" skillLevel="9" getLevel="80" levelUpSp="14700000">
 			<item id="57" count="1000000" /> <!-- Adena -->
@@ -151,41 +180,59 @@
 		<skill skillName="White Guardian Transformation" skillId="54102" skillLevel="1" getLevel="80">
 			<item id="92401,95502" count="1" /> <!-- Spellbook - White Guardian -->
 		</skill>
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="7" getLevel="80" levelUpSp="22900000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="7" getLevel="80" levelUpSp="22900000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="7" getLevel="80" levelUpSp="22900000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="7" getLevel="80" levelUpSp="22900000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="5" getLevel="80" levelUpSp="22900000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="26" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="46" getLevel="81" levelUpSp="160000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="46" getLevel="81" levelUpSp="160000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="21" getLevel="81" levelUpSp="160000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="21" getLevel="81" levelUpSp="160000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="57" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="52" getLevel="81" levelUpSp="160000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="6" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="31" getLevel="81" levelUpSp="160000000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="27" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="47" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="47" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="22" getLevel="82" levelUpSp="170000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="22" getLevel="82" levelUpSp="170000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="58" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="53" getLevel="82" levelUpSp="170000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="7" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Real Target" skillId="522" skillLevel="3" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="32" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Dragon Slayer Appearance" skillId="54231" skillLevel="1" getLevel="82" levelUpSp="0">
 			<item id="96300,96780" count="1" /> <!-- Spellbook: Dragon Slayer -->
 		</skill>
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="8" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="8" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="8" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="8" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Thorn Shot" skillId="47400" skillLevel="1" getLevel="82" levelUpSp="170000000">
 			<removeSkill id="354" onlyReplaceByLearn="true" /> <!-- Hamstring Shot -->
 			<item id="96876,96890" count="1" /> <!-- Spellbook: Thorn Shot -->
@@ -193,46 +240,61 @@
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="6" getLevel="82" levelUpSp="170000000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="28" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="48" getLevel="83" levelUpSp="240000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="48" getLevel="83" levelUpSp="240000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="23" getLevel="83" levelUpSp="240000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="23" getLevel="83" levelUpSp="240000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="59" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="54" getLevel="83" levelUpSp="240000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="8" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="33" getLevel="83" levelUpSp="240000000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="29" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="49" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="49" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="24" getLevel="84" levelUpSp="240000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="24" getLevel="84" levelUpSp="240000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="60" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="55" getLevel="84" levelUpSp="240000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Real Target" skillId="522" skillLevel="4" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="34" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="8" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="9" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="9" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="7" getLevel="84" levelUpSp="240000000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="30" getLevel="85" levelUpSp="840000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="50" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="50" getLevel="85" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="25" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="25" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="61" getLevel="85" levelUpSp="840000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="56" getLevel="85" levelUpSp="840000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="10" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Dead Eye" skillId="414" skillLevel="10" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
@@ -257,49 +319,71 @@
 		</skill>
 
 		<skill skillName="Confusion" skillId="2" skillLevel="31" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="51" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="51" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="26" getLevel="86" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="26" getLevel="86" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="62" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="57" getLevel="86" levelUpSp="840000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="11" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="36" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="10" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="10" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="10" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="10" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="8" getLevel="86" levelUpSp="840000000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="32" getLevel="87" levelUpSp="840000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="52" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="52" getLevel="87" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="27" getLevel="87" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="27" getLevel="87" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="63" getLevel="87" levelUpSp="840000000" />
+
 		<skill skillName="Bloody Weapon" skillId="223" skillLevel="62" getLevel="87" levelUpSp="840000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="58" getLevel="87" levelUpSp="840000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="37" getLevel="87" levelUpSp="840000000" />
 		
 		<skill skillName="Confusion" skillId="2" skillLevel="33" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="53" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="53" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="28" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="28" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="64" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="59" getLevel="88" levelUpSp="840000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="13" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="38" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="11" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="11" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="11" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="11" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="True Aim" skillId="47396" skillLevel="2" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Thorn Shot" skillId="47400" skillLevel="3" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="9" getLevel="88" levelUpSp="840000000" />
@@ -309,32 +393,44 @@
 		<skill skillName="Eagle Eye" skillId="47413" skillLevel="2" getLevel="88" levelUpSp="840000000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="34" getLevel="89" levelUpSp="840000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="54" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="54" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="29" getLevel="89" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="29" getLevel="89" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="65" getLevel="89" levelUpSp="840000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="60" getLevel="89" levelUpSp="840000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="39" getLevel="89" levelUpSp="840000000" />
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="12" getLevel="89" levelUpSp="840000000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="12" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="12" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="12" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="10" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Piercing Arrow" skillId="47408" skillLevel="2" getLevel="89" levelUpSp="840000000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="35" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Double Shot" skillId="19" skillLevel="55" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Double Shot" skillId="19" skillLevel="55" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Power Break" skillId="115" skillLevel="30" getLevel="90" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Hex" skillId="122" skillLevel="30" getLevel="90" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Bow Mastery" skillId="208" skillLevel="66" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Light Armor Mastery" skillId="233" skillLevel="61" getLevel="90" levelUpSp="840000000" />
+
 		<skill skillName="Lethal Shot" skillId="343" skillLevel="15" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="40" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="4" getLevel="90" levelUpSp="0">
@@ -343,8 +439,14 @@
 		<skill skillName="Bloody Weapon" skillId="47285" skillLevel="10" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="9" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Acrobatic Body" skillId="47333" skillLevel="10" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="13" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="13" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Archer's Weapon Mastery" skillId="47414" skillLevel="13" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+			<removeSkill id="141" onlyReplaceByLearn="true" /> <!-- Weapon Mastery -->
+		</skill>
+		<skill skillName="Archer's Armor Mastery" skillId="47415" skillLevel="13" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Stun Shot" skillId="47422" skillLevel="11" getLevel="90" levelUpSp="840000000" />
 
 		<skill skillName="True Aim" skillId="47396" skillLevel="3" getLevel="91" levelUpSp="840000000" />

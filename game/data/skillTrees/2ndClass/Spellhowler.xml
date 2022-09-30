@@ -41,7 +41,11 @@
 
 		<skill skillName="Higher Mana Gain" skillId="47466" skillLevel="2" getLevel="40" levelUpSp="84000" />
 		
-		<skill skillName="Hurricane" skillId="1239" skillLevel="3" getLevel="42" levelUpSp="100000" />
+		<skill skillName="Hurricane" skillId="1239" skillLevel="3" getLevel="42" levelUpSp="100000" >
+
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		
 		<skill skillName="Silence" skillId="1064" skillLevel="2" getLevel="44" levelUpSp="100000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="7" getLevel="44" levelUpSp="100000" />
@@ -289,7 +293,6 @@
 
 		<skill skillName="Hurricane" skillId="1239" skillLevel="30" getLevel="75" levelUpSp="2000000" >
 						<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
-
 		</skill>
 	</skillTree>
 </list>

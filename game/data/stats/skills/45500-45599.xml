@@ -1115,7 +1115,7 @@
 		<operateType>A1</operateType>
 		<abnormalTime>2</abnormalTime>
 		<mpConsume>131</mpConsume>
-		<castRange>700</castRange>
+		<castRange>900</castRange>
 		<reuseDelay>30000</reuseDelay>
 		<effectPoint>-400</effectPoint>
 		<isMagic>1</isMagic>

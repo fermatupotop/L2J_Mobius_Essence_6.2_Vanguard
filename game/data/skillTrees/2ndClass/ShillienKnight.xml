@@ -70,7 +70,11 @@
 		<skill skillName="Hex" skillId="122" skillLevel="2" getLevel="43" levelUpSp="66000" />
 		<skill skillName="Focus Mind" skillId="191" skillLevel="2" getLevel="43" levelUpSp="66000" />
 		<skill skillName="Life Leech" skillId="289" skillLevel="2" getLevel="43" levelUpSp="66000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="2" getLevel="43" levelUpSp="66000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="2" getLevel="43" levelUpSp="66000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="7" getLevel="44" levelUpSp="100000" />
 		<skill skillName="Aggression" skillId="28" skillLevel="19" getLevel="44" levelUpSp="100000" />
@@ -91,7 +95,11 @@
 		<skill skillName="Power Break" skillId="115" skillLevel="5" getLevel="46" levelUpSp="100000" />
 		<skill skillName="Hex" skillId="122" skillLevel="3" getLevel="46" levelUpSp="100000" />
 		<skill skillName="Life Leech" skillId="289" skillLevel="3" getLevel="46" levelUpSp="100000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="3" getLevel="46" levelUpSp="100000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="3" getLevel="46" levelUpSp="100000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Drain HP" skillId="45250" skillLevel="9" getLevel="46" levelUpSp="100000" />
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="10" getLevel="47" levelUpSp="130000" />
@@ -111,7 +119,11 @@
 		<skill skillName="Hex" skillId="122" skillLevel="4" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Focus Mind" skillId="191" skillLevel="3" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Life Leech" skillId="289" skillLevel="4" getLevel="49" levelUpSp="130000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="4" getLevel="49" levelUpSp="130000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="4" getLevel="49" levelUpSp="130000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="13" getLevel="50" levelUpSp="200000" />
 		<skill skillName="Aggression" skillId="28" skillLevel="25" getLevel="50" levelUpSp="200000" />
@@ -126,8 +138,12 @@
 		<skill skillName="Drain HP" skillId="45250" skillLevel="11" getLevel="50" levelUpSp="200000" />
 		<skill skillName="Bloody Weapon" skillId="47285" skillLevel="4" getLevel="50" levelUpSp="200000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="3" getLevel="50" levelUpSp="200000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="2" getLevel="50" levelUpSp="200000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="2" getLevel="50" levelUpSp="200000" />
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="2" getLevel="50" levelUpSp="200000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="2" getLevel="50" levelUpSp="200000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Knight's Protection" skillId="53010" skillLevel="1" getLevel="50" levelUpSp="200000" />
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="14" getLevel="51" levelUpSp="200000" />
@@ -144,7 +160,11 @@
 		<skill skillName="Life Leech" skillId="289" skillLevel="5" getLevel="52" levelUpSp="200000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="1" getLevel="52" levelUpSp="200000" />
 		<skill skillName="Aegis" skillId="316" skillLevel="1" getLevel="52" levelUpSp="200000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="5" getLevel="52" levelUpSp="200000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="5" getLevel="52" levelUpSp="200000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="1" getLevel="52" levelUpSp="200000">
 			<item id="8618,95495" count="1" /> <!-- Ancient Book: Divine Inspiration (Modern Language Version) Lv 1 -->
 		</skill>
@@ -168,7 +188,11 @@
 		<skill skillName="Focus Mind" skillId="191" skillLevel="4" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Life Leech" skillId="289" skillLevel="6" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="2" getLevel="55" levelUpSp="270000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="6" getLevel="55" levelUpSp="270000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="6" getLevel="55" levelUpSp="270000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="19" getLevel="56" levelUpSp="380000" />
 		<skill skillName="Aggression" skillId="28" skillLevel="31" getLevel="56" levelUpSp="380000" />
@@ -190,7 +214,11 @@
 		<skill skillName="Lightning Strike" skillId="279" skillLevel="1" getLevel="58" levelUpSp="380000" />
 		<skill skillName="Life Leech" skillId="289" skillLevel="7" getLevel="58" levelUpSp="380000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="3" getLevel="58" levelUpSp="380000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="7" getLevel="58" levelUpSp="380000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="7" getLevel="58" levelUpSp="380000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Drain HP" skillId="45250" skillLevel="15" getLevel="58" levelUpSp="380000" />
 
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="22" getLevel="59" levelUpSp="550000" />
@@ -207,15 +235,25 @@
 		<skill skillName="Dark Elven Spirit" skillId="129" skillLevel="4" getLevel="60" levelUpSp="550000" />
 		<skill skillName="Life Leech" skillId="289" skillLevel="8" getLevel="60" levelUpSp="550000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="4" getLevel="60" levelUpSp="550000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="8" getLevel="60" levelUpSp="550000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="8" getLevel="60" levelUpSp="550000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="1" getLevel="60" levelUpSp="550000" />
 		<skill skillName="Dark Assassin Transformation" skillId="1801" skillLevel="1" getLevel="60" autoGet="true" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="16" getLevel="60" levelUpSp="550000" />
 		<skill skillName="Bloody Weapon" skillId="47285" skillLevel="5" getLevel="60" levelUpSp="550000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="4" getLevel="60" levelUpSp="550000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="2" getLevel="60" levelUpSp="550000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="3" getLevel="60" levelUpSp="550000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="3" getLevel="60" levelUpSp="550000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="2" getLevel="60" levelUpSp="550000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="3" getLevel="60" levelUpSp="550000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="3" getLevel="60" levelUpSp="550000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Knight's Protection" skillId="53010" skillLevel="2" getLevel="60" levelUpSp="550000" />
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="24" getLevel="61" levelUpSp="550000" />
@@ -235,7 +273,11 @@
 		<skill skillName="Lightning Strike" skillId="279" skillLevel="2" getLevel="62" levelUpSp="680000" />
 		<skill skillName="Life Leech" skillId="289" skillLevel="9" getLevel="62" levelUpSp="680000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="5" getLevel="62" levelUpSp="680000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="9" getLevel="62" levelUpSp="680000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="9" getLevel="62" levelUpSp="680000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Drain HP" skillId="45250" skillLevel="17" getLevel="62" levelUpSp="680000" />
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="26" getLevel="63" levelUpSp="680000" />
@@ -252,7 +294,11 @@
 		<skill skillName="Life Leech" skillId="289" skillLevel="10" getLevel="64" levelUpSp="850000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="6" getLevel="64" levelUpSp="850000" />
 		<skill skillName="Ultimate Shield" skillId="322" skillLevel="1" getLevel="64" levelUpSp="850000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="10" getLevel="64" levelUpSp="850000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="10" getLevel="64" levelUpSp="850000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="2" getLevel="64" levelUpSp="850000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="18" getLevel="64" levelUpSp="850000" />
 		
@@ -272,7 +318,11 @@
 		<skill skillName="Life Leech" skillId="289" skillLevel="11" getLevel="66" levelUpSp="1000000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="7" getLevel="66" levelUpSp="1000000" />
 		<skill skillName="Ultimate Shield" skillId="322" skillLevel="2" getLevel="66" levelUpSp="1000000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="11" getLevel="66" levelUpSp="1000000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="11" getLevel="66" levelUpSp="1000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Drain HP" skillId="45250" skillLevel="19" getLevel="66" levelUpSp="1000000" />
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="30" getLevel="67" levelUpSp="1000000" />
@@ -288,7 +338,11 @@
 		<skill skillName="Life Leech" skillId="289" skillLevel="12" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="8" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Ultimate Shield" skillId="322" skillLevel="3" getLevel="68" levelUpSp="1300000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="12" getLevel="68" levelUpSp="1300000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="12" getLevel="68" levelUpSp="1300000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="3" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="20" getLevel="68" levelUpSp="1300000" />
 		
@@ -308,13 +362,21 @@
 		<skill skillName="Life Leech" skillId="289" skillLevel="13" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="9" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Ultimate Shield" skillId="322" skillLevel="4" getLevel="70" levelUpSp="1600000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="13" getLevel="70" levelUpSp="1600000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="13" getLevel="70" levelUpSp="1600000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="White Assassin Transformation" skillId="1802" skillLevel="1" getLevel="70" autoGet="true" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="21" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Bloody Weapon" skillId="47285" skillLevel="6" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="5" getLevel="70" levelUpSp="1600000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="4" getLevel="70" levelUpSp="1600000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="4" getLevel="70" levelUpSp="1600000" />
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="4" getLevel="70" levelUpSp="1600000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="4" getLevel="70" levelUpSp="1600000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Knight's Protection" skillId="53010" skillLevel="4" getLevel="70" levelUpSp="1600000" />
 		
 		<skill skillName="Aggression Aura" skillId="18" skillLevel="34" getLevel="71" levelUpSp="1600000" />
@@ -331,7 +393,11 @@
 		<skill skillName="Life Leech" skillId="289" skillLevel="14" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="10" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Ultimate Shield" skillId="322" skillLevel="5" getLevel="72" levelUpSp="1800000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="14" getLevel="72" levelUpSp="1800000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="14" getLevel="72" levelUpSp="1800000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Shield Deflect Magic" skillId="916" skillLevel="4" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Drain HP" skillId="45250" skillLevel="22" getLevel="72" levelUpSp="1800000" />
 		
@@ -350,7 +416,11 @@
 		<skill skillName="Life Leech" skillId="289" skillLevel="15" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Final Fortress" skillId="291" skillLevel="11" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Ultimate Shield" skillId="322" skillLevel="6" getLevel="74" levelUpSp="1800000" />
-		<skill skillName="Judgment" skillId="401" skillLevel="15" getLevel="74" levelUpSp="1800000" />
+		<skill skillName="Judgment" skillId="401" skillLevel="15" getLevel="74" levelUpSp="1800000">
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Drain HP" skillId="45250" skillLevel="24" getLevel="74" levelUpSp="1800000" />
 
 		<skill skillName="Confusion" skillId="2" skillLevel="20" getLevel="75" levelUpSp="1800000" />

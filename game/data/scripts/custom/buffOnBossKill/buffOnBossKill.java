@@ -3,17 +3,9 @@ package custom.buffOnBossKill;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
-import org.l2jmobius.gameserver.data.xml.CategoryData;
-import org.l2jmobius.gameserver.enums.CategoryType;
 import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.actor.Npc;
 import org.l2jmobius.gameserver.model.actor.Player;
-import org.l2jmobius.gameserver.model.events.EventType;
-import org.l2jmobius.gameserver.model.events.ListenerRegisterType;
-import org.l2jmobius.gameserver.model.events.annotations.RegisterEvent;
-import org.l2jmobius.gameserver.model.events.annotations.RegisterType;
-import org.l2jmobius.gameserver.model.events.impl.creature.player.OnPlayerLevelChanged;
-import org.l2jmobius.gameserver.model.holders.ItemHolder;
 import org.l2jmobius.gameserver.model.holders.SkillHolder;
 import org.l2jmobius.gameserver.model.skill.Skill;
 
@@ -91,9 +83,6 @@ public class buffOnBossKill extends AbstractNpcAI
 	private static final Map<Npc, Map<Integer, Integer>> RAIDBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
 	private static final Map<Npc, Map<Integer, Integer>> MINIBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
 	
-	private static final ItemHolder SOE_HIGH_PRIEST_OVEN = new ItemHolder(91768, 1);
-	private static final int MIN_LEVEL = 76;
-	
 	@Override
 	public String onAttack(Npc npc, Player attacker, int damage, boolean isSummon, Skill skill)
 	{
@@ -116,7 +105,7 @@ public class buffOnBossKill extends AbstractNpcAI
 	{
 		for (Player killers : World.getInstance().getVisibleObjects(npc, Player.class))
 		{
-			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage >= RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
+			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage < RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
 			{
 				killers.doCast(buff.getSkill());
 			}
@@ -133,22 +122,6 @@ public class buffOnBossKill extends AbstractNpcAI
 		RAIDBOSS_HITS.get(npc).clear();
 		MINIBOSS_HITS.get(npc).clear();
 		return super.onKill(npc, killer, isSummon);
-	}
-	
-	@RegisterEvent(EventType.ON_PLAYER_LEVEL_CHANGED)
-	@RegisterType(ListenerRegisterType.GLOBAL_PLAYERS)
-	public void onPlayerLevelChanged(OnPlayerLevelChanged event)
-	{
-		final Player player = event.getPlayer();
-		if (player == null)
-		{
-			return;
-		}
-		if ((player.getLevel() >= MIN_LEVEL) && CategoryData.getInstance().isInCategory(CategoryType.SECOND_CLASS_GROUP, player.getClassId().getId()))
-		{
-			giveItems(player, SOE_HIGH_PRIEST_OVEN);
-		}
-		
 	}
 	
 	public static void main(String[] args)

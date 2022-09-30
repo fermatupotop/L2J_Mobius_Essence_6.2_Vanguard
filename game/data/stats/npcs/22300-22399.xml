@@ -1263,6 +1263,7 @@
 				<item id="3031" min="100" max="300" chance="100" />
 				<item id="90907" min="2" max="5" chance="100" />
 				<item id="93848" min="1" max="3" chance="100" />
+				<item id="93080" min="1" max="1" chance="40" /> <!-- random craft stone -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -1293,6 +1294,7 @@
 				<item id="3031" min="100" max="400" chance="100" />
 				<item id="90907" min="3" max="6" chance="100" />
 				<item id="93848" min="1" max="4" chance="100" />
+				<item id="93080" min="1" max="2" chance="40" /> <!-- random craft stone -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -1324,6 +1326,7 @@
 				<item id="3031" min="200" max="500" chance="100" />
 				<item id="90907" min="3" max="7" chance="100" />
 				<item id="93848" min="2" max="5" chance="100" />
+				<item id="93080" min="1" max="2" chance="50" /> <!-- random craft stone -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -1354,6 +1357,7 @@
 				<item id="3031" min="200" max="600" chance="100" />
 				<item id="90907" min="3" max="8" chance="100" />
 				<item id="93848" min="3" max="10" chance="100" />
+				<item id="93080" min="1" max="3" chance="40" /> <!-- random craft stone -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -1384,6 +1388,7 @@
 				<item id="3031" min="300" max="700" chance="100" />
 				<item id="90907" min="4" max="9" chance="100" />
 				<item id="93848" min="4" max="12" chance="100" />
+				<item id="93080" min="1" max="3" chance="50" /> <!-- random craft stone -->
 			</drop>
 		</dropLists>
 	</npc>

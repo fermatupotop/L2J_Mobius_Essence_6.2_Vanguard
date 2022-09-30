@@ -496,7 +496,7 @@
 	<skill id="1409" toLevel="1" name="Cleanse">
 		<!-- Removes debuffs and anomaly states from the target. -->
 		<icon>icon.skill1409</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>1</effectPoint>
 		<effectRange>1100</effectRange>
 		<hitTime>4000</hitTime>

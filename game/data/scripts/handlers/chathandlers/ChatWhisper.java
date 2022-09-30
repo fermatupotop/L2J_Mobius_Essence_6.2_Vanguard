@@ -41,7 +41,7 @@ public class ChatWhisper implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, boolean shareLocation)
 	{
 		if (activeChar.isChatBanned() && Config.BAN_CHAT_CHANNELS.contains(type))
 		{
@@ -68,7 +68,7 @@ public class ChatWhisper implements IChatHandler
 				if (Config.FAKE_PLAYER_CHAT)
 				{
 					final String name = FakePlayerData.getInstance().getProperName(target);
-					activeChar.sendPacket(new CreatureSay(activeChar, null, "->" + name, type, text, 0));
+					activeChar.sendPacket(new CreatureSay(activeChar, null, "->" + name, type, text));
 					FakePlayerChatManager.getInstance().manageChat(activeChar, name, text);
 				}
 				else
@@ -120,8 +120,8 @@ public class ChatWhisper implements IChatHandler
 				}
 				
 				receiver.getWhisperers().add(activeChar.getObjectId());
-				receiver.sendPacket(new CreatureSay(activeChar, receiver, activeChar.getName(), type, text, 0));
-				activeChar.sendPacket(new CreatureSay(activeChar, receiver, "->" + receiver.getName(), type, text, 0));
+				receiver.sendPacket(new CreatureSay(activeChar, receiver, activeChar.getName(), type, text));
+				activeChar.sendPacket(new CreatureSay(activeChar, receiver, "->" + receiver.getName(), type, text));
 			}
 			else
 			{

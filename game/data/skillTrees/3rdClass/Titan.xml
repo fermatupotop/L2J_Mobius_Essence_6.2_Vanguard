@@ -250,7 +250,7 @@
 		<skill skillName="Excruciating Strike" skillId="1607" skillLevel="45" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Full Knockdown" skillId="1896" skillLevel="4" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Titanic Sweep" skillId="45416" skillLevel="3" getLevel="84" levelUpSp="240000000">
-						<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
 			<removeSkill id="29" onlyReplaceByLearn="true" /> <!-- Iron Punch -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 			<removeSkill id="36" onlyReplaceByLearn="true" /> <!-- Spinning Slasher -->

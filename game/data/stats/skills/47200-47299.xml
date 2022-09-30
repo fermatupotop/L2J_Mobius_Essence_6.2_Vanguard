@@ -757,7 +757,7 @@
 		<icon>icon.s_erase</icon>
 		<abnormalTime>5</abnormalTime>
 		<abnormalLevel>1</abnormalLevel>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>1</effectPoint>
 		<effectRange>1100</effectRange>
 		<hitTime>3000</hitTime>

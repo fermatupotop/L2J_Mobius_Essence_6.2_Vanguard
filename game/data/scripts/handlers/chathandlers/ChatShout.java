@@ -42,7 +42,7 @@ public class ChatShout implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, boolean shareLocation)
 	{
 		if (activeChar.isChatBanned() && Config.BAN_CHAT_CHANNELS.contains(type))
 		{
@@ -60,24 +60,24 @@ public class ChatShout implements IChatHandler
 			return;
 		}
 		
-		if ((isLocSharing == 1) && (activeChar.getInventory().getInventoryItemCount(Inventory.LCOIN_ID, -1) < Config.SHARING_LOCATION_COST))
+		if (shareLocation)
 		{
-			activeChar.sendPacket(SystemMessageId.THERE_ARE_NOT_ENOUGH_L_COINS);
-			return;
+			if (activeChar.getInventory().getInventoryItemCount(Inventory.LCOIN_ID, -1) < Config.SHARING_LOCATION_COST)
+			{
+				activeChar.sendPacket(SystemMessageId.THERE_ARE_NOT_ENOUGH_L_COINS);
+				return;
+			}
+			
+			if ((activeChar.getMovieHolder() != null) || activeChar.isFishing() || activeChar.isInInstance() || activeChar.isOnEvent() || activeChar.isInOlympiadMode() || activeChar.inObserverMode() || activeChar.isInTraingCamp() || activeChar.isInTimedHuntingZone() || activeChar.isInsideZone(ZoneId.SIEGE))
+			{
+				activeChar.sendPacket(SystemMessageId.LOCATION_CANNOT_BE_SHARED_SINCE_THE_CONDITIONS_ARE_NOT_MET);
+				return;
+			}
+			
+			activeChar.destroyItemByItemId("Shared Location", Inventory.LCOIN_ID, Config.SHARING_LOCATION_COST, activeChar, true);
 		}
 		
-		if ((isLocSharing == 1) && (activeChar.isInInstance() || activeChar.isInsideZone(ZoneId.SIEGE)))
-		{
-			activeChar.sendPacket(SystemMessageId.LOCATION_CANNOT_BE_SHARED_SINCE_THE_CONDITIONS_ARE_NOT_MET);
-			return;
-		}
-		
-		if (isLocSharing == 1)
-		{
-			activeChar.destroyItemByItemId("TeleToSharedLoc", Inventory.LCOIN_ID, Config.SHARING_LOCATION_COST, activeChar, true);
-		}
-		
-		final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, isLocSharing);
+		final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, shareLocation);
 		if (Config.DEFAULT_GLOBAL_CHAT.equalsIgnoreCase("on") || (Config.DEFAULT_GLOBAL_CHAT.equalsIgnoreCase("gm") && activeChar.canOverrideCond(PlayerCondOverride.CHAT_CONDITIONS)))
 		{
 			final int region = MapRegionManager.getInstance().getMapRegionLocId(activeChar);

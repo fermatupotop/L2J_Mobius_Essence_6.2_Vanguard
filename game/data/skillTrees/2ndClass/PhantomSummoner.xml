@@ -16,7 +16,6 @@
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="3" getLevel="40" levelUpSp="100000" />
 		<skill skillName="Twister" skillId="1178" skillLevel="9" getLevel="40" levelUpSp="100000">
 			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
-
 		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="6" getLevel="40" levelUpSp="100000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="1" getLevel="40" levelUpSp="100000" />
@@ -64,7 +63,10 @@
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="8" getLevel="41" levelUpSp="140000" />
 
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="16" getLevel="42" levelUpSp="140000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="10" getLevel="42" levelUpSp="140000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="10" getLevel="42" levelUpSp="140000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="16" getLevel="42" levelUpSp="140000" />
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="7" getLevel="42" levelUpSp="140000" />
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="8" getLevel="42" levelUpSp="140000" />
@@ -94,7 +96,10 @@
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="4" getLevel="44" levelUpSp="140000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="5" getLevel="44" levelUpSp="140000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="6" getLevel="44" levelUpSp="140000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="11" getLevel="44" levelUpSp="140000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="11" getLevel="44" levelUpSp="140000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="7" getLevel="44" levelUpSp="140000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="4" getLevel="44" levelUpSp="140000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="5" getLevel="44" levelUpSp="140000" />
@@ -107,7 +112,10 @@
 
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="11" getLevel="46" levelUpSp="230000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="19" getLevel="46" levelUpSp="230000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="12" getLevel="46" levelUpSp="220000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="12" getLevel="46" levelUpSp="220000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="19" getLevel="46" levelUpSp="230000" />
 
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="20" getLevel="47" levelUpSp="230000" />
@@ -118,7 +126,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="12" getLevel="48" levelUpSp="230000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="21" getLevel="48" levelUpSp="230000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="7" getLevel="48" levelUpSp="230000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="13" getLevel="48" levelUpSp="220000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="13" getLevel="48" levelUpSp="220000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="8" getLevel="48" levelUpSp="220000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="7" getLevel="48" levelUpSp="230000" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="2" getLevel="48" levelUpSp="230000" />
@@ -132,7 +143,10 @@
 		<skill skillName="Increased Power of Magic" skillId="1073" skillLevel="2" getLevel="50" levelUpSp="360000" />
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="13" getLevel="50" levelUpSp="370000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="22" getLevel="50" levelUpSp="370000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="14" getLevel="50" levelUpSp="360000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="14" getLevel="50" levelUpSp="360000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Recover HP" skillId="45176" skillLevel="2" getLevel="50" levelUpSp="300000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
@@ -150,7 +164,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="14" getLevel="52" levelUpSp="370000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="24" getLevel="52" levelUpSp="370000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="8" getLevel="52" levelUpSp="370000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="15" getLevel="52" levelUpSp="360000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="15" getLevel="52" levelUpSp="360000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="9" getLevel="52" levelUpSp="360000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="8" getLevel="52" levelUpSp="370000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="4" getLevel="52" levelUpSp="370000" />
@@ -162,7 +179,10 @@
 		
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="15" getLevel="54" levelUpSp="590000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="25" getLevel="54" levelUpSp="590000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="16" getLevel="54" levelUpSp="570000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="16" getLevel="54" levelUpSp="570000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="25" getLevel="54" levelUpSp="590000" />
 
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="26" getLevel="55" levelUpSp="590000" />
@@ -173,7 +193,10 @@
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="27" getLevel="56" levelUpSp="590000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="9" getLevel="56" levelUpSp="590000" />
 		<skill skillName="Mighty Servitor" skillId="1146" skillLevel="3" getLevel="56" levelUpSp="590000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="17" getLevel="56" levelUpSp="570000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="17" getLevel="56" levelUpSp="570000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="10" getLevel="56" levelUpSp="570000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="9" getLevel="56" levelUpSp="590000" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="3" getLevel="56" levelUpSp="590000" />
@@ -190,7 +213,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="18" getLevel="58" levelUpSp="600000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="29" getLevel="58" levelUpSp="600000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="10" getLevel="58" levelUpSp="600000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="18" getLevel="58" levelUpSp="580000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="18" getLevel="58" levelUpSp="580000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="11" getLevel="58" levelUpSp="580000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="10" getLevel="58" levelUpSp="600000" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="4" getLevel="58" levelUpSp="600000" />
@@ -205,7 +231,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="20" getLevel="60" levelUpSp="720000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="31" getLevel="60" levelUpSp="720000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="11" getLevel="60" levelUpSp="720000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="19" getLevel="60" levelUpSp="700000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="19" getLevel="60" levelUpSp="700000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="12" getLevel="60" levelUpSp="700000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="11" getLevel="60" levelUpSp="720000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="7" getLevel="60" levelUpSp="720000" />
@@ -227,7 +256,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="22" getLevel="62" levelUpSp="870000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="33" getLevel="62" levelUpSp="870000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="12" getLevel="62" levelUpSp="870000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="20" getLevel="62" levelUpSp="850000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="20" getLevel="62" levelUpSp="850000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="13" getLevel="62" levelUpSp="850000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="12" getLevel="62" levelUpSp="870000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="8" getLevel="62" levelUpSp="870000" />
@@ -241,7 +273,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="24" getLevel="64" levelUpSp="1100000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="35" getLevel="64" levelUpSp="1100000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="13" getLevel="64" levelUpSp="1100000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="21" getLevel="64" levelUpSp="1100000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="21" getLevel="64" levelUpSp="1100000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="14" getLevel="64" levelUpSp="1100000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="13" getLevel="64" levelUpSp="1100000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="9" getLevel="64" levelUpSp="1100000" />
@@ -256,7 +291,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="26" getLevel="66" levelUpSp="1400000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="37" getLevel="66" levelUpSp="1400000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="14" getLevel="66" levelUpSp="1400000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="22" getLevel="66" levelUpSp="1300000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="22" getLevel="66" levelUpSp="1300000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="15" getLevel="66" levelUpSp="1300000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="14" getLevel="66" levelUpSp="1400000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="10" getLevel="66" levelUpSp="1400000" />
@@ -269,7 +307,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="28" getLevel="68" levelUpSp="1700000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="39" getLevel="68" levelUpSp="1700000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="15" getLevel="68" levelUpSp="1700000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="23" getLevel="68" levelUpSp="1700000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="23" getLevel="68" levelUpSp="1700000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="16" getLevel="68" levelUpSp="1700000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="15" getLevel="68" levelUpSp="1700000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="11" getLevel="68" levelUpSp="1700000" />
@@ -282,7 +323,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="30" getLevel="70" levelUpSp="2000000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="41" getLevel="70" levelUpSp="2000000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="16" getLevel="70" levelUpSp="2000000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="24" getLevel="70" levelUpSp="2000000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="24" getLevel="70" levelUpSp="2000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="17" getLevel="70" levelUpSp="2000000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="16" getLevel="70" levelUpSp="2000000" />
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="5" getLevel="70" levelUpSp="2000000" />
@@ -302,7 +346,10 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="32" getLevel="72" levelUpSp="2500000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="43" getLevel="72" levelUpSp="2500000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="17" getLevel="72" levelUpSp="2500000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="25" getLevel="72" levelUpSp="2500000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="25" getLevel="72" levelUpSp="2500000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="18" getLevel="72" levelUpSp="2500000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="17" getLevel="72" levelUpSp="2500000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="13" getLevel="72" levelUpSp="2500000" />
@@ -316,7 +363,9 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="34" getLevel="74" levelUpSp="3000000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="45" getLevel="74" levelUpSp="3000000" />
 		<skill skillName="Summon Shadow" skillId="1128" skillLevel="18" getLevel="74" levelUpSp="3000000" />
-		<skill skillName="Twister" skillId="1178" skillLevel="26" getLevel="74" levelUpSp="2900000" />
+		<skill skillName="Twister" skillId="1178" skillLevel="26" getLevel="74" levelUpSp="2900000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="19" getLevel="74" levelUpSp="2900000" />
 		<skill skillName="Summon Silhouette" skillId="1228" skillLevel="18" getLevel="74" levelUpSp="3000000" />
 		<skill skillName="Summon Soulless" skillId="1278" skillLevel="14" getLevel="74" levelUpSp="3000000" />

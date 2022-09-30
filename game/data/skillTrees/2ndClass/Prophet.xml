@@ -50,7 +50,7 @@
 		<skill skillName="Sleep" skillId="1069" skillLevel="12" getLevel="42" levelUpSp="110000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="12" getLevel="42" levelUpSp="110000" />
 		<skill skillName="Advanced Block" skillId="1304" skillLevel="1" getLevel="42" levelUpSp="110000" />
-		
+
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="6" getLevel="43" levelUpSp="110000" />
 		<skill skillName="Heavy Armor Mastery" skillId="259" skillLevel="5" getLevel="43" levelUpSp="140000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="13" getLevel="43" levelUpSp="110000" />

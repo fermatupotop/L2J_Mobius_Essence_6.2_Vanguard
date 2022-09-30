@@ -79,6 +79,7 @@
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Divine Beam" skillId="45241" skillLevel="1" getLevel="76" levelUpSp="6800000">
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
 			<item id="93103,95503" count="1" /> <!-- Spellbook: Divine Beam -->
 		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="1" getLevel="76" levelUpSp="6800000">
@@ -111,7 +112,9 @@
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="2" getLevel="77" levelUpSp="7400000" />
 		<skill skillName="Stigma of Shillien" skillId="1539" skillLevel="7" getLevel="77" levelUpSp="6800000" />
 		<skill skillName="Mass Stigma of Shillien" skillId="1897" skillLevel="7" getLevel="77" levelUpSp="6800000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="2" getLevel="77" levelUpSp="6800000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="2" getLevel="77" levelUpSp="6800000">
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="2" getLevel="77" levelUpSp="6800000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="2" getLevel="77" levelUpSp="6800000" />
 		<skill skillName="Anti Magic" skillId="47270" skillLevel="5" getLevel="77" levelUpSp="7400000" />
@@ -127,7 +130,9 @@
 		</skill>
 		<skill skillName="Stigma of Shillien" skillId="1539" skillLevel="8" getLevel="78" levelUpSp="14900000" />
 		<skill skillName="Mass Stigma of Shillien" skillId="1897" skillLevel="8" getLevel="78" levelUpSp="14900000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="3" getLevel="78" levelUpSp="14900000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="3" getLevel="78" levelUpSp="14900000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="3" getLevel="78" levelUpSp="14900000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="3" getLevel="78" levelUpSp="14900000" />
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="9" getLevel="78" levelUpSp="16300000" />
@@ -146,7 +151,9 @@
 		<skill skillName="Sleep Mastery" skillId="45239" skillLevel="2" getLevel="79" levelUpSp="14900000">
 			<item id="57" count="2000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="4" getLevel="79" levelUpSp="14900000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="4" getLevel="79" levelUpSp="14900000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="4" getLevel="79" levelUpSp="14900000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="4" getLevel="79" levelUpSp="14900000" />
 
@@ -164,7 +171,9 @@
 		<skill skillName="Evolution Power" skillId="45189" skillLevel="1" getLevel="80">
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="5" getLevel="80" levelUpSp="14900000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="5" getLevel="80" levelUpSp="14900000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="5" getLevel="80" levelUpSp="14900000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="5" getLevel="80" levelUpSp="14900000" />
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="2" getLevel="80" levelUpSp="0">
@@ -191,7 +200,9 @@
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="6" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Stigma of Shillien" skillId="1539" skillLevel="11" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Mass Stigma of Shillien" skillId="1897" skillLevel="11" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="6" getLevel="81" levelUpSp="160000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="6" getLevel="81" levelUpSp="160000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="6" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="6" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="10" getLevel="81" levelUpSp="160000000" />
@@ -212,7 +223,9 @@
 		<skill skillName="Sleep Mastery" skillId="45239" skillLevel="3" getLevel="82" levelUpSp="170000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="7" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="7" getLevel="82" levelUpSp="170000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="7" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="7" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Nemesis" skillId="47255" skillLevel="1" getLevel="82" levelUpSp="170000000">
@@ -230,7 +243,9 @@
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="8" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Stigma of Shillien" skillId="1539" skillLevel="13" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Mass Stigma of Shillien" skillId="1897" skillLevel="13" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="8" getLevel="83" levelUpSp="240000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="8" getLevel="83" levelUpSp="240000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="8" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="8" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="11" getLevel="83" levelUpSp="240000000" />
@@ -244,7 +259,9 @@
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Stigma of Shillien" skillId="1539" skillLevel="14" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Mass Stigma of Shillien" skillId="1897" skillLevel="14" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="9" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Mana Effect Boost" skillId="47269" skillLevel="8" getLevel="84" levelUpSp="240000000" />
@@ -266,7 +283,9 @@
 		<skill skillName="Sleep Mastery" skillId="45239" skillLevel="4" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="10" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="10" getLevel="85" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="10" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="10" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="3" getLevel="85" levelUpSp="0">
@@ -281,7 +300,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="31" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="56" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="41" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="11" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="11" getLevel="86" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="11" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="11" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Anti Magic" skillId="47270" skillLevel="9" getLevel="86" levelUpSp="840000000" />
@@ -289,7 +310,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="32" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="57" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="42" getLevel="87" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="12" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="12" getLevel="87" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Duress" skillId="47253" skillLevel="2" getLevel="87" levelUpSp="840000000" />
@@ -299,7 +322,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="33" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="58" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="43" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="13" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="13" getLevel="88" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="13" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="13" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Mana Effect Boost" skillId="47269" skillLevel="9" getLevel="88" levelUpSp="840000000" />
@@ -311,7 +336,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="34" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="59" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="44" getLevel="89" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="14" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="14" getLevel="89" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Duress" skillId="47253" skillLevel="3" getLevel="89" levelUpSp="840000000" />
@@ -321,7 +348,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="35" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="60" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="45" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="15" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="15" getLevel="90" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Mass Dryad Root" skillId="45242" skillLevel="15" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Mass Wind Shackles" skillId="45243" skillLevel="15" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="4" getLevel="90" levelUpSp="0">

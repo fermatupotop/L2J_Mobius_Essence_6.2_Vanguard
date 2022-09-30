@@ -20,16 +20,25 @@
 		<skill skillName="Greater Heal" skillId="1217" skillLevel="1" getLevel="40" levelUpSp="69000">
 			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
 		</skill>
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="2" getLevel="40" levelUpSp="69000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="3" getLevel="40" levelUpSp="69000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="2" getLevel="40" levelUpSp="69000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="3" getLevel="40" levelUpSp="69000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
 		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="1" getLevel="40" levelUpSp="69000">
 			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
 		</skill>
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="2" getLevel="40" levelUpSp="69000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="3" getLevel="40" levelUpSp="69000" />
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="2" getLevel="40" levelUpSp="69000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="3" getLevel="40" levelUpSp="69000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="1" getLevel="40" levelUpSp="69000">
 			<removeSkill id="1027" onlyReplaceByLearn="true" /> <!-- Group Heal -->
 		</skill>
+		
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="2" getLevel="40" levelUpSp="69000" />
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="3" getLevel="40" levelUpSp="69000" />
 		<skill skillName="Death Whisper" skillId="1242" skillLevel="3" getLevel="40" levelUpSp="80000" />
@@ -48,14 +57,22 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="3" getLevel="42" levelUpSp="98000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="12" getLevel="42" levelUpSp="98000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="12" getLevel="42" levelUpSp="98000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="4" getLevel="42" levelUpSp="98000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="4" getLevel="42" levelUpSp="98000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="4" getLevel="42" levelUpSp="98000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="4" getLevel="42" levelUpSp="98000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="4" getLevel="42" levelUpSp="98000" />
 
 		<skill skillName="Sleep" skillId="1069" skillLevel="13" getLevel="43" levelUpSp="98000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="13" getLevel="43" levelUpSp="98000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="5" getLevel="43" levelUpSp="98000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="5" getLevel="43" levelUpSp="98000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="5" getLevel="43" levelUpSp="98000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="5" getLevel="43" levelUpSp="98000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="5" getLevel="43" levelUpSp="98000" />
 		<skill skillName="Priest's Recovery Mastery" skillId="47271" skillLevel="2" getLevel="43" levelUpSp="98000" />
 		
@@ -70,8 +87,12 @@
 		<skill skillName="Concentration" skillId="1078" skillLevel="3" getLevel="44" levelUpSp="98000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="7" getLevel="44" levelUpSp="98000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="14" getLevel="44" levelUpSp="98000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="6" getLevel="44" levelUpSp="98000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="6" getLevel="44" levelUpSp="98000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="6" getLevel="44" levelUpSp="98000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="6" getLevel="44" levelUpSp="98000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="6" getLevel="44" levelUpSp="98000" />
 		<skill skillName="Mass Resurrection" skillId="1254" skillLevel="2" getLevel="44" levelUpSp="98000" />
 		<skill skillName="Restore Life" skillId="1258" skillLevel="1" getLevel="44" levelUpSp="98000" />
@@ -84,15 +105,23 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="5" getLevel="46" levelUpSp="160000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="16" getLevel="46" levelUpSp="160000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="16" getLevel="46" levelUpSp="160000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="7" getLevel="46" levelUpSp="160000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="7" getLevel="46" levelUpSp="160000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="7" getLevel="46" levelUpSp="160000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="7" getLevel="46" levelUpSp="160000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="7" getLevel="46" levelUpSp="160000" />
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="2" getLevel="47" levelUpSp="160000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="17" getLevel="47" levelUpSp="160000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="17" getLevel="47" levelUpSp="160000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="8" getLevel="47" levelUpSp="160000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="8" getLevel="47" levelUpSp="160000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="8" getLevel="47" levelUpSp="160000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="8" getLevel="47" levelUpSp="160000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="8" getLevel="47" levelUpSp="160000" />
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="3" getLevel="47" levelUpSp="160000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="3" getLevel="47" levelUpSp="160000" />
@@ -109,8 +138,12 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="4" getLevel="48" levelUpSp="160000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="8" getLevel="48" levelUpSp="160000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="18" getLevel="48" levelUpSp="160000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="9" getLevel="48" levelUpSp="160000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="9" getLevel="48" levelUpSp="160000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="9" getLevel="48" levelUpSp="160000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="9" getLevel="48" levelUpSp="160000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="9" getLevel="48" levelUpSp="160000" />
 		<skill skillName="Restore Life" skillId="1258" skillLevel="2" getLevel="48" levelUpSp="160000" />
 		<skill skillName="Body of Avatar" skillId="1311" skillLevel="1" getLevel="48" levelUpSp="160000" />
@@ -124,8 +157,12 @@
 		<skill skillName="Sleep" skillId="1069" skillLevel="20" getLevel="50" levelUpSp="250000" />
 		<skill skillName="Increased Power of Magic" skillId="1073" skillLevel="2" getLevel="50" levelUpSp="250000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="20" getLevel="50" levelUpSp="250000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="10" getLevel="50" levelUpSp="250000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="10" getLevel="50" levelUpSp="250000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="10" getLevel="50" levelUpSp="250000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="10" getLevel="50" levelUpSp="250000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="10" getLevel="50" levelUpSp="250000" />
 		<skill skillName="HP Recovery" skillId="45176" skillLevel="2" getLevel="50" levelUpSp="300000">
 			<item id="57" count="1000000" /> <!-- Adena -->
@@ -137,8 +174,12 @@
 		
 		<skill skillName="Vitalize" skillId="1020" skillLevel="6" getLevel="51" levelUpSp="250000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="21" getLevel="51" levelUpSp="250000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="11" getLevel="51" levelUpSp="250000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="11" getLevel="51" levelUpSp="250000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="11" getLevel="51" levelUpSp="250000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="11" getLevel="51" levelUpSp="250000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="11" getLevel="51" levelUpSp="250000" />
 		<skill skillName="Divine Power" skillId="1459" skillLevel="1" getLevel="51" levelUpSp="250000" />
 		
@@ -153,8 +194,12 @@
 		<skill skillName="Concentration" skillId="1078" skillLevel="4" getLevel="52" levelUpSp="250000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="9" getLevel="52" levelUpSp="250000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="21" getLevel="52" levelUpSp="250000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="12" getLevel="52" levelUpSp="250000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="12" getLevel="52" levelUpSp="250000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="12" getLevel="52" levelUpSp="250000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="12" getLevel="52" levelUpSp="250000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="12" getLevel="52" levelUpSp="250000" />
 		<skill skillName="Mass Resurrection" skillId="1254" skillLevel="3" getLevel="52" levelUpSp="250000" />
 		<skill skillName="Restore Life" skillId="1258" skillLevel="3" getLevel="52" levelUpSp="250000" />
@@ -172,14 +217,22 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="9" getLevel="54" levelUpSp="400000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="24" getLevel="54" levelUpSp="400000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="22" getLevel="54" levelUpSp="400000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="13" getLevel="54" levelUpSp="400000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="13" getLevel="54" levelUpSp="400000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="13" getLevel="54" levelUpSp="400000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="13" getLevel="54" levelUpSp="400000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="13" getLevel="54" levelUpSp="400000" />
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="10" getLevel="55" levelUpSp="400000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="25" getLevel="55" levelUpSp="400000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="14" getLevel="55" levelUpSp="400000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="14" getLevel="55" levelUpSp="400000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="14" getLevel="55" levelUpSp="400000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="14" getLevel="55" levelUpSp="400000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="14" getLevel="55" levelUpSp="400000" />
 		
 		<skill skillName="Mana Boost" skillId="213" skillLevel="5" getLevel="56" levelUpSp="400000" />
@@ -194,8 +247,12 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="6" getLevel="56" levelUpSp="400000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="10" getLevel="56" levelUpSp="400000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="23" getLevel="56" levelUpSp="400000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="15" getLevel="56" levelUpSp="400000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="15" getLevel="56" levelUpSp="400000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="15" getLevel="56" levelUpSp="400000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="15" getLevel="56" levelUpSp="400000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="15" getLevel="56" levelUpSp="400000" />
 		<skill skillName="Mass Resurrection" skillId="1254" skillLevel="4" getLevel="56" levelUpSp="400000" />
 		<skill skillName="Restore Life" skillId="1258" skillLevel="4" getLevel="56" levelUpSp="400000" />
@@ -204,8 +261,12 @@
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="12" getLevel="57" levelUpSp="410000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="27" getLevel="57" levelUpSp="410000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="16" getLevel="57" levelUpSp="410000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="16" getLevel="57" levelUpSp="410000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="16" getLevel="57" levelUpSp="410000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="16" getLevel="57" levelUpSp="410000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="16" getLevel="57" levelUpSp="410000" />
 
 		<skill skillName="Cure" skillId="1012" skillLevel="3" getLevel="58" levelUpSp="410000" />
@@ -218,8 +279,12 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="7" getLevel="58" levelUpSp="410000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="11" getLevel="58" levelUpSp="410000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="24" getLevel="58" levelUpSp="410000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="17" getLevel="58" levelUpSp="410000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="17" getLevel="58" levelUpSp="410000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="17" getLevel="58" levelUpSp="410000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="17" getLevel="58" levelUpSp="410000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="17" getLevel="58" levelUpSp="410000" />
 		<skill skillName="Mass Resurrection" skillId="1254" skillLevel="5" getLevel="58" levelUpSp="410000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="2" getLevel="58" levelUpSp="410000" />
@@ -227,8 +292,12 @@
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="14" getLevel="59" levelUpSp="490000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="29" getLevel="59" levelUpSp="490000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="18" getLevel="59" levelUpSp="490000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="18" getLevel="59" levelUpSp="490000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="18" getLevel="59" levelUpSp="490000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="18" getLevel="59" levelUpSp="490000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="18" getLevel="59" levelUpSp="490000" />
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="5" getLevel="59" levelUpSp="490000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="5" getLevel="59" levelUpSp="490000" />
@@ -245,8 +314,12 @@
 		<skill skillName="Concentration" skillId="1078" skillLevel="5" getLevel="60" levelUpSp="490000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="12" getLevel="60" levelUpSp="490000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="25" getLevel="60" levelUpSp="490000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="19" getLevel="60" levelUpSp="490000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="19" getLevel="60" levelUpSp="490000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="19" getLevel="60" levelUpSp="490000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="19" getLevel="60" levelUpSp="490000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="19" getLevel="60" levelUpSp="490000" />
 		<skill skillName="Body of Avatar" skillId="1311" skillLevel="3" getLevel="60" levelUpSp="490000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="3" getLevel="60" levelUpSp="490000" />
@@ -260,8 +333,12 @@
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="16" getLevel="61" levelUpSp="590000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="31" getLevel="61" levelUpSp="590000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="20" getLevel="61" levelUpSp="590000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="20" getLevel="61" levelUpSp="590000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="20" getLevel="61" levelUpSp="590000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="20" getLevel="61" levelUpSp="590000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="20" getLevel="61" levelUpSp="590000" />
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="2" getLevel="61" levelUpSp="590000">
 			<item id="8619,95496" count="1" /> <!-- Ancient Book: Divine Inspiration Lv 2 -->
@@ -278,15 +355,23 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="9" getLevel="62" levelUpSp="590000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="13" getLevel="62" levelUpSp="590000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="26" getLevel="62" levelUpSp="590000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="21" getLevel="62" levelUpSp="590000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="21" getLevel="62" levelUpSp="590000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="21" getLevel="62" levelUpSp="590000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="21" getLevel="62" levelUpSp="590000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="21" getLevel="62" levelUpSp="590000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="4" getLevel="62" levelUpSp="590000" />
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="18" getLevel="63" levelUpSp="740000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="33" getLevel="63" levelUpSp="740000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="22" getLevel="63" levelUpSp="740000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="22" getLevel="63" levelUpSp="740000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="22" getLevel="63" levelUpSp="740000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="22" getLevel="63" levelUpSp="740000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="22" getLevel="63" levelUpSp="740000" />
 		
 		<skill skillName="Resurrection" skillId="1016" skillLevel="7" getLevel="64" levelUpSp="740000" />
@@ -299,16 +384,24 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="10" getLevel="64" levelUpSp="740000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="14" getLevel="64" levelUpSp="740000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="27" getLevel="64" levelUpSp="740000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="23" getLevel="64" levelUpSp="740000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="23" getLevel="64" levelUpSp="740000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="23" getLevel="64" levelUpSp="740000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="23" getLevel="64" levelUpSp="740000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="23" getLevel="64" levelUpSp="740000" />
 		<skill skillName="Body of Avatar" skillId="1311" skillLevel="4" getLevel="64" levelUpSp="740000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="5" getLevel="64" levelUpSp="740000" />
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="20" getLevel="65" levelUpSp="920000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="35" getLevel="65" levelUpSp="920000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="24" getLevel="65" levelUpSp="920000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="24" getLevel="65" levelUpSp="920000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="24" getLevel="65" levelUpSp="920000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="24" getLevel="65" levelUpSp="920000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="24" getLevel="65" levelUpSp="920000" />
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="6" getLevel="65" levelUpSp="920000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="6" getLevel="65" levelUpSp="920000" />
@@ -323,8 +416,12 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="11" getLevel="66" levelUpSp="920000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="15" getLevel="66" levelUpSp="920000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="28" getLevel="66" levelUpSp="920000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="25" getLevel="66" levelUpSp="920000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="25" getLevel="66" levelUpSp="920000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="25" getLevel="66" levelUpSp="920000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="25" getLevel="66" levelUpSp="920000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="25" getLevel="66" levelUpSp="920000" />
 		<skill skillName="Benediction" skillId="1271" skillLevel="1" getLevel="66" levelUpSp="920000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="6" getLevel="66" levelUpSp="920000" />
@@ -332,8 +429,12 @@
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="22" getLevel="67" levelUpSp="1200000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="37" getLevel="67" levelUpSp="1200000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="26" getLevel="67" levelUpSp="1200000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="26" getLevel="67" levelUpSp="1200000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="26" getLevel="67" levelUpSp="1200000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="26" getLevel="67" levelUpSp="1200000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="26" getLevel="67" levelUpSp="1200000" />
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="23" getLevel="68" levelUpSp="1200000" />
@@ -346,8 +447,12 @@
 		<skill skillName="Concentration" skillId="1078" skillLevel="6" getLevel="68" levelUpSp="1200000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="16" getLevel="68" levelUpSp="1200000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="29" getLevel="68" levelUpSp="1200000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="27" getLevel="68" levelUpSp="1200000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="27" getLevel="68" levelUpSp="1200000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="27" getLevel="68" levelUpSp="1200000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="27" getLevel="68" levelUpSp="1200000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="27" getLevel="68" levelUpSp="1200000" />
 		<skill skillName="Mass Resurrection" skillId="1254" skillLevel="6" getLevel="68" levelUpSp="1200000" />
 		<skill skillName="Body of Avatar" skillId="1311" skillLevel="5" getLevel="68" levelUpSp="1200000" />
@@ -355,8 +460,12 @@
 		
 		<skill skillName="Vitalize" skillId="1020" skillLevel="24" getLevel="69" levelUpSp="1400000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="39" getLevel="69" levelUpSp="1400000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="28" getLevel="69" levelUpSp="1400000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="28" getLevel="69" levelUpSp="1400000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="28" getLevel="69" levelUpSp="1400000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="28" getLevel="69" levelUpSp="1400000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="28" getLevel="69" levelUpSp="1400000" />
 		<skill skillName="Divine Power" skillId="1459" skillLevel="3" getLevel="69" levelUpSp="1400000" />
 		
@@ -370,8 +479,12 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="13" getLevel="70" levelUpSp="1400000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="17" getLevel="70" levelUpSp="1400000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="30" getLevel="70" levelUpSp="1400000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="29" getLevel="70" levelUpSp="1400000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="29" getLevel="70" levelUpSp="1400000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="29" getLevel="70" levelUpSp="1400000">
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="29" getLevel="70" levelUpSp="1400000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="29" getLevel="70" levelUpSp="1400000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="8" getLevel="70" levelUpSp="1400000" />
 		<skill skillName="White Assassin Transformation" skillId="1802" skillLevel="1" getLevel="70" autoGet="true" />
@@ -383,8 +496,12 @@
 
 		<skill skillName="Vitalize" skillId="1020" skillLevel="26" getLevel="71" levelUpSp="1700000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="41" getLevel="71" levelUpSp="1700000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="30" getLevel="71" levelUpSp="1700000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="30" getLevel="71" levelUpSp="1700000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="30" getLevel="71" levelUpSp="1700000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="30" getLevel="71" levelUpSp="1700000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="30" getLevel="71" levelUpSp="1700000" />
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="7" getLevel="71" levelUpSp="1700000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="7" getLevel="71" levelUpSp="1700000" />
@@ -399,8 +516,12 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="14" getLevel="72" levelUpSp="1700000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="18" getLevel="72" levelUpSp="1700000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="31" getLevel="72" levelUpSp="1700000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="31" getLevel="72" levelUpSp="1700000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="31" getLevel="72" levelUpSp="1700000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="31" getLevel="72" levelUpSp="1700000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="31" getLevel="72" levelUpSp="1700000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="31" getLevel="72" levelUpSp="1700000" />
 		<skill skillName="Body of Avatar" skillId="1311" skillLevel="6" getLevel="72" levelUpSp="1700000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="9" getLevel="72" levelUpSp="1700000" />
@@ -408,8 +529,12 @@
 		
 		<skill skillName="Vitalize" skillId="1020" skillLevel="28" getLevel="73" levelUpSp="2000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="43" getLevel="73" levelUpSp="2000000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="32" getLevel="73" levelUpSp="2000000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="32" getLevel="73" levelUpSp="2000000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="32" getLevel="73" levelUpSp="2000000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="32" getLevel="73" levelUpSp="2000000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="32" getLevel="73" levelUpSp="2000000" />
 
 		<skill skillName="Resurrection" skillId="1016" skillLevel="9" getLevel="74" levelUpSp="2000000" />
@@ -422,8 +547,12 @@
 		<skill skillName="Peace" skillId="1075" skillLevel="15" getLevel="74" levelUpSp="2000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="19" getLevel="74" levelUpSp="2000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="32" getLevel="74" levelUpSp="2000000" />
-		<skill skillName="Greater Heal" skillId="1217" skillLevel="33" getLevel="74" levelUpSp="2000000" />
-		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="33" getLevel="74" levelUpSp="2000000" />
+		<skill skillName="Greater Heal" skillId="1217" skillLevel="33" getLevel="74" levelUpSp="2000000" >
+			<removeSkill id="1011" onlyReplaceByLearn="true" /> <!-- Heal -->
+		</skill>
+		<skill skillName="Greater Battle Heal" skillId="1218" skillLevel="33" getLevel="74" levelUpSp="2000000" >
+			<removeSkill id="1015" onlyReplaceByLearn="true" /> <!-- Battle Heal -->
+			</skill>
 		<skill skillName="Greater Group Heal" skillId="1219" skillLevel="33" getLevel="74" levelUpSp="2000000" />
 		<skill skillName="Magical Backfire" skillId="1396" skillLevel="10" getLevel="74" levelUpSp="2000000" />
 		<skill skillName="Favorable Cover" skillId="47266" skillLevel="3" getLevel="74" levelUpSp="2000000" />

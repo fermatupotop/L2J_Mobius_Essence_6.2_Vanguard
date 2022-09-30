@@ -2157,6 +2157,7 @@
 		<icon>icon.etc_recall_potion2</icon>
 		<operateType>A2</operateType>
 		<abnormalType>MAGIC_LAMP_RATE</abnormalType>
+		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>3600</abnormalTime>
 		<isMagic>4</isMagic>
 		<reuseDelay>60000</reuseDelay>
@@ -2410,6 +2411,7 @@
 		<icon>icon.bm_soul_of_shilen</icon>
 		<operateType>A2</operateType>
 		<abnormalType>MAGIC_LAMP_RATE</abnormalType>
+		<abnormalLevel>2</abnormalLevel>
 		<abnormalTime>3600</abnormalTime>
 		<isMagic>4</isMagic>
 		<reuseDelay>60000</reuseDelay>

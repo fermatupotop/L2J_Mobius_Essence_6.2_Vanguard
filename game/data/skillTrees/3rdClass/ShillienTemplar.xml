@@ -82,9 +82,15 @@
 		<skill skillName="Bloody Weapon" skillId="47285" skillLevel="7" getLevel="76" levelUpSp="4900000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="6" getLevel="76" levelUpSp="4900000" />
 		<skill skillName="Life Steal" skillId="47294" skillLevel="2" getLevel="76" levelUpSp="4900000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="3" getLevel="76" levelUpSp="4900000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="5" getLevel="76" levelUpSp="4900000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="5" getLevel="76" levelUpSp="4900000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="3" getLevel="76" levelUpSp="4900000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="5" getLevel="76" levelUpSp="4900000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="5" getLevel="76" levelUpSp="4900000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Condemnation" skillId="47313" skillLevel="1" getLevel="76" levelUpSp="4900000">
 			<item id="96295,96296" count="1" /> <!-- Spellbook: Condemnation -->
 		</skill>
@@ -131,8 +137,12 @@
 			<item id="96273,96274" count="1" /> <!-- Spellbook: Masterpiece Shield -->
 		</skill>
 		<skill skillName="Shield Stun" skillId="47282" skillLevel="4" getLevel="78" levelUpSp="11400000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="6" getLevel="78" levelUpSp="11400000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="6" getLevel="78" levelUpSp="11400000" />
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="6" getLevel="78" levelUpSp="11400000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="6" getLevel="78" levelUpSp="11400000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Mass Chain Strike" skillId="53003" skillLevel="1" getLevel="78" levelUpSp="11400000">
 			<item id="91484" count="1" /> <!-- Scroll: Mass Chain Strike -->
 		</skill>
@@ -174,9 +184,15 @@
 		<skill skillName="Knight Assault" skillId="47279" skillLevel="3" getLevel="80" levelUpSp="11400000" />
 		<skill skillName="Bloody Weapon" skillId="47285" skillLevel="8" getLevel="80" levelUpSp="11400000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="7" getLevel="80" levelUpSp="11400000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="4" getLevel="80" levelUpSp="11400000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="7" getLevel="80" levelUpSp="11400000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="7" getLevel="80" levelUpSp="11400000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="4" getLevel="80" levelUpSp="11400000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="7" getLevel="80" levelUpSp="11400000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="7" getLevel="80" levelUpSp="11400000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Critical Vulnerability Decrease" skillId="53004" skillLevel="3" getLevel="80" levelUpSp="11400000" />
 		<skill skillName="White Guardian Transformation" skillId="54102" skillLevel="1" getLevel="80">
 			<item id="92401,95502" count="1" /> <!-- Spellbook - White Guardian -->
@@ -219,9 +235,15 @@
 			<item id="96279,96280" count="1" /> <!-- Spellbook: Chain Strike (Shock) -->
 		</skill>
 		<skill skillName="Knight Assault" skillId="47279" skillLevel="4" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="5" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="8" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="8" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="5" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="8" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="8" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Critical Vulnerability Decrease" skillId="53004" skillLevel="4" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Knight's Protection" skillId="53010" skillLevel="6" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Dragon Slayer Appearance" skillId="54231" skillLevel="1" getLevel="82" levelUpSp="0">
@@ -269,9 +291,15 @@
 		<skill skillName="Knight Assault" skillId="47279" skillLevel="5" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Masterpiece Shield" skillId="47281" skillLevel="2" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="8" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="6" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="9" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="9" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="6" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Mass Chain Strike" skillId="53003" skillLevel="3" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Critical Vulnerability Decrease" skillId="53004" skillLevel="5" getLevel="84" levelUpSp="240000000" />
 		
@@ -314,9 +342,15 @@
 			<item id="57" count="100000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Knight Assault" skillId="47279" skillLevel="6" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="7" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="10" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="10" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="7" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="10" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="10" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		
 		<skill skillName="Confusion" skillId="2" skillLevel="32" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="57" getLevel="87" levelUpSp="840000000" />
@@ -345,9 +379,15 @@
 		<skill skillName="Drain HP" skillId="45250" skillLevel="38" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Knight Assault" skillId="47279" skillLevel="7" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Life Steal" skillId="47294" skillLevel="4" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="8" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="11" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="11" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="8" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="11" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="11" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 		<skill skillName="Knight's Protection" skillId="53010" skillLevel="7" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Detection" skillId="45190" skillLevel="3" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="30000000" /> <!-- Adena -->
@@ -386,8 +426,14 @@
 		<skill skillName="Knight Assault" skillId="47279" skillLevel="8" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Bloody Weapon" skillId="47285" skillLevel="10" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Freezing Weapon" skillId="47288" skillLevel="9" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="9" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="12" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="12" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Knight's Magic Resistance" skillId="47296" skillLevel="9" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="147" onlyReplaceByLearn="true" /> <!-- Magic Resistance -->
+		</skill>
+		<skill skillName="Knight Armor Mastery" skillId="47297" skillLevel="12" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="232" onlyReplaceByLearn="true" /> <!-- Heavy Armor Mastery -->
+		</skill>
+		<skill skillName="Knight Weapon Mastery" skillId="47298" skillLevel="12" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="217" onlyReplaceByLearn="true" /> <!-- Sword / Blunt Weapon Mastery -->
+		</skill>
 	</skillTree>
 </list>

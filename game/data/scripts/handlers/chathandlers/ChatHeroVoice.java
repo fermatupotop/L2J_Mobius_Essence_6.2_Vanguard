@@ -38,7 +38,7 @@ public class ChatHeroVoice implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, boolean shareLocation)
 	{
 		if (!activeChar.isHero() && !activeChar.canOverrideCond(PlayerCondOverride.CHAT_CONDITIONS))
 		{
@@ -62,7 +62,7 @@ public class ChatHeroVoice implements IChatHandler
 			return;
 		}
 		
-		final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, isLocSharing);
+		final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, shareLocation);
 		for (Player player : World.getInstance().getPlayers())
 		{
 			if ((player != null) && !BlockList.isBlocked(player, activeChar))

@@ -29,7 +29,7 @@ import org.l2jmobius.gameserver.model.skill.SkillCaster;
 public class DefeatTheQueen extends LongTimeEvent
 {
 	// NPCs
-	private static final int ANTRI = 34184;
+	private static final int ANTRI = 34185;
 	private static final int JIO = 34185;
 	// Skill
 	private static final SkillHolder ANT_PROPHECY = new SkillHolder(48200, 1);
@@ -55,8 +55,8 @@ public class DefeatTheQueen extends LongTimeEvent
 		
 		switch (event)
 		{
-			case "34184.htm":
-			case "34184-1.htm":
+			case "341844.htm":
+			case "341844-1.htm":
 			{
 				return event;
 			}

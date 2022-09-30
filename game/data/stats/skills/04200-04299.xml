@@ -2745,12 +2745,12 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="4262" toLevel="2" name="Holiday Wind Walk">
+	<skill id="4262" toLevel="2" name="Dimasik's Curse'">
 		<!-- Temporarily Speed +33. -->
 		<icon>icon.skill1204</icon>
 		<abnormalLevel>2</abnormalLevel>
-		<abnormalTime>300</abnormalTime>
-		<abnormalType>SPEED_UP</abnormalType>
+		<abnormalTime>1800</abnormalTime>
+		<abnormalType>PD_DOWN</abnormalType>
 		<castRange>400</castRange>
 		<effectPoint>285</effectPoint>
 		<effectRange>900</effectRange>
@@ -2759,13 +2759,12 @@
 		<operateType>A2</operateType>
 		<magicCriticalRate>-5</magicCriticalRate>
 		<basicProperty>NONE</basicProperty>
-		<targetType>TARGET</targetType>
+		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
-			<effect name="Speed">
-				<amount>33</amount>
-				<mode>DIFF</mode>
-			</effect>
+			<effect name="BlockControl" />
+			<effect name="BlockEscape" />
+			<effect name="BlockMove" />
 		</effects>
 	</skill>
 	<skill id="4263" toLevel="1" name="Holiday Haste">

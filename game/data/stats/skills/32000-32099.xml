@@ -681,7 +681,9 @@
 		<operateType>A2</operateType>
 		<effectPoint>1</effectPoint>
 		<abnormalType>CHANGEBODY</abnormalType>
-		<abnormalVisualEffect>CHANGE_DINOS</abnormalVisualEffect>
+		<abnormalVisualEffect>CHANGESHAPE_MUSKETEER_BLUE</abnormalVisualEffect>
+		<abnormalType>EXP_SPECIAL</abnormalType>
+		<abnormalLevel>3</abnormalLevel>
 		<itemConsumeCount>1</itemConsumeCount>
 		<itemConsumeId>46254</itemConsumeId> <!-- Dandy's Home Run Ball -->
 		<basicProperty>NONE</basicProperty>

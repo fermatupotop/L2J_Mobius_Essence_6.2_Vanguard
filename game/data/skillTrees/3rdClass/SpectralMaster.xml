@@ -247,7 +247,9 @@
 		<skill skillName="Summoner's Attack Mastery" skillId="47918" skillLevel="13" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Summoner's Armor Mastery" skillId="47919" skillLevel="13" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Summoner's Recovery Mastery" skillId="47920" skillLevel="8" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Chains of Pain" skillId="47916" skillLevel="2" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Chains of Pain" skillId="47916" skillLevel="2" getLevel="90" levelUpSp="840000000" >
+		<removeSkill id="1262" onlyReplaceByLearn="true" /> <!-- Transfer Pain -->
+		</skill>
 		<skill skillName="Ray of Light" skillId="47917" skillLevel="5" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Warrior Bane" skillId="1350" skillLevel="8" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Mage Bane" skillId="1351" skillLevel="8" getLevel="90" levelUpSp="840000000" />

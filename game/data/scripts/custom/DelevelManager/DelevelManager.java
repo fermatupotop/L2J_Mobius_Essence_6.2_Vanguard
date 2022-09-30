@@ -47,18 +47,34 @@ public class DelevelManager extends AbstractNpcAI
 		{
 			case "delevel":
 			{
-				if (player.getLevel() <= Config.DELEVEL_MANAGER_MINIMUM_DELEVEL)
+				if (player.getLevel() <= Config.DELEVEL_MANAGER_MINIMUM_LEVEL)
 				{
-					return "1002000-2.htm";
+					return "34184-2.htm";
 				}
 				if (getQuestItemsCount(player, Config.DELEVEL_MANAGER_ITEMID) >= Config.DELEVEL_MANAGER_ITEMCOUNT)
 				{
 					takeItems(player, Config.DELEVEL_MANAGER_ITEMID, Config.DELEVEL_MANAGER_ITEMCOUNT);
 					player.getStat().removeExpAndSp((player.getExp() - ExperienceData.getInstance().getExpForLevel(player.getLevel() - 1)), 0);
 					player.broadcastUserInfo();
-					return "1002000.htm";
+					return "34184.htm";
 				}
-				return "1002000-1.htm";
+				return "34184-1.htm";
+			}
+			
+			case "levelup":
+			{
+				if (player.getLevel() >= Config.DELEVEL_MANAGER_MAXIMUM_LEVEL)
+				{
+					return "34184-3.htm";
+				}
+				if (getQuestItemsCount(player, Config.DELEVEL_MANAGER_ITEMID) >= Config.DELEVEL_MANAGER_ITEMCOUNT)
+				{
+					takeItems(player, Config.DELEVEL_MANAGER_ITEMID, Config.DELEVEL_MANAGER_ITEMCOUNT);
+					player.getStat().addExpAndSp(ExperienceData.getInstance().getExpForLevel(player.getLevel() + 1) - ExperienceData.getInstance().getExpForLevel(player.getLevel()), 0, false);
+					player.broadcastUserInfo();
+					return "34184.htm";
+				}
+				return "34184-1.htm";
 			}
 		}
 		
@@ -68,7 +84,7 @@ public class DelevelManager extends AbstractNpcAI
 	@Override
 	public String onFirstTalk(Npc npc, Player player)
 	{
-		return "1002000.htm";
+		return "34184.htm";
 	}
 	
 	public static void main(String[] args)

@@ -6,6 +6,7 @@
 
 	<!-- ADMIN ADMIN -->
 	<admin command="admin_admin" accessLevel="100" />
+	<admin command="admin_start_waytrel" accessLevel="100" />
 	<admin command="admin_admin1" accessLevel="100" />
 	<admin command="admin_admin2" accessLevel="100" />
 	<admin command="admin_admin3" accessLevel="100" />

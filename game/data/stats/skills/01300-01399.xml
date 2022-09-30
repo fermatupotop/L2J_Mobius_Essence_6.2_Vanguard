@@ -310,7 +310,7 @@
 	<skill id="1306" toLevel="18" name="Ritual of Life">
 		<!-- Restores target's CP by $s1. -->
 		<icon>icon.skill1306</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>
 			<value level="1">575</value>
 			<value level="2">602</value>

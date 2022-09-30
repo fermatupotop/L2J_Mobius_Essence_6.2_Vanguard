@@ -36,6 +36,7 @@ import org.l2jmobius.gameserver.network.serverpackets.AcquireSkillList;
 import org.l2jmobius.gameserver.network.serverpackets.NpcHtmlMessage;
 import org.l2jmobius.gameserver.network.serverpackets.PledgeSkillList;
 import org.l2jmobius.gameserver.network.serverpackets.SystemMessage;
+import org.l2jmobius.gameserver.util.Broadcast;
 import org.l2jmobius.gameserver.util.BuilderUtil;
 
 /**
@@ -62,6 +63,18 @@ public class AdminSkill implements IAdminCommandHandler
 {
 	private static final Logger LOGGER = Logger.getLogger(AdminSkill.class.getName());
 	
+	public static boolean startWaytrel = false;
+	
+	public static boolean getWaytrel()
+	{
+		return startWaytrel;
+	}
+	
+	public static void setWaytrel(boolean startWaytrel)
+	{
+		AdminSkill.startWaytrel = startWaytrel;
+	}
+	
 	private static final String[] ADMIN_COMMANDS =
 	{
 		"admin_show_skills",
@@ -80,6 +93,7 @@ public class AdminSkill implements IAdminCommandHandler
 		"admin_add_clan_skill",
 		"admin_setskill",
 		"admin_cast",
+		"admin_start_waytrel",
 		"admin_castnow"
 	};
 	
@@ -169,6 +183,12 @@ public class AdminSkill implements IAdminCommandHandler
 		else if (command.equals("admin_give_all_clan_skills"))
 		{
 			adminGiveClanSkills(activeChar, true);
+		}
+		else if (command.equals("admin_start_waytrel"))
+		{
+			setWaytrel(true);
+			Broadcast.toAllOnlinePlayers("Start very soon...");
+			Broadcast.toAllOnlinePlayers(String.valueOf(getWaytrel()));
 		}
 		else if (command.equals("admin_remove_all_skills"))
 		{

@@ -2857,7 +2857,7 @@
 			<value level="39">-1265</value>
 			<value level="40">-1280</value>
 		</effectPoint>
-		<effectRange>1000</effectRange>
+		<effectRange>700</effectRange>
 		<hitTime>2000</hitTime>
 		<magicLevel>
 			<value level="1">44</value>
@@ -2944,7 +2944,7 @@
 			<value level="40">154</value>
 		</mpConsume>
 		<operateType>A1</operateType>
-		<reuseDelay>2000</reuseDelay>
+		<reuseDelay>8000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>ENEMY</targetType>
 		<affectScope>RANGE</affectScope>

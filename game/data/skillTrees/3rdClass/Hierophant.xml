@@ -73,6 +73,8 @@
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Divine Beam" skillId="45241" skillLevel="1" getLevel="76" levelUpSp="8000000">
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+	
 			<item id="93103,95503" count="1" /> <!-- Spellbook: Divine Beam -->
 		</skill>
 		<skill skillName="Expanded Potential of Dyes" skillId="45269" skillLevel="1" getLevel="76" levelUpSp="0">
@@ -96,7 +98,9 @@
 		</skill>
 		<skill skillName="Mana Burn" skillId="1398" skillLevel="2" getLevel="77" levelUpSp="8000000" />
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="2" getLevel="77" levelUpSp="8000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="2" getLevel="77" levelUpSp="8000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="2" getLevel="77" levelUpSp="8000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Anti Magic" skillId="47270" skillLevel="5" getLevel="77" levelUpSp="8000000" />
 		
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="40" getLevel="78" levelUpSp="17400000" />
@@ -111,7 +115,9 @@
 		<skill skillName="Enlightenment" skillId="1533" skillLevel="1" getLevel="78" levelUpSp="17400000">
 			<item id="90111" count="1" /> <!-- Scroll: Enlightenment -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="3" getLevel="78" levelUpSp="17400000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="3" getLevel="78" levelUpSp="17400000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Holy Buster" skillId="47245" skillLevel="1" getLevel="78" levelUpSp="17400000">
 			<item id="96049,96064" count="1" /> <!-- Spellbook: Holy Buster -->
 		</skill>
@@ -132,7 +138,9 @@
 		<skill skillName="Sleep Mastery" skillId="45239" skillLevel="2" getLevel="79" levelUpSp="17400000">
 			<item id="57" count="2000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="4" getLevel="79" levelUpSp="17400000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="4" getLevel="79" levelUpSp="17400000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="41" getLevel="80" levelUpSp="17400000" />
 		<skill skillName="Heavy Armor Mastery" skillId="259" skillLevel="37" getLevel="80" levelUpSp="17400000" />
@@ -158,7 +166,9 @@
 		<skill skillName="Swap Attack" skillId="45237" skillLevel="4" getLevel="80" levelUpSp="10000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="5" getLevel="80" levelUpSp="17400000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="5" getLevel="80" levelUpSp="17400000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="2" getLevel="80" levelUpSp="0">
 			<item id="57" count="40000000" /> <!-- Adena -->
 		</skill>
@@ -175,7 +185,9 @@
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="36" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Mana Burn" skillId="1398" skillLevel="6" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="6" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="6" getLevel="81" levelUpSp="160000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="6" getLevel="81" levelUpSp="160000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="10" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="10" getLevel="81" levelUpSp="160000000" />
 
@@ -195,7 +207,9 @@
 		<skill skillName="Sleep Mastery" skillId="45239" skillLevel="3" getLevel="82" levelUpSp="170000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="7" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="7" getLevel="82" levelUpSp="170000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Improved Resilience" skillId="47265" skillLevel="1" getLevel="82" levelUpSp="170000000">
 			<item id="96048,96062" count="1" /> <!-- Spellbook: Improved Resilience -->
 		</skill>
@@ -212,7 +226,9 @@
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="38" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Mana Burn" skillId="1398" skillLevel="8" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="8" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="8" getLevel="83" levelUpSp="240000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="8" getLevel="83" levelUpSp="240000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="11" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="11" getLevel="83" levelUpSp="240000000" />
 
@@ -224,7 +240,9 @@
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="39" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Mana Burn" skillId="1398" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Mana Gain" skillId="1460" skillLevel="9" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="9" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Anti Magic" skillId="47270" skillLevel="8" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Priest's Recovery Mastery" skillId="47271" skillLevel="7" getLevel="84" levelUpSp="240000000" />
 
@@ -242,7 +260,9 @@
 		<skill skillName="Sleep Mastery" skillId="45239" skillLevel="4" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="10" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="10" getLevel="85" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="3" getLevel="85" levelUpSp="0">
 			<item id="57" count="100000000" /> <!-- Adena -->
 		</skill>
@@ -253,14 +273,18 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="31" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="56" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="41" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="11" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="11" getLevel="86" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Anti Magic" skillId="47270" skillLevel="9" getLevel="86" levelUpSp="840000000" />
 		
 		<skill skillName="Heavy Armor Mastery" skillId="259" skillLevel="44" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="32" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="57" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="42" getLevel="87" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="12" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="12" getLevel="87" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="13" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="13" getLevel="87" levelUpSp="840000000" />
 		
@@ -268,7 +292,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="33" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="58" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="43" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="13" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="13" getLevel="88" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Anti Magic" skillId="47270" skillLevel="10" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Detection" skillId="45190" skillLevel="3" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="30000000" /> <!-- Adena -->
@@ -278,7 +304,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="34" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="59" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="44" getLevel="89" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="14" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="14" getLevel="89" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Priest's Armor Mastery" skillId="47267" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Priest's Attack Mastery" skillId="47268" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 
@@ -286,7 +314,9 @@
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="35" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="1069" skillLevel="60" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Dryad Root" skillId="1201" skillLevel="45" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Divine Beam" skillId="45241" skillLevel="15" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Divine Beam" skillId="45241" skillLevel="15" getLevel="90" levelUpSp="840000000" >
+		<removeSkill id="1031" onlyReplaceByLearn="true" /> <!-- Divine Strike -->
+		</skill>
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="4" getLevel="90" levelUpSp="0">
 			<item id="57" count="200000000" /> <!-- Adena -->
 		</skill>

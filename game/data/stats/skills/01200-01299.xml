@@ -954,7 +954,7 @@
 	<skill id="1217" toLevel="41" name="Greater Heal">
 		<!-- Restores the target's HP with $s1 Power. -->
 		<icon>icon.skill1217</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>
 			<value level="1">380</value>
 			<value level="2">390</value>
@@ -1187,7 +1187,7 @@
 	<skill id="1218" toLevel="41" name="Greater Battle Heal">
 		<!-- Immediately restores the target's HP with $s1 Power. -->
 		<icon>icon.skill1218</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>
 			<value level="1">380</value>
 			<value level="2">390</value>
@@ -6183,7 +6183,7 @@
 	<skill id="1258" toLevel="4" name="Restore Life">
 		<!-- Restores $s1 HP. -->
 		<icon>icon.skill1258</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>
 			<value level="1">500</value>
 			<value level="2">666</value>
@@ -7151,7 +7151,7 @@
 	<skill id="1273" toLevel="15" name="Eva's Serenade">
 		<!-- Removes debuffs and anomalies from the target. For 10 min., protects from debuffs and anomalies with a 70% chance. -->
 		<icon>icon.skill1273</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<abnormalLevel>
 			<value level="1">1</value>
 			<value level="2">2</value>

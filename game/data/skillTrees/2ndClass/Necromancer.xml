@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="13" parentClassId="11">
-		<skill skillName="Mana Boost" skillId="213" skillLevel="3" getLevel="40" levelUpSp="55000" />
+		
 		<skill skillName="Shield" skillId="1040" skillLevel="3" getLevel="40" levelUpSp="80000" />
 		<skill skillName="Mana Regeneration" skillId="1047" skillLevel="1" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Silence" skillId="1064" skillLevel="1" getLevel="40" levelUpSp="55000" />
@@ -32,7 +32,9 @@
 
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="1" getLevel="40" levelUpSp="84000" />
 
-		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="1" getLevel="40" levelUpSp="84000" />
+		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="1" getLevel="40" levelUpSp="84000" >
+			<removeSkill id="213" onlyReplaceByLearn="true" /> <!-- Mana Boost -->
+		</skill>
 
 		<skill skillName="Higher Mana Gain" skillId="47466" skillLevel="2" getLevel="40" levelUpSp="84000" />
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="1" getLevel="40" levelUpSp="55000" />
@@ -77,7 +79,7 @@
 		<skill skillName="Death Spike" skillId="1148" skillLevel="3" getLevel="46" levelUpSp="120000" />
 		<skill skillName="Corpse Burst" skillId="1155" skillLevel="1" getLevel="46" levelUpSp="120000" />
 	
-		<skill skillName="Mana Boost" skillId="213" skillLevel="4" getLevel="48" levelUpSp="120000" />
+		
 		<skill skillName="Mana Regeneration" skillId="1047" skillLevel="2" getLevel="48" levelUpSp="120000" />
 		<skill skillName="Silence" skillId="1064" skillLevel="3" getLevel="48" levelUpSp="120000" />
 		<skill skillName="Summon Corrupted Man" skillId="1154" skillLevel="2" getLevel="48" levelUpSp="120000" />
@@ -101,7 +103,9 @@
 		</skill>
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="2" getLevel="50" levelUpSp="300000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="2" getLevel="50" levelUpSp="300000" />
-		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="2" getLevel="50" levelUpSp="300000" />
+		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="2" getLevel="50" levelUpSp="300000" >
+			<removeSkill id="213" onlyReplaceByLearn="true" /> <!-- Mana Boost -->
+		</skill>
 
 		<skill skillName="Silence" skillId="1064" skillLevel="4" getLevel="52" levelUpSp="200000" />
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="2" getLevel="52" levelUpSp="200000" />
@@ -120,7 +124,7 @@
 		
 		<skill skillName="Death Spike" skillId="1148" skillLevel="6" getLevel="55" levelUpSp="310000" />
 		
-		<skill skillName="Mana Boost" skillId="213" skillLevel="5" getLevel="56" levelUpSp="310000" />
+		
 		<skill skillName="Silence" skillId="1064" skillLevel="5" getLevel="56" levelUpSp="310000" />
 		<skill skillName="Summon Corrupted Man" skillId="1154" skillLevel="3" getLevel="56" levelUpSp="310000" />
 		<skill skillName="Corpse Burst" skillId="1155" skillLevel="6" getLevel="56" levelUpSp="310000" />
@@ -141,7 +145,7 @@
 		<skill skillName="Transfer Pain" skillId="1262" skillLevel="4" getLevel="58" levelUpSp="320000" />
 		<skill skillName="Magic Wound" skillId="1263" skillLevel="5" getLevel="58" levelUpSp="320000" />
 		
-		<skill skillName="Mana Boost" skillId="213" skillLevel="6" getLevel="60" levelUpSp="380000" />
+	
 		<skill skillName="Mana Regeneration" skillId="1047" skillLevel="3" getLevel="60" levelUpSp="380000" />
 		<skill skillName="Silence" skillId="1064" skillLevel="7" getLevel="60" levelUpSp="380000" />
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="3" getLevel="60" levelUpSp="380000" />
@@ -156,7 +160,9 @@
 		<skill skillName="Higher Mana Gain" skillId="47466" skillLevel="3" getLevel="60" levelUpSp="590000" />
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="3" getLevel="60" levelUpSp="590000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="3" getLevel="60" levelUpSp="590000" />
-		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="3" getLevel="60" levelUpSp="590000" />
+		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="3" getLevel="60" levelUpSp="590000" >
+			<removeSkill id="213" onlyReplaceByLearn="true" /> <!-- Mana Boost -->
+		</skill>
 
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="2" getLevel="61" levelUpSp="460000">
 			<item id="8619,95496" count="1" /> <!-- Ancient Book: Divine Inspiration Lv 2 -->
@@ -181,7 +187,7 @@
 		<skill skillName="Anchor" skillId="1170" skillLevel="8" getLevel="64" levelUpSp="580000" />
 		<skill skillName="Magic Wound" skillId="1263" skillLevel="8" getLevel="64" levelUpSp="580000" />
 		
-		<skill skillName="Mana Boost" skillId="213" skillLevel="7" getLevel="66" levelUpSp="730000" />
+	
 		<skill skillName="Silence" skillId="1064" skillLevel="10" getLevel="66" levelUpSp="730000" />
 		<skill skillName="Death Spike" skillId="1148" skillLevel="11" getLevel="66" levelUpSp="730000" />
 		<skill skillName="Summon Corrupted Man" skillId="1154" skillLevel="5" getLevel="66" levelUpSp="730000" />
@@ -214,9 +220,11 @@
 		<skill skillName="White Assassin Transformation" skillId="1802" skillLevel="1" getLevel="70" autoGet="true" />
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="4" getLevel="70" levelUpSp="1700000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="4" getLevel="70" levelUpSp="1700000" />
-		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="4" getLevel="70" levelUpSp="1700000" />
+		<skill skillName="Wizard's Recovery Mastery" skillId="47465" skillLevel="4" getLevel="70" levelUpSp="1700000" >
+			<removeSkill id="213" onlyReplaceByLearn="true" /> <!-- Mana Boost -->
+		</skill>
 
-		<skill skillName="Mana Boost" skillId="213" skillLevel="8" getLevel="72" levelUpSp="1300000" />
+
 		<skill skillName="Silence" skillId="1064" skillLevel="13" getLevel="72" levelUpSp="1300000" />
 		<skill skillName="Summon Reanimated Man" skillId="1129" skillLevel="6" getLevel="72" levelUpSp="1300000" />
 		<skill skillName="Death Spike" skillId="1148" skillLevel="14" getLevel="72" levelUpSp="1300000" />

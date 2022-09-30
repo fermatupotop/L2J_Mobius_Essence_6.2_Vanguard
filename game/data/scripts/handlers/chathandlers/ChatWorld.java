@@ -48,7 +48,7 @@ public class ChatWorld implements IChatHandler
 	};
 	
 	@Override
-	public void handleChat(ChatType type, Player activeChar, String target, String text, int isLocSharing)
+	public void handleChat(ChatType type, Player activeChar, String target, String text, boolean shareLocation)
 	{
 		if (!Config.ENABLE_WORLD_CHAT)
 		{
@@ -79,11 +79,11 @@ public class ChatWorld implements IChatHandler
 		{
 			activeChar.sendPacket(SystemMessageId.YOU_HAVE_SPENT_YOUR_WORLD_CHAT_QUOTA_FOR_THE_DAY_IT_IS_RESET_DAILY_AT_7_A_M);
 		}
-		else if ((isLocSharing == 1) && (activeChar.getInventory().getInventoryItemCount(Inventory.LCOIN_ID, -1) < Config.SHARING_LOCATION_COST))
+		else if (shareLocation && (activeChar.getInventory().getInventoryItemCount(Inventory.LCOIN_ID, -1) < Config.SHARING_LOCATION_COST))
 		{
 			activeChar.sendPacket(SystemMessageId.THERE_ARE_NOT_ENOUGH_L_COINS);
 		}
-		else if ((isLocSharing == 1) && (activeChar.isInInstance() || activeChar.isInsideZone(ZoneId.SIEGE)))
+		else if (shareLocation && ((activeChar.getMovieHolder() != null) || activeChar.isFishing() || activeChar.isInInstance() || activeChar.isOnEvent() || activeChar.isInOlympiadMode() || activeChar.inObserverMode() || activeChar.isInTraingCamp() || activeChar.isInTimedHuntingZone() || activeChar.isInsideZone(ZoneId.SIEGE)))
 		{
 			activeChar.sendPacket(SystemMessageId.LOCATION_CANNOT_BE_SHARED_SINCE_THE_CONDITIONS_ARE_NOT_MET);
 		}
@@ -103,12 +103,12 @@ public class ChatWorld implements IChatHandler
 				}
 			}
 			
-			if (isLocSharing == 1)
+			if (shareLocation)
 			{
-				activeChar.destroyItemByItemId("TeleToSharedLoc", Inventory.LCOIN_ID, Config.SHARING_LOCATION_COST, activeChar, true);
+				activeChar.destroyItemByItemId("Shared Location", Inventory.LCOIN_ID, Config.SHARING_LOCATION_COST, activeChar, true);
 			}
 			
-			final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, isLocSharing);
+			final CreatureSay cs = new CreatureSay(activeChar, type, activeChar.getName(), text, shareLocation);
 			if (Config.FACTION_SYSTEM_ENABLED && Config.FACTION_SPECIFIC_CHAT)
 			{
 				if (activeChar.isGood())

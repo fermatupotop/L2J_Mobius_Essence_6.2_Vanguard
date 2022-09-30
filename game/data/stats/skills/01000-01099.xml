@@ -1026,7 +1026,7 @@
 	<skill id="1018" toLevel="3" name="Purify">
 		<!-- Removes Paralysis/ Shock/ Sleep/ Fear/ Imprisonment from the target. -->
 		<icon>icon.skill1018</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>
 			<value level="1">440</value>
 			<value level="2">520</value>
@@ -1068,7 +1068,7 @@
 	<skill id="1020" toLevel="30" name="Vitalize">
 		<!-- Restores the target's HP with $s1 power. Removes debuffs from the target. <Removable Debuffs> P. Atk. is decreased. M. Atk. is decreased. P. Def. is decreased. M. Def. is decreased. -->
 		<icon>icon.skill1020</icon>
-		<castRange>600</castRange>
+		<castRange>700</castRange>
 		<effectPoint>
 			<value level="1">460</value>
 			<value level="2">470</value>
@@ -1242,36 +1242,36 @@
 			</effect>
 			<effect name="DispelBySlot">
 				<dispel>
-					<value level="1">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3;CASTING_TIME_DOWN,3;ATTACK_TIME_DOWN,3;SPEED_UP,3</value>
-					<value level="2">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3;CASTING_TIME_DOWN,3;ATTACK_TIME_DOWN,3;SPEED_UP,3</value>
-					<value level="3">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3;CASTING_TIME_DOWN,3;ATTACK_TIME_DOWN,3;SPEED_UP,3</value>
-					<value level="4">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3;CASTING_TIME_DOWN,3;ATTACK_TIME_DOWN,3;SPEED_UP,3</value>
-					<value level="5">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3;CASTING_TIME_DOWN,3;ATTACK_TIME_DOWN,3;SPEED_UP,3</value>
-					<value level="6">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="7">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="8">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="9">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="10">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="11">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="12">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="13">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="14">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="15">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="16">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="17">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="18">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7;CASTING_TIME_DOWN,7;ATTACK_TIME_DOWN,7;SPEED_UP,7</value>
-					<value level="19">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="20">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="21">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="22">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="23">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="24">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="25">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="26">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="27">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9;CASTING_TIME_DOWN,9;ATTACK_TIME_DOWN,9;SPEED_UP,9</value>
-					<value level="28">PA_DOWN,10;PD_DOWN,10;MA_DOWN,10;MD_DOWN,10;CASTING_TIME_DOWN,10;ATTACK_TIME_DOWN,10;SPEED_UP,10</value>
-					<value level="29">PA_DOWN,10;PD_DOWN,10;MA_DOWN,10;MD_DOWN,10;CASTING_TIME_DOWN,10;ATTACK_TIME_DOWN,10;SPEED_UP,10</value>
-					<value level="30">PA_DOWN,10;PD_DOWN,10;MA_DOWN,10;MD_DOWN,10;CASTING_TIME_DOWN,10;ATTACK_TIME_DOWN,10;SPEED_UP,10</value>
+					<value level="1">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3  </value>
+					<value level="2">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3  </value>
+					<value level="3">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3  </value>
+					<value level="4">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3  </value>
+					<value level="5">PA_DOWN,3;PD_DOWN,3;MA_DOWN,3;MD_DOWN,3  </value>
+					<value level="6">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7  </value>
+					<value level="7">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7  </value>
+					<value level="8">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7  </value>
+					<value level="9">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7  </value>
+					<value level="10">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="11">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="12">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="13">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="14">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="15">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="16">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="17">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="18">PA_DOWN,7;PD_DOWN,7;MA_DOWN,7;MD_DOWN,7   </value>
+					<value level="19">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="20">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9  </value>
+					<value level="21">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="22">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="23">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="24">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="25">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="26">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="27">PA_DOWN,9;PD_DOWN,9;MA_DOWN,9;MD_DOWN,9   </value>
+					<value level="28">PA_DOWN,10;PD_DOWN,10;MA_DOWN,10;MD_DOWN,10   </value>
+					<value level="29">PA_DOWN,10;PD_DOWN,10;MA_DOWN,10;MD_DOWN,10   </value>
+					<value level="30">PA_DOWN,10;PD_DOWN,10;MA_DOWN,10;MD_DOWN,10   </value>
 				</dispel>
 			</effect>
 		</effects>

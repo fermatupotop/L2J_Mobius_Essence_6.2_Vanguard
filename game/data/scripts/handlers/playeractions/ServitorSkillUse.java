@@ -20,8 +20,12 @@ import org.l2jmobius.gameserver.data.xml.PetSkillData;
 import org.l2jmobius.gameserver.data.xml.SkillData;
 import org.l2jmobius.gameserver.handler.IPlayerActionHandler;
 import org.l2jmobius.gameserver.model.ActionDataHolder;
+import org.l2jmobius.gameserver.model.WorldObject;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.actor.Summon;
+import org.l2jmobius.gameserver.model.skill.Skill;
+import org.l2jmobius.gameserver.model.skill.targets.AffectScope;
+import org.l2jmobius.gameserver.model.skill.targets.TargetType;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 
 /**
@@ -51,8 +55,19 @@ public class ServitorSkillUse implements IPlayerActionHandler
 			final int skillLevel = PetSkillData.getInstance().getAvailableLevel(servitor, data.getOptionId());
 			if (skillLevel > 0)
 			{
-				servitor.setTarget(player.getTarget());
-				servitor.useMagic(SkillData.getInstance().getSkill(data.getOptionId(), skillLevel), null, ctrlPressed, shiftPressed);
+				final Skill skill = SkillData.getInstance().getSkill(data.getOptionId(), skillLevel);
+				if ((skill.getTargetType() == TargetType.SELF) && (skill.getAffectScope() == AffectScope.PARTY))
+				{
+					final WorldObject target = servitor.getTarget();
+					servitor.setTarget(servitor);
+					servitor.useMagic(skill, null, ctrlPressed, shiftPressed);
+					servitor.setTarget(target);
+				}
+				else
+				{
+					servitor.setTarget(player.getTarget());
+					servitor.useMagic(skill, null, ctrlPressed, shiftPressed);
+				}
 			}
 		});
 	}

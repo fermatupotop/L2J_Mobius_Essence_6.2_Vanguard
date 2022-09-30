@@ -4079,6 +4079,10 @@
 			</condition>
 		</conditions>
 		<effects>
+				<effect name="ReplaceSkillBySkill">
+				<existingSkillId>1</existingSkillId> <!-- Rising Attack -->
+				<replacementSkillId>45364</replacementSkillId> <!-- Amazing Rising Attack -->
+			</effect>
 			<effect name="EnergyAttack">
 				<power>
 					<value level="1">948</value>

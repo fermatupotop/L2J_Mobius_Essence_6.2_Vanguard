@@ -442,8 +442,8 @@
 		</cond>
 		<capsuled_items>
 			<item id="93421" min="1" max="1" chance="100" /> <!-- Valakas' Necklace -->
-			<item id="91912" min="200" max="1000" chance="1000" /> <!-- Зелье HP -->
-			<item id="90907" min="100" max="300" chance="300" /> <!-- Soulshot Ticket -->
+			<item id="91912" min="1000" max="1000" chance="100" /> <!-- Зелье HP -->
+			<item id="90907" min="300" max="300" chance="100" /> <!-- Soulshot Ticket -->
 			<item id="94269" min="5" max="5" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) -->
 			<item id="94271" min="5" max="5" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) -->
 			<item id="95643" min="1" max="1" chance="100"/> <!-- Kit: Waytrel free pack Lv. 20 -->
@@ -558,7 +558,7 @@
 			<player level="75" />
 		</cond>
 		<capsuled_items>
-			<item id="91983" min="1" max="1" chance="100" /> <!-- Primeval Isle's Time Stone - Sealed -->
+			<item id="91983" min="2" max="2" chance="100" /> <!-- Primeval Isle's Time Stone - Sealed -->
 			<item id="94269" min="20" max="20" chance="100" /> <!-- Scroll: Boost Attack - Sealed -->
 			<item id="94271" min="20" max="20" chance="100" /> <!-- Scroll: Boost Defense - Sealed -->
 			<item id="91757" min="10" max="10" chance="100"/> <!-- Зелье Пополнения Волшебной Лампы -->

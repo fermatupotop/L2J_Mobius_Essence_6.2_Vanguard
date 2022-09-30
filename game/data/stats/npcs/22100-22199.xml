@@ -382,7 +382,7 @@
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
+		<ai aggroRange="500" clanHelpRange="300" isAggressive="true">
 			<clanList>
 				<clan>ORC</clan>
 			</clanList>
@@ -995,11 +995,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+		<ai aggroRange="450" isAggressive="true"/>
 		<collision>
 			<radius normal="15" />
 			<height normal="33" />
@@ -1034,11 +1030,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+		<ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="18" />
 			<height normal="34.5" />
@@ -1073,11 +1065,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+		<ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="21" />
 			<height normal="39" />
@@ -1112,11 +1100,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai> 
+		<ai aggroRange="450" isAggressive="true" /> 
 		<collision>
 			<radius normal="15" />
 			<height normal="36" />
@@ -1151,11 +1135,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai> 
+		<ai aggroRange="450" isAggressive="true" /> 
 		<collision>
 			<radius normal="13.5" />
 			<height normal="34.5" />
@@ -1190,11 +1170,7 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai> 
+		<ai aggroRange="450" isAggressive="true" /> 
 		<collision>
 			<radius normal="18" />
 			<height normal="37.5" />
@@ -1243,11 +1219,7 @@
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
 		</skillList>
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai> 
+		<ai aggroRange="450" isAggressive="true" /> 
 		<collision>
 			<radius normal="13.5" />
 			<height normal="33.75" />
@@ -1288,11 +1260,7 @@
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
 		</skillList>
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+		<ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="15" />
 			<height normal="31.5" />
@@ -1333,11 +1301,7 @@
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
 		</skillList>
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+				<ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="16.5" />
 			<height normal="33.75" />
@@ -1378,11 +1342,7 @@
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
 		</skillList>
-				<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+				<ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="18" />
 			<height normal="37.5" />
@@ -1423,11 +1383,7 @@
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
 		</skillList>
-				<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+				<ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="16.5" />
 			<height normal="25.5" />
@@ -1461,11 +1417,6 @@
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
 		<skillList>
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4408" level="16" /> <!-- HP Increase (8x) -->
@@ -1565,11 +1516,7 @@
 			<radius normal="14.4" />
 			<height normal="35.4" />
 		</collision>
-				<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+				<ai aggroRange="450" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<item id="57" min="2540" max="2807" chance="70" /> <!-- Adena -->
@@ -1610,11 +1557,7 @@
 			<radius normal="14.4" />
 			<height normal="29.4" />
 		</collision>
-				<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+				<ai aggroRange="450" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<item id="57" min="4572" max="5053" chance="70" /> <!-- Adena -->
@@ -1655,11 +1598,7 @@
 			<radius normal="14.4" />
 			<height normal="33" />
 		</collision>
-				<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+				<ai aggroRange="450" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<item id="57" min="3399" max="3756" chance="70" /> <!-- Adena -->
@@ -1700,11 +1639,7 @@
 			<radius normal="18" />
 			<height normal="40.2" />
 		</collision>
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+		<ai aggroRange="450" isAggressive="true" />
 		<dropLists>
 			<drop>
 				<item id="57" min="13203" max="14590" chance="70" /> <!-- Adena -->
@@ -1741,11 +1676,7 @@
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
 		</skillList>
-		<ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+		<ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="12" />
 			<height normal="28.2" />
@@ -1795,11 +1726,7 @@
 			<skill id="48044" level="1" /> <!-- Fire Attribute Monster -->
 			<skill id="4116" level="6" /> <!-- Magic Damage Resistance -->
 		</skillList>
-	    <ai aggroRange="500" clanHelpRange="400" isAggressive="true">
-			<clanList>
-				<clan>ORC</clan>
-			</clanList>
-		</ai>
+	    <ai aggroRange="450" isAggressive="true" />
 		<collision>
 			<radius normal="15" />
 			<height normal="36.5" />

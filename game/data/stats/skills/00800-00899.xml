@@ -2262,10 +2262,10 @@
 		<abnormalVisualEffect>TURN_FLEE</abnormalVisualEffect>
 		<activateRate>40</activateRate>
 		<basicProperty>MAGIC</basicProperty>
-		<castRange>600</castRange>
+		<castRange>-1</castRange>
 		<effectPoint>-1</effectPoint>
 		<effectRange>1100</effectRange>
-		<hitTime>4000</hitTime>
+		<hitTime>100000</hitTime>
 		<isDebuff>true</isDebuff>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
 		<lvlBonusRate>20</lvlBonusRate>
@@ -2283,12 +2283,13 @@
 		<operateType>A2</operateType>
 		<reuseDelay>3000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
-		<trait>FEAR</trait>
-		<targetType>ENEMY_ONLY</targetType>
+		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="BlockControl" />
-			<effect name="Fear" />
+			<effect name="BlockActions" />
+			<effect name="BlockEscape" />
+			<effect name="BlockMove" />
 		</effects>
 	</skill>
 	<skill id="880" toLevel="1" name="Knight Captain Ultimate Defense">

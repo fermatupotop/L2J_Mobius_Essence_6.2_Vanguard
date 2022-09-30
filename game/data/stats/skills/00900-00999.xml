@@ -5055,9 +5055,9 @@
 		<!-- Charges into the target, if the distance between the target and the character is more than $s1. -->
 		<icon>icon.skill0484</icon>
 		<castRange>
-			<value level="1">500</value>
-			<value level="2">600</value>
-			<value level="3">700</value>
+			<value level="1">400</value>
+			<value level="2">450</value>
+			<value level="3">500</value>
 		</castRange>
 		<coolTime>200</coolTime>
 		<effectPoint>
