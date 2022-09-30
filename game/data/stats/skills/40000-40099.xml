@@ -481,7 +481,6 @@
 		<reuseDelay>60000</reuseDelay>
 	    <abnormalType>EXP_SPECIAL</abnormalType>
 		<abnormalLevel>1</abnormalLevel>
-		
 		<effectPoint>1</effectPoint>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -489,6 +488,7 @@
 		<abnormalTime>1200</abnormalTime>
 		<irreplacableBuff>true</irreplacableBuff>
 		<stayAfterDeath>true</stayAfterDeath>
+		<isMagic>4</isMagic>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>

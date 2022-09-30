@@ -2560,7 +2560,7 @@
 			</condition>
 		</conditions>
 		<effects>
-			<effect name="FatalBlowRate">
+			<effect name="CriticalDamage">
 				<amount>30</amount>
 				<mode>PER</mode>
 			</effect>
