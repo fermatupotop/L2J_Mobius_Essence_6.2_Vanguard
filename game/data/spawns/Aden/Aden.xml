@@ -12,16 +12,7 @@
 			<npc id="34271" x="149188" y="30493" z="-2456" heading="32403" respawnTime="60sec" /> <!-- Roo-roo - Information Broker -->
 			<npc id="34269" x="145920" y="28799" z="-2248" heading="65014" respawnTime="60sec" /> <!-- Tavoz - Brewer -->
 			<npc id="30012" x="145891" y="28332" z="-2248" heading="65014" respawnTime="60sec" /> <!-- Fishing Guildsman -->
-			<npc id="27216" x="139870" y="12576" z="-3979" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="140518" y="13195" z="-3932" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="140055" y="14135" z="-3984" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="139144" y="13675" z="-3967" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="138896" y="12794" z="-4021" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="140793" y="11728" z="-4103" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="139682" y="12171" z="-4010" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="140711" y="12577" z="-3933" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="140671" y="13700" z="-3920" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
-			<npc id="27216" x="139854" y="13793" z="-3990" heading="33985" respawnTime="60sec" /> <!-- Watcher of the Ancient Pledge - Quest Monster -->
+
 			<npc id="30949" x="110831" y="15973" z="-4368" heading="412" respawnTime="60sec" /> <!-- Keplon - Researcher -->
 			<npc id="31646" x="120112" y="30912" z="-3616" heading="49000" respawnTime="60sec" /> <!-- Tablet of Vision -->
 			<npc id="30747" x="110395" y="41625" z="-4619" heading="0" respawnTime="60sec" /> <!-- Mimyu - Fairy -->

@@ -365,7 +365,6 @@
 		<magicCriticalRate>-5</magicCriticalRate>
 		<targetType>OWNER_PET</targetType>
         <affectScope>SINGLE</affectScope>
-
 		<effects>
 			<effect name="Reuse">
 				<amount>-10</amount>
