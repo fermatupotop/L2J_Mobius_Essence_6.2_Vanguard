@@ -10,7 +10,9 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="35" getLevel="76" levelUpSp="8100000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="46" getLevel="76" levelUpSp="8100000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="20" getLevel="76" levelUpSp="8100000" />
-		<skill skillName="Blaze" skillId="1220" skillLevel="27" getLevel="76" levelUpSp="8100000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="27" getLevel="76" levelUpSp="8100000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Warrior Bane" skillId="1350" skillLevel="1" getLevel="76" levelUpSp="8100000" />
 		<skill skillName="Mage Bane" skillId="1351" skillLevel="1" getLevel="76" levelUpSp="8100000" />
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="3" getLevel="76" levelUpSp="8100000">
@@ -64,7 +66,7 @@
 		</skill>
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="46" getLevel="76" levelUpSp="8100000" />
 		<skill skillName="Ethereal Strike" skillId="45377" skillLevel="1" getLevel="76" levelUpSp="8100000">
-			<item id="57" count="10000000" /> <!-- 93870,95514 Spellbook: Ethereal Strike -->
+			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="1" getLevel="76" levelUpSp="0">
 			<item id="57" count="10000000" /> <!-- Adena -->
@@ -89,7 +91,9 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="37" getLevel="78" levelUpSp="17900000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="48" getLevel="78" levelUpSp="17900000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="21" getLevel="78" levelUpSp="17900000" />
-		<skill skillName="Blaze" skillId="1220" skillLevel="28" getLevel="78" levelUpSp="17900000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="28" getLevel="78" levelUpSp="17900000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Warrior Servitor" skillId="1346" skillLevel="1" getLevel="78" levelUpSp="17900000">
 			<item id="90127" count="1" /> <!-- Scroll: Warrior Servitor -->
 		</skill>
@@ -101,14 +105,18 @@
 		<skill skillName="Summoner's Attack Mastery" skillId="47918" skillLevel="6" getLevel="78" levelUpSp="17900000" />
 		<skill skillName="Summoner's Armor Mastery" skillId="47919" skillLevel="6" getLevel="78" levelUpSp="17900000" />
 
-		<skill skillName="Blaze" skillId="1220" skillLevel="29" getLevel="79" levelUpSp="17900000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="29" getLevel="79" levelUpSp="17900000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="2" getLevel="79" levelUpSp="17900000" />
 		<skill skillName="Ethereal Strike" skillId="45377" skillLevel="4" getLevel="79" levelUpSp="17900000" />
 		
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="38" getLevel="80" levelUpSp="17900000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="49" getLevel="80" levelUpSp="17900000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="22" getLevel="80" levelUpSp="17900000" />
-		<skill skillName="Blaze" skillId="1220" skillLevel="30" getLevel="80" levelUpSp="17900000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="30" getLevel="80" levelUpSp="17900000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Warrior Bane" skillId="1350" skillLevel="3" getLevel="80" levelUpSp="17900000" />
 		<skill skillName="Mage Bane" skillId="1351" skillLevel="3" getLevel="80" levelUpSp="17900000" />
 		<skill skillName="Servitor Share" skillId="1557" skillLevel="3" getLevel="80" levelUpSp="17900000" />
@@ -137,7 +145,9 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="39" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="50" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="23" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Blaze" skillId="1220" skillLevel="31" getLevel="81" levelUpSp="160000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="31" getLevel="81" levelUpSp="160000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="3" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Summon Feline King" skillId="1406" skillLevel="2" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="50" getLevel="81" levelUpSp="160000000" />
@@ -146,7 +156,9 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="40" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="51" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="24" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Blaze" skillId="1220" skillLevel="32" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="32" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Warrior Bane" skillId="1350" skillLevel="4" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Mage Bane" skillId="1351" skillLevel="4" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Summon Feline King" skillId="1406" skillLevel="3" getLevel="82" levelUpSp="170000000" />
@@ -165,7 +177,9 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="41" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="52" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="25" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Blaze" skillId="1220" skillLevel="33" getLevel="83" levelUpSp="240000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="33" getLevel="83" levelUpSp="240000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="4" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Summon Feline King" skillId="1406" skillLevel="4" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="52" getLevel="83" levelUpSp="240000000" />
@@ -174,7 +188,9 @@
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="42" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="53" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="26" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Blaze" skillId="1220" skillLevel="34" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="34" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="5" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Warrior Bane" skillId="1350" skillLevel="5" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Mage Bane" skillId="1351" skillLevel="5" getLevel="84" levelUpSp="240000000" />
@@ -187,7 +203,9 @@
 		<skill skillName="Summoner's Armor Mastery" skillId="47919" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Ray of Light" skillId="47917" skillLevel="2" getLevel="84" levelUpSp="240000000" />
 
-		<skill skillName="Blaze" skillId="1220" skillLevel="35" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="35" getLevel="85" levelUpSp="840000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="6" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Summon Feline King" skillId="1406" skillLevel="6" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Detection" skillId="45190" skillLevel="2" getLevel="85" levelUpSp="840000000">
@@ -202,7 +220,9 @@
 			<item id="97185,97194" count="1" /> <!-- Spellbook: Cubic of Secrets lv. 2 -->
 		</skill>
 
-		<skill skillName="Blaze" skillId="1220" skillLevel="36" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="36" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Ethereal Strike" skillId="45377" skillLevel="11" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Summoner's Attack Mastery" skillId="47918" skillLevel="10" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Summoner's Armor Mastery" skillId="47919" skillLevel="10" getLevel="86" levelUpSp="840000000" />
@@ -214,13 +234,17 @@
 		<skill skillName="Warrior Bane" skillId="1350" skillLevel="6" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Mage Bane" skillId="1351" skillLevel="6" getLevel="86" levelUpSp="840000000" />
 
-		<skill skillName="Blaze" skillId="1220" skillLevel="37" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="37" getLevel="87" levelUpSp="840000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Ethereal Strike" skillId="45377" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="7" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Summon Feline King" skillId="1406" skillLevel="7" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="7" getLevel="87" levelUpSp="840000000" />
 
-		<skill skillName="Blaze" skillId="1220" skillLevel="38" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="38" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Ethereal Strike" skillId="45377" skillLevel="13" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Summoner's Attack Mastery" skillId="47918" skillLevel="11" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Summoner's Armor Mastery" skillId="47919" skillLevel="11" getLevel="88" levelUpSp="840000000" />
@@ -232,7 +256,9 @@
 			<item id="57" count="30000000" /> <!-- Adena -->
 		</skill>
 		
-		<skill skillName="Blaze" skillId="1220" skillLevel="39" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="39" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Ethereal Strike" skillId="45377" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Summoner's Attack Mastery" skillId="47918" skillLevel="12" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Summoner's Armor Mastery" skillId="47919" skillLevel="12" getLevel="89" levelUpSp="840000000" />
@@ -240,7 +266,9 @@
 		<skill skillName="Summon Feline King" skillId="1406" skillLevel="8" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Summon Feline Queen" skillId="1331" skillLevel="8" getLevel="89" levelUpSp="840000000" />
 
-		<skill skillName="Blaze" skillId="1220" skillLevel="40" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Blaze" skillId="1220" skillLevel="40" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		<skill skillName="Ethereal Strike" skillId="45377" skillLevel="15" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="4" getLevel="90" levelUpSp="0">
 			<item id="57" count="200000000" /> <!-- Adena -->

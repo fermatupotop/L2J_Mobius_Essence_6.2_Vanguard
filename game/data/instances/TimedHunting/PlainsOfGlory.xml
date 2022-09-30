@@ -64,12 +64,12 @@
 			<npc id="22124" x="132800" y="8789" z="-4228" heading="8191" /> <!-- Transcendent Treasure Chest -->
 			<npc id="22124" x="132800" y="8789" z="-4228" heading="8191" /> <!-- Transcendent Treasure Chest -->
 			<npc id="22124" x="132800" y="8789" z="-4228" heading="8191" /> <!-- Transcendent Treasure Chest -->
-			<npc id="22124" x="133175" y="8633" z="-4260" heading="12415" /> <!-- Transcendent Treasure Chest -->
-			<npc id="22124" x="133175" y="8633" z="-4260" heading="12415" /> <!-- Transcendent Treasure Chest -->
-			<npc id="22124" x="133175" y="8633" z="-4260" heading="12415" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22124" x="133175" y="8633" z="-4260" heading="16383" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22124" x="133175" y="8633" z="-4260" heading="16383" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22124" x="133175" y="8633" z="-4260" heading="16383" /> <!-- Transcendent Treasure Chest -->
 		</group>
 				<group name="guardian" spawnByDefault="false">
-			<npc id="22333" x="132800" y="8789" z="-4228" heading="8191" /> <!-- Transcendent Guardian -->
+			<npc id="22333" x="132800" y="8789" z="-4228" heading="16383" /> <!-- Transcendent Guardian -->
 		</group>
 	</spawnlist>
 </instance>

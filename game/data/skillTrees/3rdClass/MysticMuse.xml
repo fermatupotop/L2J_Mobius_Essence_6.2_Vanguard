@@ -9,7 +9,11 @@
 		</skill>
 		<skill skillName="Weakness" skillId="1164" skillLevel="20" getLevel="76" levelUpSp="6100000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="20" getLevel="76" levelUpSp="6100000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="31" getLevel="76" levelUpSp="6100000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="31" getLevel="76" levelUpSp="6100000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Blizzard" skillId="1290" skillLevel="2" getLevel="76" levelUpSp="6100000" />
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="10" getLevel="76" levelUpSp="6100000" />
 		<skill skillName="Ice Vortex" skillId="1340" skillLevel="1" getLevel="76" levelUpSp="6100000" />
@@ -81,12 +85,16 @@
 		</skill>
 		<skill skillName="Hydro Blast" skillId="1235" skillLevel="32" getLevel="77" levelUpSp="6100000" />
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="2" getLevel="77" levelUpSp="6100000" />
-		<skill skillName="Anti Magic" skillId="47270" skillLevel="5" getLevel="77" levelUpSp="6100000" />
+		
 		
 		<skill skillName="Arcane Power" skillId="337" skillLevel="2" getLevel="78" levelUpSp="13500000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="21" getLevel="78" levelUpSp="13500000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="21" getLevel="78" levelUpSp="14900000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="33" getLevel="78" levelUpSp="13500000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="33" getLevel="78" levelUpSp="13500000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Blizzard" skillId="1290" skillLevel="3" getLevel="78" levelUpSp="13500000" />
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="11" getLevel="78" levelUpSp="13500000" />
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="3" getLevel="78" levelUpSp="13500000" />
@@ -96,7 +104,11 @@
 
 		<skill skillName="Arcane Power" skillId="337" skillLevel="3" getLevel="79" levelUpSp="13500000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="22" getLevel="79" levelUpSp="14900000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="34" getLevel="79" levelUpSp="13500000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="34" getLevel="79" levelUpSp="13500000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="12" getLevel="79" levelUpSp="13500000" />
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="4" getLevel="79" levelUpSp="13500000" />
 
@@ -105,7 +117,11 @@
 		<skill skillName="Body to Mind" skillId="1157" skillLevel="6" getLevel="80" levelUpSp="13500000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="22" getLevel="80" levelUpSp="13500000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="23" getLevel="80" levelUpSp="14900000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="35" getLevel="80" levelUpSp="13500000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="35" getLevel="80" levelUpSp="13500000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Blizzard" skillId="1290" skillLevel="4" getLevel="80" levelUpSp="13500000" />
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="13" getLevel="80" levelUpSp="13500000" />
 		<skill skillName="Arcane Shield" skillId="1556" skillLevel="1" getLevel="80" levelUpSp="13500000">
@@ -118,7 +134,7 @@
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="2" getLevel="80" levelUpSp="0">
 			<item id="57" count="40000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Anti Magic" skillId="47270" skillLevel="6" getLevel="80" levelUpSp="13500000" />
+		
 		<skill skillName="White Guardian Transformation" skillId="54102" skillLevel="1" getLevel="80">
 			<item id="92401,95502" count="1" /> <!-- Spellbook - White Guardian -->
 		</skill>
@@ -133,7 +149,11 @@
 		<skill skillName="Body to Mind" skillId="1157" skillLevel="7" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="23" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="24" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="36" getLevel="81" levelUpSp="160000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="36" getLevel="81" levelUpSp="160000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="14" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Arcane Shield" skillId="1556" skillLevel="2" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="6" getLevel="81" levelUpSp="160000000" />
@@ -143,13 +163,17 @@
 		<skill skillName="Body to Mind" skillId="1157" skillLevel="8" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="24" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="25" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="37" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="37" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Blizzard" skillId="1290" skillLevel="5" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="15" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Ice Vortex" skillId="1340" skillLevel="2" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Arcane Shield" skillId="1556" skillLevel="3" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="7" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Anti Magic" skillId="47270" skillLevel="7" getLevel="82" levelUpSp="170000000" />
+
 		<skill skillName="Dragon Slayer Appearance" skillId="54231" skillLevel="1" getLevel="82" levelUpSp="0">
 			<item id="96300,96780" count="1" /> <!-- Spellbook: Dragon Slayer -->
 		</skill>
@@ -162,7 +186,11 @@
 		<skill skillName="Body to Mind" skillId="1157" skillLevel="9" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="25" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="26" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="38" getLevel="83" levelUpSp="240000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="38" getLevel="83" levelUpSp="240000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="16" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Arcane Shield" skillId="1556" skillLevel="4" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="8" getLevel="83" levelUpSp="240000000" />
@@ -172,19 +200,27 @@
 		<skill skillName="Body to Mind" skillId="1157" skillLevel="10" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="26" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="27" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="39" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="39" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Blizzard" skillId="1290" skillLevel="6" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Aqua Splash" skillId="1295" skillLevel="17" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Ice Vortex" skillId="1340" skillLevel="3" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Arcane Shield" skillId="1556" skillLevel="5" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="9" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Anti Magic" skillId="47270" skillLevel="8" getLevel="84" levelUpSp="240000000" />
+	
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Sleep" skillId="47462" skillLevel="7" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Magic Wound" skillId="1263" skillLevel="20" getLevel="84" levelUpSp="240000000" />
 
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="40" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="40" getLevel="85" levelUpSp="840000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Detection" skillId="45190" skillLevel="2" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
@@ -203,9 +239,13 @@
 			<item id="97040,97045" count="1" /> <!-- Spellbook: Magic Circle -->
 		</skill>
 
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="41" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="41" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="11" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Anti Magic" skillId="47270" skillLevel="9" getLevel="86" levelUpSp="840000000" />
+
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="10" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="10" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="47462" skillLevel="8" getLevel="86" levelUpSp="840000000" />
@@ -220,15 +260,23 @@
 		</skill>
 		<skill skillName="Blizzard" skillId="1290" skillLevel="7" getLevel="86" levelUpSp="840000000" />
 
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="42" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="42" getLevel="87" levelUpSp="840000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="47462" skillLevel="9" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Magic Wound" skillId="1263" skillLevel="23" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Heavy Sleep" skillId="47461" skillLevel="3" getLevel="87" levelUpSp="840000000" />
 
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="43" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="43" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="13" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Anti Magic" skillId="47270" skillLevel="10" getLevel="88" levelUpSp="840000000" />
+	
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="11" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="11" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Sleep" skillId="47462" skillLevel="10" getLevel="88" levelUpSp="840000000" />
@@ -240,7 +288,11 @@
 		</skill>
 		<skill skillName="Blizzard" skillId="1290" skillLevel="8" getLevel="88" levelUpSp="840000000" />
 		
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="44" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="44" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="12" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="12" getLevel="89" levelUpSp="840000000" />
@@ -248,12 +300,16 @@
 		<skill skillName="Magic Wound" skillId="1263" skillLevel="25" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Heavy Sleep" skillId="47461" skillLevel="5" getLevel="89" levelUpSp="840000000" />
 
-		<skill skillName="Hydro Blast" skillId="1235" skillLevel="45" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Hydro Blast" skillId="1235" skillLevel="45" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="1147" onlyReplaceByLearn="true" /> <!-- Fireball -->
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+			<removeSkill id="1184" onlyReplaceByLearn="true" /> <!-- Ice Bolt -->
+		</skill>
 		<skill skillName="Water Explosion" skillId="45379" skillLevel="15" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="4" getLevel="90" levelUpSp="0">
 			<item id="57" count="200000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Anti Magic" skillId="47270" skillLevel="11" getLevel="90" levelUpSp="840000000" />
+	
 		<skill skillName="Higher Mana Gain" skillId="47466" skillLevel="7" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Wizard's Attack Mastery" skillId="47463" skillLevel="13" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Wizard's Armor Mastery" skillId="47464" skillLevel="13" getLevel="90" levelUpSp="840000000" />

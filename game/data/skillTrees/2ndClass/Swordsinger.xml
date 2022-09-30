@@ -52,7 +52,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 		</skill>
 		<skill skillName="Sword Symphony" skillId="45391" skillLevel="1" getLevel="40" levelUpSp="120000">
-			<removeSkill id="98" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			
 			<item id="94319,95524" count="1" /> <!-- Spellbook: Sword Symphony -->
 		</skill>
 		<skill skillName="Slowdown" skillId="47284" skillLevel="2" getLevel="40" levelUpSp="120000" />

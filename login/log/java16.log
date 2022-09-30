@@ -1,13 +1,25 @@
-2022.09.27 02:27:22,605	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
-2022.09.27 02:27:22,649	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
-2022.09.27 02:27:22,944	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
-2022.09.27 02:27:23,004	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
-2022.09.27 02:27:23,045	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
-2022.09.27 02:27:23,112	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
-2022.09.27 02:27:23,115	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
-2022.09.27 02:27:23,117	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
-2022.09.27 02:27:23,290	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:6666
-2022.09.27 02:27:55,605	INFO	31	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Bartz IP's:
-2022.09.27 02:27:55,607	INFO	31	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
-2022.09.27 02:27:55,607	INFO	31	org.l2jmobius.loginserver.GameServerThread	192.168.0.25/192.168.0.0/24
-2022.09.27 02:27:55,607	INFO	31	org.l2jmobius.loginserver.GameServerThread	188.123.230.13/0.0.0.0/0
+2022.09.27 02:50:22,363	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2022.09.27 02:50:22,401	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2022.09.27 02:50:22,711	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2022.09.27 02:50:22,774	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2022.09.27 02:50:22,776	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2022.09.27 02:50:22,835	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2022.09.27 02:50:22,838	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2022.09.27 02:50:22,840	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2022.09.27 02:50:22,998	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:6666
+2022.09.27 02:50:56,958	INFO	31	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Bartz IP's:
+2022.09.27 02:50:56,960	INFO	31	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2022.09.27 02:50:56,961	INFO	31	org.l2jmobius.loginserver.GameServerThread	192.168.0.25/192.168.0.0/24
+2022.09.27 02:50:56,961	INFO	31	org.l2jmobius.loginserver.GameServerThread	188.123.230.13/0.0.0.0/0
+2022.09.27 03:02:37,424	INFO	31	org.l2jmobius.loginserver.GameServerThread	GameServer [2] Bartz: Connection lost: Connection reset
+2022.09.27 03:02:37,427	INFO	31	org.l2jmobius.loginserver.GameServerThread	Server [2] Bartz is now set as disconnected.
+2022.09.27 03:02:58,817	INFO	35	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Bartz IP's:
+2022.09.27 03:02:58,818	INFO	35	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2022.09.27 03:02:58,818	INFO	35	org.l2jmobius.loginserver.GameServerThread	192.168.0.25/192.168.0.0/24
+2022.09.27 03:02:58,818	INFO	35	org.l2jmobius.loginserver.GameServerThread	188.123.230.13/0.0.0.0/0
+2022.09.27 03:13:28,210	INFO	35	org.l2jmobius.loginserver.GameServerThread	GameServer [2] Bartz: Connection lost: Connection reset
+2022.09.27 03:13:28,210	INFO	35	org.l2jmobius.loginserver.GameServerThread	Server [2] Bartz is now set as disconnected.
+2022.09.27 03:13:49,582	INFO	38	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Bartz IP's:
+2022.09.27 03:13:49,583	INFO	38	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2022.09.27 03:13:49,583	INFO	38	org.l2jmobius.loginserver.GameServerThread	192.168.0.25/192.168.0.0/24
+2022.09.27 03:13:49,583	INFO	38	org.l2jmobius.loginserver.GameServerThread	188.123.230.13/0.0.0.0/0

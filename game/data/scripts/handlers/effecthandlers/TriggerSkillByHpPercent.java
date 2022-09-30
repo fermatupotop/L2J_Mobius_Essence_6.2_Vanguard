@@ -17,6 +17,7 @@
 package handlers.effecthandlers;
 
 import org.l2jmobius.gameserver.data.xml.SkillData;
+import org.l2jmobius.gameserver.enums.SkillFinishType;
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.effects.AbstractEffect;
@@ -63,7 +64,14 @@ public class TriggerSkillByHpPercent extends AbstractEffect
 		final int hpPercent = creature.getCurrentHpPercent();
 		if ((hpPercent >= _percentFrom) && (hpPercent <= _percentTo))
 		{
-			SkillCaster.triggerCast(creature, creature, SkillData.getInstance().getSkill(_skillId, _skillLevel));
+			if (!creature.isAffectedBySkill(_skillId))
+			{
+				SkillCaster.triggerCast(creature, creature, SkillData.getInstance().getSkill(_skillId, _skillLevel));
+			}
+		}
+		else
+		{
+			creature.getEffectList().stopSkillEffects(SkillFinishType.REMOVED, _skillId);
 		}
 	}
 }

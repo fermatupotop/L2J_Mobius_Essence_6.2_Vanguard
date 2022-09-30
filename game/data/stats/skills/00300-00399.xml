@@ -2591,7 +2591,7 @@
 			</condition>
 		</conditions>
 		<effects>
-			<effect name="FatalBlowRate">
+			<effect name="CriticalDamage">
 				<amount>40</amount>
 				<mode>PER</mode>
 			</effect>
@@ -2622,20 +2622,10 @@
 			</condition>
 		</conditions>
 		<effects>
-			<effect name="CriticalDamagePosition">
-				<amount>-30</amount>
+				<effect name="PhysicalSkillPower">
+				<amount>10</amount>
 				<mode>PER</mode>
-				<position>FRONT</position>
-			</effect>
-			<effect name="CriticalDamagePosition">
-				<amount>30</amount>
-				<mode>PER</mode>
-				<position>SIDE</position>
-			</effect>
-			<effect name="CriticalDamagePosition">
-				<amount>60</amount>
-				<mode>PER</mode>
-				<position>BACK</position>
+
 			</effect>
 		</effects>
 	</skill>
@@ -3705,8 +3695,15 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
+		
 		<conditions>
 			<condition name="OpSoulMax" type="LIGHT" />
+			<condition name="OpNotAffectedBySkill">
+				<skillId>397</skillId> <!-- Light Veil -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>398</skillId> <!-- Shadow Veil -->
+			</condition>
 		</conditions>
 		<effects>
 			<effect name="FocusSouls">
@@ -3734,6 +3731,12 @@
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="OpSoulMax" type="SHADOW" />
+			<condition name="OpNotAffectedBySkill">
+				<skillId>397</skillId> <!-- Light Veil -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>398</skillId> <!-- Shadow Veil -->
+			</condition>
 		</conditions>
 		<effects>
 			<effect name="FocusSouls">
@@ -3869,6 +3872,20 @@
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<isTriggeredSkill>true</isTriggeredSkill>
+		<conditions>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>393</skillId> <!-- Absorb Light Souls -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>394</skillId> <!-- Absorb Shadow Souls -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>45151</skillId> <!-- Collect Light Souls -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>45152</skillId> <!-- Collect Shadow Souls -->
+			</condition>
+		</conditions>
 		<effects>
 			<effect name="PAtk">
 				<amount>
@@ -3948,6 +3965,20 @@
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<isTriggeredSkill>true</isTriggeredSkill>
+		<conditions>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>393</skillId> <!-- Absorb Light Souls -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>394</skillId> <!-- Absorb Shadow Souls -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>45151</skillId> <!-- Collect Light Souls -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>45152</skillId> <!-- Collect Shadow Souls -->
+			</condition>
+		</conditions>
 		<effects>
 			<effect name="PAtk">
 				<amount>
@@ -3976,6 +4007,42 @@
 					<value level="2">20</value>
 				</amount>
 				<mode>DIFF</mode>
+			</effect>
+			<effect name="ReplaceSkillBySkill">
+			<!-- существующий -->
+				<existingSkillId>45168</existingSkillId> <!-- Twin Shot -->
+			<!-- замена -->
+				<replacementSkillId>45169</replacementSkillId> <!-- Ultimate Twin Shot -->
+			</effect>
+			<effect name="ReplaceSkillBySkill">
+			<!-- существующий -->
+				<existingSkillId>45170</existingSkillId> <!-- Multiple Shot -->
+			<!-- замена -->
+				<replacementSkillId>45171</replacementSkillId> <!-- Ultimate Multiple Shot -->
+			</effect>
+			<effect name="ReplaceSkillBySkill">
+			<!-- существующий -->
+				<existingSkillId>45155</existingSkillId> <!-- Soul Impulse -->
+			<!-- замена -->
+				<replacementSkillId>45156</replacementSkillId> <!-- Ultimate Soul Impulse -->
+			</effect>
+			<effect name="ReplaceSkillBySkill">
+			<!-- существующий -->
+				<existingSkillId>45157</existingSkillId> <!-- Enuma Elish -->
+			<!-- замена -->
+				<replacementSkillId>45158</replacementSkillId> <!-- Ultimate Enuma Elish -->
+			</effect>
+			<effect name="ReplaceSkillBySkill">
+			<!-- существующий -->
+				<existingSkillId>45161</existingSkillId> <!-- Soul Piercing -->
+			<!-- замена -->
+				<replacementSkillId>45162</replacementSkillId> <!-- Ultimate Soul Piercing -->
+			</effect>
+			<effect name="ReplaceSkillBySkill">
+			<!-- существующий -->
+				<existingSkillId>45163</existingSkillId> <!-- Soul Spark -->
+			<!-- замена -->
+				<replacementSkillId>45164</replacementSkillId> <!-- Ultimate Soul Spark -->
 			</effect>
 		</effects>
 	</skill>

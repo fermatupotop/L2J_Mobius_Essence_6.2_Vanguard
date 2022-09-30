@@ -3,7 +3,11 @@
 	<skill id="45101" toLevel="1" name="Final Frenzy">
 		<!-- Increases P. Atk. The effect is cancelled upon recovering 60% HP. -->
 		<icon>icon.skill0290</icon>
-		<operateType>A1</operateType>
+		<abnormalTime>-1</abnormalTime>
+		<abnormalVisualEffect>ATTACK_BUFF_AVE</abnormalVisualEffect>
+		<magicLevel>43</magicLevel>
+		<magicCriticalRate>5</magicCriticalRate>
+		<operateType>A2</operateType>
 	</skill>
 	<skill id="45102" toLevel="1" name="Passive Finality Cancellation">
 		<!-- Final Frenzy/ Final Fortress Cancellation -->
@@ -3105,10 +3109,11 @@
 		<!-- <Ultimate skill> Shoots 2 arrows. Attacks the enemy twice with $s1 power. Critical. Ignores Shield Defense. Ignores $s2 of the target's defense. -->
 		<icon>icon.skill0507</icon>
 		<operateType>A1</operateType>
-		<castRange>900</castRange>
-		<hitTime>2700</hitTime>
-		<coolTime>1000</coolTime>
-		<reuseDelay>3000</reuseDelay>
+		<castRange>700</castRange>
+		<effectRange>1400</effectRange>
+		<hitTime>3000</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>2000</reuseDelay>
 		<effectPoint>
 			<value level="1">-120</value>
 			<value level="2">-170</value>
@@ -3122,17 +3127,20 @@
 			<value level="10">-470</value>
 		</effectPoint>
 		<mpConsume>
-			<value level="1">23</value>
-			<value level="2">34</value>
-			<value level="3">45</value>
-			<value level="4">55</value>
-			<value level="5">66</value>
-			<value level="6">77</value>
-			<value level="7">82</value>
-			<value level="8">88</value>
-			<value level="9">93</value>
-			<value level="10">99</value>
+			<value level="1">19</value>
+			<value level="2">27</value>
+			<value level="3">34</value>
+			<value level="4">42</value>
+			<value level="5">50</value>
+			<value level="6">57</value>
+			<value level="7">61</value>
+			<value level="8">65</value>
+			<value level="9">69</value>
+			<value level="10">73</value>
 		</mpConsume>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="EquipWeapon">
 				<weaponType>
@@ -3140,6 +3148,44 @@
 				</weaponType>
 			</condition>
 		</conditions>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">189</value>
+					<value level="2">273</value>
+					<value level="3">600</value>
+					<value level="4">969</value>
+					<value level="5">1353</value>
+					<value level="6">1750</value>
+					<value level="7">1953</value>
+					<value level="8">2120</value>
+					<value level="9">2287</value>
+					<value level="10">2457</value>
+				</power>
+				<overHit>true</overHit>
+				<criticalChance>12</criticalChance>
+				<ignoreShieldDefence>true</ignoreShieldDefence>
+				<pDefMod>0.95</pDefMod>
+			</effect>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">189</value>
+					<value level="2">273</value>
+					<value level="3">600</value>
+					<value level="4">969</value>
+					<value level="5">1353</value>
+					<value level="6">1750</value>
+					<value level="7">1953</value>
+					<value level="8">2120</value>
+					<value level="9">2287</value>
+					<value level="10">2457</value>
+				</power>
+				<overHit>true</overHit>
+				<criticalChance>12</criticalChance>
+				<ignoreShieldDefence>true</ignoreShieldDefence>
+				<pDefMod>0.95</pDefMod>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="45170" toLevel="8" name="Multishot">
 		<!-- Attacks enemies at the front with $s1 power. -->
@@ -3212,11 +3258,17 @@
 		</effects>
 	</skill>
 	<skill id="45171" toLevel="8" name="Ultimate Multishot">
-		<!-- <Ultimate skill> Attacks the enemies at the front with $s1 power. Critical. Ignores Shield Defense. Ignores $s2 of the target's defense. -->
+			<!-- <Ultimate skill> Attacks the enemies at the front with $s1 power. Critical. Ignores Shield Defense. Ignores $s2 of the target's defense. -->
 		<icon>icon.skill10953</icon>
 		<operateType>A1</operateType>
-		<castRange>900</castRange>
-		<hitTime>2800</hitTime>
+		<affectLimit>8-0-1</affectLimit>
+		<affectRange>900</affectRange>
+		<affectHeight>-200;200</affectHeight>
+		<effectRange>1400</effectRange>
+		<fanRange>0;0;900;60</fanRange>
+		<magicCriticalRate>5</magicCriticalRate>
+		<castRange>700</castRange>
+		<hitTime>3200</hitTime>
 		<coolTime>1000</coolTime>
 		<reuseDelay>3000</reuseDelay>
 		<effectPoint>
@@ -3239,6 +3291,9 @@
 			<value level="7">140</value>
 			<value level="8">148</value>
 		</mpConsume>
+		<targetType>ENEMY</targetType>
+		<affectScope>FAN</affectScope>
+		<affectObject>NOT_FRIEND</affectObject>
 		<conditions>
 			<condition name="EquipWeapon">
 				<weaponType>
@@ -3246,6 +3301,23 @@
 				</weaponType>
 			</condition>
 		</conditions>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">408</value>
+					<value level="2">652</value>
+					<value level="3">979</value>
+					<value level="4">1370</value>
+					<value level="5">1645</value>
+					<value level="6">1809</value>
+					<value level="7">1900</value>
+					<value level="8">1995</value>
+				</power>
+				<overHit>true</overHit>
+				<ignoreShieldDefence>true</ignoreShieldDefence>
+				<pDefMod>0.8</pDefMod>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="45172" toLevel="10" name="Sharp Aiming">
 		<!-- The effect lasts for $s1 P. Skill Power +$s5 After an attack, casts on the enemy a debuff decreasing Bow Resistance. When using a bow P. Accuracy +$s2 P. Atk. +$s3 Atk. Spd. +$s4 -->
@@ -3835,7 +3907,7 @@
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
-			<condition name="OpSoulMax" type="LIGHT" />
+			<condition name="OpSoulMax" type="SHADOW" />
 		</conditions>
 		<effects>
 			<effect name="FocusSouls">
@@ -3855,7 +3927,7 @@
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
-			<condition name="OpSoulMax" type="SHADOW" />
+			<condition name="OpSoulMax" type="LIGHT" />
 		</conditions>
 		<effects>
 			<effect name="FocusSouls">

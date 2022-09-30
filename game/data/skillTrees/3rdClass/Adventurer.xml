@@ -3,7 +3,11 @@
 	<skillTree type="classSkillTree" classId="93" parentClassId="8">
 		<skill skillName="Bleed" skillId="96" skillLevel="7" getLevel="76" levelUpSp="8300000" />
 		<skill skillName="Weapon Mastery" skillId="141" skillLevel="5" getLevel="76" levelUpSp="8300000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="41" getLevel="76" levelUpSp="8300000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="41" getLevel="76" levelUpSp="8300000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="1" getLevel="76" levelUpSp="8300000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="1" getLevel="76" levelUpSp="8300000">
 			<item id="91294" count="1" /> <!-- Scroll: Bluff -->
@@ -67,8 +71,13 @@
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="1" getLevel="76" levelUpSp="0">
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="5" getLevel="76" levelUpSp="8300000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="5" getLevel="76" levelUpSp="8300000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="5" getLevel="76" levelUpSp="8300000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="5" getLevel="76" levelUpSp="8300000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Backstab" skillId="47334" skillLevel="5" getLevel="76" levelUpSp="8300000" />
 		<skill skillName="Seclusion" skillId="47339" skillLevel="1" getLevel="76" levelUpSp="8300000">
 			<item id="96665,96677" count="1" /> <!-- Spellbook: Seclusion -->
@@ -95,7 +104,11 @@
 		<skill skillName="Rogue Agility" skillId="47367" skillLevel="1" getLevel="76" autoGet="true" />
 		
 		<skill skillName="Bleed" skillId="96" skillLevel="8" getLevel="77" levelUpSp="8300000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="42" getLevel="77" levelUpSp="8300000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="42" getLevel="77" levelUpSp="8300000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="2" getLevel="77" levelUpSp="8300000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="2" getLevel="77" levelUpSp="8300000" />
 		<skill skillName="Clear Movements" skillId="1631" skillLevel="1" getLevel="77" levelUpSp="8300000">
@@ -103,7 +116,11 @@
 		</skill>
 		
 		<skill skillName="Bleed" skillId="96" skillLevel="9" getLevel="78" levelUpSp="19400000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="43" getLevel="78" levelUpSp="19400000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="43" getLevel="78" levelUpSp="19400000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="3" getLevel="78" levelUpSp="19400000" />
 		<skill skillName="Focus Death" skillId="355" skillLevel="1" getLevel="78" levelUpSp="19400000">
 			<item id="90058" count="1" /> <!-- Scroll: Focus Death -->
@@ -117,12 +134,21 @@
 		<skill skillName="Bluff" skillId="358" skillLevel="3" getLevel="78" levelUpSp="19400000" />
 		<skill skillName="Sand Bomb" skillId="412" skillLevel="11" getLevel="78" levelUpSp="19400000" />
 		<skill skillName="Shadow Step" skillId="821" skillLevel="8" getLevel="78" levelUpSp="19400000" />
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="6" getLevel="78" levelUpSp="19400000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="6" getLevel="78" levelUpSp="19400000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="6" getLevel="78" levelUpSp="19400000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="6" getLevel="78" levelUpSp="19400000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Backstab" skillId="47334" skillLevel="6" getLevel="78" levelUpSp="19400000" />
 		
 		<skill skillName="Bleed" skillId="96" skillLevel="10" getLevel="79" levelUpSp="19400000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="44" getLevel="79" levelUpSp="19400000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="44" getLevel="79" levelUpSp="19400000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="4" getLevel="79" levelUpSp="19400000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="4" getLevel="79" levelUpSp="19400000" />
 		<skill skillName="Mirage" skillId="445" skillLevel="1" getLevel="79" levelUpSp="19400000">
@@ -130,7 +156,11 @@
 		</skill>
 		
 		<skill skillName="Bleed" skillId="96" skillLevel="11" getLevel="80" levelUpSp="19400000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="45" getLevel="80" levelUpSp="19400000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="45" getLevel="80" levelUpSp="19400000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="5" getLevel="80" levelUpSp="19400000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="5" getLevel="80" levelUpSp="19400000" />
 		<skill skillName="Critical Wound" skillId="531" skillLevel="2" getLevel="80" levelUpSp="19400000" />
@@ -146,8 +176,13 @@
 		<skill skillName="Flying Dagger" skillId="45477" skillLevel="1" getLevel="80" levelUpSp="19400000">
 			<item id="94806,95561" count="1" /> <!-- Spellbook: Flying Dagger -->
 		</skill>
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="7" getLevel="80" levelUpSp="19400000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="7" getLevel="80" levelUpSp="19400000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="7" getLevel="80" levelUpSp="19400000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="7" getLevel="80" levelUpSp="19400000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Acrobatic Body" skillId="47333" skillLevel="8" getLevel="80" levelUpSp="19400000" />
 		<skill skillName="Backstab" skillId="47334" skillLevel="7" getLevel="80" levelUpSp="19400000" />
 		<skill skillName="Fatal Accuracy" skillId="47365" skillLevel="2" getLevel="80" levelUpSp="19400000">
@@ -158,7 +193,11 @@
 		</skill>
 		
 		<skill skillName="Bleed" skillId="96" skillLevel="12" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="46" getLevel="81" levelUpSp="160000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="46" getLevel="81" levelUpSp="160000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="6" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="6" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Clear Movements" skillId="1631" skillLevel="2" getLevel="81" levelUpSp="160000000" />
@@ -167,7 +206,11 @@
 			<item id="96661,96673" count="1" /> <!-- Spellbook: Fast Run Lv. 3 -->
 		</skill>
 		<skill skillName="Bleed" skillId="96" skillLevel="13" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="47" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="47" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="7" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="7" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Mirage" skillId="445" skillLevel="2" getLevel="82" levelUpSp="170000000">
@@ -176,34 +219,57 @@
 		<skill skillName="Shadow Step" skillId="821" skillLevel="9" getLevel="82" levelUpSp="170000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="8" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="8" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="8" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="8" getLevel="82" levelUpSp="170000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Backstab" skillId="47334" skillLevel="8" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Dragon Slayer Appearance" skillId="54231" skillLevel="1" getLevel="82" levelUpSp="0">
 			<item id="96300,96780" count="1" /> <!-- Spellbook: Dragon Slayer -->
 		</skill>
 		
 		<skill skillName="Bleed" skillId="96" skillLevel="14" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="48" getLevel="83" levelUpSp="240000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="48" getLevel="83" levelUpSp="240000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="8" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="8" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Critical Wound" skillId="531" skillLevel="3" getLevel="83" levelUpSp="240000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Dark Blow" skillId="47341" skillLevel="2" getLevel="83" levelUpSp="240000000">
+		<removeSkill id="263" onlyReplaceByLearn="true" /> <!-- Deadly Blow -->
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
 		
 		<skill skillName="Bleed" skillId="96" skillLevel="15" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="49" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="49" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="9" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="9" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="9" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="9" getLevel="84" levelUpSp="240000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Backstab" skillId="47334" skillLevel="9" getLevel="84" levelUpSp="240000000" />
 		
 		
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="50" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="50" getLevel="85" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="10" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Detection" skillId="45190" skillLevel="2" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="10000000" /> <!-- Adena -->
@@ -216,7 +282,11 @@
 		</skill>
 		<skill skillName="Acrobatic Body" skillId="47333" skillLevel="9" getLevel="85" levelUpSp="840000000" />
 		
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="51" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="51" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="11" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="10" getLevel="86" levelUpSp="840000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
@@ -227,17 +297,31 @@
 		<skill skillName="Shadow Step" skillId="821" skillLevel="10" getLevel="86" levelUpSp="840000000">
 			<item id="57" count="3000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="10" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="10" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="10" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="10" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Backstab" skillId="47334" skillLevel="10" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Dark Blow" skillId="47341" skillLevel="3" getLevel="86" levelUpSp="840000000">
+		<removeSkill id="263" onlyReplaceByLearn="true" /> <!-- Deadly Blow -->
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
 		
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="52" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="52" getLevel="87" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 		
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="53" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="53" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="13" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="11" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
@@ -245,20 +329,34 @@
 		<skill skillName="Shadow Step" skillId="821" skillLevel="11" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="11" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="11" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="11" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="11" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Backstab" skillId="47334" skillLevel="11" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Dark Blow" skillId="47341" skillLevel="4" getLevel="88" levelUpSp="840000000">
+		<removeSkill id="263" onlyReplaceByLearn="true" /> <!-- Deadly Blow -->
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Detection" skillId="45190" skillLevel="3" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="30000000" /> <!-- Adena -->
 		</skill>
 		
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="54" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="54" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		
-		<skill skillName="Deadly Blow" skillId="263" skillLevel="55" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Deadly Blow" skillId="263" skillLevel="55" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Lethal Blow" skillId="344" skillLevel="15" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Bluff" skillId="358" skillLevel="12" getLevel="90" levelUpSp="840000000">
 			<item id="57" count="10000000" /> <!-- Adena -->
@@ -272,11 +370,17 @@
 		<skill skillName="Blessed by Sayha" skillId="45408" skillLevel="4" getLevel="90" levelUpSp="0">
 			<item id="57" count="200000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="12" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="12" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Rogue Weapon Mastery" skillId="47331" skillLevel="12" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="208" onlyReplaceByLearn="true" /> <!-- Bow Mastery -->
+			<removeSkill id="209" onlyReplaceByLearn="true" /> <!-- Dagger Mastery -->
+		</skill>
+		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="12" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="233" onlyReplaceByLearn="true" /> <!-- Light Armor Mastery -->
+		</skill>
 		<skill skillName="Acrobatic Body" skillId="47333" skillLevel="10" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Backstab" skillId="47334" skillLevel="12" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Dark Blow" skillId="47341" skillLevel="5" getLevel="90" levelUpSp="840000000">
+		<removeSkill id="263" onlyReplaceByLearn="true" /> <!-- Deadly Blow -->
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
 	</skillTree>

@@ -76,6 +76,11 @@ public class ReplaceSkillBySkill extends AbstractEffect
 			player.removeSkill(knownSkill, false);
 			player.sendSkillList();
 			ThreadPool.schedule(() -> player.sendPacket(new ShortCutInit(player)), 1100);
+			ThreadPool.schedule(() ->
+			{
+				player.restoreAutoShortcuts();
+				player.restoreAutoShortcutVisual();
+			}, 1100);
 		}
 	}
 	
@@ -109,5 +114,10 @@ public class ReplaceSkillBySkill extends AbstractEffect
 		player.removeSkill(knownSkill, false);
 		player.sendSkillList();
 		ThreadPool.schedule(() -> player.sendPacket(new ShortCutInit(player)), 1100);
+		ThreadPool.schedule(() ->
+		{
+			player.restoreAutoShortcuts();
+			player.restoreAutoShortcutVisual();
+		}, 1100);
 	}
 }

@@ -10,9 +10,7 @@
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="6" getLevel="40" levelUpSp="70000" />
 		<skill skillName="Spread Infection" skillId="1224" skillLevel="4" getLevel="40" levelUpSp="70000" />
 		<skill skillName="Hurricane" skillId="1239" skillLevel="1" getLevel="40" levelUpSp="70000">
-
 			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
-
 		</skill>
 		<skill skillName="Hurricane" skillId="1239" skillLevel="2" getLevel="40" levelUpSp="70000">
 		

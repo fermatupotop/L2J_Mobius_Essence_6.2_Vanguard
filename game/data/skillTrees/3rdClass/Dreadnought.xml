@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="89" parentClassId="3">
-		<skill skillName="Vortex" skillId="36" skillLevel="41" getLevel="76" levelUpSp="7200000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="41" getLevel="76" levelUpSp="7200000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="41" getLevel="76" levelUpSp="7200000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="46" getLevel="76" levelUpSp="7200000" />
 		<skill skillName="Howl" skillId="116" skillLevel="16" getLevel="76" levelUpSp="7200000" />
@@ -80,11 +82,17 @@
 			<item id="57" count="10000000" /> <!-- Adena -->
 		</skill>
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="42" getLevel="77" levelUpSp="7200000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="42" getLevel="77" levelUpSp="7200000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="42" getLevel="77" levelUpSp="7200000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="47" getLevel="77" levelUpSp="7200000" />
 		<skill skillName="Howl" skillId="116" skillLevel="17" getLevel="77" levelUpSp="7200000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="42" getLevel="77" levelUpSp="7200000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="42" getLevel="77" levelUpSp="7200000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="47" getLevel="77" levelUpSp="7200000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="52" getLevel="77" levelUpSp="7200000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="52" getLevel="77" levelUpSp="7200000" />
@@ -97,11 +105,17 @@
 			<item id="94141,95523" count="1" /> <!-- Spellbook: Buff Thief -->
 		</skill>
 
-		<skill skillName="Vortex" skillId="36" skillLevel="43" getLevel="78" levelUpSp="16800000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="43" getLevel="78" levelUpSp="16800000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="43" getLevel="78" levelUpSp="16800000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="48" getLevel="78" levelUpSp="16800000" />
 		<skill skillName="Howl" skillId="116" skillLevel="18" getLevel="78" levelUpSp="16800000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="43" getLevel="78" levelUpSp="16800000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="43" getLevel="78" levelUpSp="16800000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="48" getLevel="78" levelUpSp="16800000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="53" getLevel="78" levelUpSp="16800000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="53" getLevel="78" levelUpSp="16800000" />
@@ -115,20 +129,32 @@
 		<skill skillName="Quick Spear" skillId="1606" skillLevel="10" getLevel="78" levelUpSp="16800000" />
 		<skill skillName="Throwing Spear" skillId="1625" skillLevel="1" getLevel="78" levelUpSp="16800000" />
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="44" getLevel="79" levelUpSp="16800000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="44" getLevel="79" levelUpSp="16800000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="44" getLevel="79" levelUpSp="16800000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="49" getLevel="79" levelUpSp="16800000" />
 		<skill skillName="Howl" skillId="116" skillLevel="19" getLevel="79" levelUpSp="16800000" />
 		<skill skillName="Revival" skillId="181" skillLevel="2" getLevel="79" levelUpSp="16800000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="44" getLevel="79" levelUpSp="16800000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="44" getLevel="79" levelUpSp="16800000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Spike Thrust" skillId="921" skillLevel="4" getLevel="79" levelUpSp="16800000" />
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="45" getLevel="80" levelUpSp="16800000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="45" getLevel="80" levelUpSp="16800000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="45" getLevel="80" levelUpSp="16800000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="50" getLevel="80" levelUpSp="16800000" />
 		<skill skillName="War Cry" skillId="78" skillLevel="3" getLevel="80" levelUpSp="16800000" />
 		<skill skillName="Howl" skillId="116" skillLevel="20" getLevel="80" levelUpSp="16800000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="45" getLevel="80" levelUpSp="16800000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="45" getLevel="80" levelUpSp="16800000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="49" getLevel="80" levelUpSp="16800000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="54" getLevel="80" levelUpSp="16800000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="54" getLevel="80" levelUpSp="16800000" />
@@ -156,13 +182,19 @@
 			<item id="92401,95502" count="1" /> <!-- Spellbook - White Guardian -->
 		</skill>
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="46" getLevel="81" levelUpSp="303000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="46" getLevel="81" levelUpSp="303000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="46" getLevel="81" levelUpSp="303000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="51" getLevel="81" levelUpSp="303000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="21" getLevel="81" levelUpSp="303000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="46" getLevel="81" levelUpSp="303000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="46" getLevel="81" levelUpSp="303000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="50" getLevel="81" levelUpSp="303000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="55" getLevel="81" levelUpSp="303000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="55" getLevel="81" levelUpSp="303000000" />
@@ -172,13 +204,19 @@
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
 
-		<skill skillName="Vortex" skillId="36" skillLevel="47" getLevel="82" levelUpSp="311000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="47" getLevel="82" levelUpSp="311000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="47" getLevel="82" levelUpSp="311000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="52" getLevel="82" levelUpSp="311000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="22" getLevel="82" levelUpSp="311000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="47" getLevel="82" levelUpSp="311000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="47" getLevel="82" levelUpSp="311000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="51" getLevel="82" levelUpSp="311000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="56" getLevel="82" levelUpSp="311000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="56" getLevel="82" levelUpSp="311000000" />
@@ -198,14 +236,20 @@
 			<item id="96300,96780" count="1" /> <!-- Spellbook: Dragon Slayer -->
 		</skill>
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="48" getLevel="83" levelUpSp="425000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="48" getLevel="83" levelUpSp="425000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="48" getLevel="83" levelUpSp="425000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="53" getLevel="83" levelUpSp="425000000" />
 		<skill skillName="War Cry" skillId="78" skillLevel="4" getLevel="83" levelUpSp="425000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="23" getLevel="83" levelUpSp="425000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="48" getLevel="83" levelUpSp="425000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="48" getLevel="83" levelUpSp="425000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="52" getLevel="83" levelUpSp="425000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="57" getLevel="83" levelUpSp="425000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="57" getLevel="83" levelUpSp="425000000" />
@@ -213,13 +257,19 @@
 		<skill skillName="Shocking Burst" skillId="361" skillLevel="3" getLevel="83" levelUpSp="425000000" />
 		<skill skillName="Spike Thrust" skillId="921" skillLevel="8" getLevel="83" levelUpSp="425000000" />
 
-		<skill skillName="Vortex" skillId="36" skillLevel="49" getLevel="84" levelUpSp="457000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="49" getLevel="84" levelUpSp="457000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="49" getLevel="84" levelUpSp="457000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="54" getLevel="84" levelUpSp="457000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="24" getLevel="84" levelUpSp="457000000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="49" getLevel="84" levelUpSp="457000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="49" getLevel="84" levelUpSp="457000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="53" getLevel="84" levelUpSp="457000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="58" getLevel="84" levelUpSp="457000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="58" getLevel="84" levelUpSp="457000000" />
@@ -227,14 +277,20 @@
 		<skill skillName="Provoke" skillId="286" skillLevel="11" getLevel="84" levelUpSp="457000000" />
 		<skill skillName="Spike Thrust" skillId="921" skillLevel="9" getLevel="84" levelUpSp="457000000" />
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="50" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="50" getLevel="85" levelUpSp="840000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="50" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="55" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="War Cry" skillId="78" skillLevel="5" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="25" getLevel="85" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="50" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="50" getLevel="85" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="54" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="59" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="59" getLevel="85" levelUpSp="840000000" />
@@ -250,13 +306,19 @@
 			<item id="57" count="100000000" /> <!-- Adena -->
 		</skill>
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="51" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="51" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="51" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="56" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="26" getLevel="86" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="51" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="51" getLevel="86" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="55" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="60" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="60" getLevel="86" levelUpSp="840000000" />
@@ -271,25 +333,37 @@
 			<item id="57" count="7500000" /> <!-- Adena -->
 		</skill>
 
-		<skill skillName="Vortex" skillId="36" skillLevel="52" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="52" getLevel="87" levelUpSp="840000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="52" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="57" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="27" getLevel="87" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="52" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="52" getLevel="87" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="56" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="61" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="61" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Spike Thrust" skillId="921" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 
-		<skill skillName="Vortex" skillId="36" skillLevel="53" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="53" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="53" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="58" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="28" getLevel="88" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="53" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="53" getLevel="88" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="57" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="62" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="62" getLevel="88" levelUpSp="840000000" />
@@ -301,25 +375,39 @@
 			<item id="57" count="30000000" /> <!-- Adena -->
 		</skill>
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="54" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="54" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="54" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="59" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="29" getLevel="89" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="54" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="54" getLevel="89" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="58" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="63" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="63" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Spike Thrust" skillId="921" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		
-		<skill skillName="Vortex" skillId="36" skillLevel="55" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Vortex" skillId="36" skillLevel="55" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
+		</skill>
+	
+
 		<skill skillName="Thunder Storm" skillId="48" skillLevel="55" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="60" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Howl" skillId="116" skillLevel="30" getLevel="90" levelUpSp="840000000">
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="55" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="55" getLevel="90" levelUpSp="840000000" >
+			<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->
+			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="59" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="64" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="64" getLevel="90" levelUpSp="840000000" />

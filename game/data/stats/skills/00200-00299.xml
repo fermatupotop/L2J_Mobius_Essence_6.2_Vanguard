@@ -7301,6 +7301,7 @@
 			<value level="18">90</value>
 		</magicLevel>
 		<operateType>P</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="PAtk">
 				<amount>
