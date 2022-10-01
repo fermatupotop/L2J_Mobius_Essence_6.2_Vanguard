@@ -3010,7 +3010,7 @@
 		<icon>icon.skill0025</icon>
 		<hitTime>15000</hitTime>
 		<itemConsumeCount>10</itemConsumeCount>
-		<itemConsumeId>1459</itemConsumeId> <!-- Crystal (C-Grade) -->
+		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->	
 		<magicLevel>
 			<value level="1">28</value>
 			<value level="2">36</value>

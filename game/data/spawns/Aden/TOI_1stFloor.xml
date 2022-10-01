@@ -3,45 +3,23 @@
 	<spawn name="TOI_1stFloor">
 		<group>
 			<npc id="21989" x="113608" y="14933" z="-5096" heading="1039" respawnTime="14sec" respawnRandom="4sec"  /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="113509" y="14960" z="-5096" heading="29990" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113475" y="14921" z="-5096" heading="41673" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113575" y="14736" z="-5096" heading="58598" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="113665" y="14537" z="-5096" heading="53319" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21992" x="113861" y="14598" z="-5096" heading="4103" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21990" x="113815" y="14509" z="-5096" heading="44176" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="113875" y="14497" z="-5096" heading="63477" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="113997" y="14553" z="-5096" heading="4488" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="114081" y="14738" z="-5096" heading="7116" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="114036" y="14840" z="-5096" heading="20717" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="114036" y="14756" z="-5096" heading="49151" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="113961" y="14777" z="-5096" heading="29920" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="113845" y="14903" z="-5096" heading="24145" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="113709" y="14922" z="-5096" heading="31320" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="113561" y="15054" z="-5096" heading="25171" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21989" x="113357" y="15340" z="-5096" heading="21886" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="113284" y="15467" z="-5096" heading="21886" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="113250" y="15431" z="-5096" heading="34266" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="113250" y="15431" z="-5096" heading="34756" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="112897" y="15400" z="-5096" heading="34756" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="112897" y="15400" z="-5096" heading="34756" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="112838" y="15386" z="-5096" heading="35155" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21991" x="112693" y="15282" z="-5096" heading="42528" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="112664" y="15243" z="-5096" heading="42482" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="112812" y="15141" z="-5096" heading="56795" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="112834" y="15051" z="-5096" heading="51652" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113015" y="15088" z="-5096" heading="65125" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="113135" y="15229" z="-5096" heading="9382" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="113095" y="15289" z="-5096" heading="22517" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21992" x="113213" y="15247" z="-5096" heading="61969" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="113159" y="15088" z="-5096" heading="45588" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="113123" y="15101" z="-5096" heading="29153" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="113079" y="15079" z="-5096" heading="37604" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21989" x="113018" y="15026" z="-5096" heading="40229" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="112954" y="14973" z="-5096" heading="39982" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113084" y="15000" z="-5096" heading="2135" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113084" y="15000" z="-5096" heading="2135" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="113084" y="15000" z="-5096" heading="2135" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21993" x="113180" y="15016" z="-5096" heading="1722" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21990" x="113057" y="15011" z="-5096" heading="33341" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="112788" y="14665" z="-5096" heading="41262" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21989" x="113085" y="14603" z="-5096" heading="60597" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
@@ -52,38 +30,23 @@
 			<npc id="21992" x="113481" y="14375" z="-5096" heading="8386" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="113458" y="14465" z="-5096" heading="18993" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="113524" y="14529" z="-5096" heading="8031" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="113594" y="14425" z="-5096" heading="55331" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="113690" y="14371" z="-5096" heading="60191" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="113681" y="14272" z="-5096" heading="48206" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="113703" y="14165" z="-5096" heading="51267" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113623" y="14176" z="-5096" heading="31342" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113769" y="14251" z="-5096" heading="4949" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="113722" y="14275" z="-5096" heading="27843" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21993" x="113722" y="14275" z="-5096" heading="27843" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="113722" y="14275" z="-5096" heading="27843" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="113859" y="14263" z="-5096" heading="64624" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="114105" y="14189" z="-5096" heading="3106" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="113955" y="14247" z="-5096" heading="34336" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="113040" y="14569" z="-5096" heading="37057" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="113521" y="15030" z="-5096" heading="1707" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113628" y="15191" z="-5096" heading="6193" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21989" x="113407" y="16655" z="-5096" heading="42172" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="113308" y="16649" z="-5096" heading="33399" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113192" y="16772" z="-5096" heading="25388" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113053" y="16817" z="-5096" heading="29896" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="113007" y="16643" z="-5096" heading="46524" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21993" x="112689" y="16751" z="-5096" heading="32067" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="112790" y="16710" z="-5096" heading="62773" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="112792" y="16710" z="-5096" heading="62773" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="112833" y="16850" z="-5096" heading="12611" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="112833" y="16850" z="-5096" heading="12611" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21989" x="112561" y="16919" z="-5096" heading="31605" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="112471" y="16840" z="-5096" heading="40300" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="112375" y="16812" z="-5096" heading="31982" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="112339" y="16809" z="-5096" heading="63732" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="112429" y="16802" z="-5096" heading="64726" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21991" x="112532" y="17012" z="-5096" heading="8498" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="112606" y="17238" z="-5096" heading="26381" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="112713" y="17185" z="-5096" heading="60757" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21989" x="112823" y="17088" z="-5096" heading="56854" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="112942" y="17084" z="-5096" heading="65247" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
@@ -92,14 +55,11 @@
 			<npc id="21993" x="113137" y="17015" z="-5096" heading="59231" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21989" x="113398" y="16993" z="-5096" heading="55513" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="113420" y="16903" z="-5096" heading="48779" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="113420" y="16903" z="-5096" heading="48779" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113552" y="16976" z="-5096" heading="5269" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="113552" y="16976" z="-5096" heading="5269" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21993" x="113556" y="17092" z="-5096" heading="16024" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="113476" y="17180" z="-5096" heading="24041" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="113317" y="17278" z="-5096" heading="27997" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="113251" y="17189" z="-5096" heading="42496" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="113131" y="17201" z="-5096" heading="31728" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="112959" y="17253" z="-5096" heading="29666" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="112891" y="17415" z="-5096" heading="20529" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="112951" y="17498" z="-5096" heading="9855" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
@@ -109,44 +69,29 @@
 			<npc id="21991" x="113167" y="17695" z="-5096" heading="49003" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="113370" y="17588" z="-5096" heading="59983" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="113392" y="17576" z="-5096" heading="59983" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="113534" y="17467" z="-5096" heading="58716" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113594" y="17423" z="-5096" heading="59148" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113821" y="17283" z="-5096" heading="60059" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="113852" y="17299" z="-5096" heading="8191" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21991" x="113845" y="17386" z="-5096" heading="17221" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21989" x="113961" y="17348" z="-5096" heading="62234" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="114057" y="17435" z="-5096" heading="7679" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113999" y="17327" z="-5096" heading="26270" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21993" x="113922" y="17707" z="-5096" heading="20531" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="113999" y="17674" z="-5096" heading="61312" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="113999" y="17674" z="-5096" heading="61312" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="113910" y="17829" z="-5096" heading="21798" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="113899" y="17849" z="-5096" heading="21798" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21989" x="113952" y="18068" z="-5096" heading="15878" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="113915" y="18041" z="-5096" heading="45470" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="113917" y="18142" z="-5096" heading="16177" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="113895" y="18185" z="-5096" heading="21316" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="113792" y="18123" z="-5096" heading="38372" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="113623" y="17961" z="-5096" heading="42440" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="113651" y="17844" z="-5096" heading="51636" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="113728" y="17753" z="-5096" heading="60246" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="113622" y="17678" z="-5096" heading="39190" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="113459" y="17928" z="-5096" heading="47330" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113456" y="17911" z="-5096" heading="47330" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="113500" y="17950" z="-5096" heading="7622" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="113620" y="18058" z="-5096" heading="7622" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="113719" y="17385" z="-5096" heading="58568" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21989" x="114248" y="17556" z="-5096" heading="6164" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="114132" y="17521" z="-5096" heading="44467" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="113268" y="16960" z="-5096" heading="25586" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21989" x="115143" y="17343" z="-5096" heading="23783" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115214" y="17391" z="-5096" heading="6200" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115240" y="17535" z="-5096" heading="12209" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="115289" y="17557" z="-5096" heading="4401" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="115414" y="17456" z="-5096" heading="58447" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="115536" y="17410" z="-5096" heading="61775" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="115455" y="17348" z="-5096" heading="39582" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="115411" y="17300" z="-5096" heading="41413" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="115381" y="17353" z="-5096" heading="21756" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="115509" y="17315" z="-5096" heading="62525" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115710" y="17276" z="-5096" heading="24231" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
@@ -162,80 +107,40 @@
 			<npc id="21992" x="116095" y="16781" z="-5096" heading="1348" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21990" x="116187" y="16639" z="-5096" heading="43807" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="116151" y="16685" z="-5096" heading="23310" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="116240" y="16605" z="-5096" heading="57950" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="116260" y="16588" z="-5096" heading="57950" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="116210" y="16633" z="-5096" heading="35981" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="116174" y="16612" z="-5096" heading="38276" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21990" x="116299" y="16785" z="-5096" heading="11041" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="116509" y="16771" z="-5096" heading="54901" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21989" x="116629" y="16776" z="-5096" heading="9578" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="116583" y="16852" z="-5096" heading="22061" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="116563" y="16815" z="-5096" heading="43983" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="116536" y="16851" z="-5096" heading="23095" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="116489" y="16827" z="-5096" heading="37692" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="116513" y="16964" z="-5096" heading="14575" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="116452" y="16938" z="-5096" heading="36970" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="116558" y="17075" z="-5096" heading="61677" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="116537" y="17118" z="-5096" heading="21122" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="116496" y="17104" z="-5096" heading="36200" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="116563" y="17125" z="-5096" heading="3168" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="116549" y="17250" z="-5096" heading="24782" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="116337" y="17383" z="-5096" heading="31641" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="116301" y="17220" z="-5096" heading="44504" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="116255" y="17157" z="-5096" heading="42114" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="116255" y="17157" z="-5096" heading="42114" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="116224" y="17215" z="-5096" heading="13911" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="116115" y="17173" z="-5096" heading="38713" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21990" x="116043" y="17165" z="-5096" heading="27638" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="116037" y="17314" z="-5096" heading="10945" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="116059" y="17401" z="-5096" heading="13800" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="116059" y="17401" z="-5096" heading="13800" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21993" x="116263" y="17615" z="-5096" heading="2736" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21992" x="116263" y="17615" z="-5096" heading="2736" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="116325" y="17534" z="-5096" heading="58144" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="116288" y="17530" z="-5096" heading="33891" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21990" x="116114" y="17619" z="-5096" heading="27836" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="115970" y="17579" z="-5096" heading="35594" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115953" y="17508" z="-5096" heading="46700" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="115842" y="17545" z="-5096" heading="29412" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="115873" y="17600" z="-5096" heading="11030" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="115731" y="17587" z="-5096" heading="33720" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21989" x="115713" y="17647" z="-5096" heading="19956" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="115909" y="17860" z="-5096" heading="13005" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115978" y="17857" z="-5096" heading="60699" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="116031" y="17821" z="-5096" heading="59312" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="115904" y="17930" z="-5096" heading="25370" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="115904" y="17930" z="-5096" heading="25370" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="115721" y="17981" z="-5096" heading="29933" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115721" y="17981" z="-5096" heading="29933" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21990" x="115659" y="17827" z="-5096" heading="45159" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21993" x="115499" y="17792" z="-5096" heading="35014" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="115346" y="17802" z="-5096" heading="32087" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="115240" y="17738" z="-5096" heading="38433" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="115206" y="17800" z="-5096" heading="21615" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="115286" y="17937" z="-5096" heading="10871" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115283" y="18105" z="-5096" heading="10875" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="115332" y="18074" z="-5096" heading="56268" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="115308" y="18191" z="-5096" heading="29624" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="115313" y="18136" z="-5096" heading="50097" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21989" x="115668" y="17897" z="-5096" heading="56913" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21991" x="115856" y="17339" z="-5096" heading="50874" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21991" x="115777" y="17509" z="-5096" heading="24079" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="115731" y="17392" z="-5096" heading="47799" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21989" x="115902" y="15525" z="-5096" heading="18464" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115894" y="15430" z="-5096" heading="45727" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115949" y="15395" z="-5096" heading="59624" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="116089" y="15376" z="-5096" heading="64129" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="116200" y="15418" z="-5096" heading="3772" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21993" x="116340" y="15458" z="-5096" heading="62826" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21992" x="116424" y="15464" z="-5096" heading="743" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="116398" y="15354" z="-5096" heading="46731" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="116575" y="15439" z="-5096" heading="4669" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="116721" y="15385" z="-5096" heading="61840" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="116754" y="15284" z="-5096" heading="57673" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="116842" y="15156" z="-5096" heading="55703" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21991" x="116830" y="15178" z="-5096" heading="22517" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="116676" y="15281" z="-5096" heading="26619" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="116534" y="15224" z="-5096" heading="36749" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="116462" y="15123" z="-5096" heading="42692" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="116486" y="14960" z="-5096" heading="50676" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
@@ -246,80 +151,51 @@
 			<npc id="21993" x="116281" y="14936" z="-5096" heading="30199" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="116230" y="15059" z="-5096" heading="15219" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21989" x="116028" y="15199" z="-5096" heading="23775" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115968" y="15217" z="-5096" heading="29727" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115944" y="15280" z="-5096" heading="20180" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="115952" y="15383" z="-5096" heading="20685" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="115755" y="15314" z="-5096" heading="36282" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="115748" y="15101" z="-5096" heading="54897" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21990" x="115859" y="15014" z="-5096" heading="58602" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="115982" y="14992" z="-5096" heading="63689" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="116055" y="15027" z="-5096" heading="4663" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="116125" y="14956" z="-5096" heading="57270" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="116279" y="14911" z="-5096" heading="62570" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="116314" y="14806" z="-5096" heading="52507" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="116406" y="14911" z="-5096" heading="9173" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="116414" y="14956" z="-5096" heading="14548" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21990" x="116378" y="15006" z="-5096" heading="22892" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="116462" y="14865" z="-5096" heading="54756" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21991" x="116496" y="14707" z="-5096" heading="49764" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21989" x="116482" y="14449" z="-5096" heading="54752" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="116439" y="14510" z="-5096" heading="22788" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="116391" y="14556" z="-5096" heading="24797" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="116239" y="14550" z="-5096" heading="36494" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="116101" y="14612" z="-5096" heading="20825" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21993" x="116075" y="14721" z="-5096" heading="18826" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="115996" y="14756" z="-5096" heading="28418" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="115931" y="14807" z="-5096" heading="25828" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="115931" y="14807" z="-5096" heading="25828" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21991" x="115836" y="14802" z="-5096" heading="38327" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="115762" y="14771" z="-5096" heading="33966" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="115764" y="14700" z="-5096" heading="49445" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115622" y="14770" z="-5096" heading="27990" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115494" y="14897" z="-5096" heading="24616" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="115451" y="14840" z="-5096" heading="42410" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21993" x="115354" y="14759" z="-5096" heading="40024" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21992" x="115287" y="14886" z="-5096" heading="21447" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="115370" y="14795" z="-5096" heading="56864" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21989" x="115187" y="14814" z="-5096" heading="31688" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="115203" y="14684" z="-5096" heading="50429" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="115185" y="14712" z="-5096" heading="22343" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="115185" y="14712" z="-5096" heading="22343" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21992" x="115284" y="14644" z="-5096" heading="59258" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="115379" y="14444" z="-5096" heading="46026" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="115217" y="14289" z="-5096" heading="45836" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="115275" y="14273" z="-5096" heading="62728" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
-			<npc id="21992" x="115307" y="14333" z="-5096" heading="11273" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="115397" y="14324" z="-5096" heading="64496" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="115307" y="14146" z="-5096" heading="39899" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="115334" y="14210" z="-5096" heading="12219" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
 			<npc id="21990" x="115259" y="14218" z="-5096" heading="31659" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115279" y="14111" z="-5096" heading="51079" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="115279" y="14111" z="-5096" heading="51079" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21990" x="115355" y="13981" z="-5096" heading="54669" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="115550" y="13975" z="-5096" heading="65215" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21992" x="115681" y="14102" z="-5096" heading="8030" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21992" x="115661" y="14029" z="-5096" heading="46362" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="115621" y="14020" z="-5096" heading="35076" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="115591" y="14143" z="-5096" heading="18879" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21989" x="115685" y="14245" z="-5096" heading="8617" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21989" x="115498" y="14486" z="-5096" heading="23421" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115538" y="14569" z="-5096" heading="11699" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
-			<npc id="21991" x="115620" y="14619" z="-5096" heading="5711" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="115669" y="14582" z="-5096" heading="58790" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="115724" y="14390" z="-5096" heading="41999" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21989" x="115837" y="14261" z="-5096" heading="56655" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115912" y="14244" z="-5096" heading="63211" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21991" x="116039" y="14269" z="-5096" heading="2027" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
-			<npc id="21992" x="116031" y="14372" z="-5096" heading="17192" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21993" x="116168" y="14515" z="-5096" heading="8415" respawnTime="14sec" respawnRandom="4sec" /> <!-- Judge of Despair -->
 			<npc id="21992" x="116089" y="14570" z="-5096" heading="26424" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
 			<npc id="21991" x="116113" y="14723" z="-5096" heading="14761" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghastly Warrior -->
 			<npc id="21990" x="116100" y="14645" z="-5096" heading="47429" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21989" x="116157" y="14661" z="-5096" heading="2947" respawnTime="14sec" respawnRandom="4sec" /> <!-- Ghost of the Tower -->
-			<npc id="21990" x="115960" y="14791" z="-5096" heading="26823" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 			<npc id="21992" x="115847" y="14876" z="-5096" heading="25928" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21992" x="115957" y="14313" z="-5096" heading="62583" respawnTime="14sec" respawnRandom="4sec" /> <!-- Archer of Despair -->
-			<npc id="21990" x="115898" y="14315" z="-5096" heading="32414" respawnTime="14sec" respawnRandom="4sec" /> <!-- Tower Watchman -->
 		</group>
 	</spawn>
 </list>

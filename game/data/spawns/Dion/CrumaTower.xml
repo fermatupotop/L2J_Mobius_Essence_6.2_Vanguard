@@ -6,7 +6,6 @@
 			 <npc id="21037" x="14557" y="117277" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
 		     <npc id="21037" x="14564" y="111072" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
 		     <npc id="21037" x="20870" y="110976" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
-		     <npc id="21037" x="20850" y="117306" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
 
 			<npc id="30483" x="17289" y="114112" z="-3440" heading="32768" respawnTime="14sec" /> <!-- Carsus -->
 			<npc id="30484" x="17636" y="114744" z="-11680" heading="6843" respawnTime="14sec" /> <!-- Janssen -->
@@ -40,7 +39,6 @@
 			<npc id="22203" x="14333" y="117716" z="-12089" heading="50086" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22204" x="14360" y="117480" z="-12092" heading="50086" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="13978" y="117171" z="-12092" heading="39628" respawnTime="14sec" /> <!-- Krator -->
-			<npc id="22204" x="13934" y="116949" z="-12092" heading="48264" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="14542" y="116763" z="-12092" heading="62602" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="14760" y="116733" z="-12092" heading="65480" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="14704" y="117141" z="-12092" heading="17930" respawnTime="14sec" /> <!-- Krator -->
@@ -59,7 +57,6 @@
 			<npc id="22205" x="15247" y="118853" z="-12092" heading="14354" respawnTime="14sec" /> <!-- Catherok -->
 			<npc id="22205" x="15224" y="119138" z="-12092" heading="18009" respawnTime="14sec" /> <!-- Catherok -->
 			<npc id="22205" x="15011" y="119226" z="-12092" heading="30504" respawnTime="14sec" /> <!-- Catherok -->
-			<npc id="22205" x="14735" y="119251" z="-12092" heading="32179" respawnTime="14sec" /> <!-- Catherok -->
 			<npc id="22205" x="14693" y="119042" z="-12092" heading="49301" respawnTime="14sec" /> <!-- Catherok -->
 			<npc id="22205" x="14697" y="118789" z="-12092" heading="49270" respawnTime="14sec" /> <!-- Catherok -->
 			<npc id="22205" x="14840" y="118754" z="-12092" heading="208" respawnTime="14sec" /> <!-- Catherok -->
@@ -79,7 +76,6 @@
 			<npc id="22205" x="13962" y="120681" z="-12092" heading="25010" respawnTime="14sec" /> <!-- Catherok -->
 			<npc id="22205" x="13832" y="120424" z="-12092" heading="46683" respawnTime="14sec" /> <!-- Catherok -->
 			<npc id="22205" x="13544" y="120680" z="-12092" heading="24878" respawnTime="14sec" /> <!-- Catherok -->
-			<npc id="22203" x="13512" y="120472" z="-12092" heading="47468" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="13768" y="120664" z="-12092" heading="14065" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="13992" y="120424" z="-12092" heading="53877" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="14216" y="120680" z="-12092" heading="8713" respawnTime="14sec" /> <!-- Ricenseo -->
@@ -126,7 +122,6 @@
 			<npc id="22204" x="12609" y="117653" z="-12089" heading="43865" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22202" x="12680" y="117096" z="-12089" heading="42475" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="12424" y="117016" z="-12089" heading="13701" respawnTime="14sec" /> <!-- Mordeo -->
-			<npc id="22202" x="12888" y="116776" z="-12089" heading="60598" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="12856" y="117320" z="-12089" heading="15994" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="12552" y="117416" z="-12089" heading="29793" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="12505" y="118007" z="-12089" heading="17192" respawnTime="14sec" /> <!-- Mordeo -->
@@ -211,14 +206,11 @@
 			<npc id="22203" x="14746" y="109498" z="-12089" heading="56548" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="14873" y="109705" z="-12089" heading="13092" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="15144" y="109507" z="-12089" heading="57343" respawnTime="14sec" /> <!-- Ricenseo -->
-			<npc id="22203" x="15272" y="109720" z="-12089" heading="14075" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22204" x="15032" y="109688" z="-12089" heading="34097" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="15032" y="109432" z="-12089" heading="49151" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="15048" y="109896" z="-12089" heading="23556" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22202" x="14904" y="109784" z="-12089" heading="39796" respawnTime="14sec" /> <!-- Mordeo -->
-			<npc id="22202" x="14872" y="109432" z="-12089" heading="48380" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="14600" y="109714" z="-12089" heading="23409" respawnTime="14sec" /> <!-- Mordeo -->
-			<npc id="22202" x="14568" y="109512" z="-12089" heading="46668" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="14520" y="109640" z="-12089" heading="19835" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="14104" y="109672" z="-12089" heading="30723" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="13986" y="109878" z="-12089" heading="21762" respawnTime="14sec" /> <!-- Mordeo -->
@@ -297,7 +289,6 @@
 			<npc id="22200" x="11304" y="107774" z="-12092" heading="48820" respawnTime="14sec" /> <!-- Porta -->
 			<npc id="22200" x="11688" y="107656" z="-12089" heading="63063" respawnTime="14sec" /> <!-- Porta -->
 			<npc id="22200" x="12168" y="107672" z="-12089" heading="430" respawnTime="14sec" /> <!-- Porta -->
-			<npc id="22200" x="12152" y="108664" z="-12092" heading="17835" respawnTime="14sec" /> <!-- Porta -->
 			<npc id="22200" x="11832" y="108728" z="-12089" heading="30690" respawnTime="14sec" /> <!-- Porta -->
 			<npc id="22201" x="11624" y="110712" z="-12092" heading="53766" respawnTime="14sec" /> <!-- Excuro -->
 			<npc id="22201" x="12016" y="110670" z="-12092" heading="64818" respawnTime="14sec" /> <!-- Excuro -->
@@ -339,11 +330,8 @@
 			<npc id="22203" x="12952" y="110248" z="-12089" heading="45577" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="13201" y="110442" z="-12089" heading="6465" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="13303" y="110741" z="-12089" heading="14241" respawnTime="14sec" /> <!-- Ricenseo -->
-			<npc id="22203" x="13080" y="111117" z="-12089" heading="21854" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="13079" y="111539" z="-12089" heading="15938" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="13237" y="111718" z="-12089" heading="7744" respawnTime="14sec" /> <!-- Ricenseo -->
-			<npc id="22203" x="12924" y="111690" z="-12089" heading="34101" respawnTime="14sec" /> <!-- Ricenseo -->
-			<npc id="22203" x="12890" y="111411" z="-12089" heading="48531" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22204" x="13128" y="111272" z="-12089" heading="61817" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="13272" y="111592" z="-12089" heading="11241" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="12936" y="111416" z="-12089" heading="37633" respawnTime="14sec" /> <!-- Krator -->
@@ -608,7 +596,6 @@
 			<npc id="22202" x="22532" y="118669" z="-12089" heading="48719" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22202" x="22312" y="118253" z="-12089" heading="44724" respawnTime="14sec" /> <!-- Mordeo -->
 			<npc id="22204" x="22344" y="117048" z="-12089" heading="46488" respawnTime="14sec" /> <!-- Krator -->
-			<npc id="22204" x="22524" y="117258" z="-12089" heading="8697" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="22539" y="117780" z="-12089" heading="14809" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="22399" y="118223" z="-12089" heading="20348" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="22501" y="118493" z="-12089" heading="10407" respawnTime="14sec" /> <!-- Krator -->
@@ -616,7 +603,6 @@
 			<npc id="22204" x="22520" y="119102" z="-12089" heading="9217" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="22362" y="119400" z="-12089" heading="23527" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22204" x="22520" y="119688" z="-12089" heading="9067" respawnTime="14sec" /> <!-- Krator -->
-			<npc id="22204" x="22360" y="120008" z="-12089" heading="21203" respawnTime="14sec" /> <!-- Krator -->
 			<npc id="22203" x="23983" y="120356" z="-12092" heading="1722" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="24070" y="120049" z="-12092" heading="51318" respawnTime="14sec" /> <!-- Ricenseo -->
 			<npc id="22203" x="24024" y="119688" z="-12092" heading="46762" respawnTime="14sec" /> <!-- Ricenseo -->
@@ -721,15 +707,6 @@
 			<npc id="22209" x="13080" y="109864" z="-9072" heading="46901" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22209" x="12820" y="109619" z="-9072" heading="40546" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22208" x="12792" y="109592" z="-9072" heading="40546" respawnTime="14sec" /> <!-- Dicor -->
-			<npc id="22210" x="13544" y="115880" z="-9003" heading="17331" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22207" x="13544" y="115880" z="-9003" heading="17331" respawnTime="14sec" /> <!-- Validus -->
-			<npc id="22209" x="13544" y="115880" z="-9003" heading="17331" respawnTime="14sec" /> <!-- Perum -->
-			<npc id="22207" x="13640" y="115976" z="-9003" heading="10522" respawnTime="14sec" /> <!-- Validus -->
-			<npc id="22209" x="13640" y="115976" z="-9003" heading="10522" respawnTime="14sec" /> <!-- Perum -->
-			<npc id="22210" x="13496" y="116008" z="-9003" heading="33388" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22210" x="13565" y="115501" z="-9042" heading="50191" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22207" x="13576" y="115384" z="-9064" heading="50191" respawnTime="14sec" /> <!-- Validus -->
-			<npc id="22209" x="13576" y="115384" z="-9064" heading="50191" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22207" x="13800" y="115208" z="-9072" heading="58481" respawnTime="14sec" /> <!-- Validus -->
 			<npc id="22209" x="13800" y="115208" z="-9072" heading="58481" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="13800" y="115000" z="-9072" heading="44103" respawnTime="14sec" /> <!-- Torfe -->
@@ -786,17 +763,13 @@
 			<npc id="22210" x="13560" y="112168" z="-9072" heading="41508" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22209" x="13560" y="112168" z="-9072" heading="41508" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="13816" y="112136" z="-9072" heading="64219" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22210" x="13208" y="117368" z="-9070" heading="65000" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22208" x="13208" y="117368" z="-9070" heading="65000" respawnTime="14sec" /> <!-- Dicor -->
 			<npc id="22209" x="13144" y="117544" z="-9072" heading="19637" respawnTime="14sec" /> <!-- Perum -->
-			<npc id="22209" x="13144" y="117544" z="-9072" heading="19637" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="13080" y="117592" z="-9072" heading="26564" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22208" x="13080" y="117592" z="-9072" heading="26564" respawnTime="14sec" /> <!-- Dicor -->
 			<npc id="22209" x="13080" y="117592" z="-9072" heading="26564" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22209" x="13080" y="117592" z="-9072" heading="26564" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="13192" y="117976" z="-9072" heading="12611" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22208" x="13192" y="117976" z="-9072" heading="12611" respawnTime="14sec" /> <!-- Dicor -->
-			<npc id="22209" x="13192" y="117976" z="-9072" heading="12611" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22209" x="13192" y="117976" z="-9072" heading="12611" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="13199" y="118285" z="-9071" heading="18680" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22208" x="13176" y="118376" z="-9072" heading="18680" respawnTime="14sec" /> <!-- Dicor -->
@@ -823,12 +796,9 @@
 			<npc id="22209" x="11976" y="119064" z="-9072" heading="32803" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22209" x="11976" y="119064" z="-9072" heading="32803" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="11906" y="118753" z="-9071" heading="47389" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22208" x="11896" y="118696" z="-9070" heading="47389" respawnTime="14sec" /> <!-- Dicor -->
 			<npc id="22209" x="11896" y="118696" z="-9070" heading="47389" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22209" x="11896" y="118696" z="-9070" heading="47389" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="11932" y="118166" z="-9072" heading="45635" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22208" x="11912" y="118104" z="-9071" heading="45635" respawnTime="14sec" /> <!-- Dicor -->
-			<npc id="22209" x="11912" y="118104" z="-9071" heading="45635" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22209" x="11912" y="118104" z="-9071" heading="45635" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="12093" y="117506" z="-9071" heading="50066" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22208" x="12101" y="117427" z="-9071" heading="50066" respawnTime="14sec" /> <!-- Dicor -->
@@ -886,18 +856,9 @@
 			<npc id="22210" x="11912" y="113064" z="-9072" heading="56868" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22207" x="11912" y="113064" z="-9072" heading="56868" respawnTime="14sec" /> <!-- Validus -->
 			<npc id="22209" x="11912" y="113064" z="-9072" heading="56868" respawnTime="14sec" /> <!-- Perum -->
-			<npc id="22210" x="11624" y="112792" z="-9049" heading="39878" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22207" x="11624" y="112792" z="-9049" heading="39878" respawnTime="14sec" /> <!-- Validus -->
 			<npc id="22209" x="11624" y="112792" z="-9049" heading="39878" respawnTime="14sec" /> <!-- Perum -->
-			<npc id="22210" x="11901" y="112655" z="-9014" heading="58527" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22207" x="11912" y="112648" z="-9012" heading="58527" respawnTime="14sec" /> <!-- Validus -->
 			<npc id="22209" x="11912" y="112648" z="-9012" heading="58527" respawnTime="14sec" /> <!-- Perum -->
-			<npc id="22210" x="11816" y="112296" z="-9003" heading="46405" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22207" x="11816" y="112296" z="-9003" heading="46405" respawnTime="14sec" /> <!-- Validus -->
-			<npc id="22209" x="11816" y="112296" z="-9003" heading="46405" respawnTime="14sec" /> <!-- Perum -->
-			<npc id="22210" x="11720" y="112200" z="-9003" heading="43298" respawnTime="14sec" /> <!-- Torfe -->
-			<npc id="22207" x="11720" y="112200" z="-9003" heading="43298" respawnTime="14sec" /> <!-- Validus -->
-			<npc id="22209" x="11720" y="112200" z="-9003" heading="43298" respawnTime="14sec" /> <!-- Perum -->
 			<npc id="22210" x="11877" y="113086" z="-9054" heading="13040" respawnTime="14sec" /> <!-- Torfe -->
 			<npc id="22207" x="11901" y="113160" z="-9065" heading="13040" respawnTime="14sec" /> <!-- Validus -->
 			<npc id="22207" x="21928" y="118520" z="-9051" heading="15846" respawnTime="14sec" /> <!-- Validus -->

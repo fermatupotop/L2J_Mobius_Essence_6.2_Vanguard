@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="20_21">
+		<group>
+			<npc id="22211" x="13661" y="116026" z="-9000" heading="17722" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13661" y="116026" z="-9000" heading="17722" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13661" y="116026" z="-9000" heading="17722" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13661" y="116026" z="-9000" heading="17722" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13661" y="116026" z="-9000" heading="17722" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13848" y="115922" z="-9000" heading="60242" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="13848" y="115922" z="-9000" heading="60242" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11821" y="112187" z="-9000" heading="49104" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11821" y="112187" z="-9000" heading="49104" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11821" y="112187" z="-9000" heading="49104" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11818" y="112317" z="-9000" heading="16624" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11818" y="112317" z="-9000" heading="16624" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11818" y="112317" z="-9000" heading="16624" respawnTime="15sec" /> <!-- Death Lord -->
+			<npc id="22211" x="11818" y="112317" z="-9000" heading="16624" respawnTime="15sec" /> <!-- Death Lord -->
+		</group>
+	</spawn>
+</list>

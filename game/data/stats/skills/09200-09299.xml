@@ -14,7 +14,7 @@
 		<basicProperty>NONE</basicProperty>
 		<hitCancelTime>0</hitCancelTime>
 		<reuseDelay>15000</reuseDelay>
-		<withoutAction>true</withoutAction>
+
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>

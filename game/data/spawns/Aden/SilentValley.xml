@@ -236,7 +236,6 @@
 			<npc id="20968" x="188392" y="50136" z="-5801" heading="22939" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="188392" y="50136" z="-5801" heading="22939" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="188392" y="50136" z="-5801" heading="22939" respawnTime="12sec" /> <!-- Giant's Shadow -->
-			<npc id="20971" x="188392" y="50136" z="-5801" heading="22939" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20972" x="187734" y="50136" z="-5852" heading="32812" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="187688" y="50136" z="-5857" heading="32812" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20972" x="188072" y="50408" z="-5819" heading="8093" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
@@ -261,14 +260,9 @@
 			<npc id="20969" x="186968" y="51128" z="-5861" heading="6385" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20971" x="186968" y="51128" z="-5861" heading="6385" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20972" x="186968" y="51128" z="-5861" heading="6385" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
-			<npc id="20967" x="186984" y="51464" z="-5854" heading="15803" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20969" x="186984" y="51464" z="-5854" heading="15803" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20973" x="186984" y="51464" z="-5854" heading="15803" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20968" x="186984" y="51464" z="-5854" heading="15803" respawnTime="12sec" /> <!-- Forgotten Face -->
-			<npc id="20973" x="187496" y="51672" z="-5842" heading="3982" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="187496" y="51672" z="-5842" heading="3982" respawnTime="12sec" /> <!-- Giant's Shadow -->
-			<npc id="20971" x="187496" y="51672" z="-5842" heading="3982" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20972" x="187496" y="51672" z="-5842" heading="3982" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="187496" y="51672" z="-5842" heading="3982" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20973" x="187032" y="52200" z="-5841" heading="21180" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="187032" y="52200" z="-5841" heading="21180" respawnTime="12sec" /> <!-- Giant's Shadow -->
@@ -278,12 +272,7 @@
 			<npc id="20969" x="186801" y="52328" z="-5843" heading="27423" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20971" x="186744" y="52360" z="-5845" heading="27423" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20967" x="186072" y="52328" z="-5826" heading="35003" respawnTime="12sec" /> <!-- Creature of the Past -->
-			<npc id="20972" x="186072" y="52328" z="-5826" heading="35003" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
-			<npc id="20973" x="185985" y="52426" z="-5811" heading="24228" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20971" x="185899" y="52525" z="-5797" heading="24228" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20969" x="185596" y="52663" z="-5792" heading="29604" respawnTime="12sec" /> <!-- Giant's Shadow -->
-			<npc id="20973" x="185596" y="52663" z="-5792" heading="29604" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20971" x="185544" y="52680" z="-5794" heading="29604" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20973" x="185454" y="52434" z="-5828" heading="45393" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="185365" y="52188" z="-5863" heading="45393" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20971" x="185365" y="52188" z="-5863" heading="45393" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
@@ -325,8 +314,6 @@
 			<npc id="20973" x="184040" y="52680" z="-5844" heading="15093" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="184040" y="52680" z="-5844" heading="15093" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="183943" y="53199" z="-5844" heading="18203" respawnTime="12sec" /> <!-- Forgotten Face -->
-			<npc id="20973" x="183895" y="53458" z="-5844" heading="18203" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20969" x="183880" y="53544" z="-5846" heading="18203" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="183784" y="53992" z="-5792" heading="18669" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="183784" y="53992" z="-5792" heading="18669" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20971" x="183784" y="53992" z="-5792" heading="18669" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
@@ -419,9 +406,6 @@
 			<npc id="20972" x="182472" y="49064" z="-5923" heading="64496" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="182472" y="49064" z="-5923" heading="64496" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20971" x="182232" y="48104" z="-5843" heading="45174" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20972" x="182232" y="48104" z="-5843" heading="45174" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
-			<npc id="20967" x="182232" y="48104" z="-5843" heading="45174" respawnTime="12sec" /> <!-- Creature of the Past -->
-			<npc id="20971" x="182852" y="47909" z="-5897" heading="64121" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20967" x="183080" y="47880" z="-5922" heading="64121" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20971" x="183080" y="47880" z="-5922" heading="64121" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20972" x="183080" y="47880" z="-5922" heading="64121" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
@@ -432,8 +416,6 @@
 			<npc id="20971" x="182111" y="48584" z="-5848" heading="32963" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20972" x="182072" y="48584" z="-5845" heading="32963" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="182072" y="48584" z="-5845" heading="32963" respawnTime="12sec" /> <!-- Creature of the Past -->
-			<npc id="20971" x="181672" y="48824" z="-5797" heading="27138" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20972" x="181672" y="48824" z="-5797" heading="27138" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="181672" y="48824" z="-5797" heading="27138" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20968" x="182676" y="49860" z="-5946" heading="8377" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="182696" y="49880" z="-5950" heading="8377" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
@@ -496,9 +478,6 @@
 			<npc id="20973" x="179688" y="56968" z="-5831" heading="25294" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="179688" y="56968" z="-5831" heading="25294" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20971" x="179688" y="56968" z="-5831" heading="25294" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20973" x="179112" y="57400" z="-5747" heading="26050" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20969" x="179112" y="57400" z="-5747" heading="26050" respawnTime="12sec" /> <!-- Giant's Shadow -->
-			<npc id="20971" x="179112" y="57400" z="-5747" heading="26050" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20973" x="178971" y="56490" z="-5869" heading="51997" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="179005" y="56363" z="-5881" heading="51997" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20971" x="179005" y="56363" z="-5881" heading="51997" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
@@ -581,11 +560,8 @@
 			<npc id="20973" x="179656" y="51032" z="-5910" heading="52661" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="179656" y="51032" z="-5910" heading="57366" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="180120" y="50568" z="-5922" heading="57366" respawnTime="12sec" /> <!-- Forgotten Face -->
-			<npc id="20973" x="180120" y="50568" z="-5922" heading="57366" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="180120" y="50568" z="-5922" heading="57366" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="180488" y="50328" z="-5881" heading="59383" respawnTime="12sec" /> <!-- Forgotten Face -->
-			<npc id="20973" x="180488" y="50328" z="-5881" heading="59383" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20969" x="180488" y="50328" z="-5881" heading="59383" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20973" x="181288" y="50808" z="-5949" heading="5638" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="181288" y="50808" z="-5949" heading="5638" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="181368" y="51784" z="-6040" heading="15453" respawnTime="12sec" /> <!-- Forgotten Face -->
@@ -614,7 +590,6 @@
 			<npc id="20968" x="177944" y="57160" z="-5851" heading="9962" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="177944" y="57160" z="-5851" heading="9962" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="177944" y="57160" z="-5851" heading="9962" respawnTime="12sec" /> <!-- Giant's Shadow -->
-			<npc id="20968" x="177288" y="57480" z="-5857" heading="28048" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="177288" y="57480" z="-5857" heading="28048" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="177288" y="57480" z="-5857" heading="28048" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="176898" y="56500" z="-5918" heading="45160" respawnTime="12sec" /> <!-- Forgotten Face -->
@@ -725,10 +700,6 @@
 			<npc id="20969" x="172198" y="54240" z="-5908" heading="51316" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20971" x="172225" y="54111" z="-5913" heading="51316" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20972" x="172252" y="53982" z="-5918" heading="51316" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
-			<npc id="20969" x="172776" y="53208" z="-5920" heading="62340" respawnTime="12sec" /> <!-- Giant's Shadow -->
-			<npc id="20971" x="172776" y="53208" z="-5920" heading="62340" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20972" x="172776" y="53208" z="-5920" heading="62340" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
-			<npc id="20973" x="173304" y="53144" z="-5907" heading="64330" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20968" x="173816" y="52840" z="-5914" heading="59955" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="173816" y="52840" z="-5914" heading="59955" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="173816" y="52840" z="-5914" heading="59955" respawnTime="12sec" /> <!-- Giant's Shadow -->
@@ -774,14 +745,10 @@
 			<npc id="20969" x="174984" y="52840" z="-5906" heading="49088" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="175688" y="52664" z="-5879" heading="54424" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="175688" y="52664" z="-5879" heading="54424" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20968" x="177608" y="52088" z="-5893" heading="50228" respawnTime="12sec" /> <!-- Forgotten Face -->
-			<npc id="20973" x="177608" y="52088" z="-5893" heading="50228" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20969" x="177608" y="52088" z="-5893" heading="50228" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="178408" y="52728" z="-5924" heading="619" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="178408" y="52728" z="-5924" heading="619" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="178408" y="52728" z="-5924" heading="619" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="178616" y="51848" z="-5916" heading="53341" respawnTime="12sec" /> <!-- Forgotten Face -->
-			<npc id="20973" x="178616" y="51848" z="-5916" heading="53341" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20969" x="178616" y="51848" z="-5916" heading="53341" respawnTime="12sec" /> <!-- Giant's Shadow -->
 			<npc id="20968" x="180328" y="51688" z="-5930" heading="63854" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20973" x="180328" y="51688" z="-5930" heading="63854" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
@@ -798,9 +765,6 @@
 			<npc id="20971" x="187080" y="46104" z="-5864" heading="30850" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20972" x="187080" y="46104" z="-5864" heading="30850" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="187080" y="46104" z="-5864" heading="30850" respawnTime="12sec" /> <!-- Creature of the Past -->
-			<npc id="20971" x="188968" y="48632" z="-5840" heading="13734" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20972" x="188968" y="48632" z="-5840" heading="13734" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
-			<npc id="20967" x="188968" y="48632" z="-5840" heading="13734" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20971" x="186376" y="51480" z="-5872" heading="5943" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
 			<npc id="20972" x="186376" y="51480" z="-5872" heading="5943" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="186376" y="51480" z="-5872" heading="5943" respawnTime="12sec" /> <!-- Creature of the Past -->
@@ -816,11 +780,6 @@
 			<npc id="20972" x="182840" y="55576" z="-5807" heading="17893" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20967" x="182840" y="55576" z="-5807" heading="17893" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20971" x="182696" y="55768" z="-5798" heading="22894" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20968" x="181912" y="56376" z="-5847" heading="11779" respawnTime="12sec" /> <!-- Forgotten Face -->
-			<npc id="20973" x="181912" y="56376" z="-5847" heading="11779" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
-			<npc id="20969" x="181896" y="56648" z="-5785" heading="18814" respawnTime="12sec" /> <!-- Giant's Shadow -->
-			<npc id="20971" x="181368" y="56584" z="-5849" heading="34135" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->
-			<npc id="20972" x="181368" y="56584" z="-5849" heading="34135" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20973" x="180392" y="54840" z="-5934" heading="35024" respawnTime="12sec" /> <!-- Forgotten Ancient Creature -->
 			<npc id="20972" x="180392" y="54840" z="-5934" heading="35024" respawnTime="12sec" /> <!-- Shaman of Ancient Times -->
 			<npc id="20971" x="180040" y="54760" z="-5950" heading="35137" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->

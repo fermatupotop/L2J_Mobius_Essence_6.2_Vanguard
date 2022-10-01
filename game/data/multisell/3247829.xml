@@ -33,6 +33,7 @@
 		<ingredient count="1" id="93499" />
 		<!-- +4 ~ +15 Weapon Pack - Bow of Peril -->
 		<production count="1" id="93467" />
+		<production count="1" id="95493" />
 	</item>
 	<item>
 		<!-- Enchanted B-grade Weapon Coupon -->
@@ -93,5 +94,6 @@
 		<ingredient count="1" id="93499" />
 		<!-- +4 ~ +15 Weapon Pack - Volcano -->
 		<production count="1" id="95659" />
+		<production count="1" id="94894" />
 	</item>
 </list>

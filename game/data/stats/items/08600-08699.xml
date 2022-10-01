@@ -286,7 +286,7 @@
 		<set name="default_action" val="EQUIP" />
 		<set name="weapon_type" val="BOW" />
 		<set name="bodypart" val="lrhand" />
-		<set name="damage_range" val="0;0;10;0" />
+
 		<set name="immediate_effect" val="true" />
 		<set name="crystal_count" val="2157" />
 		<set name="crystal_type" val="A" />
@@ -298,7 +298,7 @@
 		<set name="spiritshots" val="1" />
 		<set name="mp_consume" val="5" />
 		<set name="enchant_enabled" val="true" />
-		<set name="reuse_delay" val="820" />
+		<set name="reuse_delay" val="1500" />
 		<set name="isAppearanceable" val="true" />
 		<set name="commissionItemType" val="BOW" />
 		<stats>

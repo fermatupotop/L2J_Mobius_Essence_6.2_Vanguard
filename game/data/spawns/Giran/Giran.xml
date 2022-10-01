@@ -21,10 +21,6 @@
 			<npc id="30474" x="79059" y="149457" z="-3592" heading="47548" respawnTime="60sec" /> <!-- Angus - Grand Master -->
 			<npc id="30475" x="78766" y="149239" z="-3592" heading="16384" respawnTime="60sec" /> <!-- Stapin - Master -->
 			<npc id="30476" x="78928" y="149041" z="-3592" heading="0" respawnTime="60sec" /> <!-- Kaira - Magister -->
-			<npc id="30118" x="86485" y="148384" z="-3400" heading="16384" respawnTime="60sec" /> <!-- Pupina - Priestess -->
-			<npc id="30117" x="86472" y="148848" z="-3400" heading="49152" respawnTime="60sec" /> <!-- Primos - Priest -->
-			<npc id="30473" x="85829" y="148365" z="-3400" heading="16384" respawnTime="60sec" /> <!-- Bandellos - Priest -->
-			<npc id="30119" x="85828" y="148894" z="-3400" heading="49152" respawnTime="60sec" /> <!-- Isabellin - Priestess -->
 			<npc id="30108" x="85055" y="146560" z="-3400" heading="32768" respawnTime="60sec" /> <!-- Macken - Master -->
 			<npc id="30109" x="85655" y="146471" z="-3400" heading="32441" respawnTime="60sec" /> <!-- Hannavalt - Grand Master -->
 			<npc id="30105" x="85505" y="146208" z="-3400" heading="16384" respawnTime="60sec" /> <!-- Genwitter - Master -->
@@ -58,7 +54,6 @@
 			<npc id="30087" x="79711" y="150788" z="-3520" heading="49152" respawnTime="60sec" /> <!-- Peta - Wizard Armor Merchant -->
 			<npc id="30088" x="79654" y="150788" z="-3520" heading="49152" respawnTime="60sec" /> <!-- Radia - Warrior Armor Merchant -->
 			<npc id="30120" x="87058" y="148634" z="-3400" heading="32767" respawnTime="60sec" /> <!-- Maximilian - High Priest -->
-			<npc id="30116" x="86912" y="148802" z="-3400" heading="40960" respawnTime="60sec" /> <!-- Dustin - Priest -->
 			<npc id="35451" x="78652" y="148280" z="-3576" heading="48000" respawnTime="60sec" /> <!-- Emma - Clan Hall Manager -->
 			<npc id="30086" x="80752" y="146400" z="-3528" heading="16384" respawnTime="60sec" /> <!-- Taurin - Warehouse Keeper -->
 			<npc id="30092" x="79248" y="149552" z="-3528" heading="0" respawnTime="60sec" /> <!-- Collob - Warehouse Keeper -->

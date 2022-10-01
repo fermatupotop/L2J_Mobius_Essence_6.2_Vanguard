@@ -637,6 +637,7 @@
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
 		<set name="is_magic_weapon" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">140</stat>
 			<stat type="mAtk">137</stat>
@@ -659,6 +660,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -681,6 +683,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">175</stat>
 			<stat type="mAtk">102</stat>
@@ -703,6 +706,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">167</stat>
 			<stat type="mAtk">124</stat>
@@ -725,6 +729,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<skills>
 			<skill id="3599" level="1" /> <!-- Polearm Multi-attack -->
 		</skills>
@@ -750,6 +755,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -773,6 +779,7 @@
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
 		<set name="is_magic_weapon" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">170</stat>
 			<stat type="mAtk">151</stat>
@@ -796,6 +803,7 @@
 		<set name="spiritshots" val="1" />
 		<set name="enchant_enabled" val="true" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">397</stat>
 			<stat type="mAtk">102</stat>
@@ -864,6 +872,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">175</stat>
 			<stat type="mAtk">102</stat>
@@ -887,6 +896,7 @@
 		<set name="spiritshots" val="1" />
 		<set name="mp_consume" val="4" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">397</stat>
 			<stat type="mAtk">102</stat>
@@ -909,6 +919,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -931,6 +942,7 @@
 		<set name="soulshots" val="1" />
 		<set name="spiritshots" val="1" />
 		<set name="is_sellable" val="false" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -957,6 +969,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
 		<set name="is_magic_weapon" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">140</stat>
 			<stat type="mAtk">137</stat>
@@ -982,6 +995,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -1007,6 +1021,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">175</stat>
 			<stat type="mAtk">102</stat>
@@ -1032,6 +1047,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">167</stat>
 			<stat type="mAtk">124</stat>
@@ -1057,6 +1073,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<skills>
 			<skill id="3599" level="1" /> <!-- Polearm Multi-attack -->
 		</skills>
@@ -1085,6 +1102,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -1111,6 +1129,7 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
 		<set name="is_magic_weapon" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">170</stat>
 			<stat type="mAtk">151</stat>
@@ -1136,6 +1155,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">397</stat>
 			<stat type="mAtk">102</stat>
@@ -1161,6 +1181,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">122</stat>
 			<stat type="mAtk">137</stat>
@@ -1186,6 +1207,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">193</stat>
 			<stat type="mAtk">102</stat>
@@ -1211,6 +1233,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">175</stat>
 			<stat type="mAtk">102</stat>
@@ -1237,6 +1260,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">397</stat>
 			<stat type="mAtk">102</stat>
@@ -1262,6 +1286,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -1287,6 +1312,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_freightable" val="true" />
+		<set name="enchant_enabled" val="true" />
 		<stats>
 			<stat type="pAtk">213</stat>
 			<stat type="mAtk">102</stat>
@@ -1766,6 +1792,8 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="is_infinite" val="true" />
 	</item>
 	<item id="95491" name="Infinite Bone Quiver" additionalName="Sealed" type="EtcItem">
 		<!-- Quiver containing arrows made of sharply ground bone. Used with a D-grade bow. -->
@@ -1777,6 +1805,8 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="is_infinite" val="true" />
 	</item>
 	<item id="95492" name="Ivory Tower's Magic Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
 		<!-- Double-click to obtain Sayha's Blessing (3 pcs.), a random item from the list and another one of various items. -->
@@ -1791,6 +1821,8 @@
 	</item>
 	<item id="95493" name="Infinite Silver Quiver" additionalName="Sealed" type="EtcItem">
 		<!-- Quiver containing steel arrows plated in silver. Used with a B-grade bow. -->
+		<set name="default_action" val="NONE" />
+		<set name="etcitem_type" val="ARROW" />
 		<set name="icon" val="br_cashtex.item.br_cash_quiver_of_silver_arrows_i00" />
 		<set name="immediate_effect" val="true" />
 		<set name="crystal_type" val="B" />
@@ -1799,6 +1831,8 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="is_infinite" val="true" />
 	</item>
 	<item id="95494" name="Infinite Mithril Quiver" additionalName="Sealed" type="EtcItem">
 		<!-- Quiver with arrows coated by mithril. Used with an A-grade bow. -->
@@ -1810,6 +1844,8 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="is_infinite" val="true" />
 	</item>
 	<item id="95495" name="Buff Expansion Book Lv. 1" additionalName="Sealed" type="EtcItem">
 		<!-- A book for learning the Divine Inspiration Lv. 1 skill. <Classes> All classes after the 2nd class change <Skill effect> Increases the number of buff slots. -->

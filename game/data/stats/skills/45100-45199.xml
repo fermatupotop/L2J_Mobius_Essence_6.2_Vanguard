@@ -2189,6 +2189,12 @@
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="OpSoulMax" type="LIGHT" />
+			<condition name="OpNotAffectedBySkill">
+				<skillId>397</skillId> <!-- Light Veil -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>398</skillId> <!-- Shadow Veil -->
+				</condition>
 		</conditions>
 		<effects>
 			<effect name="FocusSouls">
@@ -2215,6 +2221,12 @@
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="OpSoulMax" type="SHADOW" />
+			<condition name="OpNotAffectedBySkill">
+				<skillId>397</skillId> <!-- Light Veil -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>398</skillId> <!-- Shadow Veil -->
+			</condition>
 		</conditions>
 		<effects>
 			<effect name="FocusSouls">
@@ -2770,12 +2782,17 @@
 		</effects>
 	</skill>
 	<skill id="45162" toLevel="8" name="Ultimate Soul Piercing">
-		<!-- <Ultimate skill> Attacks the enemy three times with $s1 power. There is a certain chance to deliver an extra attack. The effect lasts for 10 sec. Target's M. Def. -10% A chance to knock back monsters after an attack Critical. Ignores Shield Defense. Ignores $s2 of the target's defense. -->
+<!-- <Ultimate skill> Attacks the enemy three times with $s1 power. There is a certain chance to deliver an extra attack. The effect lasts for 10 sec. Target's M. Def. -10% A chance to knock back monsters after an attack Critical. Ignores Shield Defense. Ignores $s2 of the target's defense. -->
 		<icon>icon.skill0504</icon>
-		<operateType>A1</operateType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>10</abnormalTime>
+		<abnormalType>KNOCKDOWN</abnormalType>
 		<castRange>120</castRange>
-		<hitTime>3500</hitTime>
-		<reuseDelay>3000</reuseDelay>
+		<coolTime>700</coolTime>
+		<effectRange>400</effectRange>
+		<hitTime>1800</hitTime>
+		<reuseDelay>1000</reuseDelay>
+		<operateType>A2</operateType>
 		<effectPoint>
 			<value level="1">-220</value>
 			<value level="2">-270</value>
@@ -2796,6 +2813,81 @@
 			<value level="7">59</value>
 			<value level="8">63</value>
 		</mpConsume>
+		<operateType>A2</operateType>
+		<pveEffects>
+			<effect name="KnockBack">
+				<distance>50</distance>
+				<speed>400</speed>
+				<knockDown>false</knockDown>
+			</effect>
+		</pveEffects>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="EquipWeapon">
+				<weaponType>
+					<item>RAPIER</item>
+				</weaponType>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>
+					<value level="1">510</value>
+					<value level="2">886</value>
+					<value level="3">1273</value>
+					<value level="4">1672</value>
+					<value level="5">1876</value>
+					<value level="6">2475</value>
+					<value level="7">2643</value>
+					<value level="8">2812</value>
+				</power>
+				<ignoreShieldDefence>true</ignoreShieldDefence>
+				<criticalChance>15</criticalChance>
+				<overHit>true</overHit>
+				<pDefMod>0.75</pDefMod>
+			</effect>
+			<effect name="TriggerSkillByAttack">
+				<attackerType>Creature</attackerType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<minDamage>1</minDamage>
+				<chance>90</chance>
+				<targetType>ENEMY</targetType>
+				<isCritical>true</isCritical>
+				<allowWeapons>ALL</allowWeapons>
+				<skillId>45182</skillId>
+				<skillLevel>
+					<value level="1">1</value>
+					<value level="2">2</value>
+					<value level="3">3</value>
+					<value level="4">4</value>
+					<value level="5">5</value>
+					<value level="6">6</value>
+					<value level="7">7</value>
+					<value level="8">8</value>
+				</skillLevel>
+			</effect>
+			<effect name="TriggerSkillByAttack">
+				<attackerType>Creature</attackerType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<minDamage>1</minDamage>
+				<chance>90</chance>
+				<targetType>ENEMY</targetType>
+				<isCritical>false</isCritical>
+				<allowWeapons>ALL</allowWeapons>
+				<skillId>45182</skillId>
+				<skillLevel>
+					<value level="1">1</value>
+					<value level="2">2</value>
+					<value level="3">3</value>
+					<value level="4">4</value>
+					<value level="5">5</value>
+					<value level="6">6</value>
+					<value level="7">7</value>
+					<value level="8">8</value>
+				</skillLevel>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="45163" toLevel="8" name="Soul Spark">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
@@ -2862,11 +2954,12 @@
 		</effects>
 	</skill>
 	<skill id="45164" toLevel="8" name="Ultimate Soul Spark">
-		<!-- <Ultimate skill> Deals 2 magic strikes to the target with $s1 power. -->
+<!-- <Ultimate skill> Deals 2 magic strikes to the target with $s1 power. -->
 		<icon>icon.skill14216</icon>
 		<operateType>A1</operateType>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
-		<castRange>600</castRange>
+		<castRange>700</castRange>
+		<effectRange>1200</effectRange>
 		<hitTime>2500</hitTime>
 		<reuseDelay>2000</reuseDelay>
 		<effectPoint>
@@ -2889,6 +2982,30 @@
 			<value level="7">44</value>
 			<value level="8">48</value>
 		</mpConsume>
+		<magicCriticalRate>5</magicCriticalRate>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<conditions>
+			<condition name="EquipWeapon">
+				<weaponType>
+					<item>RAPIER</item>
+				</weaponType>
+			</condition>
+		</conditions>
+		<effects>
+			<effect name="MagicalAttack">
+				<power>
+					<value level="1">60</value>
+					<value level="2">67</value>
+					<value level="3">78</value>
+					<value level="4">90</value>
+					<value level="5">97</value>
+					<value level="6">105</value>
+					<value level="7">112</value>
+					<value level="8">123</value>
+				</power>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="45165" toLevel="10" name="Soul Strike">
 		<!-- Inflicts magic damage on the enemy with $s1 power. -->
@@ -3633,6 +3750,15 @@
 		<magicLevel>1</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>-5</magicCriticalRate>
+		<conditions>
+		<condition name="OpSoulMax" type="LIGHT" />
+			<condition name="OpNotAffectedBySkill">
+				<skillId>397</skillId> <!-- Light Veil -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>398</skillId> <!-- Shadow Veil -->
+				</condition>
+				</conditions>
 	</skill>
 	<skill id="45175" toLevel="100" name="Shadow Soul">
 		<!-- Collects $s1 Shadow Soul(s). -->
@@ -3741,6 +3867,15 @@
 		<magicLevel>1</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>-5</magicCriticalRate>
+				<conditions>
+				<condition name="OpSoulMax" type="SHADOW" />
+			<condition name="OpNotAffectedBySkill">
+				<skillId>397</skillId> <!-- Light Veil -->
+			</condition>
+			<condition name="OpNotAffectedBySkill">
+				<skillId>398</skillId> <!-- Shadow Veil -->
+				</condition>
+				</conditions>
 	</skill>
 	<skill id="45176" toLevel="2" name="HP Recovery">
 		<!-- Constantly recovers a certain amount of HP. The amount of HP recovered and its recovery rate are increased with the skill level. -->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="17_25">
+		<group>
+			<npc id="20120" x="-89977" y="241577" z="-3571" heading="48862" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89978" y="241560" z="-3571" heading="48862" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89978" y="241560" z="-3571" heading="48862" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90037" y="241499" z="-3567" heading="41053" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90089" y="241447" z="-3563" heading="41053" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90091" y="241383" z="-3562" heading="48712" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90084" y="241258" z="-3560" heading="51782" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90054" y="241156" z="-3560" heading="52274" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89983" y="241004" z="-3561" heading="55155" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89864" y="240885" z="-3561" heading="58115" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89739" y="240807" z="-3563" heading="60921" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89678" y="240790" z="-3563" heading="63703" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89574" y="240772" z="-3564" heading="63703" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89491" y="240757" z="-3568" heading="63703" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89433" y="240820" z="-3568" heading="8865" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89377" y="240883" z="-3566" heading="8865" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89321" y="240947" z="-3564" heading="9371" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89282" y="240997" z="-3562" heading="9371" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89203" y="241096" z="-3560" heading="9918" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89166" y="241147" z="-3560" heading="9918" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89093" y="241250" z="-3560" heading="9918" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89044" y="241320" z="-3562" heading="9918" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89045" y="241383" z="-3564" heading="16569" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89046" y="241467" z="-3568" heading="16569" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89049" y="241614" z="-3578" heading="16569" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89050" y="241658" z="-3584" heading="16569" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89155" y="241724" z="-3586" heading="26125" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89201" y="241758" z="-3592" heading="26125" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89245" y="241828" z="-3592" heading="23071" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89310" y="241911" z="-3592" heading="23784" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89337" y="241943" z="-3592" heading="25297" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89416" y="242012" z="-3590" heading="31566" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89478" y="242019" z="-3589" heading="31566" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89541" y="242026" z="-3589" heading="31566" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89583" y="242031" z="-3589" heading="31566" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89646" y="242038" z="-3587" heading="31566" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89739" y="242060" z="-3587" heading="30153" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89801" y="242076" z="-3586" heading="30153" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89862" y="242092" z="-3586" heading="30153" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-89903" y="242102" z="-3585" heading="30153" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90050" y="242089" z="-3584" heading="34104" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90222" y="241992" z="-3577" heading="45285" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90157" y="241844" z="-3578" heading="64118" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90157" y="241844" z="-3578" heading="64118" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90157" y="241844" z="-3578" heading="64118" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90216" y="241650" z="-3568" heading="42114" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90281" y="241542" z="-3559" heading="44652" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90311" y="241442" z="-3551" heading="46847" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90334" y="241339" z="-3545" heading="46847" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90348" y="241277" z="-3541" heading="46847" respawnTime="15sec" /> <!-- Wolf -->
+			<npc id="20120" x="-90297" y="241219" z="-3541" heading="64159" respawnTime="15sec" /> <!-- Wolf -->
+		</group>
+	</spawn>
+</list>

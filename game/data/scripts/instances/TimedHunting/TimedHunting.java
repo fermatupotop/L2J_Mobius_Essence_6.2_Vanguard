@@ -297,7 +297,7 @@ public class TimedHunting extends AbstractInstance
 			{
 				if (!instance.getParameters().getBoolean("PlayerIsOut", false) && (instance.getAliveNpcCount() < 60))
 				{
-					if (getRandom(5) == 0)
+					if (getRandom(3) == 0)
 					{
 						for (Npc npc : player.getInstanceWorld().spawnGroup("treasures"))
 						{
@@ -308,7 +308,8 @@ public class TimedHunting extends AbstractInstance
 							}
 						}
 					}
-					else if (getRandom(2) == 0)
+					
+					if (getRandom(6) == 0)
 					{
 						for (Npc npc : player.getInstanceWorld().spawnGroup("guardian"))
 						{
@@ -320,6 +321,7 @@ public class TimedHunting extends AbstractInstance
 						}
 						
 					}
+					
 					else
 					{
 						if (getRandom(3) == 0)

@@ -1249,7 +1249,7 @@
 			<value level="10">84</value>
 		</magicLevel>
 		<operateType>A1</operateType>
-		<reuseDelay>30000</reuseDelay>
+		<reuseDelay>60000</reuseDelay>
 		<staticReuse>true</staticReuse>
 		<magicCriticalRate>5</magicCriticalRate>
 		<hitCancelTime>0</hitCancelTime>
