@@ -2886,10 +2886,6 @@
 	</npc>
 	<npc id="25155" level="75" type="RaidBoss" name="Selu" title="Elite">
 		<parameters>
-			<minions name="Privates">
-				<npc id="25156" count="3" respawnTime="360" weightPoint="1" />
-				<npc id="25157" count="1" respawnTime="360" weightPoint="1" />
-			</minions>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="RangeHold_a" id="4197" level="4" />
 		</parameters>

@@ -2,6 +2,15 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="24_18">
 		<group>
+		
+		<npc id="27037" x="134562" y="25959" z="-3784" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+		<npc id="27037" x="136189" y="23399" z="-3656" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+		<npc id="27037" x="137355" y="20167" z="-3688" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+		<npc id="27037" x="139598" y="15122" z="-3960" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+		<npc id="27037" x="139172" y="9118" z="-4264" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+		<npc id="27037" x="139515" y="1717" z="-4520" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+
+		
 			<npc id="20667" x="156154" y="15018" z="-3970" heading="30951" respawnTime="12sec" /> <!-- Farcran -->
 			<npc id="20667" x="155765" y="15104" z="-3971" heading="29946" respawnTime="12sec" /> <!-- Farcran -->
 			<npc id="20667" x="155604" y="15160" z="-3965" heading="29220" respawnTime="12sec" /> <!-- Farcran -->
@@ -406,9 +415,7 @@
 			<npc id="20685" x="137329" y="18090" z="-3698" heading="21576" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20685" x="136894" y="18874" z="-3553" heading="26669" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20683" x="136755" y="18966" z="-3552" heading="26669" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20682" x="136654" y="18921" z="-3522" heading="37100" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="136559" y="19002" z="-3504" heading="19626" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="136514" y="19144" z="-3504" heading="3546" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="136909" y="19248" z="-3611" heading="62478" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="137184" y="19166" z="-3672" heading="62478" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="137339" y="19012" z="-3649" heading="57377" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -431,9 +438,7 @@
 			<npc id="20683" x="137788" y="19976" z="-3640" heading="18774" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20682" x="138135" y="20116" z="-3569" heading="4836" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="138085" y="20407" z="-3585" heading="20312" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="138013" y="20595" z="-3585" heading="20130" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="137929" y="20860" z="-3578" heading="18755" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="137838" y="21102" z="-3569" heading="21916" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20683" x="137838" y="21258" z="-3569" heading="8282" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="137580" y="21356" z="-3584" heading="31719" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20683" x="137411" y="21288" z="-3585" heading="36944" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -449,9 +454,7 @@
 			<npc id="20686" x="137014" y="19892" z="-3665" heading="27070" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20685" x="137032" y="20028" z="-3665" heading="11039" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20683" x="137146" y="20031" z="-3681" heading="64496" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20682" x="137350" y="19998" z="-3681" heading="62817" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="137531" y="19917" z="-3681" heading="56420" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="137521" y="19669" z="-3692" heading="36375" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="137348" y="19698" z="-3697" heading="28599" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="137224" y="19733" z="-3697" heading="29898" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="137059" y="19753" z="-3659" heading="30806" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -467,9 +470,7 @@
 			<npc id="20684" x="137114" y="20484" z="-3668" heading="60827" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="137162" y="20620" z="-3672" heading="21716" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="137196" y="20724" z="-3650" heading="64466" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="137368" y="20423" z="-3665" heading="54808" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="137395" y="20356" z="-3675" heading="24189" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="137503" y="20423" z="-3617" heading="3997" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20686" x="137587" y="20611" z="-3601" heading="7310" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20686" x="137639" y="20876" z="-3585" heading="14260" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20685" x="137646" y="21068" z="-3585" heading="11597" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -482,9 +483,7 @@
 			<npc id="20683" x="137367" y="21515" z="-3585" heading="43812" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="137272" y="21471" z="-3585" heading="37292" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="137179" y="21432" z="-3585" heading="36909" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20681" x="137083" y="21399" z="-3585" heading="36221" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="137135" y="21529" z="-3585" heading="12415" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="137134" y="21361" z="-3585" heading="49089" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20683" x="137040" y="21207" z="-3632" heading="37960" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="136891" y="21270" z="-3656" heading="25550" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="136863" y="21223" z="-3638" heading="43567" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
@@ -493,9 +492,7 @@
 			<npc id="20684" x="136734" y="20933" z="-3649" heading="44592" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="136601" y="20823" z="-3600" heading="38702" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="136441" y="20918" z="-3573" heading="24544" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="136345" y="20857" z="-3584" heading="44276" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="136373" y="20583" z="-3576" heading="50214" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="136367" y="20330" z="-3552" heading="48904" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20686" x="136319" y="20217" z="-3528" heading="44962" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20683" x="136237" y="20062" z="-3488" heading="44076" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20683" x="136171" y="19946" z="-3441" heading="43756" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -504,9 +501,7 @@
 			<npc id="20684" x="136111" y="19572" z="-3457" heading="58426" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="136111" y="19572" z="-3457" heading="58426" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="136397" y="19998" z="-3525" heading="8430" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="136562" y="20171" z="-3585" heading="8396" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="136602" y="20385" z="-3608" heading="17713" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="136556" y="20508" z="-3608" heading="20116" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20686" x="136693" y="20735" z="-3601" heading="10720" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20686" x="136910" y="20875" z="-3665" heading="5976" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20685" x="137001" y="20936" z="-3639" heading="6153" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -515,9 +510,7 @@
 			<npc id="20684" x="137389" y="21045" z="-3585" heading="2201" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="137444" y="20988" z="-3585" heading="57157" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20681" x="137835" y="20533" z="-3585" heading="56890" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="137823" y="20626" z="-3585" heading="17722" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="137832" y="20724" z="-3585" heading="15428" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="137949" y="20566" z="-3585" heading="55800" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20685" x="137924" y="20363" z="-3585" heading="47873" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="137823" y="20237" z="-3585" heading="42104" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20683" x="137893" y="20129" z="-3585" heading="55150" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -528,9 +521,7 @@
 			<npc id="20683" x="136085" y="20924" z="-3520" heading="41514" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="136001" y="20828" z="-3496" heading="41654" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20685" x="136161" y="20788" z="-3533" heading="63039" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20683" x="136140" y="20679" z="-3520" heading="46415" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20682" x="136114" y="20568" z="-3504" heading="46752" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="136108" y="20413" z="-3488" heading="48748" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20681" x="136145" y="20345" z="-3496" heading="54349" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="136557" y="20601" z="-3583" heading="5063" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="136473" y="20572" z="-3592" heading="36474" respawnTime="12sec" /> <!-- Vanor Silenos -->
@@ -544,9 +535,7 @@
 			<npc id="20684" x="136719" y="21475" z="-3633" heading="36182" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="136649" y="21451" z="-3665" heading="36213" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="136560" y="21445" z="-3649" heading="33470" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="136480" y="21490" z="-3649" heading="27423" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="136561" y="21621" z="-3665" heading="10607" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="136670" y="21686" z="-3649" heading="5608" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20686" x="136782" y="21679" z="-3648" heading="64884" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20686" x="136957" y="21690" z="-3601" heading="654" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20685" x="136890" y="21751" z="-3601" heading="25064" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -559,9 +548,7 @@
 			<npc id="20682" x="135923" y="21034" z="-3504" heading="45820" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="135856" y="20956" z="-3478" heading="40318" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="136249" y="21285" z="-3600" heading="7979" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="136306" y="21393" z="-3632" heading="11318" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20684" x="136392" y="21676" z="-3658" heading="9507" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="136580" y="21797" z="-3688" heading="5326" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20681" x="136715" y="21830" z="-3656" heading="2500" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="136709" y="21976" z="-3648" heading="18089" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="136619" y="22158" z="-3664" heading="22020" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
@@ -577,9 +564,7 @@
 			<npc id="20685" x="135904" y="21450" z="-3560" heading="44479" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="135830" y="21296" z="-3512" heading="44479" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20684" x="135627" y="21581" z="-3505" heading="22839" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135704" y="21784" z="-3566" heading="9515" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20681" x="135961" y="21984" z="-3670" heading="1012" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20682" x="136042" y="22134" z="-3690" heading="11330" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20683" x="136046" y="22229" z="-3697" heading="19584" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="135966" y="22343" z="-3697" heading="24497" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="135895" y="22397" z="-3681" heading="25985" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
@@ -593,9 +578,7 @@
 			<npc id="20684" x="136684" y="22702" z="-3585" heading="37075" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="136565" y="22702" z="-3585" heading="32767" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="136460" y="22727" z="-3585" heading="30329" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="136359" y="22757" z="-3627" heading="29701" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="136254" y="22805" z="-3656" heading="28237" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20684" x="136180" y="22765" z="-3665" heading="37936" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="136127" y="22776" z="-3681" heading="30521" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="135987" y="22835" z="-3704" heading="27889" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="135939" y="22866" z="-3700" heading="26661" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -603,10 +586,7 @@
 			<npc id="20684" x="135991" y="22579" z="-3697" heading="55353" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="136264" y="22590" z="-3672" heading="1495" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20681" x="135564" y="22221" z="-3632" heading="60844" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="135418" y="22421" z="-3640" heading="23630" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135398" y="22538" z="-3656" heading="18149" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="135472" y="22665" z="-3684" heading="9282" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="135587" y="22555" z="-3689" heading="54640" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20686" x="135628" y="22618" z="-3704" heading="12877" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20686" x="135588" y="22835" z="-3713" heading="19712" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20685" x="135657" y="22935" z="-3697" heading="10084" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -623,11 +603,7 @@
 			<npc id="20684" x="135570" y="23372" z="-3697" heading="9207" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="135733" y="23610" z="-3697" heading="11132" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="135633" y="23608" z="-3713" heading="32976" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="135521" y="23588" z="-3713" heading="34579" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="135406" y="23604" z="-3713" heading="31206" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20684" x="135438" y="23710" z="-3713" heading="12072" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135489" y="23824" z="-3713" heading="11961" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="135675" y="23892" z="-3713" heading="1705" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="135874" y="23815" z="-3697" heading="55500" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20681" x="136010" y="23717" z="-3667" heading="59080" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20683" x="136020" y="23711" z="-3665" heading="59080" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -645,9 +621,7 @@
 			<npc id="20683" x="136499" y="24083" z="-3591" heading="38731" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="136360" y="23995" z="-3617" heading="38666" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="136304" y="23930" z="-3633" heading="41734" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20684" x="136229" y="23866" z="-3633" heading="40136" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="136229" y="23866" z="-3633" heading="26702" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="136116" y="24056" z="-3665" heading="13224" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20681" x="136151" y="24100" z="-3665" heading="9437" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20682" x="136203" y="24189" z="-3633" heading="11481" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="136157" y="24215" z="-3653" heading="27218" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -667,11 +641,7 @@
 			<npc id="20681" x="135114" y="23808" z="-3729" heading="45127" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="135027" y="23647" z="-3718" heading="42858" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="134899" y="23494" z="-3713" heading="41150" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="134755" y="23323" z="-3704" heading="42659" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="134745" y="23188" z="-3672" heading="48380" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="134836" y="23098" z="-3664" heading="57401" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20681" x="135052" y="22919" z="-3648" heading="55128" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="135133" y="22871" z="-3664" heading="59956" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="135158" y="22773" z="-3640" heading="51757" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="135266" y="22750" z="-3660" heading="63401" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="135447" y="22846" z="-3695" heading="7149" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -692,9 +662,7 @@
 			<npc id="20684" x="135521" y="24684" z="-3729" heading="8243" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20684" x="135563" y="24620" z="-3729" heading="51535" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20684" x="135712" y="24644" z="-3713" heading="1665" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135786" y="24491" z="-3713" heading="53913" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20682" x="135726" y="24384" z="-3713" heading="42440" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20682" x="135513" y="24237" z="-3745" heading="37821" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20682" x="135305" y="24151" z="-3730" heading="34104" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="135168" y="24134" z="-3729" heading="34104" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20683" x="135128" y="24031" z="-3729" heading="45288" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -709,9 +677,7 @@
 			<npc id="20684" x="135192" y="24425" z="-3729" heading="13148" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="135230" y="24508" z="-3729" heading="11905" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="135187" y="24611" z="-3713" heading="20509" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="135164" y="24687" z="-3713" heading="19449" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20682" x="135240" y="24709" z="-3713" heading="2938" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="135302" y="24757" z="-3713" heading="6871" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20685" x="135360" y="24819" z="-3713" heading="8539" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="135419" y="24878" z="-3713" heading="8191" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20686" x="135315" y="24951" z="-3713" heading="32907" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
@@ -723,10 +689,7 @@
 			<npc id="20684" x="134753" y="24296" z="-3745" heading="31985" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="134643" y="24246" z="-3756" heading="40416" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="134623" y="24281" z="-3761" heading="15152" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="134609" y="24437" z="-3761" heading="12294" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="134666" y="24506" z="-3745" heading="9182" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20686" x="134836" y="24105" z="-3745" heading="48983" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20681" x="134719" y="23691" z="-3745" heading="46493" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="134595" y="23600" z="-3745" heading="39371" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="134634" y="23455" z="-3713" heading="51892" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="134518" y="23391" z="-3712" heading="38026" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -738,11 +701,7 @@
 			<npc id="20681" x="135362" y="25397" z="-3717" heading="8484" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="135378" y="25484" z="-3713" heading="26693" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="135344" y="25357" z="-3713" heading="46423" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="135249" y="25238" z="-3729" heading="42124" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="135113" y="25222" z="-3729" heading="29846" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="134961" y="25377" z="-3732" heading="16927" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20685" x="135077" y="25567" z="-3729" heading="62676" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20683" x="135310" y="25700" z="-3713" heading="5410" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20682" x="135476" y="25719" z="-3682" heading="1214" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="135529" y="25822" z="-3686" heading="11718" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="135496" y="25885" z="-3681" heading="28632" respawnTime="12sec" /> <!-- Vanor Silenos -->
@@ -761,10 +720,7 @@
 			<npc id="20684" x="134814" y="25198" z="-3713" heading="49601" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="134332" y="25054" z="-3721" heading="33369" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="134187" y="25033" z="-3732" heading="35751" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="133974" y="24930" z="-3745" heading="43515" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="133811" y="24773" z="-3755" heading="39776" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20685" x="133942" y="24736" z="-3761" heading="65356" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20683" x="134095" y="24710" z="-3745" heading="63780" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20682" x="134259" y="24721" z="-3737" heading="4874" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="134273" y="24844" z="-3729" heading="20858" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="134227" y="24912" z="-3729" heading="22587" respawnTime="12sec" /> <!-- Vanor Silenos -->
@@ -783,11 +739,7 @@
 			<npc id="20684" x="135351" y="26472" z="-3656" heading="63043" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="135382" y="26568" z="-3640" heading="13126" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="135313" y="26658" z="-3640" heading="23144" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="135218" y="26745" z="-3640" heading="25233" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="135107" y="26821" z="-3644" heading="26805" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20685" x="134844" y="26876" z="-3664" heading="31613" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20683" x="134778" y="26783" z="-3671" heading="42754" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20682" x="134802" y="26633" z="-3665" heading="58745" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20684" x="134733" y="26545" z="-3686" heading="42251" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="134599" y="26546" z="-3713" heading="29499" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="134646" y="26647" z="-3697" heading="11841" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
@@ -814,12 +766,7 @@
 			<npc id="20683" x="133468" y="25088" z="-3764" heading="8084" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="133535" y="24995" z="-3777" heading="54424" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="133544" y="25149" z="-3761" heading="15775" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20685" x="133476" y="25238" z="-3761" heading="23189" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20683" x="133479" y="25357" z="-3745" heading="16121" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20682" x="133566" y="25503" z="-3745" heading="10775" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="133710" y="25698" z="-3760" heading="9672" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="133930" y="25846" z="-3782" heading="1181" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="133960" y="26074" z="-3793" heading="19602" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="134065" y="26114" z="-3793" heading="2532" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="134145" y="26158" z="-3793" heading="5244" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="134134" y="26327" z="-3793" heading="17013" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -839,12 +786,7 @@
 			<npc id="20684" x="132858" y="25397" z="-3761" heading="34065" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="132849" y="25227" z="-3772" heading="48655" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="132781" y="24841" z="-3795" heading="45570" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="132719" y="24586" z="-3809" heading="50706" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="132761" y="24310" z="-3809" heading="50706" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20681" x="132927" y="24352" z="-3809" heading="11039" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="133094" y="24553" z="-3809" heading="8191" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="133138" y="24715" z="-3793" heading="13617" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20685" x="133169" y="25079" z="-3761" heading="25655" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20683" x="133198" y="24976" z="-3777" heading="24887" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20683" x="132975" y="26000" z="-3761" heading="54453" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="132966" y="25814" z="-3761" heading="48647" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -872,11 +814,7 @@
 			<npc id="20685" x="132444" y="25529" z="-3761" heading="14260" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20683" x="132560" y="25632" z="-3761" heading="7573" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="132578" y="25802" z="-3761" heading="15283" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="132707" y="25891" z="-3761" heading="6299" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20683" x="132746" y="26093" z="-3761" heading="14394" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20682" x="132822" y="26345" z="-3793" heading="13328" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="132860" y="26321" z="-3793" heading="2864" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="132843" y="26332" z="-3793" heading="13573" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20681" x="133061" y="26606" z="-3825" heading="13573" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="133146" y="26707" z="-3809" heading="61701" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="133219" y="26814" z="-3809" heading="10139" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
@@ -899,12 +837,7 @@
 			<npc id="20682" x="133998" y="26994" z="-3700" heading="61394" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="134145" y="26833" z="-3731" heading="55343" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="139437" y="17772" z="-3774" heading="18464" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="139330" y="17817" z="-3765" heading="45971" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="139252" y="17567" z="-3752" heading="45971" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="139326" y="17531" z="-3761" heading="60813" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="139404" y="17415" z="-3774" heading="59027" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="139606" y="17406" z="-3793" heading="57028" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20685" x="139705" y="17665" z="-3761" heading="15155" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20683" x="139660" y="17876" z="-3712" heading="19709" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20682" x="139573" y="18012" z="-3697" heading="23530" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="139559" y="18195" z="-3665" heading="16446" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
@@ -956,12 +889,7 @@
 			<npc id="20685" x="139728" y="16339" z="-3914" heading="3047" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20681" x="139933" y="16464" z="-3873" heading="6846" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="139845" y="16503" z="-3889" heading="28416" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="139813" y="16584" z="-3873" heading="20308" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="140148" y="16605" z="-3857" heading="652" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20686" x="140259" y="16586" z="-3862" heading="63844" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20685" x="140453" y="16761" z="-3857" heading="14526" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20684" x="140464" y="16510" z="-3888" heading="40770" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="140647" y="16906" z="-3895" heading="43097" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="140480" y="16702" z="-3857" heading="13980" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="140347" y="16502" z="-3873" heading="43018" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="140234" y="16416" z="-3873" heading="39553" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -994,12 +922,7 @@
 			<npc id="20681" x="138991" y="16043" z="-3857" heading="63558" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="139106" y="15895" z="-3873" heading="56042" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="139024" y="15836" z="-3873" heading="39273" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="138922" y="15801" z="-3873" heading="36215" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="138815" y="15766" z="-3873" heading="36065" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20681" x="138689" y="15750" z="-3857" heading="34085" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="138582" y="15710" z="-3857" heading="36500" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="138437" y="15720" z="-3857" heading="31480" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="138323" y="15693" z="-3841" heading="35193" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20685" x="138285" y="15599" z="-3857" heading="45144" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="138391" y="15533" z="-3857" heading="59727" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20683" x="138609" y="15506" z="-3873" heading="64250" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -1028,12 +951,7 @@
 			<npc id="20682" x="139829" y="15318" z="-3953" heading="31662" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20681" x="139775" y="15407" z="-3937" heading="22072" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="139609" y="15369" z="-3937" heading="35089" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="139493" y="15297" z="-3931" heading="39300" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="139267" y="15343" z="-3906" heading="23014" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20684" x="139135" y="15306" z="-3905" heading="36419" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="139075" y="15224" z="-3905" heading="42563" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20682" x="139002" y="15144" z="-3905" heading="41436" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="138904" y="15056" z="-3905" heading="40399" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20685" x="138779" y="15066" z="-3905" heading="31935" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20686" x="138675" y="15011" z="-3905" heading="37841" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20683" x="138530" y="15000" z="-3905" heading="33557" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -1065,12 +983,7 @@
 			<npc id="20685" x="137248" y="15699" z="-3793" heading="3784" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20681" x="137309" y="15817" z="-3793" heading="11407" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="137330" y="15927" z="-3781" heading="14339" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="137390" y="15884" z="-3793" heading="55634" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="137423" y="15784" z="-3809" heading="52476" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="137563" y="15879" z="-3809" heading="6215" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="137606" y="16106" z="-3809" heading="14654" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="140277" y="15111" z="-3952" heading="13074" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="140176" y="15056" z="-3944" heading="37969" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="140026" y="14912" z="-3953" heading="42989" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="140007" y="14789" z="-3953" heading="47553" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="139887" y="14747" z="-3969" heading="36279" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -1100,10 +1013,7 @@
 			<npc id="20684" x="139755" y="13590" z="-3969" heading="38643" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="139643" y="13504" z="-3953" heading="39598" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20682" x="139840" y="13393" z="-3967" heading="60186" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="140007" y="13373" z="-3984" heading="64548" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="140157" y="13403" z="-3976" heading="2058" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="140184" y="13452" z="-3972" heading="11044" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20684" x="140264" y="13802" z="-3953" heading="10586" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="140229" y="13890" z="-3953" heading="20332" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="140178" y="13989" z="-3953" heading="21345" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="140085" y="14102" z="-3953" heading="23566" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -1154,10 +1064,7 @@
 			<npc id="20683" x="140430" y="12339" z="-3937" heading="3424" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20684" x="140540" y="12335" z="-3937" heading="65156" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20684" x="137760" y="14923" z="-3892" heading="38766" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="137390" y="14659" z="-3892" heading="39284" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="137180" y="14414" z="-3895" heading="64414" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="137686" y="14352" z="-3905" heading="64081" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20685" x="137578" y="14518" z="-3921" heading="32126" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
+
 			<npc id="20681" x="137776" y="14697" z="-3905" heading="11547" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="137195" y="14922" z="-3873" heading="28596" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="137021" y="14893" z="-3873" heading="34490" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
@@ -1202,10 +1109,7 @@
 			<npc id="20684" x="138217" y="12759" z="-4033" heading="21719" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="138099" y="12828" z="-4017" heading="27248" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20681" x="138337" y="12865" z="-4017" heading="1608" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20686" x="138460" y="12930" z="-4017" heading="5070" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20684" x="138660" y="12918" z="-4001" heading="64910" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="138829" y="12926" z="-4005" heading="518" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="138993" y="13011" z="-3985" heading="5854" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20681" x="139197" y="13000" z="-3969" heading="64974" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="139310" y="12873" z="-3969" heading="56791" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="139409" y="12918" z="-3976" heading="6049" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
@@ -1257,12 +1161,7 @@
 			<npc id="20681" x="133860" y="9910" z="-4271" heading="57319" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="133928" y="9950" z="-4273" heading="7316" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="133915" y="10093" z="-4273" heading="17329" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="133980" y="10215" z="-4273" heading="11277" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="134066" y="10296" z="-4257" heading="7879" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20683" x="134046" y="10407" z="-4257" heading="18209" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20682" x="134032" y="10555" z="-4245" heading="17043" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="134032" y="10713" z="-4230" heading="16197" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20681" x="134052" y="10925" z="-4209" heading="15119" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="133989" y="11081" z="-4193" heading="20387" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="133875" y="11109" z="-4193" heading="30255" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="133783" y="11019" z="-4193" heading="40845" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -1316,11 +1215,7 @@
 			<npc id="20682" x="135423" y="10381" z="-4161" heading="6575" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="135497" y="10436" z="-4145" heading="6666" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="135449" y="10561" z="-4145" heading="20208" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="135273" y="10697" z="-4186" heading="25880" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135034" y="10773" z="-4214" heading="29993" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="135123" y="10787" z="-4209" heading="64990" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20681" x="134570" y="9627" z="-4257" heading="49611" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="134673" y="9566" z="-4257" heading="59958" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="134730" y="9619" z="-4257" heading="7812" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="134868" y="9554" z="-4241" heading="60944" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="134988" y="9536" z="-4241" heading="63983" respawnTime="12sec" /> <!-- Vanor Silenos -->
@@ -1369,12 +1264,7 @@
 			<npc id="20681" x="135017" y="8751" z="-4289" heading="47134" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="135095" y="8713" z="-4289" heading="60807" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="135184" y="8673" z="-4289" heading="61130" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="135269" y="8632" z="-4289" heading="60848" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="135356" y="8590" z="-4289" heading="60844" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="135437" y="8550" z="-4289" heading="60751" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20684" x="135523" y="8903" z="-4257" heading="6001" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135412" y="9100" z="-4245" heading="21697" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20681" x="135256" y="9290" z="-4241" heading="24289" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="135393" y="9269" z="-4241" heading="63949" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="135526" y="9223" z="-4225" heading="62062" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20681" x="135646" y="9187" z="-4225" heading="62495" respawnTime="12sec" /> <!-- Vanor Silenos -->
@@ -1424,13 +1314,7 @@
 			<npc id="20682" x="136901" y="9034" z="-4113" heading="43504" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="136422" y="8664" z="-4187" heading="43265" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="136111" y="8493" z="-4236" heading="34334" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20681" x="135843" y="8527" z="-4268" heading="30822" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="135680" y="8474" z="-4273" heading="37065" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135613" y="8347" z="-4305" heading="44088" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="135556" y="8212" z="-4305" heading="30413" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="135366" y="8257" z="-4321" heading="30153" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20684" x="138849" y="708" z="-4433" heading="28235" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="138905" y="675" z="-4433" heading="59981" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20683" x="138741" y="630" z="-4420" heading="35536" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20681" x="138609" y="569" z="-4417" heading="37759" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="138472" y="595" z="-4413" heading="28719" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
@@ -1767,12 +1651,7 @@
 			<npc id="20684" x="136629" y="5128" z="-4465" heading="2333" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="136847" y="5182" z="-4465" heading="3355" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20682" x="137240" y="5217" z="-4465" heading="64821" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="137336" y="5115" z="-4481" heading="57028" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="137485" y="4955" z="-4481" heading="56972" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="137582" y="4897" z="-4481" heading="60016" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20683" x="137882" y="4849" z="-4469" heading="65294" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="138013" y="4842" z="-4456" heading="64517" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20684" x="138234" y="4842" z="-4429" heading="3102" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20681" x="138373" y="4867" z="-4426" heading="65385" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="138527" y="4829" z="-4400" heading="58231" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="138773" y="4808" z="-4372" heading="10581" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
@@ -1804,10 +1683,7 @@
 			<npc id="20683" x="140275" y="3802" z="-4465" heading="54219" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20684" x="140376" y="3762" z="-4475" heading="14272" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="140490" y="3901" z="-4481" heading="7832" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="140597" y="3640" z="-4481" heading="50380" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="140567" y="3490" z="-4476" heading="40271" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="140269" y="3567" z="-4465" heading="26279" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="140374" y="3366" z="-4465" heading="54180" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20683" x="140362" y="3086" z="-4465" heading="47230" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20681" x="140304" y="3019" z="-4460" heading="37765" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="140202" y="2909" z="-4452" heading="49425" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
@@ -1846,12 +1722,7 @@
 			<npc id="20682" x="135819" y="5551" z="-4449" heading="24609" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="135744" y="5627" z="-4449" heading="24609" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20681" x="135686" y="5845" z="-4433" heading="19049" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="135609" y="6001" z="-4433" heading="21220" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="135891" y="6301" z="-4422" heading="6150" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20684" x="132976" y="11375" z="-4145" heading="30576" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="132960" y="11465" z="-4145" heading="7098" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="133068" y="11498" z="-4145" heading="3146" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20681" x="133250" y="11547" z="-4151" heading="2432" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="133396" y="11647" z="-4161" heading="11661" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="133655" y="11703" z="-4145" heading="2221" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="133817" y="11619" z="-4161" heading="60546" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
@@ -1884,11 +1755,7 @@
 			<npc id="20683" x="138122" y="471" z="-4385" heading="18242" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20684" x="138828" y="319" z="-4386" heading="2054" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="139047" y="372" z="-4398" heading="2895" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="139321" y="368" z="-4404" heading="65039" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20684" x="139600" y="385" z="-4421" heading="2374" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="139862" y="471" z="-4449" heading="7162" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20685" x="139936" y="665" z="-4481" heading="22489" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20681" x="140200" y="448" z="-4453" heading="48478" respawnTime="12sec" /> <!-- Vanor Silenos -->
+
 			<npc id="20684" x="140055" y="282" z="-4433" heading="42933" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="140283" y="205" z="-4427" heading="1633" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="140481" y="379" z="-4442" heading="8645" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -1920,13 +1787,7 @@
 			<npc id="20685" x="139981" y="10456" z="-4267" heading="17023" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20683" x="139872" y="10674" z="-4243" heading="27559" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20682" x="139928" y="10771" z="-4227" heading="9656" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20681" x="140025" y="10899" z="-4209" heading="9656" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="140559" y="10587" z="-4211" heading="59183" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="140587" y="10400" z="-4209" heading="45421" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20681" x="140545" y="10162" z="-4202" heading="44960" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="140489" y="9969" z="-4177" heading="46433" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20684" x="140305" y="10443" z="-4225" heading="25839" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="140150" y="10725" z="-4214" heading="16951" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20681" x="140182" y="10994" z="-4200" heading="14922" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20683" x="140188" y="11213" z="-4129" heading="16098" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="140305" y="11387" z="-4113" heading="10209" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -1957,12 +1818,7 @@
 			<npc id="20683" x="138518" y="9860" z="-4217" heading="39114" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20681" x="138296" y="9982" z="-4213" heading="23111" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="138311" y="10177" z="-4213" heading="14144" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="138322" y="10535" z="-4209" heading="17181" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="138242" y="10782" z="-4194" heading="20044" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20681" x="138243" y="10850" z="-4193" heading="15435" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20685" x="138163" y="11131" z="-4183" heading="27768" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="138056" y="11149" z="-4171" heading="34294" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20683" x="137936" y="11081" z="-4165" heading="45561" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
+
 			<npc id="20682" x="137878" y="10923" z="-4172" heading="45339" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20684" x="137837" y="10814" z="-4161" heading="45339" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20681" x="137766" y="10648" z="-4177" heading="44936" respawnTime="12sec" /> <!-- Vanor Silenos -->
@@ -1988,13 +1844,7 @@
 			<npc id="20681" x="138364" y="11518" z="-4177" heading="50245" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="138283" y="11388" z="-4177" heading="43340" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="138328" y="11166" z="-4186" heading="51254" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="138410" y="10870" z="-4209" heading="52314" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20684" x="138527" y="10602" z="-4232" heading="12977" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="138682" y="10538" z="-4225" heading="61451" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20683" x="138773" y="10644" z="-4241" heading="8984" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20681" x="138863" y="10747" z="-4241" heading="8893" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="139020" y="10811" z="-4241" heading="4035" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="139115" y="10671" z="-4257" heading="55044" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
+
 			<npc id="20683" x="139278" y="10628" z="-4242" heading="62869" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="139371" y="10704" z="-4241" heading="8142" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
 			<npc id="20683" x="139496" y="10676" z="-4241" heading="60534" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
@@ -2020,11 +1870,7 @@
 			<npc id="20684" x="139492" y="8423" z="-4209" heading="26243" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="139324" y="8396" z="-4223" heading="34432" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="139119" y="8232" z="-4257" heading="39926" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
-			<npc id="20685" x="138946" y="8007" z="-4270" heading="42302" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20686" x="139001" y="7835" z="-4273" heading="53379" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
-			<npc id="20681" x="139214" y="7783" z="-4257" heading="3581" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20681" x="138714" y="8483" z="-4273" heading="21743" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="138667" y="8709" z="-4273" heading="18290" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
+
 			<npc id="20682" x="138603" y="8799" z="-4257" heading="22831" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20683" x="138614" y="9000" z="-4241" heading="15813" respawnTime="12sec" /> <!-- Vanor Silenos Scout -->
 			<npc id="20685" x="138630" y="9168" z="-4254" heading="15355" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
@@ -2047,10 +1893,6 @@
 			<npc id="20686" x="138419" y="8802" z="-4236" heading="27496" respawnTime="12sec" /> <!-- Vanor Silenos Chieftain -->
 			<npc id="20681" x="138322" y="8405" z="-4238" heading="50211" respawnTime="12sec" /> <!-- Vanor Silenos -->
 			<npc id="20684" x="138441" y="8342" z="-4257" heading="62537" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
-			<npc id="20682" x="138611" y="8258" z="-4273" heading="60749" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
-			<npc id="20685" x="138803" y="8232" z="-4273" heading="64132" respawnTime="12sec" /> <!-- Vanor Silenos Shaman -->
-			<npc id="20681" x="138551" y="7412" z="-4305" heading="11566" respawnTime="12sec" /> <!-- Vanor Silenos -->
-			<npc id="20684" x="138581" y="7162" z="-4321" heading="50397" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20684" x="138603" y="5696" z="-4337" heading="4223" respawnTime="12sec" /> <!-- Vanor Silenos Warrior -->
 			<npc id="20682" x="138649" y="5808" z="-4337" heading="12319" respawnTime="12sec" /> <!-- Vanor Silenos Soldier -->
 			<npc id="20681" x="138711" y="5812" z="-4337" heading="671" respawnTime="12sec" /> <!-- Vanor Silenos -->

@@ -2219,7 +2219,7 @@
 			<height normal="20" grown="24" />
 		</collision>
 	</npc>
-	<npc id="21037" level="65" type="Monster" name="Nova Beast" title="Device Guardian">
+	<npc id="21037" level="65" type="Monster" name="Nova Beast" title="Spot Defender">
 		<parameters>
 			<param name="MoveAroundSocial" value="40" />
 			<param name="MoveAroundSocial1" value="40" />

@@ -17,6 +17,9 @@ public class BuffOnMiniBossKill extends AbstractNpcAI
 	{
 		21037, // Nova Beast (Cruma 65)
 		21038, // Nova Giant (Cruma 70)
+		27114, // Field of Massacre
+		27037,
+		27024,
 	};
 	
 	private BuffOnMiniBossKill()

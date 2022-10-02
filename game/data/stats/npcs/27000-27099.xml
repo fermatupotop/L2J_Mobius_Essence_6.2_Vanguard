@@ -618,7 +618,7 @@
 			<height normal="36" />
 		</collision>
 	</npc>
-	<npc id="27024" level="17" type="Monster" name="Undead Priest" title="Quest Monster">
+	<npc id="27024" level="48" type="Monster" name="Undead Priest" title="Spot Defender">
 		<parameters>
 			<param name="MoveAroundSocial" value="120" />
 			<param name="MoveAroundSocial1" value="120" />
@@ -627,16 +627,16 @@
 		</parameters>
 		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="282.57403" hpRegen="2.5" mp="166.08" mpRegen="1.2" />
-			<attack physical="34.8979" magical="23.83074" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="78.68469" magical="57.57804" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="7615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
+			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="1631.34198" magical="795.84" />
 			<speed>
-				<walk ground="15" />
-				<run ground="15" />
+				<walk ground="70" />
+				<run ground="170" />
 			</speed>
-			<hitTime>430</hitTime>
-			<abnormalResist physical="10" magical="10" />
+			<hitTime>260</hitTime>
+			<abnormalResist physical="230" magical="230" />
 		</stats>
 		<status attackable="true" />
 		<skillList>
@@ -977,7 +977,7 @@
 			<height normal="22" grown="26.4" />
 		</collision>
 	</npc>
-	<npc id="27037" level="10" type="Monster" name="Calpico's Pawn" title="Quest Monster">
+	<npc id="27037" level="60" type="Monster" name="Calpico's Pawn" title="Spot Defender">
 		<parameters>
 			<param name="MoveAroundSocial" value="138" />
 			<param name="MoveAroundSocial1" value="138" />
@@ -986,16 +986,16 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="1" /> <!-- Short Sword -->
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="163.28607" hpRegen="2" mp="108.4" mpRegen="0.9" />
-			<attack physical="19.33758" magical="13.20506" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="61.82527" magical="45.24105" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="18615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
+			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="1631.34198" magical="795.84" />
 			<speed>
-				<walk ground="45" />
-				<run ground="110" />
+				<walk ground="70" />
+				<run ground="170" />
 			</speed>
-			<hitTime>480</hitTime>
-			<abnormalResist physical="10" magical="10" />
+			<hitTime>260</hitTime>
+			<abnormalResist physical="230" magical="230" />
 		</stats>
 		<status attackable="true" />
 		<skillList>

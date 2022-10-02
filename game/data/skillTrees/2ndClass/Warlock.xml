@@ -49,6 +49,7 @@
 		<skill skillName="Summoner's Recovery Mastery" skillId="47920" skillLevel="1" getLevel="40" levelUpSp="100000" />
 
 		<skill skillName="Higher Mana Gain" skillId="47466" skillLevel="2" getLevel="40" levelUpSp="100000" />
+		<skill skillName="Spirit Sharing" skillId="1547" skillLevel="1" getLevel="40" levelUpSp="100000" />
 
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="4" getLevel="41" levelUpSp="140000" />
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="5" getLevel="41" levelUpSp="140000" />
@@ -107,6 +108,7 @@
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="18" getLevel="44" levelUpSp="140000" />
 
 		<skill skillName="Pirate Transformation" skillId="1800" skillLevel="1" getLevel="45" autoGet="true" />
+		<skill skillName="Spirit Sharing" skillId="1547" skillLevel="2" getLevel="45" levelUpSp="100000" />
 
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="11" getLevel="46" levelUpSp="220000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="19" getLevel="46" levelUpSp="220000" />
@@ -152,6 +154,7 @@
 		<skill skillName="Summoner's Attack Mastery" skillId="47918" skillLevel="2" getLevel="50" levelUpSp="360000" />
 		<skill skillName="Summoner's Armor Mastery" skillId="47919" skillLevel="2" getLevel="50" levelUpSp="360000" />
 		<skill skillName="Summoner's Recovery Mastery" skillId="47920" skillLevel="2" getLevel="50" levelUpSp="360000" />
+		<skill skillName="Spirit Sharing" skillId="1547" skillLevel="3" getLevel="50" levelUpSp="100000" />
 
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="23" getLevel="51" levelUpSp="360000" />
 		<skill skillName="Swift Servitor Heal" skillId="45362" skillLevel="23" getLevel="51" levelUpSp="360000" />
@@ -225,6 +228,7 @@
 		<skill skillName="Blaze" skillId="1220" skillLevel="19" getLevel="60" levelUpSp="700000" >
 			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
 		</skill>
+		<skill skillName="Spirit Sharing" skillId="1547" skillLevel="4" getLevel="60" levelUpSp="100000" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="11" getLevel="60" levelUpSp="700000" />
 		<skill skillName="Summon Kai the Cat" skillId="1276" skillLevel="7" getLevel="60" levelUpSp="700000" />
 		<skill skillName="Servitor Cure" skillId="1300" skillLevel="3" getLevel="60" levelUpSp="700000" />
@@ -321,6 +325,7 @@
 		<skill skillName="Summon Kai the Cat" skillId="1276" skillLevel="12" getLevel="70" levelUpSp="2000000" />
 		<skill skillName="Summon Kat the Cat" skillId="1111" skillLevel="16" getLevel="70" levelUpSp="2000000" />
 		<skill skillName="Summon Mew the Cat" skillId="1225" skillLevel="16" getLevel="70" levelUpSp="2000000" />
+		<skill skillName="Spirit Sharing" skillId="1547" skillLevel="5" getLevel="70" levelUpSp="2000000" />
 
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="31" getLevel="71" levelUpSp="2500000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="42" getLevel="71" levelUpSp="2500000" />

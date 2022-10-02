@@ -820,7 +820,7 @@
 		<icon>icon.bereserker_scroll_i00</icon>
 		<operateType>A2</operateType>
 		<reuseDelay>60000</reuseDelay>
-		<hitTime>1000</hitTime>
+
 		<abnormalTime>1200</abnormalTime>
 		<itemConsumeId>94776</itemConsumeId> <!-- Berserker's Scroll (Exchangeable) -->
 		<itemConsumeCount>1</itemConsumeCount>
@@ -870,7 +870,7 @@
 		<icon>icon.bereserker_scroll_i00</icon>
 		<operateType>A2</operateType>
 		<reuseDelay>60000</reuseDelay>
-		<hitTime>1000</hitTime>
+
 		<abnormalTime>1200</abnormalTime>
 		<itemConsumeId>94777</itemConsumeId> <!-- Berserker's Scroll -->
 		<itemConsumeCount>1</itemConsumeCount>

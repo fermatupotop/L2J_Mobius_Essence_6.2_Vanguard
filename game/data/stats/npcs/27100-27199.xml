@@ -562,27 +562,24 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="27114" level="34" type="Monster" name="Succubus Queen" title="Quest Monster">
+	<npc id="27114" level="57" type="Monster" name="Succubus Queen" title="Spot Defender">
 		<parameters>
 			<param name="MoveAroundSocial" value="110" />
 			<param name="MoveAroundSocial1" value="110" />
 			<param name="MoveAroundSocial2" value="110" />
-			<minions name="Privates">
-				<npc id="27115" count="2" respawnTime="60" weightPoint="1" />
-			</minions>
 		</parameters>
 		<race>DEMONIC</race>
 		<sex>FEMALE</sex>
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="736.96177" hpRegen="4.5" mp="387.72" mpRegen="1.8" />
-			<attack physical="121.20802" magical="82.76936" random="10" critical="4" accuracy="4.75" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="132.9486" magical="97.28601" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="15615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
+			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="1631.34198" magical="795.84" />
 			<speed>
-				<walk ground="60" />
-				<run ground="100" />
+				<walk ground="70" />
+				<run ground="170" />
 			</speed>
-			<hitTime>840</hitTime>
-			<abnormalResist physical="10" magical="10" />
+			<hitTime>260</hitTime>
+			<abnormalResist physical="230" magical="230" />
 		</stats>
 		<status attackable="true" />
 		<skillList>

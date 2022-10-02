@@ -3612,8 +3612,9 @@
 					<value level="4">45</value>
 					<value level="5">50</value>
 				</MAGIC_ATTACK_SPEED>
-				<MAX_HP>10</MAX_HP>
-				<MAX_MP>10</MAX_MP>
+
+				<MAX_HP>30</MAX_HP>
+				<MAX_MP>30</MAX_MP>
 			</effect>
 		</effects>
 	</skill>

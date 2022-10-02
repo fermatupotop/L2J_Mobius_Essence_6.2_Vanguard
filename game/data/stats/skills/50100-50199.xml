@@ -736,7 +736,7 @@
 		<operateType>A1</operateType>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
-		<reuseDelay>1000</reuseDelay>
+		<reuseDelay>100</reuseDelay>
 		<effects>
 			<effect name="HpCpHeal">
 				<power>50</power>

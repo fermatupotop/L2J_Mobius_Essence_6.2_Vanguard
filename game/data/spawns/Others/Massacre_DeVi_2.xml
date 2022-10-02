@@ -2,6 +2,15 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_17">
 		<group>
+		
+			<npc id="27114" x="187005" y="-23580" z="-1976" heading="23663" respawnTime="600sec" /> <!-- MINI_BOSS -->
+			<npc id="27114" x="183766" y="-24279" z="-2616" heading="23663" respawnTime="600sec" /> <!-- MINI_BOSS -->
+			<npc id="27114" x="177176" y="-23354" z="-3544" heading="23663" respawnTime="600sec" /> <!-- MINI_BOSS -->
+			<npc id="27114" x="180090" y="-9927" z="-3464" heading="23663" respawnTime="600sec" /> <!-- MINI_BOSS -->
+			<npc id="27114" x="167853" y="-13487" z="-3096" heading="23663" respawnTime="600sec" /> <!-- MINI_BOSS -->
+
+		
+		
 			<npc id="21008" x="187545" y="-24263" z="-1836" heading="23663" respawnTime="15sec" /> <!-- Doom Archer -->
 			<npc id="21008" x="187545" y="-24263" z="-1836" heading="23663" respawnTime="15sec" /> <!-- Doom Archer -->
 			<npc id="21006" x="187386" y="-24227" z="-1850" heading="30445" respawnTime="15sec" /> <!-- Doom Servant -->

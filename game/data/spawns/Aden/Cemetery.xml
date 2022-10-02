@@ -2,6 +2,16 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="25_18">
 		<group>
+		
+			<npc id="27024" x="169997" y="17737" z="-3448" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+			<npc id="27024" x="170070" y="22945" z="-3448" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+			<npc id="27024" x="176808" y="19559" z="-3240" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+			<npc id="27024" x="174199" y="20993" z="-3240" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+			<npc id="27024" x="172326" y="6958" z="-2728" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+			<npc id="27024" x="169614" y="11019" z="-2728" heading="30951" respawnTime="12sec" /> <!-- MINI_BOSS -->
+
+		
+		
 			<npc id="20999" x="170585" y="20181" z="-3305" heading="33502" respawnTime="10sec" /> <!-- Roving Soul -->
 			<npc id="20678" x="170634" y="20189" z="-3305" heading="33913" respawnTime="10sec" /> <!-- Tortured Undead -->
 			<npc id="21000" x="170634" y="20189" z="-3305" heading="33913" respawnTime="10sec" /> <!-- Soul of Ruins -->

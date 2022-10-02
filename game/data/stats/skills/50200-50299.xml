@@ -1404,7 +1404,7 @@
 				<amount>8</amount>
 				<mode>PER</mode>
 			</effect>
-			<effect name="PhysicalAttackSpeed">
+			<effect name="PhysicalAttack">
 				<amount>50</amount>
 				<mode>DIFF</mode>
 			</effect>

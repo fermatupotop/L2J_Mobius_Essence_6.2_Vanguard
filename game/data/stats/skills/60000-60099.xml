@@ -319,7 +319,7 @@
 		<!-- Teleport -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
-		<hitTime>2000</hitTime>
+		<hitTime>5000</hitTime>
 	</skill>
 	<skill id="60019" toLevel="4" name="Jaban's Blessing">
 		<!-- Jaban's Blessing. Max HP $s1 Received PvP damage $s2 -->
