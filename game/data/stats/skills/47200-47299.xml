@@ -52,9 +52,46 @@
 		<operateType>A1</operateType>
 	</skill>
 	<skill id="47210" toLevel="1" name="Life Gain">
-		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
 		<icon>icon.vital_gain</icon>
-		<operateType>A1</operateType>
+		<magicLevel>76</magicLevel>
+		<operateType>P</operateType>
+		<magicCriticalRate>5</magicCriticalRate>
+		<effects>
+			<effect name="MaxHp">
+				<amount>5000</amount>
+				<mode>DIFF</mode>
+			</effect>
+			 <effect name="StatAddForHp">
+				<hp>10000</hp>
+				<stat>PHYSICAL_ATTACK</stat>
+				<amount>10</amount>
+				<mode>DIFF</mode>
+			</effect>
+			 <effect name="StatAddForHp">
+				<hp>15000</hp>
+				<stat>PHYSICAL_ATTACK</stat>
+				<amount>100</amount>
+				<mode>DIFF</mode>
+			</effect>  
+			 <effect name="StatAddForHp">
+				<hp>25000</hp>
+				<stat>PHYSICAL_ATTACK</stat>
+				<amount>200</amount>
+				<mode>DIFF</mode>
+				<stat>PHYSICAL_SKILL_POWER</stat>
+				<amount>1</amount>
+				<mode>PER</mode>
+			</effect> 
+			 <effect name="StatAddForHp">
+				<hp>50000</hp>
+				<stat>PHYSICAL_ATTACK</stat>
+				<amount>300</amount>
+				<mode>DIFF</mode>
+				<stat>PHYSICAL_SKILL_POWER</stat>
+				<amount>2</amount>
+				<mode>PER</mode>
+			</effect> 
+		</effects>
 	</skill>
 	<skill id="47212" toLevel="1" name="Life Gain Lv. 2">
 		<!-- AUTO GENERATED SKILL TODO: FIX IT -->

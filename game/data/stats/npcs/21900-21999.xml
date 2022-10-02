@@ -3924,7 +3924,7 @@
 				<group chance="70">
 					<item id="57" min="470" max="1099" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="0.003">
+				<group chance="0.03">
 					<item id="92988" min="1" max="1" chance="97.8367" /> <!-- Orcish Treasure - Sealed -->
 					<item id="92989" min="1" max="1" chance="2.1633" /> <!-- Orc King's Treasure - Sealed -->
 				</group>
@@ -3943,6 +3943,7 @@
 					<item id="92998" min="1" max="1" chance="5.8832" /> <!-- Old Shining Resources - Sealed -->
 					<item id="92999" min="1" max="1" chance="1.1766" /> <!-- Old High-grade Resources - Sealed -->
 					<item id="92995" min="1" max="1" chance="0.5883" /> <!-- Drained Thons - Sealed -->
+					<item id="90045" min="1" max="1" chance="1.5883" /> <!-- Magic Table -->
 				</group>
 			</drop>
 			<spoil>
@@ -4046,8 +4047,8 @@
 				<group chance="70">
 					<item id="57" min="1013" max="1119" chance="100" /> <!-- Adena -->
 				</group>
-				<group chance="100">
-					<item id="90045" min="1" max="1" chance="1.15" /> <!-- Magical Tablet -->
+				<group chance="10">
+					<item id="90045" min="1" max="1" chance="2.15" /> <!-- Magical Tablet -->
 					<item id="93903" min="1" max="1" chance="0.1901" /> <!-- Antharas' Lair's Time Stone -->
 				</group>
 				<group chance="11.1162">

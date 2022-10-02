@@ -3750,15 +3750,6 @@
 		<magicLevel>1</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>-5</magicCriticalRate>
-		<conditions>
-		<condition name="OpSoulMax" type="LIGHT" />
-			<condition name="OpNotAffectedBySkill">
-				<skillId>397</skillId> <!-- Light Veil -->
-			</condition>
-			<condition name="OpNotAffectedBySkill">
-				<skillId>398</skillId> <!-- Shadow Veil -->
-				</condition>
-				</conditions>
 	</skill>
 	<skill id="45175" toLevel="100" name="Shadow Soul">
 		<!-- Collects $s1 Shadow Soul(s). -->
@@ -3867,15 +3858,6 @@
 		<magicLevel>1</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>-5</magicCriticalRate>
-				<conditions>
-				<condition name="OpSoulMax" type="SHADOW" />
-			<condition name="OpNotAffectedBySkill">
-				<skillId>397</skillId> <!-- Light Veil -->
-			</condition>
-			<condition name="OpNotAffectedBySkill">
-				<skillId>398</skillId> <!-- Shadow Veil -->
-				</condition>
-				</conditions>
 	</skill>
 	<skill id="45176" toLevel="2" name="HP Recovery">
 		<!-- Constantly recovers a certain amount of HP. The amount of HP recovered and its recovery rate are increased with the skill level. -->

@@ -2521,13 +2521,8 @@
 		<reuseDelay>10000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>5</magicCriticalRate>
-		<targetType>TARGET</targetType>
+		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
-		<conditions>
-			<condition name="TargetMyParty">
-				<includeMe>true</includeMe>
-			</condition>
-		</conditions>
 		<effects>
 			<effect name="MaxMp">
 				<amount>
@@ -2777,13 +2772,8 @@
 		<reuseDelay>10000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>5</magicCriticalRate>
-		<targetType>TARGET</targetType>
+		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
-		<conditions>
-			<condition name="TargetMyParty">
-				<includeMe>true</includeMe>
-			</condition>
-		</conditions>
 		<effects>
 			<effect name="PhysicalEvasion">
 				<amount>4</amount>

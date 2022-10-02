@@ -59,29 +59,20 @@ public class buffOnBossKill extends AbstractNpcAI
 		25163, // Roaring Skylancer
 		25255, // Tiphon
 		25176, // Black Lily
-		
+		// 85
 		25925, // Jisra
 		25926, // Kuka
-	};
-	
-	private static final int[] MINI_BOSSES =
-	{
-		
-		21037, // Nova Beast (Cruma 65)
 	};
 	
 	private buffOnBossKill()
 	{
 		addAttackId(RAID_BOSSES);
 		addKillId(RAID_BOSSES);
-		addAttackId(MINI_BOSSES);
-		addKillId(MINI_BOSSES);
 	}
 	
 	private final static int min_damage = 0;
 	private final SkillHolder buff = new SkillHolder(55297, 1);
 	private static final Map<Npc, Map<Integer, Integer>> RAIDBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
-	private static final Map<Npc, Map<Integer, Integer>> MINIBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
 	
 	@Override
 	public String onAttack(Npc npc, Player attacker, int damage, boolean isSummon, Skill skill)
@@ -90,13 +81,7 @@ public class buffOnBossKill extends AbstractNpcAI
 		{
 			RAIDBOSS_HITS.put(npc, new ConcurrentHashMap<>());
 		}
-		if (MINIBOSS_HITS.getOrDefault(npc, null) == null)
-		{
-			MINIBOSS_HITS.put(npc, new ConcurrentHashMap<>());
-		}
-		
 		RAIDBOSS_HITS.get(npc).replace(attacker.getObjectId(), RAIDBOSS_HITS.get(npc).getOrDefault(attacker.getObjectId(), 0) + damage);
-		MINIBOSS_HITS.get(npc).replace(attacker.getObjectId(), MINIBOSS_HITS.get(npc).getOrDefault(attacker.getObjectId(), 0) + damage);
 		return super.onAttack(npc, attacker, damage, isSummon, skill);
 	}
 	
@@ -105,22 +90,12 @@ public class buffOnBossKill extends AbstractNpcAI
 	{
 		for (Player killers : World.getInstance().getVisibleObjects(npc, Player.class))
 		{
-			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage < RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
+			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage >= RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
 			{
 				killers.doCast(buff.getSkill());
 			}
 		}
-		
-		for (Player killers : World.getInstance().getVisibleObjects(npc, Player.class))
-		{
-			if (MINIBOSS_HITS.containsKey(npc) && (min_damage >= MINIBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
-			{
-				killers.doCast(buff.getSkill());
-			}
-		}
-		
 		RAIDBOSS_HITS.get(npc).clear();
-		MINIBOSS_HITS.get(npc).clear();
 		return super.onKill(npc, killer, isSummon);
 	}
 	

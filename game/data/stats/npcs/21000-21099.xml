@@ -2219,7 +2219,7 @@
 			<height normal="20" grown="24" />
 		</collision>
 	</npc>
-	<npc id="21037" level="47" type="Monster" name="Nova Beast" title="Device Guardian">
+	<npc id="21037" level="65" type="Monster" name="Nova Beast" title="Device Guardian">
 		<parameters>
 			<param name="MoveAroundSocial" value="40" />
 			<param name="MoveAroundSocial1" value="40" />
@@ -2231,21 +2231,20 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="5" />
 			<param name="LongRangeGuardRate" value="5" />
-			<skill name="Skill01_ID" id="4032" level="4" />
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<acquire exp="14093" sp="423" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1346.55725878612" hpRegen="5.5" mp="665" mpRegen="2.1" />
-			<attack physical="261.69549" magical="178.7041" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="186.63569" magical="136.5719" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="25615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
+			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="1631.34198" magical="795.84" />
 			<speed>
 				<walk ground="70" />
-				<run ground="174" />
+				<run ground="170" />
 			</speed>
-			<hitTime>410</hitTime>
-			<abnormalResist physical="10" magical="10" />
+			<hitTime>260</hitTime>
+			<abnormalResist physical="230" magical="230" />
 		</stats>
 		<status attackable="true" />
 		<skillList>
@@ -2260,7 +2259,6 @@
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="4095" level="1" /> <!-- Damage Shield -->
 			<skill id="5549" level="1" /> <!-- Melee Attack Vulnerability -->
-			<skill id="4032" level="4" /> <!-- NPC Strike -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -2296,20 +2294,6 @@
 					<item id="2343" min="1" max="1" chance="1.4519" /> <!-- Recipe: Mace of Underworld (100%) -->
 					<item id="2345" min="1" max="1" chance="1.4517" /> <!-- Recipe: Dark Screamer (100%) -->
 				</group>
-				<group chance="1.1333">
-					<item id="92908" min="1" max="1" chance="49.1066" /> <!-- Material: Lump of Wood - Sealed -->
-					<item id="92909" min="1" max="1" chance="9.8213" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="4.9107" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="1.6369" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="0.9821" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0491" /> <!-- Material: Animal Spirit - Sealed -->
-					<item id="952" min="1" max="1" chance="0.6548" /> <!-- Scroll: Enchant C-grade Armor -->
-					<item id="2231" min="1" max="1" chance="0.0094" /> <!-- Recipe: Full Plate Armor (100%) -->
-					<!-- <item id="2508" min="1" max="1" chance="32.7377" /> Cursed Bone - Not Available -->
-					<item id="3005" min="1" max="1" chance="0.0802" /> <!-- Recipe: Demon's Boots (100%) -->
-					<item id="2360" min="1" max="1" chance="0.0032" /> <!-- Recipe: Orcish Poleaxe (100%) -->
-					<item id="92694" min="1" max="1" chance="0.008" /> <!-- Orcish Poleaxe Blade -->
-				</group>
 			</drop>
 			<spoil>
 				<item id="2346" min="1" max="1" chance="0.0004" /> <!-- Recipe: Fisted Blade (100%) -->
@@ -2321,7 +2305,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="21038" level="49" type="Monster" name="Nova Giant" title="Device Guardian">
+	<npc id="21038" level="72" type="Monster" name="Nova Giant" title="Device Guardian">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -2342,16 +2326,16 @@
 		<sex>MALE</sex>
 		<acquire exp="27890" sp="837" />
 		<equipment rhand="3937" /> <!-- Monster Only (Lesser Giant) - Not Available - Not Available -->
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1447.45325347694" hpRegen="5.5" mp="720" mpRegen="2.1" />
-			<attack physical="290.44588" magical="198.33688" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="195.66302" magical="143.17771" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="45615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
+			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="1631.34198" magical="795.84" />
 			<speed>
-				<walk ground="25" />
-				<run ground="174" />
+				<walk ground="70" />
+				<run ground="170" />
 			</speed>
-			<hitTime>100</hitTime>
-			<abnormalResist physical="10" magical="10" />
+			<hitTime>260</hitTime>
+			<abnormalResist physical="230" magical="230" />
 		</stats>
 		<status attackable="true" />
 		<skillList>

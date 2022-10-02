@@ -4,7 +4,9 @@
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="46" getLevel="76" levelUpSp="5900000" />
 		<skill skillName="Rage" skillId="94" skillLevel="3" getLevel="76" levelUpSp="5900000" />
 		<skill skillName="Weapon Mastery" skillId="141" skillLevel="5" getLevel="76" levelUpSp="5900000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="41" getLevel="76" levelUpSp="5900000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="41" getLevel="76" levelUpSp="5900000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="46" getLevel="76" levelUpSp="5900000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="51" getLevel="76" levelUpSp="5900000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="51" getLevel="76" levelUpSp="5900000" />
@@ -88,7 +90,9 @@
 		</skill>
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="47" getLevel="77" levelUpSp="5900000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="42" getLevel="77" levelUpSp="5900000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="42" getLevel="77" levelUpSp="5900000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="47" getLevel="77" levelUpSp="5900000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="52" getLevel="77" levelUpSp="5900000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="52" getLevel="77" levelUpSp="5900000" />
@@ -107,7 +111,9 @@
 
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="48" getLevel="78" levelUpSp="13700000" />
 		<skill skillName="Rage" skillId="94" skillLevel="4" getLevel="78" levelUpSp="13700000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="43" getLevel="78" levelUpSp="13700000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="43" getLevel="78" levelUpSp="13700000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="48" getLevel="78" levelUpSp="13700000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="53" getLevel="78" levelUpSp="13700000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="53" getLevel="78" levelUpSp="13700000" />
@@ -127,14 +133,18 @@
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="49" getLevel="79" levelUpSp="13700000" />
 		<skill skillName="Guts" skillId="139" skillLevel="6" getLevel="79" levelUpSp="13700000" />
 		<skill skillName="Frenzy" skillId="176" skillLevel="6" getLevel="79" levelUpSp="13700000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="44" getLevel="79" levelUpSp="13700000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="44" getLevel="79" levelUpSp="13700000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Armor Crush" skillId="362" skillLevel="3" getLevel="79" levelUpSp="13700000" />
 		<skill skillName="Demolition Impact" skillId="777" skillLevel="4" getLevel="79" levelUpSp="13700000" />
 		<skill skillName="Full Swing" skillId="814" skillLevel="4" getLevel="79" levelUpSp="13700000" />
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="50" getLevel="80" levelUpSp="13700000" />
 		<skill skillName="Rage" skillId="94" skillLevel="5" getLevel="80" levelUpSp="13700000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="45" getLevel="80" levelUpSp="13700000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="45" getLevel="80" levelUpSp="13700000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="49" getLevel="80" levelUpSp="13700000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="54" getLevel="80" levelUpSp="13700000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="54" getLevel="80" levelUpSp="13700000" />
@@ -179,7 +189,9 @@
 		</skill>
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="51" getLevel="81" levelUpSp="160000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="46" getLevel="81" levelUpSp="160000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="46" getLevel="81" levelUpSp="160000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="50" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="55" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="55" getLevel="81" levelUpSp="160000000" />
@@ -194,7 +206,9 @@
 		</skill>
 
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="52" getLevel="82" levelUpSp="170000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="47" getLevel="82" levelUpSp="170000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="47" getLevel="82" levelUpSp="170000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="51" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="56" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="56" getLevel="82" levelUpSp="170000000" />
@@ -225,7 +239,9 @@
 		</skill>
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="53" getLevel="83" levelUpSp="240000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="48" getLevel="83" levelUpSp="240000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="48" getLevel="83" levelUpSp="240000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="52" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="57" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="57" getLevel="83" levelUpSp="240000000" />
@@ -238,7 +254,9 @@
 		<skill skillName="Full Knockdown" skillId="1896" skillLevel="3" getLevel="83" levelUpSp="240000000" />
 
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="54" getLevel="84" levelUpSp="240000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="49" getLevel="84" levelUpSp="240000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="49" getLevel="84" levelUpSp="240000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="53" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="58" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="58" getLevel="84" levelUpSp="240000000" />
@@ -266,7 +284,9 @@
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="55" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Guts" skillId="139" skillLevel="7" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Frenzy" skillId="176" skillLevel="7" getLevel="85" levelUpSp="840000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="50" getLevel="85" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="50" getLevel="85" levelUpSp="840000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="54" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="59" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="59" getLevel="85" levelUpSp="840000000" />
@@ -281,7 +301,9 @@
 		</skill>
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="56" getLevel="86" levelUpSp="840000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="51" getLevel="86" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="51" getLevel="86" levelUpSp="840000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="55" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="60" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="60" getLevel="86" levelUpSp="840000000" />
@@ -303,7 +325,9 @@
 		</skill>
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="57" getLevel="87" levelUpSp="840000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="52" getLevel="87" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="52" getLevel="87" levelUpSp="840000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="56" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="61" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="61" getLevel="87" levelUpSp="840000000" />
@@ -312,7 +336,9 @@
 		<skill skillName="Demolition Impact" skillId="777" skillLevel="12" getLevel="87" levelUpSp="840000000" />
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="58" getLevel="88" levelUpSp="840000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="53" getLevel="88" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="53" getLevel="88" levelUpSp="840000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="57" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="62" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="62" getLevel="88" levelUpSp="840000000" />
@@ -340,7 +366,9 @@
 		</skill>
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="59" getLevel="89" levelUpSp="840000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="54" getLevel="89" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="54" getLevel="89" levelUpSp="840000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="58" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="63" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="63" getLevel="89" levelUpSp="840000000" />
@@ -349,7 +377,9 @@
 		<skill skillName="Demolition Impact" skillId="777" skillLevel="14" getLevel="89" levelUpSp="840000000" />
 		
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="60" getLevel="90" levelUpSp="840000000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="55" getLevel="90" levelUpSp="840000000" />
+		<skill skillName="Fatal Strike" skillId="190" skillLevel="55" getLevel="90" levelUpSp="840000000" >
+		<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
+		</skill>
 		<skill skillName="Polearm Mastery" skillId="216" skillLevel="59" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="64" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="64" getLevel="90" levelUpSp="840000000" />

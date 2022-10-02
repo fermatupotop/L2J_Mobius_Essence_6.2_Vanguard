@@ -906,6 +906,7 @@
 															<xs:element name="pDefMod" type="xs:decimal" />
 															<xs:element name="side" type="xs:string" />
 															<xs:element name="mp" type="xs:unsignedShort" />
+															<xs:element name="hp" type="xs:unsignedShort" />
 															<xs:element name="SWORD">
 																<xs:complexType mixed="true">
 																	<xs:sequence minOccurs="0">

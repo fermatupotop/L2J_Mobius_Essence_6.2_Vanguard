@@ -355,6 +355,7 @@ public class EffectMasterHandler
 		EffectHandler.getInstance().registerHandler("Spoil", Spoil::new);
 		EffectHandler.getInstance().registerHandler("StatAddForLevel", StatAddForLevel::new);
 		EffectHandler.getInstance().registerHandler("StatAddForMp", StatAddForMp::new);
+		EffectHandler.getInstance().registerHandler("StatAddForHp", StatAddForHp::new);
 		EffectHandler.getInstance().registerHandler("StatAddForStat", StatAddForStat::new);
 		EffectHandler.getInstance().registerHandler("StatBonusSkillCritical", StatBonusSkillCritical::new);
 		EffectHandler.getInstance().registerHandler("StatBonusSpeed", StatBonusSpeed::new);

@@ -11,6 +11,7 @@
 			<npc id="30673" x="16460" y="113488" z="-3575" heading="0" respawnTime="60sec" /> <!-- Lorain - Researcher -->
 			<npc id="31843" x="17719" y="115430" z="-6582" heading="0" respawnTime="180sec" /> <!-- Teleportation Cubic -->
 			<npc id="30486" x="17722" y="119749" z="-9068" heading="49152" respawnTime="60sec" /> <!-- Ian - Ivory Tower Wizard -->
+			
 			<npc id="30637" x="23066" y="118944" z="-3705" heading="8192" respawnTime="60sec" /> <!-- Belthus - Summoner -->
 			<npc id="30621" x="10580" y="118027" z="-3672" heading="59000" respawnTime="60sec" /> <!-- Nikola - Maestro -->
 			<npc id="30595" x="19712" y="143307" z="-3025" heading="47152" respawnTime="60sec" /> <!-- Opix - Head Blacksmith -->

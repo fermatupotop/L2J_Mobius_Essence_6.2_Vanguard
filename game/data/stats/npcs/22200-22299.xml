@@ -595,10 +595,10 @@
 				<item id="57" min="513" max="567" chance="70" /> <!-- Adena -->
 				<item id="3031" min="1" max="1" chance="1.0929" /> <!-- Spirit Ore - Sealed -->
 				<item id="90045" min="1" max="1" chance="0.0029" /> <!-- Magical Tablet -->
-				<item id="91031" min="1" max="1" chance="0.001" /> <!-- Water Spirit Evolution Stone -->
-				<item id="91032" min="1" max="1" chance="0.001" /> <!-- Fire Spirit Evolution Stone -->
-				<item id="91033" min="1" max="1" chance="0.001" /> <!-- Wind Spirit Evolution Stone -->
-				<item id="91034" min="1" max="1" chance="0.001" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="91031" min="1" max="1" chance="0.1" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="0.1" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="91033" min="1" max="1" chance="0.1" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="0.1" /> <!-- Earth Spirit Evolution Stone -->
 				<item id="91035" min="1" max="1" chance="0.0159" /> <!-- Water Spirit Ore -->
 				<item id="91036" min="1" max="1" chance="0.0159" /> <!-- Fire Spirit Ore -->
 				<item id="91037" min="1" max="1" chance="0.0159" /> <!-- Wind Spirit Ore -->

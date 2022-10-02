@@ -6,6 +6,13 @@
 			 <npc id="21037" x="14557" y="117277" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
 		     <npc id="21037" x="14564" y="111072" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
 		     <npc id="21037" x="20870" y="110976" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
+		     <npc id="21037" x="20850" y="117306" z="-12091" heading="32768" respawnTime="600sec" /> <!-- Cruma Defender 65 -->
+		     
+		     <npc id="21038" x="12775" y="109376" z="-9064" heading="27054" respawnTime="600sec" /> <!-- Cruma Defender 70 -->
+			 <npc id="21038" x="12801" y="110671" z="-9064" heading="27054" respawnTime="600sec" /> <!-- Cruma Defender 70 -->
+			 <npc id="21038" x="12512" y="118321" z="-9064" heading="47617" respawnTime="600sec" /> <!-- Cruma Defender 70 -->
+			 <npc id="21038" x="22677" y="114127" z="-9064" heading="48186" respawnTime="600sec" /> <!-- Cruma Defender 70 -->
+
 
 			<npc id="30483" x="17289" y="114112" z="-3440" heading="32768" respawnTime="14sec" /> <!-- Carsus -->
 			<npc id="30484" x="17636" y="114744" z="-11680" heading="6843" respawnTime="14sec" /> <!-- Janssen -->
