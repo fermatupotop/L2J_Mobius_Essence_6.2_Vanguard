@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
-	<spawn name="25_17">
-		<group>
-			<npc id="22335" x="184065" y="-24120" z="-2561" heading="35741" respawnTime="15sec" /> <!-- Dragon Warden -->
-		</group>
-	</spawn>
-</list>
