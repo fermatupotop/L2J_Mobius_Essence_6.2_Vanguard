@@ -1052,6 +1052,23 @@
 		<reward id="92032" count="1" type="ON_SUCCESS" /> <!-- Talisman Bracelet Lv. 6 -->
 		<reward id="92031" count="1" type="ON_FAILURE" /> <!-- Talisman Bracelet Lv. 5 -->
 	</item>
+		<item one="92032" two="92032" chance="25"> <!-- Talisman Bracelet Lv. 6 / Talisman Bracelet Lv. 6 -->
+		<reward id="96963" count="1" type="ON_SUCCESS" /> <!-- Talisman Bracelet Lv. 7 -->
+		<reward id="92032" count="1" type="ON_FAILURE" /> <!-- Talisman Bracelet Lv. 6 -->
+	</item>
+		<item one="96963" two="96963" chance="25"> <!-- Talisman Bracelet Lv. 7 / Talisman Bracelet Lv. 7 -->
+		<reward id="96964" count="1" type="ON_SUCCESS" /> <!-- Talisman Bracelet Lv. 8 -->
+		<reward id="96963" count="1" type="ON_FAILURE" /> <!-- Talisman Bracelet Lv. 7 -->
+	</item>
+		<item one="96964" two="96964" chance="25"> <!-- Talisman Bracelet Lv. 8 / Talisman Bracelet Lv. 8 -->
+		<reward id="99359" count="1" type="ON_SUCCESS" /> <!-- Talisman Bracelet Lv. 9 -->
+		<reward id="96964" count="1" type="ON_FAILURE" /> <!-- Talisman Bracelet Lv. 8 -->
+	</item>
+		<item one="99359" two="99359" chance="25"> <!-- Talisman Bracelet Lv. 9 / Talisman Bracelet Lv. 9 -->
+		<reward id="99360" count="1" type="ON_SUCCESS" /> <!-- Talisman Bracelet Lv. 10 -->
+		<reward id="99359" count="1" type="ON_FAILURE" /> <!-- Talisman Bracelet Lv. 9 -->
+	</item>
+	
 	<item one="92036" two="92036" chance="65"> <!-- Amber Lv. 1 - Sealed / Amber Lv. 1 - Sealed -->
 		<reward id="92037" count="1" type="ON_SUCCESS" /> <!-- Amber Lv. 2 - Sealed -->
 		<reward id="92036" count="1" type="ON_FAILURE" /> <!-- Amber Lv. 1 - Sealed -->

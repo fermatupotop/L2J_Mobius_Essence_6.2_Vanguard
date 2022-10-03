@@ -265,22 +265,41 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="53008" toLevel="1" name="Children of Eva">
+	<skill id="53008" toLevel="2" name="Children of Eva">
 		<!-- M. Atk. +10 M. Critical Rate +5% HP Recovery Rate +5% -->
-		<magicLevel>1</magicLevel>
+		<magicLevel>
+		<value level="1">1</value>
+		<value level="2">76</value>
+		</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="MAtk">
-				<amount>10</amount>
-				<mode>PER</mode>
+				<amount>
+				<value level="1">10</value>
+				<value level="2">140</value>
+				</amount>
+				<mode>DIFF</mode>
 			</effect>
 			<effect name="MagicCriticalRate">
-				<amount>5</amount>
+				<amount>
+				<value level="1">5</value>
+				<value level="2">5</value>
+				</amount>
 				<mode>PER</mode>
 			</effect>
+			<effect name="MagicCriticalDamage">
+			<amount>
+			<value level="1">0</value>
+			<value level="2">40</value>
+			</amount>
+			<mode>DIFF</mode>	
+			</effect>
 			<effect name="HpRegen">
-				<amount>5</amount>
+				<amount>
+				<value level="1">5</value>
+				<value level="2">5</value>
+				</amount>
 				<mode>PER</mode>
 			</effect>
 		</effects>

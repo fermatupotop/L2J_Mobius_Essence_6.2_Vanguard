@@ -7,6 +7,7 @@
 		<skill skillName="Might" skillId="1068" skillLevel="4" getLevel="76" levelUpSp="8100000">
 			<item id="94135,95517" count="1" /> <!-- Master's Book: Might -->
 		</skill>
+
 		<skill skillName="Servitor Recharge" skillId="1126" skillLevel="35" getLevel="76" levelUpSp="8100000" />
 		<skill skillName="Servitor Heal" skillId="1127" skillLevel="46" getLevel="76" levelUpSp="8100000" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="20" getLevel="76" levelUpSp="8100000" />
