@@ -38,6 +38,7 @@ import org.l2jmobius.gameserver.model.holders.SkillHolder;
 import org.l2jmobius.gameserver.model.holders.TimedHuntingZoneHolder;
 import org.l2jmobius.gameserver.model.instancezone.Instance;
 import org.l2jmobius.gameserver.model.skill.Skill;
+import org.l2jmobius.gameserver.model.variables.PlayerVariables;
 import org.l2jmobius.gameserver.network.NpcStringId;
 import org.l2jmobius.gameserver.network.serverpackets.ExSendUIEvent;
 import org.l2jmobius.gameserver.network.serverpackets.ShortCutInit;
@@ -250,7 +251,7 @@ public class TimedHunting extends AbstractInstance
 			instance.setParameter("TimedHuntingTaskFinished", false);
 		}
 		player.sendPacket(new ExSendUIEvent(player, true, false, 600, 0, NpcStringId.TIME_LEFT));
-		player.sendPacket(new TimedHuntingZoneExit(108)); // Training Zone id.
+		player.sendPacket(new TimedHuntingZoneExit(player.getVariables().getInt(PlayerVariables.LAST_HUNTING_ZONE_ID, 0)));
 		
 		player.getEffectList().stopSkillEffects(SkillFinishType.REMOVED, BUFF);
 		instance.setParameter("PlayerIsOut", true);

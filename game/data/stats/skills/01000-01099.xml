@@ -481,6 +481,7 @@
 			<value level="18">150</value>
 		</effectPoint>
 		<effectRange>1100</effectRange>
+		<isHeal>true</isHeal>
 		<hitTime>5000</hitTime>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
 		<magicLevel>
@@ -866,6 +867,7 @@
 		</effectPoint>
 		<effectRange>1100</effectRange>
 		<hitTime>2000</hitTime>
+		<isHeal>true</isHeal>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
 		<magicLevel>
 			<value level="1">10</value>

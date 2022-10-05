@@ -918,6 +918,7 @@
 		<icon>icon.skill1216</icon>
 		<effectPoint>10</effectPoint>
 		<hitTime>5000</hitTime>
+		<isHeal>True</isHeal>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
 		<magicLevel>
 			<value level="1">1</value>
@@ -1232,6 +1233,7 @@
 			<value level="41">840</value>
 		</effectPoint>
 		<effectRange>1100</effectRange>
+		<isHeal>true</isHeal>
 		<hitTime>2000</hitTime>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
 		<magicLevel>

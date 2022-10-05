@@ -3,7 +3,6 @@
 	<spawn name="AdenMonsterSpawns1">
 		<group>
 
-			<npc id="30938" x="131240" y="114159" z="-3696" heading="10747" respawnTime="60sec" /> <!-- Vanutu - Priest -->
 		</group>
 	</spawn>
 </list>

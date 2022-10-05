@@ -11,8 +11,12 @@
 		<skill skillName="Concentration" skillId="1078" skillLevel="1" getLevel="20" levelUpSp="600" />
 	
 		<skill skillName="Weakness" skillId="1164" skillLevel="2" getLevel="20" levelUpSp="600" />
-		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="1" getLevel="20" levelUpSp="600" />
-		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="2" getLevel="20" levelUpSp="600" />
+		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="1" getLevel="20" levelUpSp="600" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
+		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="2" getLevel="20" levelUpSp="600" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="2" getLevel="20" levelUpSp="600" />
 		<skill skillName="Acumen" skillId="45104" skillLevel="1" getLevel="20" autoGet="true" />
@@ -35,19 +39,25 @@
 		
 		<skill skillName="Body to Mind" skillId="1157" skillLevel="1" getLevel="25" levelUpSp="2300" />
 		<skill skillName="Weakness" skillId="1164" skillLevel="3" getLevel="25" levelUpSp="2300" />
-		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="4" getLevel="25" levelUpSp="2300" />
+		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="4" getLevel="25" levelUpSp="2300" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 		
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="3" getLevel="25" levelUpSp="2300" />
 		
 		
-		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="5" getLevel="28" levelUpSp="5700" />
+		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="5" getLevel="28" levelUpSp="5700" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 
 		<skill skillName="Quick Recovery" skillId="164" skillLevel="2" getLevel="30" levelUpSp="5700" />
 		
 		<skill skillName="Concentration" skillId="1078" skillLevel="2" getLevel="30" levelUpSp="5700" />
 	
 		<skill skillName="Weakness" skillId="1164" skillLevel="4" getLevel="30" levelUpSp="5700" />
-		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="6" getLevel="30" levelUpSp="5700" />
+		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="6" getLevel="30" levelUpSp="5700" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 	
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="4" getLevel="30" levelUpSp="5700" />
 		<skill skillName="Acumen" skillId="45104" skillLevel="2" getLevel="30" levelUpSp="5000" />
@@ -61,11 +71,15 @@
 		<skill skillName="Clarity" skillId="45113" skillLevel="2" getLevel="30" levelUpSp="5000" />
 
 		
-		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="7" getLevel="33" levelUpSp="13000" />
+		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="7" getLevel="33" levelUpSp="13000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 
 	
 		<skill skillName="Weakness" skillId="1164" skillLevel="5" getLevel="35" levelUpSp="13000" />
-		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="8" getLevel="35" levelUpSp="13000" />
+		<skill skillName="Aqua Swirl" skillId="1175" skillLevel="8" getLevel="35" levelUpSp="13000" >
+			<removeSkill id="1177" onlyReplaceByLearn="true" /> <!-- Wind Strike -->
+		</skill>
 	
 		<skill skillName="Wind Shackle" skillId="1206" skillLevel="5" getLevel="35" levelUpSp="13000" />
 	</skillTree>

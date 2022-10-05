@@ -2177,7 +2177,12 @@
 	<skill id="45151" toLevel="3" name="Collect Light Souls">
 		<!-- Collects $s1 Light Souls. -->
 		<icon>icon.skill55474</icon>
+		<magicLevel>
+			<value level="1">50</value>
+			<value level="2">76</value>
+		</magicLevel>
 		<operateType>A1</operateType>
+		<isMagic>4</isMagic>
 		<hitTime>1000</hitTime>
 		<reuseDelay>900000</reuseDelay>
 		<mpConsume>50</mpConsume>
@@ -2188,6 +2193,11 @@
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
+				<condition name="OpCheckAbnormal">
+				<type>KAMAEL_TRANSFORM</type>
+				<level>1</level>
+				<hasAbnormal>false</hasAbnormal>
+			</condition>
 			<condition name="OpSoulMax" type="LIGHT" />
 			<condition name="OpNotAffectedBySkill">
 				<skillId>397</skillId> <!-- Light Veil -->
@@ -2209,7 +2219,12 @@
 	<skill id="45152" toLevel="2" name="Collect Shadow Souls">
 		<!-- Collects $s1 Shadow Souls. -->
 		<icon>icon.skill55475</icon>
+				<magicLevel>
+			<value level="1">50</value>
+			<value level="2">76</value>
+		</magicLevel>
 		<operateType>A1</operateType>
+		<isMagic>4</isMagic>
 		<hitTime>1000</hitTime>
 		<reuseDelay>900000</reuseDelay>
 		<mpConsume>50</mpConsume>
@@ -2220,6 +2235,11 @@
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
+			<condition name="OpCheckAbnormal">
+				<type>KAMAEL_TRANSFORM</type>
+				<level>1</level>
+				<hasAbnormal>false</hasAbnormal>
+			</condition>
 			<condition name="OpSoulMax" type="SHADOW" />
 			<condition name="OpNotAffectedBySkill">
 				<skillId>397</skillId> <!-- Light Veil -->
@@ -2243,9 +2263,22 @@
 		<icon>icon.skill19187</icon>
 		<operateType>A1</operateType>
 		<castRange>900</castRange>
-		<hitTime>1000</hitTime>
+		<effectRange>1200</effectRange>
+		<hitTime>100</hitTime>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<magicLevel>85</magicLevel>
+		<nextAction>ATTACK</nextAction>
 		<reuseDelay>10000</reuseDelay>
 		<effectPoint>-1000</effectPoint>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="PhysicalAttack">
+				<power>1</power>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="45154" toLevel="5" name="Death Mark Lv. 1">
 		<!-- Brands the target with Death Mark. Received P. Critical Damage +$s1 Received M. Skill Critical Damage +$s1 -->

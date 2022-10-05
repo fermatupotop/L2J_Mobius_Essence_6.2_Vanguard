@@ -859,7 +859,7 @@
 	</reward>
 	-->
 
-	<reward id="1501" reward_id="2040" name="Hunt on Alligator Island I (Lv. 60+)" requiredCompletion="100">
+	<reward id="1501" reward_id="2040" name="Hunt on Alligator Island I (Lv. 60+)" requiredCompletion="200">
 		<!-- A reward is given for killing 100 Savage monsters on Alligator Island. -->
 		<handler name="monster">
 			<param name="minLevel">60</param>
@@ -870,7 +870,7 @@
 			<item id="93080" count="3" /> <!-- Charging Stone of Random Craft - 1 Charge -->
 		</items>
 	</reward>
-	<reward id="1502" reward_id="2041" name="Hunt on Alligator Island II (Lv. 60+)" requiredCompletion="200">
+	<reward id="1502" reward_id="2041" name="Hunt on Alligator Island II (Lv. 60+)" requiredCompletion="400">
 		<!-- A reward is given for killing 200 Savage monsters on Alligator Island. -->
 		<handler name="monster">
 			<param name="minLevel">60</param>
@@ -881,6 +881,8 @@
 			<item id="93080" count="6" /> <!-- Charging Stone of Random Craft - 1 Charge -->
 		</items>
 	</reward>
+	
+	
 	
 	
 	<reward id="1503" reward_id="1503" name="Explore Primeval Isle" requiredCompletion="200">
@@ -896,7 +898,7 @@
 		</items>
 	</reward>
 	
-		<reward id="1506" reward_id="1503" name="Explore Forgotten Primeval Garden" requiredCompletion="100">
+		<reward id="1506" reward_id="1506" name="Explore Forgotten Primeval Garden" requiredCompletion="100">
 		<!-- A reward is given for killing 200 monsters on the Primeval Isle. -->
 		<handler name="monster">
 			<param name="minLevel">76</param>
@@ -908,8 +910,8 @@
 			<item id="97246" count="5" /> 
 		</items>
 	</reward>
-			<reward id="1507" reward_id="1503" name="Explore Forgotten Primeval Garden" requiredCompletion="300">
-		<!-- A reward is given for killing 200 monsters on the Primeval Isle. -->
+			<reward id="1507" reward_id="1507" name="Explore Forgotten Primeval Garden" requiredCompletion="300">
+		<!-- A reward is given for killing 300 monsters on the Primeval Isle. -->
 		<handler name="monster">
 			<param name="minLevel">76</param>
 			<param name="maxLevel">99</param>
@@ -920,8 +922,8 @@
 			<item id="97246" count="10" /> 
 		</items>
 	</reward>
-			<reward id="1508" reward_id="1503" name="Explore Forgotten Primeval Garden" requiredCompletion="1000">
-		<!-- A reward is given for killing 200 monsters on the Primeval Isle. -->
+			<reward id="1508" reward_id="1508" name="Explore Forgotten Primeval Garden" requiredCompletion="1000">
+		<!-- A reward is given for killing 1000 monsters on the Primeval Isle. -->
 		<handler name="monster">
 			<param name="minLevel">76</param>
 			<param name="maxLevel">99</param>

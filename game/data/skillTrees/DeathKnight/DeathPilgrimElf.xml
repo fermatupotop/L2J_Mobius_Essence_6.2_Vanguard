@@ -13,9 +13,9 @@
 		<skill skillName="Death Points" skillId="45352" skillLevel="1" getLevel="1" />
 		<skill skillName="Change Armor" skillId="45355" skillLevel="1" getLevel="1" />
 
-		<skill skillName="Shield" skillId="1040" skillLevel="1" getLevel="2" levelUpSp="5" />
+		<skill skillName="Shield" skillId="1040" skillLevel="1" getLevel="2" levelUpSp="5" autoGet="true" />
 
-		<skill skillName="Might" skillId="1068" skillLevel="1" getLevel="3" levelUpSp="5" />
+		<skill skillName="Might" skillId="1068" skillLevel="1" getLevel="3" levelUpSp="5" autoGet="true" />
 
 		<skill skillName="Ability to Protect" skillId="91" skillLevel="1" getLevel="5" levelUpSp="15" />
 		<skill skillName="Death Armor Mastery" skillId="45354" skillLevel="1" getLevel="5" levelUpSp="15" />

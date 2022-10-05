@@ -21,8 +21,8 @@
 		<skill skillName="Elemental Spirit" skillId="47101" skillLevel="1" getLevel="1" autoGet="true" />
 		<skill skillName="Elemental Connection" skillId="47104" skillLevel="1" getLevel="1" autoGet="true" />
 
-		<skill skillName="Elemental Shield" skillId="47027" skillLevel="1" getLevel="2" levelUpSp="5" />
-		<skill skillName="Elemental Might" skillId="47026" skillLevel="1" getLevel="2" levelUpSp="5" />
+		<skill skillName="Elemental Shield" skillId="47027" skillLevel="1" getLevel="2" levelUpSp="5" autoGet="true" />
+		<skill skillName="Elemental Might" skillId="47026" skillLevel="1" getLevel="2" levelUpSp="5" autoGet="true" />
 
 		<skill skillName="Ability to Protect" skillId="91" skillLevel="1" getLevel="5" levelUpSp="15" />
 		

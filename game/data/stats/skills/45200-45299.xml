@@ -6437,7 +6437,7 @@
 			<value level="2">450</value>
 			<value level="3">500</value>
 		</castRange>
-		<coolTime>200</coolTime>
+		
 		<effectRange>600</effectRange>
 		<hitTime>800</hitTime>
 		<effectPoint>

@@ -21,6 +21,7 @@ import org.l2jmobius.gameserver.enums.SkillConditionPercentType;
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.WorldObject;
 import org.l2jmobius.gameserver.model.actor.Creature;
+import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.skill.ISkillCondition;
 import org.l2jmobius.gameserver.model.skill.Skill;
 
@@ -43,11 +44,20 @@ public class RemainHpPerSkillCondition implements ISkillCondition
 	@Override
 	public boolean canUse(Creature caster, Skill skill, WorldObject target)
 	{
+		
 		switch (_affectType)
 		{
 			case CASTER:
 			{
 				return _percentType.test(caster.getCurrentHpPercent(), _amount);
+			}
+			
+			case SUMMON:
+			{
+				if (caster.hasServitors())
+				{
+					return _percentType.test(((Player) caster).getFirstServitor().getCurrentHpPercent(), _amount);
+				}
 			}
 			case TARGET:
 			{
