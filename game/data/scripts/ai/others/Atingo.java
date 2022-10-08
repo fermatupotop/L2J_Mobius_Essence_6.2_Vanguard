@@ -29,6 +29,7 @@ import org.l2jmobius.gameserver.model.events.EventType;
 import org.l2jmobius.gameserver.model.events.impl.creature.OnCreatureHpChange;
 import org.l2jmobius.gameserver.model.events.listeners.ConsumerEventListener;
 import org.l2jmobius.gameserver.model.skill.AbnormalVisualEffect;
+import org.l2jmobius.gameserver.util.Broadcast;
 
 import ai.AbstractNpcAI;
 
@@ -52,14 +53,14 @@ public class Atingo extends AbstractNpcAI
 	// Locations
 	private static final Location[] SPAWNS =
 	{
-		new Location(83928, 94232, -3453, 41157), // Primeval Isle
 		new Location(83928, 94232, -3453, 41157), // Plains of the Lizardmen
+		new Location(80085, 67740, -3352, 41157), // Plains of the Lizardmen
 		new Location(113906, 14873, -3612, 49656), // Tower of Insolence
-		new Location(171896, 20824, -3334, 16115), // Orc Barracks
+		new Location(-93785, 105300, -3486, 16115), // Orc Barracks
 	};
 	// Misc
 	private static final Duration ATINGO_RESPAWN_DURATION = Duration.ofMinutes(10);
-	private static final double ATINGO_PET_SPAWN_RATE = 10;
+	private static final double ATINGO_PET_SPAWN_RATE = 30;
 	
 	public Atingo()
 	{
@@ -82,6 +83,7 @@ public class Atingo extends AbstractNpcAI
 			if (World.getInstance().getVisibleObjects().stream().noneMatch(it -> it.getId() == ATINGO))
 			{
 				addSpawn(ATINGO, getRandomEntry(SPAWNS));
+				Broadcast.toAllOnlinePlayersOnScreen("Atingo was spawn somewhere.");
 			}
 		}, ATINGO_RESPAWN_DURATION.toMillis());
 		
@@ -104,6 +106,8 @@ public class Atingo extends AbstractNpcAI
 	public String onKill(Npc npc, Player killer, boolean isSummon)
 	{
 		final int petObjId = npc.getScriptValue();
+		Broadcast.toAllOnlinePlayersOnScreen("Atingo was killed by " + killer);
+		
 		if (petObjId > 0)
 		{
 			final Npc pet = (Npc) World.getInstance().findObject(petObjId);
@@ -119,6 +123,7 @@ public class Atingo extends AbstractNpcAI
 			if (World.getInstance().getVisibleObjects().stream().noneMatch(it -> it.getId() == ATINGO))
 			{
 				addSpawn(ATINGO, getRandomEntry(SPAWNS));
+				Broadcast.toAllOnlinePlayersOnScreen("Atingo was spawn somewhere.");
 			}
 		}, ATINGO_RESPAWN_DURATION.toMillis());
 		

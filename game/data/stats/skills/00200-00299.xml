@@ -5027,11 +5027,8 @@
 					<value level="54">7338</value>
 					<value level="55">7438</value>
 				</power>
-				<chanceBoost>200</chanceBoost>
-				<criticalChance>
-					<value fromLevel="1" toLevel="30">5</value>
-					<value fromLevel="31" toLevel="55">10</value>
-				</criticalChance>
+				<chanceBoost>800</chanceBoost>
+				<overHit>true</overHit>
 			</effect>
 		</effects>
 	</skill>
@@ -6970,7 +6967,7 @@
 		</abnormalLevel>
 		<abnormalTime>20</abnormalTime>
 		<abnormalType>PROVOKE</abnormalType>
-		<affectLimit>9-10</affectLimit>
+		<affectLimit>10-10</affectLimit>
 		<affectRange>1000</affectRange>
 		<effectPoint>
 			<value level="1">-436</value>
@@ -6998,7 +6995,7 @@
 			<value level="10">82</value>
 			<value level="11">84</value>
 		</magicLevel>
-		<hitTime>1500</hitTime>
+		<hitTime>5000</hitTime>
 		<isDebuff>true</isDebuff>
 		<mpConsume>
 			<value level="1">54</value>
@@ -7014,7 +7011,7 @@
 			<value level="11">90</value>
 		</mpConsume>
 		<operateType>A2</operateType>
-		<reuseDelay>4000</reuseDelay>
+		<reuseDelay>10000</reuseDelay>
 		<basicProperty>NONE</basicProperty>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>

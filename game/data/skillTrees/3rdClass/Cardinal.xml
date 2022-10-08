@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skillTrees.xsd">
 	<skillTree type="classSkillTree" classId="97" parentClassId="16">
+		<skill skillName="Einhasad's Blessing" skillId="45240" skillLevel="2" getLevel="76" levelUpSp="8100000">
+		<item id="99361" count="1" /> <!-- Einhasad's Blessing book -->
+		</skill>
 		<skill skillName="Might of Heaven" skillId="1028" skillLevel="21" getLevel="76" levelUpSp="5700000" />
 		<skill skillName="Magic Barrier" skillId="1036" skillLevel="3" getLevel="76" levelUpSp="5700000">
 			<item id="94362,95534" count="1" /> <!-- Master's Book: Magic Barrier -->

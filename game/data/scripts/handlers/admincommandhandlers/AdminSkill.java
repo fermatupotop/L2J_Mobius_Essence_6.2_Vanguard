@@ -26,6 +26,7 @@ import org.l2jmobius.gameserver.data.xml.SkillData;
 import org.l2jmobius.gameserver.data.xml.SkillTreeData;
 import org.l2jmobius.gameserver.handler.IAdminCommandHandler;
 import org.l2jmobius.gameserver.model.SkillLearn;
+import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.WorldObject;
 import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.actor.Player;
@@ -36,7 +37,6 @@ import org.l2jmobius.gameserver.network.serverpackets.AcquireSkillList;
 import org.l2jmobius.gameserver.network.serverpackets.NpcHtmlMessage;
 import org.l2jmobius.gameserver.network.serverpackets.PledgeSkillList;
 import org.l2jmobius.gameserver.network.serverpackets.SystemMessage;
-import org.l2jmobius.gameserver.util.Broadcast;
 import org.l2jmobius.gameserver.util.BuilderUtil;
 
 /**
@@ -62,18 +62,6 @@ import org.l2jmobius.gameserver.util.BuilderUtil;
 public class AdminSkill implements IAdminCommandHandler
 {
 	private static final Logger LOGGER = Logger.getLogger(AdminSkill.class.getName());
-	
-	public static boolean startWaytrel = false;
-	
-	public static boolean getWaytrel()
-	{
-		return startWaytrel;
-	}
-	
-	public static void setWaytrel(boolean startWaytrel)
-	{
-		AdminSkill.startWaytrel = startWaytrel;
-	}
 	
 	private static final String[] ADMIN_COMMANDS =
 	{
@@ -186,9 +174,14 @@ public class AdminSkill implements IAdminCommandHandler
 		}
 		else if (command.equals("admin_start_waytrel"))
 		{
-			setWaytrel(true);
-			Broadcast.toAllOnlinePlayers("Start very soon...");
-			Broadcast.toAllOnlinePlayers(String.valueOf(getWaytrel()));
+			for (Player onlinePlayer : World.getInstance().getPlayers())
+			{
+				if ((activeChar != onlinePlayer) && onlinePlayer.isOnline() && ((onlinePlayer.getClient() != null) && !onlinePlayer.getClient().isDetached()))
+				{
+					onlinePlayer.stopAllEffects();
+				}
+			}
+			
 		}
 		else if (command.equals("admin_remove_all_skills"))
 		{

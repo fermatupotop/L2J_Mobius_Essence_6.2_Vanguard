@@ -20,6 +20,7 @@ public class BuffOnMiniBossKill extends AbstractNpcAI
 		27114, // Field of Massacre
 		27037,
 		27024,
+		27282,
 	};
 	
 	private BuffOnMiniBossKill()
@@ -52,7 +53,7 @@ public class BuffOnMiniBossKill extends AbstractNpcAI
 		
 		for (Player killers : World.getInstance().getVisibleObjects(npc, Player.class))
 		{
-			if (MINIBOSS_HITS.containsKey(npc) && (min_damage >= MINIBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
+			if (MINIBOSS_HITS.containsKey(npc) && (min_damage <= MINIBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
 			{
 				killers.doCast(miniBuff.getSkill());
 			}

@@ -19,7 +19,6 @@ package quests;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-import quests.Q00127_FishingSpecialistsRequest.Q00127_FishingSpecialistsRequest;
 import quests.Q00255_Tutorial.Q00255_Tutorial;
 import quests.Q00502_BrothersBoundInChains.Q00502_BrothersBoundInChains;
 import quests.Q00662_AGameOfCards.Q00662_AGameOfCards;
@@ -72,7 +71,7 @@ public class QuestMasterHandler
 	
 	private static final Class<?>[] QUESTS =
 	{
-		Q00127_FishingSpecialistsRequest.class,
+		
 		Q00255_Tutorial.class,
 		Q00502_BrothersBoundInChains.class,
 		Q00662_AGameOfCards.class,

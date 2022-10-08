@@ -58,5 +58,13 @@
 			<skill id="50192" level="10" /> <!-- Talisman Bracelet Lv. 10 -->
 		</skills>
 	</item>
+		<item id="99361" name="Spellbook: Bless of Einhasad" additionalName="Sealed" type="EtcItem">
+		<!-- A scroll for learning Bless of Einhasad lv. 2 skill. <Class>. Arcana Lord  \ Archmage \ Cardinal \  Hierophant \ Soultaker.  -->
+		<set name="icon" val="icon.etc_magic_book_white_i00" />
+		<set name="default_action" val="NONE" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="is_sellable" val="false" />
+	</item>
 	
 </list>

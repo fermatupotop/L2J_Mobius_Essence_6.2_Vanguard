@@ -971,18 +971,18 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="729" min="1" max="1" chance="1" /> <!-- Scroll: Enchant A-grade Weapon -->
-				<item id="730" min="1" max="1" chance="4" /> <!-- Scroll: Enchant A-grade Armor -->
-				<item id="947" min="1" max="1" chance="2" /> <!-- Scroll: Enchant B-grade Weapon -->
-				<item id="948" min="1" max="1" chance="8" /> <!-- Scroll: Enchant B-grade Armor -->
-				<item id="91031" min="1" max="1" chance="0.25" /> <!-- Water Spirit Evolution Stone -->
-				<item id="91032" min="1" max="1" chance="0.25" /> <!-- Fire Spirit Evolution Stone -->
-				<item id="91033" min="1" max="1" chance="0.25" /> <!-- Wind Spirit Evolution Stone -->
-				<item id="91034" min="1" max="1" chance="0.25" /> <!-- Earth Spirit Evolution Stone -->
-				<item id="94096" min="1" max="1" chance="0.001" /> <!-- Regular Pet Training Guide -->
-				<item id="94117" min="1" max="1" chance="0.009" /> <!-- Advanced Pet Training Guide -->
-				<item id="94478" min="1" max="1" chance="0.01" /> <!-- Pet Book: Steel Skin -->
-				<item id="96623" min="1" max="1" chance="0.8" /> <!-- Dye Powder -->
+				<item id="729" min="1" max="1" chance="10" /> <!-- Scroll: Enchant A-grade Weapon -->
+				<item id="730" min="1" max="1" chance="10" /> <!-- Scroll: Enchant A-grade Armor -->
+				<item id="947" min="1" max="1" chance="20" /> <!-- Scroll: Enchant B-grade Weapon -->
+				<item id="948" min="1" max="1" chance="20" /> <!-- Scroll: Enchant B-grade Armor -->
+				<item id="91031" min="1" max="1" chance="5" /> <!-- Water Spirit Evolution Stone -->
+				<item id="91032" min="1" max="1" chance="5" /> <!-- Fire Spirit Evolution Stone -->
+				<item id="91033" min="1" max="1" chance="5" /> <!-- Wind Spirit Evolution Stone -->
+				<item id="91034" min="1" max="1" chance="5" /> <!-- Earth Spirit Evolution Stone -->
+				<item id="94096" min="1" max="1" chance="3" /> <!-- Regular Pet Training Guide -->
+				<item id="94117" min="1" max="1" chance="1" /> <!-- Advanced Pet Training Guide -->
+				<item id="94478" min="1" max="1" chance="2" /> <!-- Pet Book: Steel Skin -->
+				<item id="96623" min="1" max="1" chance="20" /> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>

@@ -5589,19 +5589,47 @@
 			</effect>
 		</effects>
 	</skill>
-	<skill id="45240" toLevel="1" name="Einhasad's Blessing">
+	<skill id="45240" toLevel="2" name="Einhasad's Blessing">
 		<!-- It's an Einhasad's Blessing. HP Recovery Rate +5% MP Recovery Rate +5% -->
-		<magicLevel>1</magicLevel>
+		<magicLevel>
+		<value level="1">1</value>
+		<value level="2">76</value>
+		</magicLevel>
 		<operateType>P</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="HpRegen">
-				<amount>5</amount>
+				<amount>
+				<value level="1">5</value>
+				<value level="76">5</value>
+				</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="MpRegen">
-				<amount>5</amount>
+				<amount>
+				<value level="1">5</value>
+				<value level="76">5</value>
+				</amount>
 				<mode>PER</mode>
+			</effect>
+			<effect name="MAtk">
+				<amount>
+				<value level="1">0</value>
+				<value level="2">210</value>
+				</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="MagicalDefence">
+			<amount>
+				<value level="1">0</value>
+				<value level="2">50</value>
+			</amount>
+			</effect>
+			<effect name="PhysicalDefence">
+			<amount>
+				<value level="1">0</value>
+				<value level="2">50</value>
+			</amount>
 			</effect>
 		</effects>
 	</skill>
@@ -5670,13 +5698,6 @@
 		<staticReuse>true</staticReuse>
 		<targetType>ENEMY</targetType>
 		<affectScope>SINGLE</affectScope>
-		<conditions>
-			<condition name="OpCheckAbnormal">
-				<type>ROOT_MAGICALLY</type>
-				<level>1</level>
-				<hasAbnormal>false</hasAbnormal>
-			</condition>
-		</conditions>
 		<effects>
 			<effect name="MagicalAttack">
 				<power>
@@ -5696,9 +5717,6 @@
 					<value level="14">155</value>
 					<value level="15">160</value>
 				</power>
-			</effect>
-			<effect name="DispelBySlot">
-				<dispel>ROOT_MAGICALLY,-1</dispel>
 			</effect>
 			<effect name="AttackTrait">
 				<UNDEAD_WEAKNESS>10</UNDEAD_WEAKNESS>

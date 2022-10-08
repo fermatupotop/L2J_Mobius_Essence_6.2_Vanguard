@@ -68,7 +68,7 @@
 		<instanceId>209</instanceId>
 	</zone>	
 	<zone id="103" name="Transcendent Instance Zone 3"> <!-- Plains of Glory (60-69) -->
-		<enterLocation>148724,-22366,-3436</enterLocation>
+		<enterLocation>-111613,17761,-10314</enterLocation>
 		<initialTime>1440</initialTime>
 		<resetDelay>36000</resetDelay> <!-- 10 hours -->
 		<maxAddedTime>0</maxAddedTime>

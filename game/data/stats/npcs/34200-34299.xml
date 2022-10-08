@@ -431,7 +431,7 @@
 			</attribute>
 			<abnormalResist physical="0" magical="0" />
 		</stats>
-		<status attackable="false" undying="true" canMove="false" targetable="false" showName="false" />
+		<status attackable="false" undying="true" canMove="false" targetable="true" showName="true" />
 		<collision>
 			<radius normal="11" />
 			<height normal="17" />

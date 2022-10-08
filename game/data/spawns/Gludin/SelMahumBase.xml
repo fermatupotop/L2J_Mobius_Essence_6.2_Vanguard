@@ -6,7 +6,6 @@
 			<npc id="34175" x="-57658" y="138553" z="-2760" heading="45386" respawnTime="12sec" /> <!-- Undercover Agent -->
 			<npc id="34175" x="-57444" y="139936" z="-2560" heading="4627" respawnTime="12sec" /> <!-- Undercover Agent -->
 			<npc id="22237" x="-50880" y="137415" z="-2880" heading="12005" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22254" x="-49862" y="137958" z="-2864" heading="28027" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22239" x="-50163" y="137688" z="-2864" heading="46313" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22238" x="-50950" y="137356" z="-2888" heading="5411" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-50523" y="137568" z="-2864" heading="42225" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
@@ -16,17 +15,13 @@
 			<npc id="22238" x="-50471" y="137637" z="-2872" heading="2042" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-49850" y="137750" z="-2880" heading="51721" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-49810" y="137256" z="-2880" heading="58081" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22254" x="-51209" y="138294" z="-2888" heading="5676" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22239" x="-50444" y="138084" z="-2904" heading="65520" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-50947" y="138474" z="-2904" heading="3877" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22237" x="-51027" y="138366" z="-2896" heading="27837" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22240" x="-51059" y="138547" z="-2912" heading="34117" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22239" x="-50401" y="138005" z="-2880" heading="15869" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-50458" y="139592" z="-2856" heading="10900" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22239" x="-50293" y="140316" z="-2904" heading="11051" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22240" x="-50133" y="140689" z="-2928" heading="47169" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22239" x="-49776" y="140791" z="-2912" heading="60080" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22237" x="-50082" y="140740" z="-2928" heading="64908" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-50429" y="139682" z="-2856" heading="49144" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22239" x="-50446" y="140928" z="-2864" heading="5694" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22238" x="-50539" y="140296" z="-2896" heading="48096" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
@@ -55,53 +50,34 @@
 			<npc id="20063" x="-45054" y="141855" z="-3000" heading="0" respawnTime="12sec" /> <!-- Ol Mahum Shooter -->
 			<npc id="22237" x="-49929" y="139924" z="-2856" heading="2733" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-50223" y="139321" z="-2856" heading="43549" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22239" x="-50967" y="140096" z="-2872" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-50427" y="139933" z="-2880" heading="5307" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-51181" y="139059" z="-2920" heading="34937" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22254" x="-50429" y="139696" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22241" x="-49925" y="140675" z="-2928" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22238" x="-50905" y="140826" z="-2872" heading="34455" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22254" x="-50365" y="138345" z="-2904" heading="18452" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22237" x="-51058" y="141234" z="-2856" heading="56695" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22238" x="-50396" y="139599" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-53121" y="137555" z="-2880" heading="63272" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22239" x="-52947" y="137787" z="-2912" heading="7819" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22240" x="-52002" y="137606" z="-2904" heading="42175" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22241" x="-51414" y="138903" z="-2920" heading="48216" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22240" x="-51258" y="137342" z="-2880" heading="45350" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22254" x="-53251" y="138484" z="-2880" heading="11426" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22237" x="-52458" y="137606" z="-2920" heading="44658" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-51840" y="137700" z="-2864" heading="20313" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22237" x="-53053" y="139091" z="-2920" heading="56136" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22240" x="-52866" y="137249" z="-2920" heading="3798" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22239" x="-52155" y="137402" z="-2904" heading="10602" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-52907" y="137915" z="-2920" heading="20204" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22238" x="-52511" y="138469" z="-2920" heading="45074" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22239" x="-51930" y="140135" z="-2904" heading="29143" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-53230" y="139675" z="-2888" heading="47964" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22238" x="-52516" y="140185" z="-2928" heading="24522" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-52997" y="140125" z="-2872" heading="63869" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51573" y="139472" z="-2904" heading="60982" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-52083" y="139982" z="-2912" heading="49992" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22240" x="-52751" y="140348" z="-2920" heading="47850" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22237" x="-51879" y="139574" z="-2920" heading="46743" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-52873" y="139930" z="-2896" heading="10182" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-52334" y="140737" z="-2880" heading="5130" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22254" x="-52034" y="139305" z="-2952" heading="26132" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22239" x="-51471" y="139829" z="-2856" heading="9409" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22238" x="-52984" y="140754" z="-2920" heading="65520" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-52032" y="139880" z="-2912" heading="28287" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22239" x="-52514" y="139823" z="-2936" heading="46565" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-51876" y="140730" z="-2856" heading="48955" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22240" x="-51579" y="140022" z="-2856" heading="57577" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-52664" y="140060" z="-2928" heading="55875" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22238" x="-51286" y="140570" z="-2856" heading="674" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-52385" y="140992" z="-2864" heading="38062" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22239" x="-52179" y="140832" z="-2856" heading="36738" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22241" x="-52676" y="140153" z="-2928" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22241" x="-51485" y="140119" z="-2864" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22254" x="-50066" y="137805" z="-2864" heading="609" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22254" x="-50956" y="140571" z="-2872" heading="28095" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22238" x="-51697" y="138526" z="-2888" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22241" x="-51519" y="141002" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22240" x="-51898" y="140519" z="-2880" heading="7714" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
@@ -110,10 +86,8 @@
 			<npc id="22237" x="-50773" y="139059" z="-2912" heading="34614" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22239" x="-50376" y="140239" z="-2896" heading="45640" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-51955" y="139053" z="-2944" heading="26362" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22237" x="-51292" y="138849" z="-2912" heading="60723" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22241" x="-51058" y="140126" z="-2872" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22240" x="-52254" y="138014" z="-2920" heading="13602" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22238" x="-51330" y="140647" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-50483" y="139892" z="-2864" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-52312" y="140083" z="-2920" heading="31637" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-51649" y="138696" z="-2896" heading="55977" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
@@ -129,14 +103,11 @@
 			<npc id="22237" x="-51413" y="138503" z="-2912" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22241" x="-49562" y="140346" z="-2872" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22241" x="-51550" y="140118" z="-2864" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22241" x="-50758" y="139115" z="-2912" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22239" x="-50429" y="139687" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22238" x="-52669" y="139726" z="-2928" heading="5105" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22241" x="-51467" y="141054" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22238" x="-52316" y="139155" z="-2952" heading="9736" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-53874" y="136986" z="-2760" heading="43197" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22241" x="-53831" y="136348" z="-2760" heading="65520" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22237" x="-54435" y="136935" z="-2768" heading="58370" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-54036" y="136668" z="-2752" heading="26742" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22237" x="-54929" y="136482" z="-2720" heading="61693" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22240" x="-55293" y="136781" z="-2752" heading="18870" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
@@ -145,7 +116,6 @@
 			<npc id="22239" x="-53311" y="138772" z="-2896" heading="52545" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-53718" y="137460" z="-2760" heading="8477" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22237" x="-54710" y="137871" z="-2904" heading="24448" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22239" x="-53376" y="139191" z="-2920" heading="44504" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-53464" y="138721" z="-2880" heading="2077" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22237" x="-54118" y="137317" z="-2776" heading="49187" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22239" x="-53830" y="138207" z="-2880" heading="22973" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
@@ -158,28 +128,21 @@
 			<npc id="22242" x="-55228" y="140560" z="-2640" heading="19922" respawnTime="12sec" /> <!-- Sel Mahum Wizard -->
 			<npc id="22243" x="-55180" y="140694" z="-2632" heading="36326" respawnTime="12sec" /> <!-- Sel Mahum Knight -->
 			<npc id="22254" x="-52877" y="139002" z="-2920" heading="26703" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22238" x="-50212" y="140903" z="-2896" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22239" x="-51834" y="138699" z="-2896" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22241" x="-51640" y="140089" z="-2880" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22254" x="-52640" y="140890" z="-2896" heading="30466" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22239" x="-51598" y="139002" z="-2920" heading="58561" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22238" x="-50886" y="139831" z="-2856" heading="39517" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22237" x="-52924" y="139369" z="-2928" heading="18913" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22241" x="-51587" y="140164" z="-2880" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22240" x="-54356" y="138180" z="-2904" heading="60496" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-52210" y="138339" z="-2920" heading="18219" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-50682" y="139270" z="-2864" heading="20318" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22254" x="-54036" y="137282" z="-2776" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22239" x="-54588" y="136935" z="-2760" heading="55377" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22237" x="-50605" y="139290" z="-2864" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-53549" y="137795" z="-2776" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22241" x="-51495" y="138132" z="-2872" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22239" x="-51487" y="140999" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-51675" y="139778" z="-2872" heading="50840" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22241" x="-50816" y="140156" z="-2880" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22238" x="-51955" y="138798" z="-2920" heading="11253" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-50886" y="139984" z="-2864" heading="31544" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22238" x="-54537" y="136935" z="-2760" heading="5835" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22239" x="-51553" y="140914" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22241" x="-54958" y="140617" z="-2632" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22241" x="-51283" y="137893" z="-2880" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
@@ -189,7 +152,6 @@
 			<npc id="22240" x="-51268" y="137808" z="-2864" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-51420" y="139421" z="-2888" heading="60336" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-50752" y="140622" z="-2880" heading="58200" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22239" x="-52924" y="140236" z="-2896" heading="16768" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22240" x="-54588" y="136884" z="-2760" heading="43445" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-50988" y="140035" z="-2872" heading="12991" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22237" x="-53955" y="138084" z="-2864" heading="15127" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
@@ -197,24 +159,17 @@
 			<npc id="22239" x="-51237" y="137963" z="-2880" heading="47758" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22240" x="-50268" y="137262" z="-2872" heading="16884" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22241" x="-51922" y="140822" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22239" x="-50569" y="139110" z="-2904" heading="64564" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-52787" y="140141" z="-2912" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22240" x="-50274" y="139933" z="-2880" heading="31274" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22254" x="-53256" y="137571" z="-2877" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22241" x="-55090" y="140581" z="-2632" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22239" x="-54510" y="136752" z="-2752" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22239" x="-52185" y="139778" z="-2920" heading="19622" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22242" x="-54940" y="141521" z="-2600" heading="40962" respawnTime="12sec" /> <!-- Sel Mahum Wizard -->
 			<npc id="22244" x="-55189" y="141752" z="-2592" heading="50266" respawnTime="12sec" /> <!-- Sel Mahum Footman -->
-			<npc id="22239" x="-52801" y="140150" z="-2912" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22238" x="-50569" y="138600" z="-2920" heading="8224" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-52206" y="137351" z="-2904" heading="32828" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-50702" y="140738" z="-2872" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22254" x="-53183" y="138492" z="-2904" heading="8956" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22237" x="-51747" y="137249" z="-2848" heading="59833" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22254" x="-52029" y="139345" z="-2952" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22237" x="-50376" y="139474" z="-2856" heading="5997" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22239" x="-56165" y="137872" z="-2784" heading="50287" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-55932" y="137738" z="-2832" heading="65520" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22237" x="-55400" y="137515" z="-2872" heading="19302" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22240" x="-55500" y="138163" z="-2864" heading="19373" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
@@ -264,32 +219,20 @@
 			<npc id="22237" x="-51643" y="140519" z="-2880" heading="23580" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-51267" y="139727" z="-2856" heading="9766" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22254" x="-53768" y="137484" z="-2762" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22254" x="-51999" y="139806" z="-2912" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22238" x="-51589" y="140940" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-52130" y="138347" z="-2920" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22240" x="-51798" y="137708" z="-2864" heading="60040" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22239" x="-52033" y="139756" z="-2920" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22237" x="-52793" y="140839" z="-2912" heading="23172" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22241" x="-51894" y="140852" z="-2856" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22240" x="-52036" y="138357" z="-2920" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-53955" y="138084" z="-2864" heading="1918" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-53802" y="138237" z="-2872" heading="18834" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22239" x="-52004" y="139850" z="-2912" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22238" x="-51879" y="139676" z="-2904" heading="17680" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22240" x="-51733" y="139587" z="-2912" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22254" x="-52206" y="137402" z="-2904" heading="62662" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22239" x="-51288" y="138167" z="-2880" heading="55707" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22241" x="-55871" y="137849" z="-2832" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22241" x="-55814" y="139501" z="-2640" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22241" x="-52923" y="140818" z="-2920" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22239" x="-53128" y="139318" z="-2920" heading="57936" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22240" x="-52000" y="140723" z="-2856" heading="36257" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-51441" y="137402" z="-2864" heading="55783" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22240" x="-52432" y="138610" z="-2920" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22240" x="-53394" y="137625" z="-2776" heading="9563" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22254" x="-51904" y="138492" z="-2904" heading="23401" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22243" x="-55927" y="139510" z="-2640" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight -->
-			<npc id="22254" x="-53825" y="137394" z="-2760" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22255" x="-58974" y="137510" z="-2392" heading="28118" respawnTime="12sec" /> <!-- Sel Mahum Escort Captain - Jisra's Escort -->
 			<npc id="22253" x="-59227" y="137379" z="-2392" heading="62583" respawnTime="12sec" /> <!-- Sel Mahum Elder - Jisra's Escort -->
 			<npc id="22254" x="-58630" y="137321" z="-2392" heading="22954" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
@@ -321,25 +264,17 @@
 			<npc id="22240" x="-52571" y="138339" z="-2920" heading="52354" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-53140" y="137894" z="-2896" heading="15013" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-52210" y="138951" z="-2936" heading="32789" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22238" x="-51882" y="138387" z="-2904" heading="29088" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22237" x="-51881" y="137372" z="-2864" heading="57787" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22240" x="-51530" y="138564" z="-2888" heading="57552" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22239" x="-51639" y="139080" z="-2936" heading="42260" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22240" x="-52789" y="139044" z="-2928" heading="50191" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22254" x="-52907" y="138775" z="-2920" heading="39043" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22238" x="-52683" y="137351" z="-2920" heading="63498" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22254" x="-53065" y="138963" z="-2912" heading="16383" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22240" x="-53169" y="138655" z="-2896" heading="22019" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22241" x="-52676" y="140247" z="-2928" heading="42745" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22254" x="-51592" y="140519" z="-2880" heading="63511" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22238" x="-52832" y="140158" z="-2912" heading="56341" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22237" x="-51573" y="139625" z="-2880" heading="53696" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22240" x="-52134" y="140186" z="-2912" heading="58970" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22241" x="-51520" y="140966" z="-2856" heading="34091" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22254" x="-52746" y="140060" z="-2912" heading="16358" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22240" x="-51541" y="140468" z="-2872" heading="47025" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-52507" y="140463" z="-2920" heading="59926" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22239" x="-51821" y="139787" z="-2888" heading="19691" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-53112" y="139261" z="-2928" heading="4969" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22237" x="-52457" y="140550" z="-2904" heading="9826" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22237" x="-52907" y="139713" z="-2912" heading="39367" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
@@ -351,16 +286,12 @@
 			<npc id="22237" x="-53721" y="136986" z="-2760" heading="65455" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22241" x="-53958" y="136323" z="-2752" heading="32767" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22238" x="-54129" y="136833" z="-2752" heading="60247" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22240" x="-54385" y="136715" z="-2768" heading="52054" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22239" x="-54799" y="137134" z="-2800" heading="35784" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22237" x="-54805" y="136531" z="-2728" heading="7798" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22240" x="-55159" y="136868" z="-2768" heading="44155" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22238" x="-51433" y="140165" z="-2872" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22241" x="-57140" y="140206" z="-2616" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22239" x="-52966" y="140713" z="-2920" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22239" x="-52108" y="138543" z="-2920" heading="20993" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
-			<npc id="22240" x="-54486" y="136680" z="-2752" heading="32289" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22237" x="-52673" y="139206" z="-2936" heading="59898" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-54231" y="136476" z="-2768" heading="19585" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22243" x="-56758" y="140042" z="-2616" heading="24889" respawnTime="12sec" /> <!-- Sel Mahum Knight -->
 			<npc id="22245" x="-56015" y="139740" z="-2632" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Bowman -->
@@ -368,7 +299,6 @@
 			<npc id="22237" x="-53700" y="138084" z="-2832" heading="57007" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-52924" y="139981" z="-2896" heading="53597" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22254" x="-52640" y="140329" z="-2928" heading="46618" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
-			<npc id="22239" x="-52134" y="139625" z="-2936" heading="7394" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22241" x="-54236" y="136544" z="-2768" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22255" x="-59241" y="136898" z="-2392" heading="60930" respawnTime="12sec" /> <!-- Sel Mahum Escort Captain - Jisra's Escort -->
 			<npc id="22253" x="-58755" y="136792" z="-2392" heading="65535" respawnTime="12sec" /> <!-- Sel Mahum Elder - Jisra's Escort -->
@@ -407,13 +337,11 @@
 			<npc id="22254" x="-59129" y="137559" z="-2392" heading="58535" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22241" x="-53604" y="137910" z="-2784" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22237" x="-55348" y="137546" z="-2872" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
-			<npc id="22239" x="-56267" y="137668" z="-2792" heading="63241" respawnTime="12sec" /> <!-- Sel Mahum Berserker -->
 			<npc id="22254" x="-56114" y="137362" z="-2808" heading="51859" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22254" x="-55323" y="137451" z="-2848" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22237" x="-54282" y="136782" z="-2768" heading="26045" respawnTime="12sec" /> <!-- Sel Mahum Sniper -->
 			<npc id="22238" x="-53700" y="137829" z="-2776" heading="16187" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22238" x="-54435" y="137190" z="-2784" heading="38792" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
-			<npc id="22241" x="-55800" y="137824" z="-2864" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22240" x="-54407" y="138231" z="-2888" heading="29998" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
 			<npc id="22254" x="-60177" y="136327" z="-2392" heading="49327" respawnTime="12sec" /> <!-- Sel Mahum Knight Captain - Jisra's Escort -->
 			<npc id="22255" x="-59466" y="136317" z="-2392" heading="42890" respawnTime="12sec" /> <!-- Sel Mahum Escort Captain - Jisra's Escort -->
@@ -452,12 +380,7 @@
 			<npc id="22255" x="-58977" y="137468" z="-2392" heading="54664" respawnTime="12sec" /> <!-- Sel Mahum Escort Captain - Jisra's Escort -->
 			<npc id="22241" x="-55842" y="137718" z="-2848" heading="27275" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22242" x="-56090" y="139375" z="-2640" heading="16020" respawnTime="12sec" /> <!-- Sel Mahum Wizard -->
-			<npc id="22240" x="-56237" y="137227" z="-2776" heading="10356" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22238" x="-56165" y="137515" z="-2816" heading="16862" respawnTime="12sec" /> <!-- Sel Mahum Raider -->
 			<npc id="22240" x="-55400" y="137413" z="-2848" heading="62131" respawnTime="12sec" /> <!-- Sel Mahum Mage -->
-			<npc id="22241" x="-56132" y="137323" z="-2784" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22241" x="-56117" y="137296" z="-2784" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
-			<npc id="22241" x="-56065" y="137749" z="-2832" heading="0" respawnTime="12sec" /> <!-- Sel Mahum Thief - Avenger -->
 			<npc id="22245" x="-56128" y="139239" z="-2640" heading="52035" respawnTime="12sec" /> <!-- Sel Mahum Bowman -->
 			<npc id="22244" x="-57348" y="140538" z="-2616" heading="7822" respawnTime="12sec" /> <!-- Sel Mahum Footman -->
 			<npc id="22245" x="-57613" y="141154" z="-2616" heading="46975" respawnTime="12sec" /> <!-- Sel Mahum Bowman -->

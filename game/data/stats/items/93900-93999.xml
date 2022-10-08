@@ -359,6 +359,7 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
 	</item>
 	<item id="93931" name="Scroll: Enchant Death Knight's Flame Sword" type="EtcItem">
 		<!-- <Scroll for enchanting Death Knight's Flame Sword>. When enchanted, P. Atk. +10, M. Atk. +18. Note!. In case of failure, Death Knight's Flame Sword is destroyed. -->

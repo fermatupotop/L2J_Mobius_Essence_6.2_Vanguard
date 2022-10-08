@@ -132,6 +132,9 @@
 		<skill skillName="Master of Combat" skillId="430" skillLevel="2" getLevel="80" levelUpSp="18400000">
 			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
+		<skill skillName="Spike" skillId="826" skillLevel="2" getLevel="80" levelUpSp="16700000">
+			<item id="57" count="5000000" /> <!-- Adena -->
+		</skill>
 		<skill skillName="Tenacity" skillId="1617" skillLevel="4" getLevel="80" levelUpSp="18400000" />
 		<skill skillName="Evolution Power" skillId="45189" skillLevel="1" getLevel="80">
 			<item id="57" count="10000000" /> <!-- Adena -->

@@ -52,4 +52,16 @@
 		<!-- Flaming Stockings Sealed -->
 		<production count="1" id="93736" />
 	</item>
+		<item>
+		<!-- Special Armor Coupon -->
+		<ingredient count="1" id="93930" />
+		<!-- Gloves of Silence Sealed -->
+		<production count="1" id="93076" />
+	</item>
+			<item>
+		<!-- Special Armor Coupon -->
+		<ingredient count="1" id="93930" />
+		<!-- Stun Gauntlets Sealed -->
+		<production count="1" id="94264" />
+	</item>
 </list>

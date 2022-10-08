@@ -90,7 +90,7 @@ public class buffOnBossKill extends AbstractNpcAI
 	{
 		for (Player killers : World.getInstance().getVisibleObjects(npc, Player.class))
 		{
-			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage >= RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
+			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage <= RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
 			{
 				killers.doCast(buff.getSkill());
 			}

@@ -2,6 +2,13 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="SilentValley">
 		<group>
+		
+			<npc id="27282" x="173836" y="54798" z="-6044" heading="42655" respawnTime="600sec" /> <!-- MiniBoss -->
+			<npc id="27282" x="178687" y="54403" z="-6066" heading="42655" respawnTime="600sec" /> <!-- MiniBoss -->
+			<npc id="27282" x="183218" y="50893" z="-6096" heading="42655" respawnTime="600sec" /> <!-- MiniBoss -->
+			<npc id="27282" x="186900" y="47851" z="-6071" heading="42655" respawnTime="600sec" /> <!-- MiniBoss -->
+
+		
 			<npc id="20968" x="185640" y="48680" z="-6025" heading="42655" respawnTime="12sec" /> <!-- Forgotten Face -->
 			<npc id="20967" x="185640" y="48680" z="-6025" heading="42655" respawnTime="12sec" /> <!-- Creature of the Past -->
 			<npc id="20971" x="185640" y="48680" z="-6025" heading="42655" respawnTime="12sec" /> <!-- Warrior of Ancient Times -->

@@ -7,7 +7,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="36" getLevel="76" levelUpSp="4800000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="38" getLevel="76" levelUpSp="4800000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="29" getLevel="76" levelUpSp="4800000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="35" getLevel="76" levelUpSp="4800000" />
@@ -90,7 +90,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="37" getLevel="77" levelUpSp="4800000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="39" getLevel="77" levelUpSp="4800000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="30" getLevel="77" levelUpSp="4800000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="36" getLevel="77" levelUpSp="4800000" />
@@ -111,7 +111,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="38" getLevel="78" levelUpSp="11300000" />
+
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="40" getLevel="78" levelUpSp="11300000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="31" getLevel="78" levelUpSp="11300000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="37" getLevel="78" levelUpSp="11300000" />
@@ -137,7 +137,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="39" getLevel="79" levelUpSp="11300000" />
+	
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="49" getLevel="79" levelUpSp="11300000" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="44" getLevel="79" levelUpSp="11300000" />
 		<skill skillName="Triple Sonic Slash" skillId="261" skillLevel="29" getLevel="79" levelUpSp="11300000" />
@@ -150,7 +150,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="40" getLevel="80" levelUpSp="11300000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="41" getLevel="80" levelUpSp="11300000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="50" getLevel="80" levelUpSp="11300000" />
 		<skill skillName="War Cry" skillId="78" skillLevel="3" getLevel="80" levelUpSp="11300000" />
@@ -181,7 +181,7 @@
 			<item id="92401,95502" count="1" /> <!-- Spellbook - White Guardian -->
 		</skill>
 		
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="41" getLevel="81" levelUpSp="160000000" />
+
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="42" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="51" getLevel="81" levelUpSp="160000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="42" getLevel="81" levelUpSp="160000000" />
@@ -199,7 +199,7 @@
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="42" getLevel="82" levelUpSp="170000000" />
+
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="43" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="52" getLevel="82" levelUpSp="170000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="43" getLevel="82" levelUpSp="170000000" />
@@ -218,7 +218,7 @@
 			<item id="96300,96780" count="1" /> <!-- Spellbook: Dragon Slayer -->
 		</skill>
 		
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="43" getLevel="83" levelUpSp="240000000" />
+
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="44" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="53" getLevel="83" levelUpSp="240000000" />
 		<skill skillName="War Cry" skillId="78" skillLevel="4" getLevel="83" levelUpSp="240000000" />
@@ -236,7 +236,7 @@
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="44" getLevel="84" levelUpSp="240000000" />
+
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="45" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="54" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="45" getLevel="84" levelUpSp="240000000" />
@@ -248,7 +248,7 @@
 		<skill skillName="Sonic Rage" skillId="345" skillLevel="5" getLevel="84" levelUpSp="240000000" />
 		<skill skillName="Indestructible Sound" skillId="1624" skillLevel="4" getLevel="84" levelUpSp="240000000" />
 
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="45" getLevel="85" levelUpSp="840000000" />
+	
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="55" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="War Cry" skillId="78" skillLevel="5" getLevel="85" levelUpSp="840000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="46" getLevel="85" levelUpSp="840000000" />
@@ -274,7 +274,7 @@
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="46" getLevel="86" levelUpSp="840000000" />
+
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="56" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="47" getLevel="86" levelUpSp="840000000" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="51" getLevel="86" levelUpSp="840000000" />
@@ -286,7 +286,7 @@
 			<item id="57" count="7500000" /> <!-- Adena -->
 		</skill>
 
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="47" getLevel="87" levelUpSp="840000000" />
+
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="57" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="48" getLevel="87" levelUpSp="840000000" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="52" getLevel="87" levelUpSp="840000000" />
@@ -302,7 +302,7 @@
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="48" getLevel="88" levelUpSp="840000000" />
+	
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="58" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="49" getLevel="88" levelUpSp="840000000" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="53" getLevel="88" levelUpSp="840000000" />
@@ -317,7 +317,7 @@
 			<item id="57" count="30000000" /> <!-- Adena -->
 		</skill>
 		
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="49" getLevel="89" levelUpSp="840000000" />
+
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="59" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="50" getLevel="89" levelUpSp="840000000" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="54" getLevel="89" levelUpSp="840000000" />
@@ -333,7 +333,7 @@
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 			<item id="57" count="5000000" /> <!-- Adena -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="50" getLevel="90" levelUpSp="840000000" />
+
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="60" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="51" getLevel="90" levelUpSp="840000000" />
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="55" getLevel="90" levelUpSp="840000000" />

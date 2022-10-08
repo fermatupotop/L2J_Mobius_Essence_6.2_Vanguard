@@ -2401,10 +2401,10 @@
 		<!-- For $s1 protects from preemptive attacks from monsters. -->
 		<icon>icon.skill1049</icon>
 		<abnormalLevel>1</abnormalLevel>
-		<abnormalTime>15</abnormalTime>
-		<abnormalType>TARGET_LOCK</abnormalType>
+		<abnormalTime>20</abnormalTime>
+		<abnormalType>PROVOKE</abnormalType>
 		<affectLimit>10-10</affectLimit>
-		<affectRange>800</affectRange>
+		<affectRange>1000</affectRange>
 		<effectPoint>
 			<value level="1">-5920</value>
 			<value level="2">-6080</value>

@@ -435,6 +435,13 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93639" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93642" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93641" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93640" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+		</capsuled_items>
 	</item>
 	<item id="93637" name="+4 Top-grade C-grade Armor Set Pack (Light)" additionalName="Sealed" type="EtcItem">
 		<!-- Double-click to obtain the following items. -->
@@ -446,6 +453,13 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93639" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93643" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93645" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93644" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+		</capsuled_items>
 	</item>
 	<item id="93638" name="+4 Top-grade C-grade Armor Set Pack (Robe)" additionalName="Sealed" type="EtcItem">
 		<!-- Double-click to obtain the following items. -->
@@ -457,6 +471,14 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93639" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93646" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93647" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93649" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+			<item id="93648" min="1" max="1" chance="100" minEnchant="4" maxEnchant="4"/>
+		</capsuled_items>
 	</item>
 	<item id="93639" name="Full Plate Helmet" additionalName="Sealed" type="Armor">
 		<set name="icon" val="icon.armor_leather_helmet_i00" />

@@ -31,6 +31,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
+		<skill skillName="Triple Sonic Slash" skillId="261" skillLevel="1" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="1" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="2" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="3" getLevel="40" levelUpSp="55000" />
@@ -42,11 +43,7 @@
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="1" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="2" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="3" getLevel="40" levelUpSp="55000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="1" getLevel="40" levelUpSp="55000"/>
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="2" getLevel="40" levelUpSp="55000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="3" getLevel="40" levelUpSp="55000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="4" getLevel="40" levelUpSp="55000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="5" getLevel="40" levelUpSp="55000" />
+
 		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="3" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="14" getLevel="40" levelUpSp="55000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="15" getLevel="40" levelUpSp="55000" />
@@ -87,12 +84,12 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="1" getLevel="41" levelUpSp="65000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="4" getLevel="41" levelUpSp="65000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="1" getLevel="41" levelUpSp="65000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="11" getLevel="41" levelUpSp="65000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="4" getLevel="41" levelUpSp="65000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="6" getLevel="41" levelUpSp="65000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="17" getLevel="41" levelUpSp="65000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="17" getLevel="41" levelUpSp="65000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="12" getLevel="41" levelUpSp="65000" />
@@ -105,12 +102,12 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="2" getLevel="42" levelUpSp="65000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="5" getLevel="42" levelUpSp="65000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="2" getLevel="42" levelUpSp="65000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="12" getLevel="42" levelUpSp="65000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="5" getLevel="42" levelUpSp="65000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="7" getLevel="42" levelUpSp="65000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="18" getLevel="42" levelUpSp="65000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="18" getLevel="42" levelUpSp="65000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="13" getLevel="42" levelUpSp="65000" />
@@ -122,14 +119,14 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="3" getLevel="43" levelUpSp="65000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="6" getLevel="43" levelUpSp="65000" />
 		<skill skillName="Sonic Focus" skillId="8" skillLevel="2" getLevel="43" levelUpSp="65000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="3" getLevel="43" levelUpSp="65000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="13" getLevel="43" levelUpSp="65000" />
 		<skill skillName="War Cry" skillId="78" skillLevel="2" getLevel="43" levelUpSp="65000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="6" getLevel="43" levelUpSp="65000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="8" getLevel="43" levelUpSp="65000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="19" getLevel="43" levelUpSp="65000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="19" getLevel="43" levelUpSp="65000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="14" getLevel="43" levelUpSp="65000" />
@@ -144,12 +141,12 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="4" getLevel="44" levelUpSp="97000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="7" getLevel="44" levelUpSp="97000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="4" getLevel="44" levelUpSp="97000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="14" getLevel="44" levelUpSp="97000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="7" getLevel="44" levelUpSp="97000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="9" getLevel="44" levelUpSp="97000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="20" getLevel="44" levelUpSp="97000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="20" getLevel="44" levelUpSp="97000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="15" getLevel="44" levelUpSp="97000" />
@@ -162,18 +159,17 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="5" getLevel="45" levelUpSp="97000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="8" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="5" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Bandage" skillId="34" skillLevel="2" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="15" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="8" getLevel="45" levelUpSp="97000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="10" getLevel="45" levelUpSp="97000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="21" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="21" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="16" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Power Break" skillId="260" skillLevel="8" getLevel="45" levelUpSp="97000" />
-		<skill skillName="Triple Sonic Slash" skillId="261" skillLevel="1" getLevel="45" levelUpSp="97000" />
 		<skill skillName="Pirate Transformation" skillId="1800" skillLevel="1" getLevel="45" autoGet="true" />
 		
 		<skill skillName="Rising Attack" skillId="1" skillLevel="11" getLevel="46" levelUpSp="97000" >
@@ -182,12 +178,12 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="6" getLevel="46" levelUpSp="97000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="9" getLevel="46" levelUpSp="97000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="6" getLevel="46" levelUpSp="97000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="16" getLevel="46" levelUpSp="97000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="9" getLevel="46" levelUpSp="97000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="11" getLevel="46" levelUpSp="97000" />
+
 		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="4" getLevel="46" levelUpSp="97000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="22" getLevel="46" levelUpSp="97000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="22" getLevel="46" levelUpSp="97000" />
@@ -202,13 +198,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="7" getLevel="47" levelUpSp="130000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="10" getLevel="47" levelUpSp="130000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="1" getLevel="47" levelUpSp="130000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="7" getLevel="47" levelUpSp="130000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="17" getLevel="47" levelUpSp="130000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="10" getLevel="47" levelUpSp="130000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="12" getLevel="47" levelUpSp="130000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="23" getLevel="47" levelUpSp="130000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="23" getLevel="47" levelUpSp="130000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="18" getLevel="47" levelUpSp="130000" />
@@ -221,13 +217,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="8" getLevel="48" levelUpSp="130000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="11" getLevel="48" levelUpSp="130000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="2" getLevel="48" levelUpSp="130000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="8" getLevel="48" levelUpSp="130000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="18" getLevel="48" levelUpSp="130000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="11" getLevel="48" levelUpSp="130000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="13" getLevel="48" levelUpSp="130000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="24" getLevel="48" levelUpSp="130000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="24" getLevel="48" levelUpSp="130000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="19" getLevel="48" levelUpSp="130000" />
@@ -239,14 +235,14 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="9" getLevel="49" levelUpSp="130000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="12" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="3" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Sonic Focus" skillId="8" skillLevel="3" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="9" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="19" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="12" getLevel="49" levelUpSp="130000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="14" getLevel="49" levelUpSp="130000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="25" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="25" getLevel="49" levelUpSp="130000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="20" getLevel="49" levelUpSp="130000" />
@@ -263,13 +259,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="10" getLevel="50" levelUpSp="190000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="13" getLevel="50" levelUpSp="190000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="4" getLevel="50" levelUpSp="190000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="10" getLevel="50" levelUpSp="190000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="20" getLevel="50" levelUpSp="190000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="13" getLevel="50" levelUpSp="190000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="15" getLevel="50" levelUpSp="190000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="26" getLevel="50" levelUpSp="190000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="26" getLevel="50" levelUpSp="190000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="21" getLevel="50" levelUpSp="190000" />
@@ -290,13 +286,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="11" getLevel="51" levelUpSp="190000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="14" getLevel="51" levelUpSp="190000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="5" getLevel="51" levelUpSp="190000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="11" getLevel="51" levelUpSp="190000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="21" getLevel="51" levelUpSp="190000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="14" getLevel="51" levelUpSp="190000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="16" getLevel="51" levelUpSp="190000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="27" getLevel="51" levelUpSp="190000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="27" getLevel="51" levelUpSp="190000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="22" getLevel="51" levelUpSp="190000" />
@@ -308,13 +304,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="12" getLevel="52" levelUpSp="190000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="15" getLevel="52" levelUpSp="190000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="6" getLevel="52" levelUpSp="190000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="12" getLevel="52" levelUpSp="190000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="22" getLevel="52" levelUpSp="190000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="15" getLevel="52" levelUpSp="190000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="17" getLevel="52" levelUpSp="190000" />
+	
 		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="5" getLevel="52" levelUpSp="190000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="28" getLevel="52" levelUpSp="190000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="28" getLevel="52" levelUpSp="190000" />
@@ -333,13 +329,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="13" getLevel="53" levelUpSp="270000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="16" getLevel="53" levelUpSp="270000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="7" getLevel="53" levelUpSp="270000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="13" getLevel="53" levelUpSp="270000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="23" getLevel="53" levelUpSp="270000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="16" getLevel="53" levelUpSp="270000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="18" getLevel="53" levelUpSp="270000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="29" getLevel="53" levelUpSp="270000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="29" getLevel="53" levelUpSp="270000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="24" getLevel="53" levelUpSp="270000" />
@@ -351,13 +347,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="14" getLevel="54" levelUpSp="270000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="17" getLevel="54" levelUpSp="270000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="8" getLevel="54" levelUpSp="270000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="14" getLevel="54" levelUpSp="270000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="24" getLevel="54" levelUpSp="270000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="17" getLevel="54" levelUpSp="270000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="19" getLevel="54" levelUpSp="270000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="30" getLevel="54" levelUpSp="270000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="30" getLevel="54" levelUpSp="270000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="25" getLevel="54" levelUpSp="270000" />
@@ -370,7 +366,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="15" getLevel="55" levelUpSp="270000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="18" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="19" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="9" getLevel="55" levelUpSp="270000" />
@@ -378,7 +374,7 @@
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="15" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="25" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="18" getLevel="55" levelUpSp="270000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="20" getLevel="55" levelUpSp="270000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="31" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="31" getLevel="55" levelUpSp="270000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="26" getLevel="55" levelUpSp="270000" />
@@ -394,12 +390,12 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="16" getLevel="56" levelUpSp="370000" />
+		
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="10" getLevel="56" levelUpSp="370000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="16" getLevel="56" levelUpSp="370000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="26" getLevel="56" levelUpSp="370000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="19" getLevel="56" levelUpSp="370000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="21" getLevel="56" levelUpSp="370000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="32" getLevel="56" levelUpSp="370000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="32" getLevel="56" levelUpSp="370000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="27" getLevel="56" levelUpSp="370000" />
@@ -413,13 +409,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="17" getLevel="57" levelUpSp="370000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="20" getLevel="57" levelUpSp="370000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="11" getLevel="57" levelUpSp="370000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="17" getLevel="57" levelUpSp="370000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="27" getLevel="57" levelUpSp="370000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="20" getLevel="57" levelUpSp="370000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="22" getLevel="57" levelUpSp="370000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="33" getLevel="57" levelUpSp="370000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="33" getLevel="57" levelUpSp="370000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="28" getLevel="57" levelUpSp="370000" />
@@ -432,13 +428,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="18" getLevel="58" levelUpSp="370000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="21" getLevel="58" levelUpSp="370000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="12" getLevel="58" levelUpSp="370000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="18" getLevel="58" levelUpSp="370000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="28" getLevel="58" levelUpSp="370000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="21" getLevel="58" levelUpSp="370000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="23" getLevel="58" levelUpSp="370000" />
+
 		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="6" getLevel="58" levelUpSp="370000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="34" getLevel="58" levelUpSp="370000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="34" getLevel="58" levelUpSp="370000" />
@@ -454,13 +450,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="19" getLevel="59" levelUpSp="540000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="22" getLevel="59" levelUpSp="540000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="13" getLevel="59" levelUpSp="540000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="19" getLevel="59" levelUpSp="540000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="29" getLevel="59" levelUpSp="540000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="22" getLevel="59" levelUpSp="540000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="24" getLevel="59" levelUpSp="540000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="35" getLevel="59" levelUpSp="540000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="35" getLevel="59" levelUpSp="540000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="30" getLevel="59" levelUpSp="540000" />
@@ -473,7 +469,7 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="20" getLevel="60" levelUpSp="540000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="23" getLevel="60" levelUpSp="540000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="14" getLevel="60" levelUpSp="540000" />
 		<skill skillName="Sonic Focus" skillId="8" skillLevel="5" getLevel="60" levelUpSp="540000" />
@@ -482,7 +478,7 @@
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="30" getLevel="60" levelUpSp="540000" />
 		<skill skillName="Ability to Attack" skillId="77" skillLevel="3" getLevel="60" levelUpSp="540000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="23" getLevel="60" levelUpSp="540000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="25" getLevel="60" levelUpSp="540000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="36" getLevel="60" levelUpSp="540000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="36" getLevel="60" levelUpSp="540000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="31" getLevel="60" levelUpSp="540000" />
@@ -503,13 +499,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="21" getLevel="61" levelUpSp="540000" />
+		
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="24" getLevel="61" levelUpSp="540000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="15" getLevel="61" levelUpSp="540000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="21" getLevel="61" levelUpSp="540000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="31" getLevel="61" levelUpSp="540000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="24" getLevel="61" levelUpSp="540000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="26" getLevel="61" levelUpSp="540000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="37" getLevel="61" levelUpSp="540000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="37" getLevel="61" levelUpSp="540000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="32" getLevel="61" levelUpSp="540000" />
@@ -525,13 +521,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="22" getLevel="62" levelUpSp="670000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="25" getLevel="62" levelUpSp="670000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="16" getLevel="62" levelUpSp="670000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="22" getLevel="62" levelUpSp="670000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="32" getLevel="62" levelUpSp="670000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="25" getLevel="62" levelUpSp="670000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="27" getLevel="62" levelUpSp="670000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="38" getLevel="62" levelUpSp="670000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="38" getLevel="62" levelUpSp="670000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="33" getLevel="62" levelUpSp="670000" />
@@ -548,13 +544,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="23" getLevel="63" levelUpSp="670000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="26" getLevel="63" levelUpSp="670000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="17" getLevel="63" levelUpSp="670000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="23" getLevel="63" levelUpSp="670000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="33" getLevel="63" levelUpSp="670000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="26" getLevel="63" levelUpSp="670000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="28" getLevel="63" levelUpSp="670000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="39" getLevel="63" levelUpSp="670000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="39" getLevel="63" levelUpSp="670000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="34" getLevel="63" levelUpSp="670000" />
@@ -567,13 +563,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="24" getLevel="64" levelUpSp="840000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="27" getLevel="64" levelUpSp="840000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="18" getLevel="64" levelUpSp="840000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="24" getLevel="64" levelUpSp="840000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="34" getLevel="64" levelUpSp="840000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="27" getLevel="64" levelUpSp="840000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="29" getLevel="64" levelUpSp="840000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="40" getLevel="64" levelUpSp="840000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="40" getLevel="64" levelUpSp="840000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="35" getLevel="64" levelUpSp="840000" />
@@ -589,13 +585,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="25" getLevel="65" levelUpSp="840000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="28" getLevel="65" levelUpSp="840000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="19" getLevel="65" levelUpSp="840000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="25" getLevel="65" levelUpSp="840000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="35" getLevel="65" levelUpSp="840000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="28" getLevel="65" levelUpSp="840000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="30" getLevel="65" levelUpSp="840000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="41" getLevel="65" levelUpSp="840000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="41" getLevel="65" levelUpSp="840000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="36" getLevel="65" levelUpSp="840000" />
@@ -608,14 +604,14 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="26" getLevel="66" levelUpSp="950000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="29" getLevel="66" levelUpSp="950000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="20" getLevel="66" levelUpSp="950000" />
 		<skill skillName="Sonic Focus" skillId="8" skillLevel="6" getLevel="66" levelUpSp="950000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="26" getLevel="66" levelUpSp="950000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="36" getLevel="66" levelUpSp="950000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="29" getLevel="66" levelUpSp="950000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="31" getLevel="66" levelUpSp="950000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="42" getLevel="66" levelUpSp="950000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="42" getLevel="66" levelUpSp="950000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="37" getLevel="66" levelUpSp="950000" />
@@ -631,13 +627,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="27" getLevel="67" levelUpSp="950000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="30" getLevel="67" levelUpSp="950000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="21" getLevel="67" levelUpSp="950000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="27" getLevel="67" levelUpSp="950000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="37" getLevel="67" levelUpSp="950000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="30" getLevel="67" levelUpSp="950000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="32" getLevel="67" levelUpSp="950000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="43" getLevel="67" levelUpSp="950000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="43" getLevel="67" levelUpSp="950000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="38" getLevel="67" levelUpSp="950000" />
@@ -652,13 +648,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="28" getLevel="68" levelUpSp="1300000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="31" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="22" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="28" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="38" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="31" getLevel="68" levelUpSp="1300000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="33" getLevel="68" levelUpSp="1300000" />
+	
 		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="7" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="44" getLevel="68" levelUpSp="1300000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="44" getLevel="68" levelUpSp="1300000" />
@@ -675,13 +671,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="29" getLevel="69" levelUpSp="1300000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="32" getLevel="69" levelUpSp="1300000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="23" getLevel="69" levelUpSp="1300000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="29" getLevel="69" levelUpSp="1300000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="39" getLevel="69" levelUpSp="1300000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="32" getLevel="69" levelUpSp="1300000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="34" getLevel="69" levelUpSp="1300000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="45" getLevel="69" levelUpSp="1300000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="45" getLevel="69" levelUpSp="1300000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="40" getLevel="69" levelUpSp="1300000" />
@@ -694,14 +690,14 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="30" getLevel="70" levelUpSp="1600000" />
+
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="33" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="24" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Sonic Focus" skillId="8" skillLevel="7" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="30" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="40" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="33" getLevel="70" levelUpSp="1600000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="35" getLevel="70" levelUpSp="1600000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="46" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="46" getLevel="70" levelUpSp="1600000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="41" getLevel="70" levelUpSp="1600000" />
@@ -718,13 +714,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="31" getLevel="71" levelUpSp="1600000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="34" getLevel="71" levelUpSp="1600000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="25" getLevel="71" levelUpSp="1600000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="31" getLevel="71" levelUpSp="1600000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="41" getLevel="71" levelUpSp="1600000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="34" getLevel="71" levelUpSp="1600000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="36" getLevel="71" levelUpSp="1600000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="47" getLevel="71" levelUpSp="1600000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="47" getLevel="71" levelUpSp="1600000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="42" getLevel="71" levelUpSp="1600000" />
@@ -737,13 +733,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="32" getLevel="72" levelUpSp="1800000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="35" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="26" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="32" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="42" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="35" getLevel="72" levelUpSp="1800000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="37" getLevel="72" levelUpSp="1800000" />
+
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="48" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="48" getLevel="72" levelUpSp="1800000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="43" getLevel="72" levelUpSp="1800000" />
@@ -759,13 +755,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="33" getLevel="73" levelUpSp="1800000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="36" getLevel="73" levelUpSp="1800000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="27" getLevel="73" levelUpSp="1800000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="33" getLevel="73" levelUpSp="1800000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="43" getLevel="73" levelUpSp="1800000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="36" getLevel="73" levelUpSp="1800000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="38" getLevel="73" levelUpSp="1800000" />
+	
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="49" getLevel="73" levelUpSp="1800000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="49" getLevel="73" levelUpSp="1800000" />
 		<skill skillName="Sword / Blunt Weapon Mastery" skillId="257" skillLevel="44" getLevel="73" levelUpSp="1800000" />
@@ -778,13 +774,13 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="34" getLevel="74" levelUpSp="1800000" />
+	
 		<skill skillName="Sonic Blaster" skillId="6" skillLevel="37" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Sonic Storm" skillId="7" skillLevel="28" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Sonic Buster" skillId="9" skillLevel="34" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="44" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Dual Sword Mastery" skillId="144" skillLevel="37" getLevel="74" levelUpSp="1800000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="39" getLevel="74" levelUpSp="1800000" />
+	
 		<skill skillName="Fast HP Recovery" skillId="212" skillLevel="8" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Light Armor Mastery" skillId="227" skillLevel="50" getLevel="74" levelUpSp="1800000" />
 		<skill skillName="Heavy Armor Mastery" skillId="231" skillLevel="50" getLevel="74" levelUpSp="1800000" />
@@ -800,9 +796,8 @@
 			<removeSkill id="56" onlyReplaceByLearn="true" /> <!-- Power Shot -->
 			<removeSkill id="245" onlyReplaceByLearn="true" /> <!-- Wild Sweep -->
 		</skill>
-		<skill skillName="Double Sonic Slash" skillId="5" skillLevel="35" getLevel="75" levelUpSp="1800000" />
+	
 		<skill skillName="Emergency Rescue" skillId="70" skillLevel="45" getLevel="75" levelUpSp="1800000" />
-		<skill skillName="Fatal Strike" skillId="190" skillLevel="40" getLevel="75" levelUpSp="1800000" />
 		<skill skillName="Triple Sonic Slash" skillId="261" skillLevel="25" getLevel="75" levelUpSp="1800000" />
 	</skillTree>
 </list>

@@ -1141,6 +1141,7 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
 		<stats>
 			<stat type="pDef">88</stat>
 		</stats>
@@ -1200,6 +1201,7 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
 		<stats>
 			<stat type="pDef">59</stat>
 		</stats>

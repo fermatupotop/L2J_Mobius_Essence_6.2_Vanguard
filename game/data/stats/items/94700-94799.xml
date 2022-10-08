@@ -568,7 +568,7 @@
 			<item id="94734" min="1" max="1" chance="100" /> <!-- +4 C-grade Armor Coupon - Sealed -->
 			<item id="91641" min="100" max="100" chance="100" /> <!-- Sayha's Blessing - Sealed -->
 			<item id="49674" min="100" max="100" chance="100" /> <!-- XP Growth Scroll - Sealed -->
-			<item id="94380" min="100" max="100" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94269" min="100" max="100" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
 			<item id="91757" min="20" max="20" chance="100" /> <!-- Magic Lamp Charging Potion - Sealed -->
 			<item id="90907" min="1000" max="1000" chance="100" /> <!-- Soulshot Ticket - Sealed -->
 			<item id="3031" min="5000" max="5000" chance="100" /> <!-- Spirit Ore - Sealed -->
@@ -1567,6 +1567,7 @@
 			<skill id="50470" level="15" /> <!-- Growth Rune -->
 		</skills>
 	</item>
+	
 	<item id="94796" name="Kit: Wolf" additionalName="Sealed" type="EtcItem">
 		<!-- Double-click to obtain the following. -->
 		<set name="icon" val="icon.etc_summon_wolf_r_02" />

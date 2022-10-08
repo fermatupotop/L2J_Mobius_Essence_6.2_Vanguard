@@ -940,9 +940,7 @@
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
 			<param name="MoveAroundSocial2" value="75" />
-			<minions name="Privates">
-				<npc id="27037" count="4" respawnTime="240" weightPoint="1" />
-			</minions>
+
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
@@ -977,7 +975,7 @@
 			<height normal="22" grown="26.4" />
 		</collision>
 	</npc>
-	<npc id="27037" level="60" type="Monster" name="Calpico's Pawn" title="Spot Defender">
+	<npc id="27037" level="60" type="Monster" name="Diktator" title="Spot Defender">
 		<parameters>
 			<param name="MoveAroundSocial" value="138" />
 			<param name="MoveAroundSocial1" value="138" />

@@ -16,10 +16,14 @@
  */
 package handlers.skillconditionhandlers;
 
+import org.l2jmobius.gameserver.data.xml.CategoryData;
+import org.l2jmobius.gameserver.data.xml.TransformData;
+import org.l2jmobius.gameserver.enums.CategoryType;
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.WorldObject;
 import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.actor.transform.Transform;
 import org.l2jmobius.gameserver.model.skill.ISkillCondition;
 import org.l2jmobius.gameserver.model.skill.Skill;
 import org.l2jmobius.gameserver.network.SystemMessageId;
@@ -29,12 +33,12 @@ import org.l2jmobius.gameserver.network.SystemMessageId;
  */
 public class CanTransformSkillCondition implements ISkillCondition
 {
-	// TODO: What to do with this?
-	// private final int _transformId;
+	
+	private final int _transformId;
 	
 	public CanTransformSkillCondition(StatSet params)
 	{
-		// _transformId = params.getInt("transformId");
+		_transformId = params.getInt("transformId");
 	}
 	
 	@Override
@@ -65,6 +69,15 @@ public class CanTransformSkillCondition implements ISkillCondition
 		{
 			player.sendPacket(SystemMessageId.YOU_CANNOT_TRANSFORM_WHILE_RIDING_A_PET);
 			canTransform = false;
+		}
+		else if (CategoryData.getInstance().isInCategory(CategoryType.VANGUARD_ALL_CLASS, player.getClassId().getId()))
+		{
+			final Transform transform = TransformData.getInstance().getTransform(_transformId);
+			if (transform.isRiding())
+			{
+				player.sendPacket(SystemMessageId.YOU_CANNOT_TRANSFORM_WHILE_RIDING_A_PET);
+				canTransform = false;
+			}
 		}
 		return canTransform;
 	}

@@ -1573,6 +1573,10 @@
 		<reward id="94790" count="1" type="ON_SUCCESS" /> <!-- Growth Rune Lv. 10 - Sealed -->
 		<reward id="94786" count="1" type="ON_FAILURE" /> <!-- Growth Rune Lv. 6 - Sealed -->
 	</item>
+	
+
+	
+	
 	<item one="95783" two="95783" commission="10000" chance="70"> <!-- Aden's Soul Crystal Lv. 1 - Weapon / Aden's Soul Crystal Lv. 1 - Weapon -->
 		<reward id="95784" count="1" type="ON_SUCCESS" /> <!-- Aden's Soul Crystal Lv. 2 - Weapon -->
 		<reward id="95783" count="1" type="ON_FAILURE" /> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
