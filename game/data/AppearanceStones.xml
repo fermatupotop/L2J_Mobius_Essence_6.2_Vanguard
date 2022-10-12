@@ -25,5 +25,6 @@
 		<visual id="94037" weaponType="DUAL" handType="TWO_HANDED" />
 		<visual id="94038" weaponType="DUALDAGGER" handType="TWO_HANDED" />
 		<visual id="94039" weaponType="DUALBLUNT" handType="TWO_HANDED" />
+		<visual id="95698" weaponType="PISTOLS" handType="TWO_HANDED"/>
 	</appearance_stone>
 </list>

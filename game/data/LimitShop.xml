@@ -103,10 +103,6 @@
 		<ingredient id="91663" count="10" /> <!-- L-Coin -->
 		<production id="94271" /> <!-- Scroll: Enchant Defence -->
 	</product>
-	<product id="307" category="2">
-		<ingredient id="91663" count="10" /> <!-- L-Coin -->
-		<production id="91690" accountDailyLimit="300"/> <!-- Special HP Recovery Potion -->
-	</product>
 	<product id="308" category="2">
 		<ingredient id="91663" count="10" /> <!-- L-Coin -->
 		<production id="1538" /> <!-- Blessed Scroll of Escape  -->

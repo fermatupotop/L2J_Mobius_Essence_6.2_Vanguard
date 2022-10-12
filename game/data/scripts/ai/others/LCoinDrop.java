@@ -24,8 +24,6 @@ import org.l2jmobius.gameserver.model.events.ListenerRegisterType;
 import org.l2jmobius.gameserver.model.events.annotations.RegisterEvent;
 import org.l2jmobius.gameserver.model.events.annotations.RegisterType;
 import org.l2jmobius.gameserver.model.events.impl.creature.npc.OnAttackableKill;
-import org.l2jmobius.gameserver.model.variables.PlayerVariables;
-import org.l2jmobius.gameserver.network.serverpackets.ExShowScreenMessage;
 
 import ai.AbstractNpcAI;
 
@@ -36,7 +34,7 @@ public class LCoinDrop extends AbstractNpcAI
 {
 	private static final int LEVEL_DIFFERENCE = 15;
 	private static final int COIN_ID = 91663; // coin drop ID
-	private static final int MAX_DROPS = 86400; // coin max daily drop
+	
 	private int count = 10;
 	private static final long TIMEOUT = 20000; // in milliseconds
 	
@@ -50,8 +48,8 @@ public class LCoinDrop extends AbstractNpcAI
 			final Player player = event.getAttacker().getActingPlayer();
 			if ((player != null) && (Math.abs(player.getLevel() - creature.getLevel()) <= LEVEL_DIFFERENCE))
 			{
-				int currentCount = player.getVariables().getInt(PlayerVariables.DAILY_L_COIN_DROP, 0);
-				if (!player.getCoinTimeout() && (currentCount < MAX_DROPS))
+				
+				if (!player.getCoinTimeout())
 				{
 					
 					if ((player.getLevel() > 0) && (player.getLevel() < 40))
@@ -102,19 +100,9 @@ public class LCoinDrop extends AbstractNpcAI
 					{
 						count = 20;
 					}
-					if ((currentCount + count) > MAX_DROPS)
-					{
-						count = MAX_DROPS - currentCount;
-					}
+					
 					player.addItem("Coin", COIN_ID, count, player, true);
-					player.getVariables().set(PlayerVariables.DAILY_L_COIN_DROP, currentCount + count);
 					player.setCoinTimeout(true);
-					if (player.getVariables().getInt(PlayerVariables.DAILY_L_COIN_DROP, 0) >= MAX_DROPS)
-					{
-						String s = "You have reached your daily limit for L Coin Drops.";
-						player.sendPacket(new ExShowScreenMessage(s, ExShowScreenMessage.TOP_CENTER, 10000));
-						player.sendMessage(s);
-					}
 					ThreadPool.schedule(() ->
 					{
 						player.setCoinTimeout(false);

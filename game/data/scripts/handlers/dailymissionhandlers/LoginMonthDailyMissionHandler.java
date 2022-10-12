@@ -49,30 +49,17 @@ public class LoginMonthDailyMissionHandler extends AbstractDailyMissionHandler
 		Containers.Global().addListener(new ConsumerEventListener(this, EventType.ON_PLAYER_LOGIN, (OnPlayerLogin event) -> onPlayerLogin(event), this));
 	}
 	
-	@Override
-	public void reset()
-	{
-		// Monthly rewards do not reset daily.
-	}
-	
 	private void onPlayerLogin(OnPlayerLogin event)
 	{
 		final DailyMissionPlayerEntry entry = getPlayerEntry(event.getPlayer().getObjectId(), true);
-		final long lastCompleted = entry.getLastCompleted();
-		if (lastCompleted == 0) // Initial entry.
+		
+		if (entry.getStatus() != DailyMissionStatus.COMPLETED)
 		{
-			entry.setLastCompleted(System.currentTimeMillis());
-		}
-		else if ((System.currentTimeMillis() - lastCompleted) > 2506000000L) // 2506000000L (29 day) delay.
-		{
+			
 			entry.setProgress(1);
 			entry.setStatus(DailyMissionStatus.AVAILABLE);
 		}
-		else
-		{
-			entry.setProgress(0);
-			entry.setStatus(DailyMissionStatus.NOT_AVAILABLE);
-		}
+		
 		storePlayerEntry(entry);
 	}
 }

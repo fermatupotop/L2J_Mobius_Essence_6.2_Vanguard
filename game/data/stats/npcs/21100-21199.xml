@@ -5023,7 +5023,7 @@
 			<height normal="45" />
 		</collision>
 	</npc>
-	<npc id="21181" level="66" type="Monster" name="Lilim Assassin">
+	<npc id="21181" level="85" type="Monster" name="Mahum Assassin" title="Spot Defender">
 		<parameters>
 			<param name="MoveAroundSocial" value="75" />
 			<param name="MoveAroundSocial1" value="75" />
@@ -5039,15 +5039,15 @@
 		<sex>MALE</sex>
 		<equipment rhand="234" lhand="234" /> <!-- Demon's Dagger / Demon's Dagger -->
 		<acquire exp="50613" sp="1518" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="2367.80290477825" hpRegen="7.5" mp="1219.8" mpRegen="2.7" />
-			<attack physical="603.79903" magical="412.31647" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
-			<defence physical="276.72752" magical="202.49719" />
+<stats str="65" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="40615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
+			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="1631.34198" magical="795.84" />
 			<speed>
-				<walk ground="36" />
-				<run ground="190" />
+				<walk ground="70" />
+				<run ground="170" />
 			</speed>
-			<hitTime>460</hitTime>
+			<hitTime>760</hitTime>
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
@@ -5067,23 +5067,6 @@
 		</skillList>
 		<exCrtEffect>false</exCrtEffect>
 		<sNpcPropHpRate>4</sNpcPropHpRate>
-		<ai clanHelpRange="400" aggroRange="450">
-			<clanList>
-				<clan>C_DUNGEON</clan>
-				<ignoreNpcId>21196</ignoreNpcId> <!-- Nephilim Sentinel -->
-				<ignoreNpcId>21197</ignoreNpcId> <!-- Nephilim Priest -->
-				<ignoreNpcId>21198</ignoreNpcId> <!-- Nephilim Swordsman -->
-				<ignoreNpcId>21199</ignoreNpcId> <!-- Nephilim Guard -->
-				<ignoreNpcId>21200</ignoreNpcId> <!-- Nephilim Bishop -->
-				<ignoreNpcId>21201</ignoreNpcId> <!-- Nephilim Centurion -->
-				<ignoreNpcId>21202</ignoreNpcId> <!-- Nephilim Scout -->
-				<ignoreNpcId>21203</ignoreNpcId> <!-- Nephilim Archbishop -->
-				<ignoreNpcId>21204</ignoreNpcId> <!-- Nephilim Praetorian -->
-				<ignoreNpcId>21205</ignoreNpcId> <!-- Nephilim Royal Guard -->
-				<ignoreNpcId>21206</ignoreNpcId> <!-- Nephilim Cardinal -->
-				<ignoreNpcId>21207</ignoreNpcId> <!-- Nephilim Commander -->
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="13" />
 			<height normal="44" />

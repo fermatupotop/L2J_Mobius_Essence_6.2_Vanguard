@@ -1515,13 +1515,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1280" max="1415" chance="70" /> <!-- Adena -->
+				<item id="57" min="1280" max="2115" chance="70" /> <!-- Adena -->
 				<item id="92821" min="1" max="1" chance="0.0454" /> <!-- Sealed Dark Crystal Boot Lining -->
 				<item id="92842" min="1" max="1" chance="0.0019" /> <!-- Elysian Head -->
 				<item id="92843" min="1" max="1" chance="0.0019" /> <!-- Soul Bow Shaft -->
 				<item id="92861" min="1" max="1" chance="0.0604" /> <!-- Sealed Phoenix Ring Gemstone -->
 				<item id="95783" min="1" max="1" chance="0.0061" /> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
-				<item id="91745" min="1" max="1" chance="0.0013" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
 				<item id="164" min="1" max="1" chance="0.001" /> <!-- Elysian -->
 				<item id="289" min="1" max="1" chance="0.001" /> <!-- Soul Bow -->
 				<item id="5291" min="1" max="1" chance="0.0011" /> <!-- Sealed Dark Crystal Boots -->
@@ -1576,8 +1576,9 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1391" max="1537" chance="70" /> <!-- Adena -->
-				<item id="91745" min="1" max="1" chance="0.0135" /> <!-- Talisman of Aden - Sealed -->
+				<item id="57" min="1391" max="2315" chance="70" /> <!-- Adena -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+				<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -1623,8 +1624,10 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1707" max="1886" chance="70" /> <!-- Adena -->
-				<item id="91745" min="1" max="1" chance="0.0166" /> <!-- Talisman of Aden - Sealed -->
+				<item id="57" min="1707" max="2615" chance="70" /> <!-- Adena -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 			</drop>
 		</dropLists>
 	</npc>
@@ -1665,16 +1668,18 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1280" max="1415" chance="70" /> <!-- Adena -->
+				<item id="57" min="1280" max="2315" chance="70" /> <!-- Adena -->
 				<item id="92809" min="1" max="1" chance="0.0151" /> <!-- Sealed Dark Crystal Leather Armor Pattern -->
 				<item id="92838" min="1" max="1" chance="0.0019" /> <!-- Dragon Slayer Edge -->
 				<item id="92858" min="1" max="1" chance="0.027" /> <!-- Sealed Majestic Earring Gemstone -->
 				<item id="92896" min="1" max="1" chance="0.0019" /> <!-- Doom Crusher Head -->
-				<item id="91745" min="1" max="1" chance="0.0015" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
 				<item id="81" min="1" max="1" chance="0.001" /> <!-- Dragon Slayer -->
 				<item id="5297" min="1" max="1" chance="0.001" /> <!-- Sealed Dark Crystal Leather Armor -->
 				<item id="6327" min="1" max="1" chance="0.001" /> <!-- Sealed Majestic Earring -->
 				<item id="7902" min="1" max="1" chance="0.001" /> <!-- Doom Crusher -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 			</drop>
 			<spoil>
 				<item id="5332" min="1" max="1" chance="0.0036" /> <!-- Recipe: Sealed Dark Crystal Leather Armor (60%) -->
@@ -1725,8 +1730,10 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1391" max="1537" chance="70" /> <!-- Adena -->
-				<item id="91745" min="1" max="1" chance="0.0135" /> <!-- Talisman of Aden - Sealed -->
+				<item id="57" min="1391" max="2415" chance="70" /> <!-- Adena -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 			</drop>
 		</dropLists>
 	</npc>
@@ -1766,7 +1773,7 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1273" max="1406" chance="70" /> <!-- Adena -->
+				<item id="57" min="1273" max="2415" chance="70" /> <!-- Adena -->
 				<item id="92819" min="1" max="1" chance="0.055" /> <!-- Sealed Dark Crystal Shield Fragment -->
 				<item id="92821" min="1" max="1" chance="0.0578" /> <!-- Sealed Dark Crystal Boot Lining -->
 				<item id="92843" min="1" max="1" chance="0.0025" /> <!-- Soul Bow Shaft -->
@@ -1825,12 +1832,14 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1597" max="1765" chance="70" /> <!-- Adena -->
+				<item id="57" min="1597" max="2615" chance="70" /> <!-- Adena -->
 				<item id="92825" min="1" max="1" chance="0.0725" /> <!-- Sealed Dark Crystal Glove Design -->
 				<item id="92834" min="1" max="1" chance="0.0483" /> <!-- Sealed Dark Crystal Helmet Design -->
 				<item id="92846" min="1" max="1" chance="0.0031" /> <!-- Soul Separator Head -->
 				<item id="92853" min="1" max="1" chance="0.0031" /> <!-- Dark Legion's Edge Blade -->
-				<item id="91745" min="1" max="1" chance="0.0024" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 				<item id="236" min="1" max="1" chance="0.001" /> <!-- Soul Separator -->
 				<item id="2500" min="1" max="1" chance="0.001" /> <!-- Dark Legion's Edge -->
 				<item id="5289" min="1" max="1" chance="0.0015" /> <!-- Sealed Dark Crystal Helmet -->
@@ -1885,11 +1894,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1886" max="2084" chance="70" /> <!-- Adena -->
+				<item id="57" min="1886" max="3084" chance="70" /> <!-- Adena -->
 				<item id="92838" min="1" max="1" chance="0.0074" /> <!-- Dragon Slayer Edge -->
 				<item id="92842" min="1" max="1" chance="0.0074" /> <!-- Elysian Head -->
 				<item id="95783" min="1" max="1" chance="0.0137" /> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
-				<item id="91745" min="1" max="1" chance="0.0028" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 				<item id="81" min="1" max="1" chance="0.001" /> <!-- Dragon Slayer -->
 				<item id="164" min="1" max="1" chance="0.001" /> <!-- Elysian -->
 				<item id="91903" min="1" max="1" chance="0.001" /> <!-- Lacerator -->
@@ -1938,9 +1949,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1273" max="1406" chance="70" /> <!-- Adena -->
+				<item id="57" min="1273" max="2215" chance="70" /> <!-- Adena -->
 				<item id="92853" min="1" max="1" chance="0.0099" /> <!-- Dark Legion's Edge Blade -->
-				<item id="91745" min="1" max="1" chance="0.0024" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+				<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 				<item id="2500" min="1" max="1" chance="0.001" /> <!-- Dark Legion's Edge -->
 				<item id="5706" min="1" max="1" chance="0.001" /> <!-- Damascus Sword*Damascus Sword -->
 				<item id="91888" min="1" max="1" chance="0.001" /> <!-- Undertaker -->
@@ -1987,8 +2000,10 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="3884" max="4292" chance="70" /> <!-- Adena -->
-				<item id="91745" min="1" max="1" chance="0.0483" /> <!-- Talisman of Aden - Sealed -->
+				<item id="57" min="3884" max="5292" chance="70" /> <!-- Adena -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 			</drop>
 		</dropLists>
 	</npc>
@@ -2028,9 +2043,11 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="3655" max="4040" chance="70" /> <!-- Adena -->
-				<item id="91745" min="1" max="1" chance="0.0227" /> <!-- Talisman of Aden - Sealed -->
-				<item id="91888" min="1" max="1" chance="0.001" /> <!-- Undertaker -->
+				<item id="57" min="3655" max="5040" chance="70" /> <!-- Adena -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91888" min="1" max="1" chance="1" /> <!-- Undertaker -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 			</drop>
 		</dropLists>
 	</npc>
@@ -2071,10 +2088,12 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="3115" max="3442" chance="70" /> <!-- Adena -->
+				<item id="57" min="3115" max="4442" chance="70" /> <!-- Adena -->
 				<item id="92853" min="1" max="1" chance="0.0122" /> <!-- Dark Legion's Edge Blade -->
 				<item id="92896" min="1" max="1" chance="0.0122" /> <!-- Doom Crusher Head -->
-				<item id="91745" min="1" max="1" chance="0.0078" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 				<item id="2500" min="1" max="1" chance="0.001" /> <!-- Dark Legion's Edge -->
 				<item id="7902" min="1" max="1" chance="0.001" /> <!-- Doom Crusher -->
 			</drop>
@@ -2123,11 +2142,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="2812" max="3108" chance="70" /> <!-- Adena -->
-				<item id="92817" min="1" max="1" chance="0.0688" /> <!-- Sealed Majestic Robe Fabric -->
-				<item id="91745" min="1" max="1" chance="0.007" /> <!-- Talisman of Aden - Sealed -->
-				<item id="5329" min="1" max="1" chance="0.001" /> <!-- Sealed Majestic Robe -->
-				<item id="91903" min="1" max="1" chance="0.001" /> <!-- Lacerator -->
+				<item id="57" min="2812" max="4108" chance="70" /> <!-- Adena -->
+				<item id="92817" min="1" max="1" chance="1" /> <!-- Sealed Majestic Robe Fabric -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
+				<item id="5329" min="1" max="1" chance="1" /> <!-- Sealed Majestic Robe -->
+				<item id="91903" min="1" max="1" chance="1" /> <!-- Lacerator -->
 			</drop>
 			<spoil>
 				<item id="5352" min="1" max="1" chance="0.0163" /> <!-- Recipe: Sealed Majestic Robe (60%) -->
@@ -2172,10 +2193,12 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="2188" max="2418" chance="70" /> <!-- Adena -->
-				<item id="92849" min="1" max="1" chance="0.017" /> <!-- Tallum Glaive Edge -->
-				<item id="91745" min="1" max="1" chance="0.0082" /> <!-- Talisman of Aden - Sealed -->
-				<item id="305" min="1" max="1" chance="0.001" /> <!-- Tallum Glaive -->
+				<item id="57" min="2188" max="2918" chance="70" /> <!-- Adena -->
+				<item id="92849" min="1" max="1" chance="1" /> <!-- Tallum Glaive Edge -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
+				<item id="305" min="1" max="1" chance="1" /> <!-- Tallum Glaive -->
 			</drop>
 			<spoil>
 				<item id="5456" min="1" max="1" chance="0.004" /> <!-- Recipe: Tallum Glaive (60%) -->
@@ -2220,11 +2243,13 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="2070" max="2287" chance="70" /> <!-- Adena -->
+				<item id="57" min="2070" max="2987" chance="70" /> <!-- Adena -->
 				<item id="92825" min="1" max="1" chance="0.1253" /> <!-- Sealed Dark Crystal Glove Design -->
 				<item id="92842" min="1" max="1" chance="0.0054" /> <!-- Elysian Head -->
 				<item id="92843" min="1" max="1" chance="0.0054" /> <!-- Soul Bow Shaft -->
-				<item id="91745" min="1" max="1" chance="0.0039" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 				<item id="164" min="1" max="1" chance="0.001" /> <!-- Elysian -->
 				<item id="289" min="1" max="1" chance="0.001" /> <!-- Soul Bow -->
 				<item id="5290" min="1" max="1" chance="0.0035" /> <!-- Sealed Dark Crystal Gloves -->
@@ -2275,23 +2300,25 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1422" max="1571" chance="70" /> <!-- Adena -->
+				<item id="57" min="1422" max="2371" chance="70" /> <!-- Adena -->
 				<item id="49756" min="1" max="1" chance="0.0046" /> <!-- Cloth Piece -->
 				<item id="92476" min="1" max="1" chance="2.2975" /> <!-- Metal Ingot -->
 				<item id="92477" min="1" max="1" chance="2.2975" /> <!-- Wood -->
 				<item id="92480" min="1" max="1" chance="2.2975" /> <!-- Leather -->
-				<item id="92821" min="1" max="1" chance="0.0258" /> <!-- Sealed Dark Crystal Boot Lining -->
-				<item id="92824" min="1" max="1" chance="0.017" /> <!-- Sealed Majestic Boot Lining -->
-				<item id="92825" min="1" max="1" chance="0.0258" /> <!-- Sealed Dark Crystal Glove Design -->
-				<item id="92842" min="1" max="1" chance="0.0011" /> <!-- Elysian Head -->
+				<item id="92821" min="1" max="1" chance="1" /> <!-- Sealed Dark Crystal Boot Lining -->
+				<item id="92824" min="1" max="1" chance="1" /> <!-- Sealed Majestic Boot Lining -->
+				<item id="92825" min="1" max="1" chance="1" /> <!-- Sealed Dark Crystal Glove Design -->
+				<item id="92842" min="1" max="1" chance="1" /> <!-- Elysian Head -->
 				<item id="92846" min="1" max="1" chance="0.0011" /> <!-- Soul Separator Head -->
 				<item id="95569" min="1" max="1" chance="0.023" /> <!-- Adena Pouch - Sealed -->
-				<item id="91745" min="1" max="1" chance="0.0018" /> <!-- Talisman of Aden - Sealed -->
-				<item id="164" min="1" max="1" chance="0.001" /> <!-- Elysian -->
-				<item id="236" min="1" max="1" chance="0.001" /> <!-- Soul Separator -->
-				<item id="5290" min="1" max="1" chance="0.0016" /> <!-- Sealed Dark Crystal Gloves -->
-				<item id="5291" min="1" max="1" chance="0.0016" /> <!-- Sealed Dark Crystal Boots -->
-				<item id="5319" min="1" max="1" chance="0.0011" /> <!-- Sealed Majestic Boots -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
+				<item id="164" min="1" max="1" chance="1" /> <!-- Elysian -->
+				<item id="236" min="1" max="1" chance="1" /> <!-- Soul Separator -->
+				<item id="5290" min="1" max="1" chance="1" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5291" min="1" max="1" chance="1" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5319" min="1" max="1" chance="1" /> <!-- Sealed Majestic Boots -->
 			</drop>
 			<spoil>
 				<item id="5368" min="1" max="1" chance="0.0122" /> <!-- Recipe: Sealed Dark Crystal Boots (60%) -->
@@ -2343,7 +2370,7 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="1784" max="1972" chance="70" /> <!-- Adena -->
+				<item id="57" min="1784" max="2772" chance="70" /> <!-- Adena -->
 				<item id="49756" min="1" max="1" chance="0.0058" /> <!-- Cloth Piece -->
 				<item id="92476" min="1" max="1" chance="2.8837" /> <!-- Metal Ingot -->
 				<item id="92477" min="1" max="1" chance="2.8837" /> <!-- Wood -->
@@ -2354,7 +2381,9 @@
 				<item id="92846" min="1" max="1" chance="0.0014" /> <!-- Soul Separator Head -->
 				<item id="92854" min="1" max="1" chance="0.0014" /> <!-- Sword of Miracles Edge -->
 				<item id="95569" min="1" max="1" chance="0.0288" /> <!-- Adena Pouch - Sealed -->
-				<item id="91745" min="1" max="1" chance="0.0022" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 				<item id="151" min="1" max="1" chance="0.001" /> <!-- Sword of Miracles -->
 				<item id="236" min="1" max="1" chance="0.001" /> <!-- Soul Separator -->
 				<item id="5290" min="1" max="1" chance="0.002" /> <!-- Sealed Dark Crystal Gloves -->
@@ -2412,7 +2441,7 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="2108" max="2329" chance="70" /> <!-- Adena -->
+				<item id="57" min="2108" max="3229" chance="70" /> <!-- Adena -->
 				<item id="49756" min="1" max="1" chance="0.0068" /> <!-- Cloth Piece -->
 				<item id="92476" min="1" max="1" chance="3.4068" /> <!-- Metal Ingot -->
 				<item id="92477" min="1" max="1" chance="3.4068" /> <!-- Wood -->
@@ -2423,7 +2452,9 @@
 				<item id="92852" min="1" max="1" chance="0.0016" /> <!-- Branch of the Mother Tree Head -->
 				<item id="92854" min="1" max="1" chance="0.0016" /> <!-- Sword of Miracles Edge -->
 				<item id="95569" min="1" max="1" chance="0.0341" /> <!-- Adena Pouch - Sealed -->
-				<item id="91745" min="1" max="1" chance="0.0026" /> <!-- Talisman of Aden - Sealed -->
+				<item id="91745" min="1" max="1" chance="1" /> <!-- Talisman of Aden - Sealed -->
+								<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 				<item id="151" min="1" max="1" chance="0.001" /> <!-- Sword of Miracles -->
 				<item id="213" min="1" max="1" chance="0.001" /> <!-- Branch of the Mother Tree -->
 				<item id="5289" min="1" max="1" chance="0.0016" /> <!-- Sealed Dark Crystal Helmet -->
@@ -2481,13 +2512,15 @@
 		<dropLists>
 			<drop>
 				<group chance="70">
-					<item id="57" min="1085" max="2531" chance="100" /> <!-- Adena -->
+					<item id="57" min="1085" max="3231" chance="100" /> <!-- Adena -->
 				</group>
 				<group chance="0.6485">
 					<item id="92915" min="1" max="1" chance="13.9438" /> <!-- Material: Bag of Low-grade Stuff - Sealed -->
 					<item id="92916" min="1" max="1" chance="6.9719" /> <!-- Material: Animal Spirit - Sealed -->
 					<item id="92917" min="1" max="1" chance="2.324" /> <!-- Material: Metal Ingot - Sealed -->
-					<item id="94328" min="1" max="1" chance="0.0697" /> <!-- Elixir Powder - Sealed -->
+					<item id="94328" min="1" max="1" chance="0.1" /> <!-- Elixir Powder - Sealed -->
+									<item id="96623" min="1" max="1" chance="1" /> <!-- Dye Powder -->
+
 					<item id="92995" min="1" max="1" chance="69.7188" /> <!-- Drained Thons - Sealed -->
 					<item id="92994" min="1" max="1" chance="6.9718" /> <!-- Drained Asofe - Sealed -->
 				</group>

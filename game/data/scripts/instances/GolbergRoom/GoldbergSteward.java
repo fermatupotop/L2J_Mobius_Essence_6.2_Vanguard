@@ -15,7 +15,7 @@ public class GoldbergSteward extends AbstractNpcAI
 {
 	
 	private static final int STEWARD = 18358;
-	private static final Duration STEWARD_RESPAWN_DURATION = Duration.ofMinutes(2);
+	private static final Duration STEWARD_RESPAWN_DURATION = Duration.ofMinutes(30);
 	
 	private static final Location[] SPAWNS =
 	{

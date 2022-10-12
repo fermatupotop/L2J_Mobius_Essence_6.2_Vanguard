@@ -489,31 +489,7 @@ Essence Waytrel x3 Special Craft item list
 		<ingredient id="96623" count="10" /> <!-- Dye Powder -->
 		<production id="96630" count="3" chance="8" id2="96630" count2="1" chance2="67" id3="96623" count3="2" chance3="25" accountBuyLimit="20" /> <!-- Enhanced Dye Powder -->
 	</product>
-	<product id="2305" category="4">
-		<ingredient id="93906" count="1" /> <!-- Zaken's Crystal -->
-		<ingredient id="57" count="13000000" /> <!-- Adena -->
-		<production id="95781" chance="3.5" id2="95782" count2="85" accountBuyLimit="20" /> <!-- Black Frozen Core -->
-	</product>
-	<product id="2306" category="4">
-		<ingredient id="93907" count="1" /> <!-- Orfen's Crystal -->
-		<ingredient id="57" count="13000000" /> <!-- Adena -->
-		<production id="95781" chance="3.5" id2="95782" count2="85" accountBuyLimit="20" /> <!-- Black Frozen Core -->
-	</product>
-	<product id="2307" category="4">
-		<ingredient id="93908" count="1" /> <!-- Core's Crystal -->
-		<ingredient id="57" count="13000000" /> <!-- Adena -->
-		<production id="95781" chance="3.5" id2="95782" count2="85" accountBuyLimit="20" /> <!-- Black Frozen Core -->
-	</product>
-	<product id="2308" category="4">
-		<ingredient id="93909" count="1" /> <!-- Baium's Crystal -->
-		<ingredient id="57" count="13000000" /> <!-- Adena -->
-		<production id="95781" chance="3.5" id2="95782" count2="85" accountBuyLimit="20" /> <!-- Black Frozen Core -->
-	</product>
-	<product id="2309" category="4">
-		<ingredient id="93910" count="1" /> <!-- Queen Ant's Crystal -->
-		<ingredient id="57" count="13000000" /> <!-- Adena -->
-		<production id="95781" chance="3.5" id2="95782" count2="85" accountBuyLimit="20" /> <!-- Black Frozen Core -->
-	</product>
+	
 	<product id="2863" category="5">
 		<ingredient id="92314" count="126" /> <!-- Giran Seal -->
 		<production id="94299" count="1" chance="5" id2="94300" count2="1" chance2="15" id3="92314" count3="8" chance3="8" accountBuyLimit="20" /> 

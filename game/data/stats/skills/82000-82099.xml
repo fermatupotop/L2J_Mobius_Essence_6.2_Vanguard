@@ -840,7 +840,7 @@
 					<value level="19">24</value>
 					<value level="20">25</value>
 				</chance>
-				<targetType>TARGET</targetType>
+				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>82016</skillId> <!-- Silence Attack -->
@@ -903,13 +903,14 @@
 		<effectRange>500</effectRange>
 		<hitTime>3000</hitTime>
 		<isDebuff>true</isDebuff>
+		<canBeDispelled>false</canBeDispelled>
 		<isMagic>1</isMagic> <!-- Magic Skill -->
 		<lvlBonusRate>2</lvlBonusRate>
 		<magicLevel>90</magicLevel>
 		<operateType>A2</operateType>
 		<magicCriticalRate>-5</magicCriticalRate>
 		<abnormalVisualEffect>SILENCE</abnormalVisualEffect>
-		<trait>DERANGEMENT</trait>
+		<trait>SILENCE</trait>
 		<targetType>ENEMY_ONLY</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>

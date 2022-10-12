@@ -79,13 +79,11 @@ public class MonsterArena extends AbstractInstance
 		25838, // Spicula
 	};
 	// Rewards
-	private static final int BATTLE_BOX_1 = 90913;
-	private static final int BATTLE_BOX_2 = 90913;
-	private static final int BATTLE_BOX_3 = 90914;
+	private static final int BATTLE_BOX_1 = 90911;
+	private static final int BATTLE_BOX_2 = 90912;
+	private static final int BATTLE_BOX_3 = 90913;
 	private static final int BATTLE_BOX_4 = 90914;
-	private static final int VALOR_BOX = 90915;
-	private static final int TICKET_M = 90946;
-	private static final int TICKET_H = 90947;
+	
 	// Skill
 	private static final int CLAN_EXUBERANCE = 1867;
 	// Misc
@@ -249,19 +247,6 @@ public class MonsterArena extends AbstractInstance
 						giveItems(player, BATTLE_BOX_1, 1);
 					}
 					
-					// Rare reward.
-					if (getRandom(100) < 1) // 1% chance.
-					{
-						giveItems(player, VALOR_BOX, 1);
-					}
-					else if (getRandom(100) < 1) // 1% chance.
-					{
-						giveItems(player, TICKET_M, 1);
-					}
-					else if (getRandom(100) < 1) // 1% chance.
-					{
-						giveItems(player, TICKET_H, 1);
-					}
 				}
 				break;
 			}

@@ -42,6 +42,7 @@
 		<xs:attribute type="xs:boolean" name="isMainClassOnly" />
 		<xs:attribute type="xs:boolean" name="isDualClassOnly" />
 		<xs:attribute type="xs:boolean" name="isDisplayedWhenNotAvailable" />
+		<xs:attribute type="xs:string" name="duration" />
 	</xs:complexType>
 	<xs:complexType name="listType">
 		<xs:sequence>

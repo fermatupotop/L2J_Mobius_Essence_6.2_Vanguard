@@ -77,8 +77,8 @@ public class BeforeStart extends AbstractNpcAI
 	//
 	// }
 	
-	public static void main(String[] args)
-	{
-		new BeforeStart();
-	}
+	// public static void main(String[] args)
+	// {
+	// new BeforeStart();
+	// }
 }

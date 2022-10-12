@@ -1062,7 +1062,6 @@
 			<item id="94042" min="1" max="1" chance="100" /> <!-- Emerald Weapon Appearance Stone - Sealed -->
 			<item id="94046" min="1" max="1" chance="100" /> <!-- Spellbook: Glorious Warrior's Ability Lv. 1 - Sealed -->
 			<item id="94755" min="1" max="1" chance="100" /> <!-- Half Mask of Glory - Sealed -->
-			<item id="94764" min="2" max="2" chance="100" /> <!-- Stylish Color Title - Sealed -->
 		</capsuled_items>
 	</item>
 	<item id="94766" name="Elite Golden Ticket (Time-limited)" type="EtcItem">

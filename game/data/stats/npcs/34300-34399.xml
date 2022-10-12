@@ -378,7 +378,7 @@
 			<height normal="20" />
 		</collision>
 	</npc>
-	<npc id="34319" level="85" type="Folk" name="Grill" title="Assistant">
+	<npc id="34319" level="85" type="Teleporter" name="Grill" title="Assistant">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
 		<race>ETC</race>
 		<sex>FEMALE</sex>

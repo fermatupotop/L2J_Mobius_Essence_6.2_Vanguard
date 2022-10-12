@@ -1174,8 +1174,8 @@
 		<set name="handler" val="ExtractableItems" />
 		<capsuled_items>
 			<item id="91712" min="10" max="10" chance="100" /> <!-- Sayha's Storm Lv. 3 - Sealed -->
-			<item id="94380" min="10" max="10" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
-			<item id="94381" min="10" max="10" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="94269" min="10" max="10" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94271" min="10" max="10" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
 			<item id="91757" min="2" max="2" chance="100" /> <!-- Magic Lamp Charging Potion - Sealed -->
 			<item id="90907" min="100" max="100" chance="100" /> <!-- Soulshot Ticket - Sealed -->
 			<item id="95682" min="1" max="1" chance="100" /> <!-- Premium Growth Kit (Lv. 65) - Sealed -->
@@ -1193,8 +1193,8 @@
 		<set name="handler" val="ExtractableItems" />
 		<capsuled_items>
 			<item id="91712" min="10" max="10" chance="100" /> <!-- Sayha's Storm Lv. 3 - Sealed -->
-			<item id="94380" min="10" max="10" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
-			<item id="94381" min="10" max="10" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="94269" min="10" max="10" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94271" min="10" max="10" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
 			<item id="91757" min="4" max="4" chance="100" /> <!-- Magic Lamp Charging Potion - Sealed -->
 			<item id="90907" min="100" max="100" chance="100" /> <!-- Soulshot Ticket - Sealed -->
 			<item id="49087" min="10" max="10" chance="100" /> <!-- Blessed Scroll of Escape -->
@@ -1213,8 +1213,8 @@
 		<set name="handler" val="ExtractableItems" />
 		<capsuled_items>
 			<item id="91712" min="20" max="20" chance="100" /> <!-- Sayha's Storm Lv. 3 - Sealed -->
-			<item id="94380" min="20" max="20" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
-			<item id="94381" min="20" max="20" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="94269" min="20" max="20" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94271" min="20" max="20" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
 			<item id="91757" min="6" max="6" chance="100" /> <!-- Magic Lamp Charging Potion - Sealed -->
 			<item id="90907" min="100" max="100" chance="100" /> <!-- Soulshot Ticket - Sealed -->
 			<item id="90405" min="10" max="10" chance="100" /> <!-- My Teleport Scroll - Sealed -->
@@ -1233,8 +1233,8 @@
 		<set name="handler" val="ExtractableItems" />
 		<capsuled_items>
 			<item id="91712" min="20" max="20" chance="100" /> <!-- Sayha's Storm Lv. 3 - Sealed -->
-			<item id="94380" min="20" max="20" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
-			<item id="94381" min="20" max="20" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="94269" min="20" max="20" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94271" min="20" max="20" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
 			<item id="91757" min="8" max="8" chance="100" /> <!-- Magic Lamp Charging Potion - Sealed -->
 			<item id="90907" min="100" max="100" chance="100" /> <!-- Soulshot Ticket - Sealed -->
 			<item id="49674" min="10" max="10" chance="100" /> <!-- XP Growth Scroll - Sealed -->
@@ -1253,8 +1253,8 @@
 		<set name="handler" val="ExtractableItems" />
 		<capsuled_items>
 			<item id="91712" min="30" max="30" chance="100" /> <!-- Sayha's Storm Lv. 3 - Sealed -->
-			<item id="94380" min="30" max="30" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
-			<item id="94381" min="30" max="30" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="94269" min="30" max="30" chance="100" /> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94271" min="30" max="30" chance="100" /> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
 			<item id="91757" min="10" max="10" chance="100" /> <!-- Magic Lamp Charging Potion - Sealed -->
 			<item id="90907" min="100" max="100" chance="100" /> <!-- Soulshot Ticket - Sealed -->
 			<item id="93330" min="2" max="2" chance="100" /> <!-- Enchant Kit: Talisman of Authority - Sealed -->

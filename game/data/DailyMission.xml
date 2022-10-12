@@ -843,23 +843,23 @@
 			<item id="91186" count="30" />
 		</items>
 	</reward>
+-->
 
 	<reward id="1500" reward_id="1500" name="Hunt in Transcendent Instance Zones" requiredCompletion="300">
-		Daily mission (once per account). A reward is given for killing 300 monsters in transcendent instance zones.
+		<!-- Daily mission (once per account). A reward is given for killing 300 monsters in transcendent instance zones. -->
 		<handler name="monster">
 			<param name="minLevel">40</param>
 			<param name="maxLevel">99</param>
-			<param name="ids">22192,22193,22194,22195,22196,22197,22198,22199</param>
+			<param name="ids">22107,22108,22109,22110,22111,22112,22113,22114,22115,22116,22117,22118,22147,22148,22149,22275,22276,22277</param>
 		</handler>
 		<items>
-			<item id="93274" count="100" /> Sayha's Cookie Sealed
-			<item id="97224" count="20" /> Mission Points
-			<item id="97145" count="50" /> Ancient Adena
+			<item id="72364" count="1" /> <!-- Red Lantern -->
+			<item id="97145" count="50" /> <!-- Ancient Adena -->
 		</items>
 	</reward>
-	-->
+	
 
-	<reward id="1501" reward_id="2040" name="Hunt on Alligator Island I (Lv. 60+)" requiredCompletion="200">
+	<reward id="1501" reward_id="1501" name="Hunt on Alligator Island I (Lv. 60+)" requiredCompletion="200">
 		<!-- A reward is given for killing 100 Savage monsters on Alligator Island. -->
 		<handler name="monster">
 			<param name="minLevel">60</param>
@@ -867,10 +867,10 @@
 			<param name="ids">22192,22193,22194,22195,22196,22197,22198,22199</param>
 		</handler>
 		<items>
-			<item id="93080" count="3" /> <!-- Charging Stone of Random Craft - 1 Charge -->
+			<item id="93080" count="2" /> <!-- Charging Stone of Random Craft - 2 Charge -->
 		</items>
 	</reward>
-	<reward id="1502" reward_id="2041" name="Hunt on Alligator Island II (Lv. 60+)" requiredCompletion="400">
+	<reward id="1502" reward_id="1502" name="Hunt on Alligator Island II (Lv. 60+)" requiredCompletion="400">
 		<!-- A reward is given for killing 200 Savage monsters on Alligator Island. -->
 		<handler name="monster">
 			<param name="minLevel">60</param>
@@ -878,7 +878,7 @@
 			<param name="ids">22192,22193,22194,22195,22196,22197,22198,22199</param>
 		</handler>
 		<items>
-			<item id="93080" count="6" /> <!-- Charging Stone of Random Craft - 1 Charge -->
+			<item id="93080" count="4" /> <!-- Charging Stone of Random Craft - 4 Charge -->
 		</items>
 	</reward>
 	
@@ -894,7 +894,7 @@
 		</handler>
 		<items>
 			<item id="94879" count="50" /> <!-- Grace PotionSealed -->
-			<item id="97224" count="20" /> <!-- Mission Points -->
+			<item id="97145" count="50" /> <!-- Ancient Adena -->
 		</items>
 	</reward>
 	
@@ -920,6 +920,7 @@
 		<items>
 			<item id="92459" count="6" />
 			<item id="97246" count="10" /> 
+			<item id="94780" count="2" /> <!-- Growth Rune Fragment Sealed -->
 		</items>
 	</reward>
 			<reward id="1508" reward_id="1508" name="Explore Forgotten Primeval Garden" requiredCompletion="1000">
@@ -933,6 +934,7 @@
 			<item id="97145" count="100" /> 
 			<item id="92461" count="6" />
 			<item id="92462" count="2" /> 
+			<item id="94780" count="5" /> <!-- Growth Rune Fragment Sealed -->
 		</items>
 	</reward>
 	

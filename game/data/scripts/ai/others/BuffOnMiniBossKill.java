@@ -20,7 +20,8 @@ public class BuffOnMiniBossKill extends AbstractNpcAI
 		27114, // Field of Massacre
 		27037,
 		27024,
-		27282,
+		27282, // octavis
+		21181, // mahum
 	};
 	
 	private BuffOnMiniBossKill()

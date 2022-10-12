@@ -58,6 +58,7 @@ public class RemainHpPerSkillCondition implements ISkillCondition
 				{
 					return _percentType.test(((Player) caster).getFirstServitor().getCurrentHpPercent(), _amount);
 				}
+				break;
 			}
 			case TARGET:
 			{

@@ -51,28 +51,20 @@ public class LoginWeekendDailyMissionHandler extends AbstractDailyMissionHandler
 		Containers.Global().addListener(new ConsumerEventListener(this, EventType.ON_PLAYER_LOGIN, (OnPlayerLogin event) -> onPlayerLogin(event), this));
 	}
 	
-	@Override
-	public void reset()
-	{
-		// Weekend rewards do not reset daily.
-	}
-	
 	private void onPlayerLogin(OnPlayerLogin event)
 	{
 		final DailyMissionPlayerEntry entry = getPlayerEntry(event.getPlayer().getObjectId(), true);
-		final int currentDay = Calendar.getInstance().get(Calendar.DAY_OF_WEEK);
-		final long lastCompleted = entry.getLastCompleted();
-		if (((currentDay == Calendar.SATURDAY) || (currentDay == Calendar.SUNDAY)) // Reward only on weekend.
-			&& ((lastCompleted == 0) || ((System.currentTimeMillis() - lastCompleted) > 172800000))) // Initial entry or 172800000 (2 day) delay.
+		if (entry.getStatus() != DailyMissionStatus.COMPLETED)
 		{
-			entry.setProgress(1);
-			entry.setStatus(DailyMissionStatus.AVAILABLE);
+			final int currentDay = Calendar.getInstance().get(Calendar.DAY_OF_WEEK);
+			if (((currentDay == Calendar.SATURDAY) || (currentDay == Calendar.SUNDAY) || (currentDay == Calendar.MONDAY)) //
+				&& (Calendar.getInstance().get(Calendar.HOUR_OF_DAY) < 6) && (Calendar.getInstance().get(Calendar.MINUTE) < 30))
+			{
+				entry.setProgress(1);
+				entry.setStatus(DailyMissionStatus.AVAILABLE);
+			}
 		}
-		else if (entry.getStatus() != DailyMissionStatus.AVAILABLE) // Not waiting to be rewarded.
-		{
-			entry.setProgress(0);
-			entry.setStatus(DailyMissionStatus.NOT_AVAILABLE);
-		}
+		
 		storePlayerEntry(entry);
 	}
 }

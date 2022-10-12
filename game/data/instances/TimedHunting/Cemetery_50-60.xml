@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instance id="209" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/instance.xsd">
+	<!-- Cemetery (50-59) -->
+	<time duration="10" empty="600" />
+	<locations>
+		<enter type="FIXED">
+			<location x="207192" y="120584" z="-10028" />
+		</enter>
+		<exit type="TOWN" />
+	</locations>
+	<conditions>
+		<condition type="Level">
+			<param name="min" value="50" />
+			<param name="max" value="59" />
+		</condition>
+		<condition type="Reenter" />
+	</conditions>
+	<reenter apply="ON_FINISH">
+		<reset day="MONDAY" hour="6" minute="30" />
+		<reset day="TUESDAY" hour="6" minute="30" />
+		<reset day="WEDNESDAY" hour="6" minute="30" />
+		<reset day="THURSDAY" hour="6" minute="30" />
+		<reset day="FRIDAY" hour="6" minute="30" />
+		<reset day="SATURDAY" hour="6" minute="30" />
+		<reset day="SUNDAY" hour="6" minute="30" />
+	</reenter>
+	<spawnlist>
+		<group>
+			<npc id="34121" x="207190" y="120474" z="-10010" heading="33093" /> <!-- Manager Deekhin -->
+		</group>
+		<group name="monsters" spawnByDefault="false">
+			<npc id="22111" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22110" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22110" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22110" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22110" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22110" x="207248" y="120011" z="-10014" heading="60534" /> <!-- Tortured Undead -->
+			<npc id="22112" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22112" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22112" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22112" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22112" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22110" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22110" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22110" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22110" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22110" x="207174" y="121151" z="-10014" heading="60534" /> <!-- Soul of Ruins -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+			<npc id="22111" x="207662" y="120552" z="-10015" heading="4554" /> <!-- Tortured Undead -->
+		</group>
+		<group name="treasures" spawnByDefault="false">
+			<npc id="22123" x="206688" y="120568" z="-10015" heading="48103" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22123" x="206688" y="120568" z="-10015" heading="48103" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22123" x="206688" y="120568" z="-10015" heading="48103" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22123" x="206688" y="120568" z="-10015" heading="48103" /> <!-- Transcendent Treasure Chest -->
+			<npc id="22123" x="206688" y="120568" z="-10015" heading="48103" /> <!-- Transcendent Treasure Chest -->
+		</group>
+				<group name="guardian" spawnByDefault="false">
+			<npc id="22332" x="206670" y="120307" z="-10014	" heading="48103" /> <!-- Transcendent Guardian -->
+		</group>
+	</spawnlist>
+</instance>

@@ -7,11 +7,16 @@
 		<effectPoint>5000</effectPoint>
 	</skill>
 	<skill id="60002" toLevel="3" name="Einhasad Overseeing">
-		<!-- In case of death during PvP/ PK Increased chance to lose items. Up to $s1 items can be lost. -->
 		<icon>icon.karma</icon>
-		<magicLevel>10</magicLevel>
-		<operateType>P</operateType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalVisualEffect>COSTUME_DEVIL</abnormalVisualEffect>
+		<operateType>A2</operateType>
+		<isMagic>4</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>1</magicLevel>
+		<stayAfterDeath>true</stayAfterDeath>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="PhysicalDefence">
 				<amount>

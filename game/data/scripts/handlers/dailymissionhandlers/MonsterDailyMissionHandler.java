@@ -22,6 +22,7 @@ import java.util.Set;
 
 import org.l2jmobius.Config;
 import org.l2jmobius.gameserver.enums.DailyMissionStatus;
+import org.l2jmobius.gameserver.enums.ElementalType;
 import org.l2jmobius.gameserver.handler.AbstractDailyMissionHandler;
 import org.l2jmobius.gameserver.model.CommandChannel;
 import org.l2jmobius.gameserver.model.DailyMissionDataHolder;
@@ -43,6 +44,7 @@ public class MonsterDailyMissionHandler extends AbstractDailyMissionHandler
 	private final int _minLevel;
 	private final int _maxLevel;
 	private final Set<Integer> _ids = new HashSet<>();
+	private final ElementalType _element;
 	
 	public MonsterDailyMissionHandler(DailyMissionDataHolder holder)
 	{
@@ -50,6 +52,7 @@ public class MonsterDailyMissionHandler extends AbstractDailyMissionHandler
 		_amount = holder.getRequiredCompletions();
 		_minLevel = holder.getParams().getInt("minLevel", 0);
 		_maxLevel = holder.getParams().getInt("maxLevel", Integer.MAX_VALUE);
+		_element = holder.getParams().getEnum("element", ElementalType.class, ElementalType.NONE);
 		final String ids = holder.getParams().getString("ids", "");
 		if (!ids.isEmpty())
 		{
@@ -106,12 +109,15 @@ public class MonsterDailyMissionHandler extends AbstractDailyMissionHandler
 		
 		final Player player = event.getAttacker();
 		final int monsterLevel = monster.getLevel();
-		if (_minLevel > 0)
+		if ((_minLevel > 0) && ((monsterLevel < _minLevel) || (monsterLevel > _maxLevel) || ((player.getLevel() - monsterLevel) > 5)))
+		
 		{
-			if ((monsterLevel < _minLevel) || (monsterLevel > _maxLevel) || ((player.getLevel() - monsterLevel) > 5))
-			{
-				return;
-			}
+			return;
+		}
+		
+		if ((_element != ElementalType.NONE) && (monster.getElementalSpiritType() != _element))
+		{
+			return;
 		}
 		
 		final Party party = player.getParty();

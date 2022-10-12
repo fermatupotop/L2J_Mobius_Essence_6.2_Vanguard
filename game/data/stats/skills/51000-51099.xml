@@ -786,11 +786,17 @@
 		<effects>
 			<effect name="RestorationRandom">
 				<items>
-					<item chance="60.0">
-						<item id="49757" count="1" /> <!-- Sayha's Holy Water -->
+					<item chance="10.0">
+						<item id="49667" count="1" /> <!-- C-grade weapon -->
 					</item>
-					<item chance="40.0">
+					<item chance="30.0">
 						<item id="49758" count="1" /> <!-- Blood Crystal -->
+					</item>
+					<item chance="30.0">
+						<item id="94187" count="1" /> <!-- Life Stone Lv. 1 - Armor -->
+					</item>
+					<item chance="30.0">
+						<item id="94185" count="1" /> <!-- Life Stone Lv. 1 - Weapon -->
 					</item>
 				</items>
 			</effect>
@@ -817,23 +823,17 @@
 		<effects>
 			<effect name="RestorationRandom">
 				<items>
-					<item chance="40.0">
-						<item id="94271" count="1" /> <!-- Scroll: Boost Defense -->
-					</item>
-					<item chance="25.0">
-						<item id="49757" count="2" /> <!-- Sayha's Holy Water -->
-					</item>
 					<item chance="10.0">
-						<item id="49671" count="1" /> <!-- B-grade Armor/ Accessory Ingredient Pack -->
+						<item id="49664" count="1" /> <!-- B-grade weapon -->
 					</item>
-					<item chance="10.0">
-						<item id="49670" count="1" /> <!-- B-grade Weapon Ingredient Pack -->
+					<item chance="30.0">
+						<item id="49758" count="1" /> <!-- Blood Crystal -->
 					</item>
-					<item chance="8.0">
-						<item id="49666" count="1" /> <!-- B-grade Accessory Pack -->
+					<item chance="30.0">
+						<item id="94187" count="1" /> <!-- Life Stone Lv. 1 - Armor -->
 					</item>
-					<item chance="7.0">
-						<item id="49665" count="1" /> <!-- B-grade Armor Pack -->
+					<item chance="30.0">
+						<item id="94185" count="1" /> <!-- Life Stone Lv. 1 - Weapon -->
 					</item>
 				</items>
 			</effect>
@@ -860,20 +860,17 @@
 		<effects>
 			<effect name="RestorationRandom">
 				<items>
-					<item chance="37.0">
-						<item id="94271" count="2" /> <!-- Scroll: Boost Defense -->
+					<item chance="10.0">
+						<item id="49664" count="1" /> <!-- B-grade weapon -->
 					</item>
-					<item chance="37.0">
-						<item id="49664" count="1" /> <!-- B-grade Weapon Pack -->
+					<item chance="30.0">
+						<item id="49758" count="1" /> <!-- Blood Crystal -->
 					</item>
-					<item chance="20.0">
-						<item id="49663" count="1" /> <!-- A-grade Ornament Ingredient Pack -->
+					<item chance="30.0">
+						<item id="49667" count="1" /> <!-- C-grade weapon  -->
 					</item>
-					<item chance="5.0">
-						<item id="49662" count="1" /> <!-- A-grade Armor Ingredient Pack -->
-					</item>
-					<item chance="1.0">
-						<item id="90014" count="1" /> <!-- A-grade Weapon Ingredient Pack -->
+					<item chance="30.0">
+						<item id="94185" count="1" /> <!-- Life Stone Lv. 1 - Weapon -->
 					</item>
 				</items>
 			</effect>
@@ -900,20 +897,14 @@
 		<effects>
 			<effect name="RestorationRandom">
 				<items>
-					<item chance="40.0">
-						<item id="94187" count="1" /> <!-- Life Stone Lv. 1 - Armor -->
+					<item chance="10.0">
+						<item id="49664" count="1" /> <!-- B-grade weapon -->
 					</item>
-					<item chance="40.0">
-						<item id="94185" count="1" /> <!-- Life Stone Lv. 1 - Weapon -->
+					<item chance="60.0">
+						<item id="49758" count="1" /> <!-- Blood Crystal -->
 					</item>
-					<item chance="15.0">
-						<item id="49761" count="1" /> <!-- A-grade Accessory Pack -->
-					</item>
-					<item chance="4.0">
-						<item id="49760" count="1" /> <!-- A-grade Armor Pack -->
-					</item>
-					<item chance="1.0">
-						<item id="49765" count="1" /> <!-- A-grade Weapon Pack -->
+					<item chance="30.0">
+						<item id="49667" count="1" /> <!-- C-grade weapon  -->
 					</item>
 				</items>
 			</effect>

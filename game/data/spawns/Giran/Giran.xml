@@ -33,7 +33,6 @@
 			<npc id="30126" x="84064" y="141438" z="-3520" heading="49152" respawnTime="60sec" /> <!-- Rath - Guard -->
 			<npc id="30125" x="83705" y="141439" z="-3528" heading="49152" respawnTime="60sec" /> <!-- Belton - Guard -->
 			<npc id="30756" x="84521" y="146372" z="-3400" heading="16384" respawnTime="60sec" /> <!-- Sir Kristof Rodemai -->
-			<npc id="30093" x="83305" y="150521" z="-3512" heading="32768" respawnTime="60sec" /> <!-- Groot - Dye Merchant -->
 			<npc id="30094" x="83317" y="150821" z="-3512" heading="32768" respawnTime="60sec" /> <!-- Gentler - Wizard Equipment Merchant -->
 			<npc id="30511" x="83263" y="146667" z="-3464" heading="32768" respawnTime="60sec" /> <!-- Gesto - Warehouse Chief -->
 			<npc id="30103" x="83264" y="146602" z="-3464" heading="32768" respawnTime="60sec" /> <!-- Valkon - Warehouse Keeper -->
@@ -66,7 +65,6 @@
 			<npc id="30121" x="81436" y="152950" z="-3528" heading="16384" respawnTime="60sec" /> <!-- Jeronin - Captain -->
 			<npc id="30122" x="81642" y="152955" z="-3528" heading="16384" respawnTime="60sec" /> <!-- Bane - Guard -->
 			<npc id="30083" x="80329" y="145482" z="-3504" heading="0" respawnTime="60sec" /> <!-- Pochi - Warehouse Keeper -->
-			<npc id="31049" x="83264" y="150176" z="-3512" heading="24576" respawnTime="60sec" /> <!-- Pepper - Tattoo Master -->
 			<npc id="30936" x="80280" y="145713" z="-3528" heading="2058" respawnTime="60sec" /> <!-- Pona - Collector -->
 			<npc id="31690" x="82118" y="147524" z="-3464" heading="16500" respawnTime="60sec" /> <!-- Monument of Heroes -->
 			<npc id="31688" x="82053" y="147526" z="-3464" heading="16500" respawnTime="60sec" /> <!-- Saige - Olympiad Manager -->
@@ -83,9 +81,7 @@
 			<npc id="35455" x="83568" y="145264" z="-3384" heading="32000" respawnTime="60sec" /> <!-- Bianca - Clan Hall Manager -->
 			<npc id="35456" x="83680" y="145456" z="-3400" heading="0" respawnTime="60sec" /> <!-- Stewart - Clan Hall Gatekeeper -->
 			<npc id="35457" x="81133" y="151537" z="-3512" heading="32000" respawnTime="60sec" /> <!-- Gladys - Clan Hall Manager -->
-			<npc id="35458" x="81264" y="151728" z="-3528" heading="0" respawnTime="60sec" /> <!-- Theron - Clan Hall Gatekeeper -->
 			<npc id="35459" x="81920" y="151968" z="-3512" heading="0" respawnTime="60sec" /> <!-- Regina - Clan Hall Manager -->
-			<npc id="35460" x="81808" y="151776" z="-3528" heading="32000" respawnTime="60sec" /> <!-- Trey - Clan Hall Gatekeeper -->
 			<npc id="34053" x="81749" y="147485" z="-3471" heading="16500" respawnTime="60sec" /> <!-- Svein - Attribute Master -->
 		</group>
 	</spawn>

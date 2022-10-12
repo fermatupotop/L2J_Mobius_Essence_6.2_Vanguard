@@ -2160,6 +2160,7 @@
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>3600</abnormalTime>
 		<isMagic>4</isMagic>
+		<stayAfterDeath>true</stayAfterDeath>
 		<reuseDelay>60000</reuseDelay>
 		<effects>
 			<effect name="MagicLampExpRate">

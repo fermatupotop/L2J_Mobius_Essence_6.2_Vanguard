@@ -1,9 +1,13 @@
-2022.10.09 02:12:37,023	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
-2022.10.09 02:12:37,070	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
-2022.10.09 02:12:38,056	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
-2022.10.09 02:12:38,114	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
-2022.10.09 02:12:38,116	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
-2022.10.09 02:12:38,161	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
-2022.10.09 02:12:38,170	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
-2022.10.09 02:12:38,172	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
-2022.10.09 02:12:38,368	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:6666
+2022.10.12 20:35:01,430	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2022.10.12 20:35:01,462	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2022.10.12 20:35:01,796	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2022.10.12 20:35:01,856	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2022.10.12 20:35:01,858	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2022.10.12 20:35:01,919	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2022.10.12 20:35:01,923	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2022.10.12 20:35:01,925	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2022.10.12 20:35:02,073	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:6666
+2022.10.12 20:35:37,495	INFO	31	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Bartz IP's:
+2022.10.12 20:35:37,497	INFO	31	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2022.10.12 20:35:37,498	INFO	31	org.l2jmobius.loginserver.GameServerThread	192.168.0.28/192.168.0.0/24
+2022.10.12 20:35:37,498	INFO	31	org.l2jmobius.loginserver.GameServerThread	188.123.230.31/0.0.0.0/0

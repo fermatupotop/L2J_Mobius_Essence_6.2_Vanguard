@@ -129,7 +129,7 @@
 		<skill skillName="Clan Wind Walk" skillId="389" skillLevel="3" getLevel="4" levelUpSp="7500">
 			<item id="49758" count="30" /> <!-- Blood Crystal -->
 		</skill>
-		<skill skillName="Clan Imperium" skillId="391" skillLevel="1" getLevel="4" />
+		<skill skillName="Clan Imperium" skillId="391" skillLevel="1" getLevel="3" />
 		<skill skillName="No Clan Return" skillId="19113" skillLevel="1" getLevel="3">
 			<item id="57" count="200000000" /> <!-- Adena -->
 		</skill>

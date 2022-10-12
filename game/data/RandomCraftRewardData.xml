@@ -118,71 +118,24 @@
 		<item id="268" chance="50" /> <!-- Bellion Cestus -->
 		<item id="94884" chance="50" /> <!-- Volcano -->
 
-		<!-- Weapons D and C Grade -->
+		<!-- Weapons C Grade -->
 		
 		<item id="91896" /> <!-- Admiral's Estoc -->
-		<item id="276" /> <!-- Elven Bow -->
-
-
-
-
-
 		<item id="194" /> <!-- Heavy Doom Axe -->
 		<item id="191" /> <!-- Heavy Doom Hammer -->
-		<item id="172" /> <!-- Heavy Bone Club -->
-		<item id="166" /> <!-- Heavy Mace -->
-		<item id="222" /> <!-- Poniard Dagger -->
-	
-		
-
-		
 		<item id="299" /> <!-- Orcish Poleaxe -->
 		<item id="95" /> <!-- Poleaxe -->
-	
-	
-		<item id="277" /> <!-- Dark Elven Bow -->
-	
-		<item id="2499" /> <!-- Elven Long Sword -->
-	
-		<item id="312" /> <!-- Branch of Life -->
-	
-		<item id="292" /> <!-- Pike -->
-		<item id="296" /> <!-- Dwarven Pike -->
-	
-		
-
-		
 		<item id="206" /> <!-- Demon`s Staff -->
-
-
-
-		<item id="93051" /> <!-- Eminence Bow -->
 		<item id="286" /> <!-- Eminence Bow -->
-
-
-		
 		<item id="228" /> <!-- Crystal Dagger -->
-
-		
-
-		
-
-		<item id="232" /> <!-- Dark Elven Dagger -->
-		
+		<item id="232" /> <!-- Dark Elven Dagger -->	
 		<item id="2582" /> <!-- Katana*Katana -->
 		<item id="74" /> <!-- Katana -->
-	
-		
 		<item id="135" /> <!-- Samurai Long Sword -->
-	
 		<item id="160" /> <!-- Batle Axe -->
 		<item id="266" /> <!-- Great Pata -->
-		
-	
 		<item id="2503" /> <!-- Yaksa Mace -->
-		
 		<item id="91883" /> <!-- Immortal Edge -->
-
 		<item id="94882" /> <!-- Flint Pistols -->
 
 		<!-- Armor Packs -->
@@ -377,14 +330,14 @@
 		<item id="90992" chance="0.1" announce="true"/> <!-- Antharas' Earring -->
 		<item id="91550" chance="0.1" announce="true"/> <!-- Frintezza's Necklace -->
 		<item id="93254" chance="1" announce="true"/> <!-- Rare Accessory Lv. 1 Crafting -->
-		<item id="90934" chance="20"/> <!-- Brooch Lv.3 -->
-		<item id="9591" chance="20"/> <!-- Talsiman Bracelet Lv.3 -->
-		<item id="90890" chance="20"/> <!-- Agathion Bracelet Lv.3 -->
+		<item id="90934" chance="20" announce="true"/> <!-- Brooch Lv.3 -->
+		<item id="9591" chance="20" announce="true" /> <!-- Talsiman Bracelet Lv.3 -->
+		<item id="90890" chance="20" announce="true" /> <!-- Agathion Bracelet Lv.3 -->
 		
-		<item id="91304" chance="1"/> <!-- Brooch Lv.5 -->
-		<item id="92031" chance="1"/> <!-- Talsiman Bracelet Lv.5 -->
-		<item id="91161" chance="1"/> <!-- Talsiman Bracelet Lv.5 -->
-		<item id="93253" chance="20"/> <!-- +4 Talisman Crafting -->
+		<item id="91304" chance="1" announce="true" /> <!-- Brooch Lv.5 -->
+		<item id="92031" chance="1" announce="true" /> <!-- Talsiman Bracelet Lv.5 -->
+		<item id="91161" chance="1" announce="true" /> <!-- Talsiman Bracelet Lv.5 -->
+		<item id="93253" chance="20" announce="true" /> <!-- +4 Talisman Crafting -->
 
 
 		<!-- Accessories A Grade -->
@@ -493,15 +446,15 @@
 		
 		<!-- Valera / Dimasik Chronicle reward-->
 		
-		<item id="93629" count="1" chance="5" /> <!-- L8000 -->
-		<item id="93628" count="1" chance="20"/> <!-- L1000 -->
-		<item id="92473" count="1" chance="5" /> <!-- Venir 6 -->
-		<item id="92464" count="1" chance="5" /> <!-- Speed 5 -->
-		<item id="92455" count="1" chance="5" /> <!-- Eva 5 -->
-		<item id="92447" count="1" chance="5" /> <!-- Aden 5 -->
-		<item id="96300" count="1" chance="2" /> <!-- Spellbook: Dragon Slayer -->
-		<item id="92401" count="1" chance="2" /> <!-- Spellbook: White Guardian -->
-		<item id="90045" count="5" chance="10" /> <!-- Magic Table -->
+		<item id="93629" count="1" chance="5" announce="true" /> <!-- L8000 -->
+		<item id="93628" count="1" chance="20" announce="true" /> <!-- L1000 -->
+		<item id="92473" count="1" chance="5" announce="true" /> <!-- Venir 6 -->
+		<item id="92464" count="1" chance="5" announce="true" /> <!-- Speed 5 -->
+		<item id="92455" count="1" chance="5" announce="true" /> <!-- Eva 5 -->
+		<item id="92447" count="1" chance="5" announce="true" /> <!-- Aden 5 -->
+		<item id="96300" count="1" chance="2" announce="true" /> <!-- Spellbook: Dragon Slayer -->
+		<item id="92401" count="1" chance="2" announce="true" /> <!-- Spellbook: White Guardian -->
+		<item id="90045" count="5" chance="10" announce="true" /> <!-- Magic Table -->
 
 	</rewards>
 </list>

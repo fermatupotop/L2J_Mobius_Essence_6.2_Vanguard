@@ -3066,7 +3066,6 @@
 		</skillList>
 		<exCrtEffect>true</exCrtEffect>
 		<sNpcPropHpRate>9</sNpcPropHpRate>
-
 		<collision>
 			<radius normal="15" />
 			<height normal="80" />

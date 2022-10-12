@@ -26,7 +26,7 @@ public class ThirdClassTpOrven extends AbstractNpcAI
 		{
 			return;
 		}
-		if ((player.getLevel() >= MIN_LEVEL) && !CategoryData.getInstance().isInCategory(CategoryType.THIRD_CLASS_GROUP, player.getClassId().getId()))
+		if ((player.getLevel() >= MIN_LEVEL) && CategoryData.getInstance().isInCategory(CategoryType.THIRD_CLASS_GROUP, player.getClassId().getId()))
 		{
 			giveItems(player, SOE_HIGH_PRIEST_OVEN);
 		}

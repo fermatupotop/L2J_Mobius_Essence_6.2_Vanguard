@@ -108,7 +108,7 @@ public class Summon extends AbstractEffect
 		for (BuffInfo effect : player.getEffectList().getEffects())
 		{
 			final Skill sk = effect.getSkill();
-			if (!sk.isBad() && !sk.isTransformation())
+			if (!sk.isBad() && !sk.isTransformation() && skill.isSharedWithSummon())
 			{
 				sk.applyEffects(player, summon, false, effect.getTime());
 			}

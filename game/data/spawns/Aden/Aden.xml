@@ -3,7 +3,6 @@
 	<spawn name="Aden">
 		<group>
 			<npc id="32478" x="148465" y="26654" z="-2200" heading="24329" respawnTime="60sec" /> <!-- Game Assistant - Special -->
-			<npc id="33359" x="148465" y="27156" z="-2200" heading="33121" respawnTime="60sec" /> <!-- Kerry - Provisional Clan Hall Gatekeeper -->
 			<npc id="31001" x="145747" y="21312" z="-2136" heading="93" respawnTime="60sec" /> <!-- Claudia Athebaldt -->
 			<npc id="34169" x="147459" y="27825" z="-2264" heading="16383" respawnTime="60sec" /> <!-- Koldrut Jay - Clan Dungeon Manager -->
 			<npc id="34266" x="150868" y="27428" z="-2264" respawnTime="60sec" /> <!-- Nazeph -->
@@ -12,8 +11,7 @@
 			<npc id="34271" x="149188" y="30493" z="-2456" heading="32403" respawnTime="60sec" /> <!-- Roo-roo - Information Broker -->
 			<npc id="34269" x="145920" y="28799" z="-2248" heading="65014" respawnTime="60sec" /> <!-- Tavoz - Brewer -->
 			<npc id="30012" x="145891" y="28332" z="-2248" heading="65014" respawnTime="60sec" /> <!-- Fishing Guildsman -->
-
-			<npc id="30949" x="110831" y="15973" z="-4368" heading="412" respawnTime="60sec" /> <!-- Keplon - Researcher -->
+			<npc id="34091" x="147035" y="26703" z="-2207" heading="14325" respawnTime="15sec" /> <!-- Sora -->
 			<npc id="31646" x="120112" y="30912" z="-3616" heading="49000" respawnTime="60sec" /> <!-- Tablet of Vision -->
 			<npc id="30747" x="110395" y="41625" z="-4619" heading="0" respawnTime="60sec" /> <!-- Mimyu - Fairy -->
 			<npc id="30764" x="117380" y="75616" z="-2664" heading="26000" respawnTime="60sec" /> <!-- Balthazar -->
@@ -123,11 +121,7 @@
 			<npc id="31658" x="181264" y="36640" z="-4789" heading="25000" respawnTime="60sec" /> <!-- Tablet Of Vision -->
 			<npc id="31688" x="147688" y="28527" z="-2264" heading="38406" respawnTime="60sec" /> <!-- Saige - Olympiad Manager -->
 			<npc id="31690" x="147648" y="28599" z="-2264" heading="40508" respawnTime="60sec" /> <!-- Monument of Heroes -->
-			<npc id="30767" x="148009" y="28603" z="-2264" heading="52880" respawnTime="60sec"> <!-- Auctioneer -->
-				<parameters>
-					<param name="fnAgitMap" value="aden" />
-				</parameters>
-			</npc>
+
 		</group>
 	</spawn>
 </list>

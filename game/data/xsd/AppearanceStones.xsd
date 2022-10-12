@@ -121,6 +121,7 @@
 														<xs:enumeration value="OWNTHING" />
 														<xs:enumeration value="DUALDAGGER" />
 														<xs:enumeration value="DUALBLUNT" />
+														<xs:enumeration value="PISTOLS" />
 													</xs:restriction>
 												</xs:simpleType>
 											</xs:attribute>
@@ -256,6 +257,7 @@
 									<xs:enumeration value="OWNTHING" />
 									<xs:enumeration value="DUALDAGGER" />
 									<xs:enumeration value="DUALBLUNT" />
+									<xs:enumeration value="PISTOLS" />
 								</xs:restriction>
 							</xs:simpleType>
 						</xs:attribute>

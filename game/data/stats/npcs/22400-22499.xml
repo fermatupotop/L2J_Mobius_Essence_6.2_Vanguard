@@ -815,9 +815,9 @@
 		<race>FAIRY</race>
 		<sex>MALE</sex>
 		<acquire exp="129725" sp="5936" attributeExp="1216" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+		<stats str="60" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="61301.26582" hpRegen="10.2" mp="11290.8" mpRegen="3.6" />
-			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="10226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="998.10183" magical="730.36761" />
 			<speed>
 				<walk ground="45" />
@@ -836,7 +836,7 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="2180" max="2408" chance="70" /> <!-- Adena -->
+				<item id="57" min="3180" max="3908" chance="70" /> <!-- Adena -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -847,7 +847,7 @@
 		<acquire exp="129725" sp="5936" attributeExp="1216" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="61301.26582" hpRegen="10.2" mp="11290.8" mpRegen="3.6" />
-			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="10226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="998.10183" magical="730.36761" />
 			<speed>
 				<walk ground="50" />
@@ -866,9 +866,10 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="2180" max="2408" chance="70" /> <!-- Adena -->
+				<item id="57" min="3180" max="3908" chance="70" /> <!-- Adena -->
 			</drop>
 		</dropLists>
+		<ai aggroRange="450" isAggressive="true"/>
 	</npc>
 	<npc id="22428" level="85" type="Monster" name="Tailed Berserker" element="WIND">
 		<!-- AUTO GENERATED NPC TODO: FIX IT -->
@@ -877,7 +878,7 @@
 		<acquire exp="129725" sp="5936" attributeExp="1216" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="61301.26582" hpRegen="10.2" mp="11290.8" mpRegen="3.6" />
-			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="10226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="998.10183" magical="730.36761" />
 			<speed>
 				<walk ground="39" />
@@ -896,7 +897,7 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="2191" max="2420" chance="70" /> <!-- Adena -->
+				<item id="57" min="3191" max="3920" chance="70" /> <!-- Adena -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -907,7 +908,7 @@
 		<acquire exp="129725" sp="5936" attributeExp="1216" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
 			<vitals hp="61301.26582" hpRegen="10.2" mp="11290.8" mpRegen="3.6" />
-			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<attack physical="10226.2521499701" magical="7520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
 			<defence physical="998.10183" magical="730.36761" />
 			<speed>
 				<walk ground="45" />
@@ -926,7 +927,7 @@
 		</skillList>
 		<dropLists>
 			<drop>
-				<item id="57" min="2191" max="2420" chance="70" /> <!-- Adena -->
+				<item id="57" min="3191" max="4420" chance="70" /> <!-- Adena -->
 				<item id="92476" min="1" max="1" chance="9.6444" /> <!-- Metal Ingot -->
 				<item id="92479" min="1" max="1" chance="9.6444" /> <!-- Metallograph -->
 				<item id="92481" min="1" max="1" chance="9.6444" /> <!-- Cloth -->

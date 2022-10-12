@@ -177,7 +177,6 @@
 			<npc id="22002" x="114076" y="17832" z="-2129" heading="48483" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
 			<npc id="22003" x="114210" y="17628" z="-2129" heading="55406" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Abyss -->
 			<npc id="22002" x="113686" y="17062" z="-2129" heading="41105" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Warrior -->
-			<npc id="22000" x="113490" y="16851" z="-2129" heading="41369" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
 			<npc id="22001" x="113211" y="16818" z="-2129" heading="35835" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->
 			<npc id="22000" x="115304" y="17411" z="-2129" heading="26494" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupted Ghost -->
 			<npc id="22001" x="115229" y="17392" z="-2129" heading="59720" respawnTime="14sec" respawnRandom="6sec" /> <!-- Corrupt Sage -->

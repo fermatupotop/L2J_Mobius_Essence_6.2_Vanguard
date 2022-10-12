@@ -2,6 +2,12 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="SelMahumBase">
 		<group>
+		
+			<npc id="21181" x="-51577" y="138773" z="-2911" heading="46600" respawnTime="600sec" /> <!-- Spot Defender -->
+			<npc id="21181" x="-54920" y="137421" z="-2885" heading="46600" respawnTime="600sec" /> <!-- Spot Defender -->
+			<npc id="21181" x="-56274" y="140838" z="-2642" heading="46600" respawnTime="600sec" /> <!-- Spot Defender -->
+
+		
 			<npc id="34173" x="-48564" y="140535" z="-2912" heading="46600" respawnTime="12sec" /> <!-- Khamin - Undercover Agent -->
 			<npc id="34175" x="-57658" y="138553" z="-2760" heading="45386" respawnTime="12sec" /> <!-- Undercover Agent -->
 			<npc id="34175" x="-57444" y="139936" z="-2560" heading="4627" respawnTime="12sec" /> <!-- Undercover Agent -->
