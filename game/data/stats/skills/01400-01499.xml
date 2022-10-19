@@ -345,6 +345,8 @@
 		<reuseDelay>5000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />
@@ -407,6 +409,8 @@
 		<operateType>A1</operateType>
 		<reuseDelay>5000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
@@ -473,6 +477,8 @@
 		<reuseDelay>5000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />

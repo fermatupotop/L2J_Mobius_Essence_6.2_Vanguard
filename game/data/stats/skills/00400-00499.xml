@@ -1782,6 +1782,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="Mp">
@@ -2518,6 +2519,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>150000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<autoBuffOf>true</autoBuffOf>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>

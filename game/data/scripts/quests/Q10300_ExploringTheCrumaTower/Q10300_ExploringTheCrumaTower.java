@@ -51,6 +51,7 @@ public class Q10300_ExploringTheCrumaTower extends Quest
 	// Items
 	private static final ItemHolder SAYHA_COOKIE = new ItemHolder(93274, 5);
 	private static final ItemHolder SAYHA_STORM = new ItemHolder(91712, 2);
+	private static final ItemHolder EVA_PACK = new ItemHolder(92451, 1);
 	private static final ItemHolder MAGIC_LAMP_CHARGING_POTION = new ItemHolder(91757, 3);
 	
 	// Misc
@@ -110,6 +111,7 @@ public class Q10300_ExploringTheCrumaTower extends Quest
 					giveItems(player, SAYHA_COOKIE);
 					giveItems(player, SAYHA_STORM);
 					giveItems(player, MAGIC_LAMP_CHARGING_POTION);
+					giveItems(player, EVA_PACK);
 					htmltext = "30857-05.html";
 					qs.exitQuest(false, true);
 				}

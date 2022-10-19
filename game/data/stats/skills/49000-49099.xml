@@ -655,7 +655,7 @@
 	<skill id="49021" toLevel="5" name="Pet's Specific Skill: Wolf Cub">
 		<!-- Applies damage-increasing buffs when using the Dire Claw and Last Dire Claw skills. <Required weapons> Dual swords: P. Atk. +$s1, Atk. Spd. +$s2 Fist weapon: P. Atk. +$s1, P. Critical Rate +$s3 If no proper weapon is equipped, Atk. Spd./ Casting Spd. -10%. -->
 		<icon>icon.skill0000</icon>
-		<operateType>P</operateType>
+		<operateType>A1</operateType>
 		<effects>
 			<effect name="PAtk">
 				<amount>
@@ -824,10 +824,9 @@
 			<value level="5">40</value>
 		</mpConsume>
 		<castRange>700</castRange>
-		<hitTime>1</hitTime>
+		<hitTime>800</hitTime>
 		<coolTime>500</coolTime>
-		<reuseDelay>3</reuseDelay>
-		<nextAction>ATTACK</nextAction>
+		<reuseDelay>3000</reuseDelay>
 		<effectPoint>
 			<value level="1">-400</value>
 			<value level="2">-600</value>
@@ -837,11 +836,6 @@
 		</effectPoint>
 		<targetType>ENEMY</targetType>
 		<affectScope>SINGLE</affectScope>
-		<conditions>
-			<condition name="OpCheckCastRange">
-				<distance>250</distance>
-			</condition>
-		</conditions>
 		<effects>
 			<effect name="PhysicalAttack">
 				<power>

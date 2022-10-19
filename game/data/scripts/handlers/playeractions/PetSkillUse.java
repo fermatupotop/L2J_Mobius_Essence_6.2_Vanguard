@@ -23,6 +23,8 @@ import org.l2jmobius.gameserver.model.ActionDataHolder;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.actor.instance.Pet;
 import org.l2jmobius.gameserver.model.skill.CommonSkill;
+import org.l2jmobius.gameserver.model.skill.Skill;
+import org.l2jmobius.gameserver.model.skill.targets.TargetType;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 
 /**
@@ -61,8 +63,12 @@ public class PetSkillUse implements IPlayerActionHandler
 			final int skillLevel = PetDataTable.getInstance().getPetData(pet.getId()).getAvailableLevel(data.getOptionId(), pet.getLevel());
 			if (skillLevel > 0)
 			{
-				pet.setTarget(player.getTarget());
-				pet.useMagic(SkillData.getInstance().getSkill(data.getOptionId(), skillLevel), null, ctrlPressed, shiftPressed);
+				final Skill skill = SkillData.getInstance().getSkill(data.getOptionId(), skillLevel);
+				if (skill != null)
+				{
+					pet.setTarget(player.getTarget());
+					pet.useMagic(skill, null, (skill.getTargetType() == TargetType.SELF) || ctrlPressed, shiftPressed);
+				}
 			}
 			
 			if (data.getOptionId() == CommonSkill.PET_SWITCH_STANCE.getId())

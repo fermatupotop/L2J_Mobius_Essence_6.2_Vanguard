@@ -122,7 +122,7 @@
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="MP Recovery" skillId="45177" skillLevel="2" getLevel="50" levelUpSp="300000">
-			<item id="57" count="1000000" /> <!-- Adena -->
+			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="14" getLevel="51" levelUpSp="310000" />
@@ -227,6 +227,9 @@
 		</skill>
 		<skill skillName="Swap Attack" skillId="45237" skillLevel="2" getLevel="60" levelUpSp="500000" />
 		<skill skillName="Anti Magic" skillId="47270" skillLevel="3" getLevel="60" levelUpSp="680000" />
+		<skill skillName="MP Recovery" skillId="45177" skillLevel="3" getLevel="60" levelUpSp="300000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
 		
 		<skill skillName="Fatal Strike" skillId="190" skillLevel="24" getLevel="61" levelUpSp="880000" />
 		<skill skillName="Heavy Armor Mastery" skillId="259" skillLevel="20" getLevel="61" levelUpSp="830000" />

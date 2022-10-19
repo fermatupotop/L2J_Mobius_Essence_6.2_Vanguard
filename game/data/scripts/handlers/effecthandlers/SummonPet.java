@@ -32,6 +32,7 @@ import org.l2jmobius.gameserver.model.effects.EffectType;
 import org.l2jmobius.gameserver.model.holders.PetEvolveHolder;
 import org.l2jmobius.gameserver.model.holders.PetItemHolder;
 import org.l2jmobius.gameserver.model.item.instance.Item;
+import org.l2jmobius.gameserver.model.skill.BuffInfo;
 import org.l2jmobius.gameserver.model.skill.Skill;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 
@@ -97,6 +98,17 @@ public class SummonPet extends AbstractEffect
 		final Pet pet = Pet.spawnPet(npcTemplate, player, collar);
 		player.setPet(pet);
 		pet.setShowSummonAnimation(true);
+		
+		// Pet must have their master buffs upon spawn.
+		for (BuffInfo effect : player.getEffectList().getEffects())
+		{
+			final Skill sk = effect.getSkill();
+			if (!sk.isBad() && !sk.isTransformation() && skill.isSharedWithSummon())
+			{
+				sk.applyEffects(player, pet, false, effect.getTime());
+			}
+		}
+		
 		if (!pet.isRespawned())
 		{
 			pet.setCurrentHp(pet.getMaxHp());
@@ -105,6 +117,7 @@ public class SummonPet extends AbstractEffect
 			pet.setCurrentFed(pet.getMaxFed());
 			pet.storeMe();
 		}
+		
 		pet.setRunning();
 		collar.setEnchantLevel(pet.getLevel());
 		pet.spawnMe(player.getX() + 50, player.getY() + 100, player.getZ());

@@ -1152,6 +1152,8 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<operateType>A1</operateType>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />
@@ -1215,6 +1217,8 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<operateType>A1</operateType>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />
@@ -1278,6 +1282,8 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<operateType>A1</operateType>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />
@@ -1322,6 +1328,8 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effectRange>400</effectRange>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />

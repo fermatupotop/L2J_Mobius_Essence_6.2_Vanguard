@@ -1526,6 +1526,7 @@
 				<item id="289" min="1" max="1" chance="0.001" /> <!-- Soul Bow -->
 				<item id="5291" min="1" max="1" chance="0.0011" /> <!-- Sealed Dark Crystal Boots -->
 				<item id="6325" min="1" max="1" chance="0.0015" /> <!-- Sealed Phoenix Ring -->
+				<item id="96623" min="1" max="1" chance="1"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="5368" min="1" max="1" chance="0.0108" /> <!-- Recipe: Sealed Dark Crystal Boots (60%) -->
@@ -2604,18 +2605,18 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="629" max="696" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.01" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.01" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.01" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.01" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.01" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.01" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.01" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.01" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.01" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.01" /> <!-- Master's Book: Acumen -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0." /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
 				<item id="95569" min="1" max="1" chance="0.1272" /> <!-- Adena Pouch - Sealed -->
 			</drop>
 		</dropLists>
@@ -2648,19 +2649,19 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="587" max="649" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.01" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.01" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.01" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.01" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.01" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.01" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.01" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.01" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.01" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.01" /> <!-- Master's Book: Acumen -->
-				<item id="95803" min="1" max="1" chance="0.05" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
+				<item id="95803" min="1" max="1" chance="0.2" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2693,18 +2694,18 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="587" max="649" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.01" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.01" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.01" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.01" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.01" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.01" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.01" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.01" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.01" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.01" /> <!-- Master's Book: Acumen -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2736,19 +2737,19 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="587" max="649" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.01" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.01" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.01" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.01" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.01" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.01" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.01" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.01" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.01" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.01" /> <!-- Master's Book: Acumen -->
-				<item id="95803" min="1" max="1" chance="0.05" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
+				<item id="95803" min="1" max="1" chance="0.2" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2780,18 +2781,18 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="587" max="649" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.01" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.01" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.01" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.01" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.01" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.01" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.01" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.01" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.01" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.01" /> <!-- Master's Book: Acumen -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2823,18 +2824,18 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1034" max="1143" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.012" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.012" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.012" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.012" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.012" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.012" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.012" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.012" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.012" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.012" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.012" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.012" /> <!-- Master's Book: Acumen -->
+				<item id="94135" min="1" max="1" chance="0.12" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.12" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.12" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.12" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.12" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.12" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.12" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.12" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.12" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.12" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.12" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.12" /> <!-- Master's Book: Acumen -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2866,19 +2867,19 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="867" max="959" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.01" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.01" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.01" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.01" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.01" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.01" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.01" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.01" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.01" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.01" /> <!-- Master's Book: Acumen -->
-				<item id="95803" min="1" max="1" chance="0.05" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
+				<item id="95803" min="1" max="1" chance="0.2" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2910,18 +2911,18 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1034" max="1143" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.03" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.03" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.03" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.03" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.03" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.03" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.03" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.03" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.03" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.03" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.03" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.03" /> <!-- Master's Book: Acumen -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2953,18 +2954,18 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1034" max="1143" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.05" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.05" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.05" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.05" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.05" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.05" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.05" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.05" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.05" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.05" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.05" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.05" /> <!-- Master's Book: Acumen -->
+				<item id="94135" min="1" max="1" chance="0.2" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.2" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.2" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.2" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.2" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.2" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.2" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.2" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.2" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.2" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.2" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.2" /> <!-- Master's Book: Acumen -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2997,18 +2998,18 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1034" max="1143" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.05" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.05" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.05" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.05" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.05" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.05" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.05" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.05" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.05" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.05" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.05" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.05" /> <!-- Master's Book: Acumen -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -3039,25 +3040,19 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
+
 					<item id="57" min="1120" max="2616" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.0003">
-					<item id="94369" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Haste -->
-					<item id="94370" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Acumen -->
-					<item id="94135" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Might -->
-					<item id="94136" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Shield -->
-					<item id="94361" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Empower -->
-					<item id="94362" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Magic Barrier -->
-					<item id="94363" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Focus -->
-					<item id="94364" min="1" max="1" chance="11.4068" /> <!-- Master's Book: Death Whisper -->
-					<item id="94365" min="1" max="1" chance="8.7456" /> <!-- Master's Book: Wind Walk -->
-				</group>
-				<group chance="0.4189">
-					<item id="92995" min="1" max="1" chance="89.2857" /> <!-- Drained Thons - Sealed -->
-					<item id="92994" min="1" max="1" chance="8.9286" /> <!-- Drained Asofe - Sealed -->
-					<item id="92993" min="1" max="1" chance="1.7857" /> <!-- Drained Enria - Sealed -->
-				</group>
+
+					<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+					<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
+					<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+					<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+					<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+					<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+					<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+					<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+					<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+
 			</drop>
 		</dropLists>
 	</npc>
@@ -3089,19 +3084,19 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1106" max="1224" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.01" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.01" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.01" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.01" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.01" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.01" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.01" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.01" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.01" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.01" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.01" /> <!-- Master's Book: Acumen -->
-				<item id="95803" min="1" max="1" chance="0.05" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
+				<item id="94135" min="1" max="1" chance="0.1" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.1" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.1" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.1" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.1" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.1" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.1" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.1" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.1" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.1" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.1" /> <!-- Master's Book: Acumen -->
+				<item id="95803" min="1" max="1" chance="0.1" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -3133,19 +3128,19 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="1484" max="1641" chance="70" /> <!-- Adena -->
-				<item id="94135" min="1" max="1" chance="0.08" /> <!-- Master's Book: Might -->
-				<item id="94136" min="1" max="1" chance="0.08" /> <!-- Master's Book: Shield -->
-				<item id="94361" min="1" max="1" chance="0.08" /> <!-- Master's Book: Empower -->
-				<item id="94362" min="1" max="1" chance="0.08" /> <!-- Master's Book: Magic Barrier -->
-				<item id="94363" min="1" max="1" chance="0.08" /> <!-- Master's Book: Focus -->
-				<item id="94364" min="1" max="1" chance="0.08" /> <!-- Master's Book: Death Whisper -->
-				<item id="94365" min="1" max="1" chance="0.08" /> <!-- Master's Book: Wind Walk -->
-				<item id="94366" min="1" max="1" chance="0.08" /> <!-- Master's Book: Berserker Spirit -->
-				<item id="94367" min="1" max="1" chance="0.08" /> <!-- Master's Book: Clarity -->
-				<item id="94368" min="1" max="1" chance="0.08" /> <!-- Master's Book: Wild Magic -->
-				<item id="94369" min="1" max="1" chance="0.08" /> <!-- Master's Book: Haste -->
-				<item id="94370" min="1" max="1" chance="0.08" /> <!-- Master's Book: Acumen -->
-				<item id="95803" min="1" max="1" chance="0.05" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
+				<item id="94135" min="1" max="1" chance="0.2" /> <!-- Master's Book: Might -->
+				<item id="94136" min="1" max="1" chance="0.2" /> <!-- Master's Book: Shield -->
+				<item id="94361" min="1" max="1" chance="0.2" /> <!-- Master's Book: Empower -->
+				<item id="94362" min="1" max="1" chance="0.2" /> <!-- Master's Book: Magic Barrier -->
+				<item id="94363" min="1" max="1" chance="0.2" /> <!-- Master's Book: Focus -->
+				<item id="94364" min="1" max="1" chance="0.2" /> <!-- Master's Book: Death Whisper -->
+				<item id="94365" min="1" max="1" chance="0.2" /> <!-- Master's Book: Wind Walk -->
+				<item id="94366" min="1" max="1" chance="0.2" /> <!-- Master's Book: Berserker Spirit -->
+				<item id="94367" min="1" max="1" chance="0.2" /> <!-- Master's Book: Clarity -->
+				<item id="94368" min="1" max="1" chance="0.2" /> <!-- Master's Book: Wild Magic -->
+				<item id="94369" min="1" max="1" chance="0.2" /> <!-- Master's Book: Haste -->
+				<item id="94370" min="1" max="1" chance="0.2" /> <!-- Master's Book: Acumen -->
+				<item id="95803" min="1" max="1" chance="0.2" /> <!-- Hardin's Soul Crystal Lv. 1 - Rare -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -4043,9 +4038,10 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="57" min="438" max="485" chance="70" /> <!-- Adena -->
+				<item id="57" min="438" max="685" chance="70" /> <!-- Adena -->
 				<item id="3031" min="1" max="1" chance="30.3601" /> <!-- Spirit Ore - Sealed -->
 				<item id="95569" min="1" max="1" chance="0.2429" /> <!-- Adena Pouch - Sealed -->
+				<item id="95783" min="1" max="1" chance="1" /> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
 			</drop>
 		</dropLists>
 	</npc>

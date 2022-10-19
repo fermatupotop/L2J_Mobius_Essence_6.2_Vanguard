@@ -36,10 +36,11 @@ public class EnchantScrolls implements IItemHandler
 		}
 		
 		final Player player = playable.getActingPlayer();
-		if (player.isCastingNow())
-		{
-			return false;
-		}
+		
+		// if (player.isCastingNow())
+		// {
+		// return false;
+		// }
 		
 		if (player.hasItemRequest())
 		{

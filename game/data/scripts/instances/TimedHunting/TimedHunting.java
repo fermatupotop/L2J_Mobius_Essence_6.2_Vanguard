@@ -231,6 +231,23 @@ public class TimedHunting extends AbstractInstance
 				if ((shortcut.getType() == ShortcutType.SKILL) && (shortcut.getId() == normalSkillId))
 				{
 					final Shortcut newShortcut = new Shortcut(shortcut.getSlot(), shortcut.getPage(), ShortcutType.SKILL, transcendentSkillId, shortcut.getLevel(), shortcut.getSubLevel(), shortcut.getCharacterType());
+					if (shortcut.isAutoUse())
+					{
+						newShortcut.setAutoUse(true);
+						if (knownSkill.isBad())
+						{
+							if (player.getAutoUseSettings().getAutoSkills().contains(normalSkillId))
+							{
+								player.getAutoUseSettings().getAutoSkills().add(transcendentSkillId);
+								player.getAutoUseSettings().getAutoSkills().remove(Integer.valueOf(normalSkillId));
+							}
+						}
+						else if (player.getAutoUseSettings().getAutoBuffs().contains(normalSkillId))
+						{
+							player.getAutoUseSettings().getAutoBuffs().add(transcendentSkillId);
+							player.getAutoUseSettings().getAutoBuffs().remove(normalSkillId);
+						}
+					}
 					player.deleteShortCut(shortcut.getSlot(), shortcut.getPage());
 					player.registerShortCut(newShortcut);
 					player.sendPacket(new ShortCutRegister(newShortcut));
@@ -240,7 +257,11 @@ public class TimedHunting extends AbstractInstance
 			player.removeSkill(knownSkill, false);
 		}
 		player.sendSkillList();
-		ThreadPool.schedule(() -> player.sendPacket(new ShortCutInit(player)), 1100);
+		ThreadPool.schedule(() ->
+		{
+			player.sendPacket(new ShortCutInit(player));
+			player.restoreAutoShortcutVisual();
+		}, 1100);
 	}
 	
 	@Override
@@ -274,6 +295,23 @@ public class TimedHunting extends AbstractInstance
 				if ((shortcut.getType() == ShortcutType.SKILL) && (shortcut.getId() == transcendentSkillId))
 				{
 					final Shortcut newShortcut = new Shortcut(shortcut.getSlot(), shortcut.getPage(), ShortcutType.SKILL, normalSkillId, shortcut.getLevel(), shortcut.getSubLevel(), shortcut.getCharacterType());
+					if (shortcut.isAutoUse())
+					{
+						newShortcut.setAutoUse(true);
+						if (knownSkill.isBad())
+						{
+							if (player.getAutoUseSettings().getAutoSkills().contains(transcendentSkillId))
+							{
+								player.getAutoUseSettings().getAutoSkills().add(normalSkillId);
+								player.getAutoUseSettings().getAutoSkills().remove(Integer.valueOf(transcendentSkillId));
+							}
+						}
+						else if (player.getAutoUseSettings().getAutoBuffs().contains(transcendentSkillId))
+						{
+							player.getAutoUseSettings().getAutoBuffs().add(normalSkillId);
+							player.getAutoUseSettings().getAutoBuffs().remove(transcendentSkillId);
+						}
+					}
 					player.deleteShortCut(shortcut.getSlot(), shortcut.getPage());
 					player.registerShortCut(newShortcut);
 					player.sendPacket(new ShortCutRegister(newShortcut));
@@ -283,7 +321,11 @@ public class TimedHunting extends AbstractInstance
 			player.removeSkill(knownSkill, false);
 		}
 		player.sendSkillList();
-		ThreadPool.schedule(() -> player.sendPacket(new ShortCutInit(player)), 1100);
+		ThreadPool.schedule(() ->
+		{
+			player.sendPacket(new ShortCutInit(player));
+			player.restoreAutoShortcutVisual();
+		}, 1100);
 	}
 	
 	private void startEvent(Player player)

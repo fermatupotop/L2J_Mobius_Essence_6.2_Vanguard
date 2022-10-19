@@ -3,10 +3,10 @@ package ai.others;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
+import org.l2jmobius.gameserver.data.xml.SkillData;
 import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.actor.Npc;
 import org.l2jmobius.gameserver.model.actor.Player;
-import org.l2jmobius.gameserver.model.holders.SkillHolder;
 import org.l2jmobius.gameserver.model.skill.Skill;
 
 import ai.AbstractNpcAI;
@@ -22,6 +22,7 @@ public class BuffOnMiniBossKill extends AbstractNpcAI
 		27024,
 		27282, // octavis
 		21181, // mahum
+		21738, // war-thorn
 	};
 	
 	private BuffOnMiniBossKill()
@@ -32,7 +33,7 @@ public class BuffOnMiniBossKill extends AbstractNpcAI
 	}
 	
 	private final static int min_damage = 0;
-	private final SkillHolder miniBuff = new SkillHolder(55298, 1);
+	private static final Skill MINI_BUFF = SkillData.getInstance().getSkill(55298, 1);
 	private static final Map<Npc, Map<Integer, Integer>> MINIBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
 	
 	@Override
@@ -56,7 +57,7 @@ public class BuffOnMiniBossKill extends AbstractNpcAI
 		{
 			if (MINIBOSS_HITS.containsKey(npc) && (min_damage <= MINIBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
 			{
-				killers.doCast(miniBuff.getSkill());
+				MINI_BUFF.applyEffects(killers, killers);
 			}
 		}
 		

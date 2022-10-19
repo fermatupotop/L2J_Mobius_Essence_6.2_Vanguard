@@ -28,8 +28,6 @@ import org.l2jmobius.gameserver.model.quest.Quest;
 import org.l2jmobius.gameserver.model.quest.QuestState;
 import org.l2jmobius.gameserver.network.NpcStringId;
 
-//import quests.Q10295_RespectForGraves.Q10295_RespectForGraves;
-
 /**
  * @author quangnguyen
  */
@@ -51,7 +49,7 @@ public class Q10298_TracesOfBattle extends Quest
 	private static final ItemHolder SOE_WAR_TORN_PLAINS = new ItemHolder(95594, 1);
 	private static final ItemHolder SOE_HIGH_PRIEST_OVEN = new ItemHolder(91768, 1);
 	private static final ItemHolder MAGIC_LAMP_CHARGING_POTION = new ItemHolder(91757, 3);
-	private static final ItemHolder SOULSHOT_TICKET = new ItemHolder(90907, 10);
+	private static final ItemHolder DRAGON_BELT = new ItemHolder(93724, 1);
 	private static final ItemHolder SAYHA_GUST = new ItemHolder(91776, 9);
 	private static final ItemHolder SPIRIT_ORE = new ItemHolder(3031, 450);
 	// Misc
@@ -110,7 +108,7 @@ public class Q10298_TracesOfBattle extends Quest
 				{
 					addExpAndSp(player, 40000000, 1080000);
 					giveItems(player, MAGIC_LAMP_CHARGING_POTION);
-					giveItems(player, SOULSHOT_TICKET);
+					giveItems(player, DRAGON_BELT);
 					giveItems(player, SAYHA_GUST);
 					giveItems(player, SPIRIT_ORE);
 					htmltext = "30857-05.html";

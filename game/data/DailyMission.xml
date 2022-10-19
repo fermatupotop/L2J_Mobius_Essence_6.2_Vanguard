@@ -853,24 +853,13 @@
 			<param name="ids">22107,22108,22109,22110,22111,22112,22113,22114,22115,22116,22117,22118,22147,22148,22149,22275,22276,22277</param>
 		</handler>
 		<items>
-			<item id="72364" count="1" /> <!-- Red Lantern -->
+			<item id="91668" count="1" /> <!-- Red Lantern -->
 			<item id="97145" count="50" /> <!-- Ancient Adena -->
 		</items>
 	</reward>
 	
 
 	<reward id="1501" reward_id="1501" name="Hunt on Alligator Island I (Lv. 60+)" requiredCompletion="200">
-		<!-- A reward is given for killing 100 Savage monsters on Alligator Island. -->
-		<handler name="monster">
-			<param name="minLevel">60</param>
-			<param name="maxLevel">99</param>
-			<param name="ids">22192,22193,22194,22195,22196,22197,22198,22199</param>
-		</handler>
-		<items>
-			<item id="93080" count="2" /> <!-- Charging Stone of Random Craft - 2 Charge -->
-		</items>
-	</reward>
-	<reward id="1502" reward_id="1502" name="Hunt on Alligator Island II (Lv. 60+)" requiredCompletion="400">
 		<!-- A reward is given for killing 200 Savage monsters on Alligator Island. -->
 		<handler name="monster">
 			<param name="minLevel">60</param>
@@ -878,7 +867,20 @@
 			<param name="ids">22192,22193,22194,22195,22196,22197,22198,22199</param>
 		</handler>
 		<items>
+			<item id="93080" count="2" /> <!-- Charging Stone of Random Craft - 2 Charge -->
+			<item id="91670" count="5" /> <!-- Red Lantern -->
+		</items>
+	</reward>
+	<reward id="1502" reward_id="1502" name="Hunt on Alligator Island II (Lv. 60+)" requiredCompletion="400">
+		<!-- A reward is given for killing 400 Savage monsters on Alligator Island. -->
+		<handler name="monster">
+			<param name="minLevel">60</param>
+			<param name="maxLevel">99</param>
+			<param name="ids">22192,22193,22194,22195,22196,22197,22198,22199</param>
+		</handler>
+		<items>
 			<item id="93080" count="4" /> <!-- Charging Stone of Random Craft - 4 Charge -->
+			<item id="91668" count="2" /> <!-- Red Lantern -->
 		</items>
 	</reward>
 	

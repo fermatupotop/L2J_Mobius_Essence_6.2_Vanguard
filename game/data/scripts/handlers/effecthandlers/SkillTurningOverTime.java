@@ -23,6 +23,7 @@ import org.l2jmobius.gameserver.model.effects.AbstractEffect;
 import org.l2jmobius.gameserver.model.item.instance.Item;
 import org.l2jmobius.gameserver.model.skill.Skill;
 import org.l2jmobius.gameserver.model.stats.Formulas;
+import org.l2jmobius.gameserver.network.SystemMessageId;
 
 /**
  * Skill Turning effect implementation.
@@ -48,9 +49,10 @@ public class SkillTurningOverTime extends AbstractEffect
 		}
 		
 		final boolean skillSuccess = _staticChance ? Formulas.calcProbability(_chance, effector, effected, skill) : (Rnd.get(100) < _chance);
-		if (skillSuccess)
+		if (skillSuccess && effected.isCastingNow())
 		{
-			effected.breakCast();
+			effected.abortAllSkillCasters();
+			effected.sendPacket(SystemMessageId.YOUR_CASTING_HAS_BEEN_INTERRUPTED);
 		}
 		
 		return super.onActionTime(effector, effected, skill, item);

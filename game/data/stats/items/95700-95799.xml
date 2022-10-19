@@ -333,10 +333,14 @@
 		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01" />
 		<set name="default_action" val="PEEL" />
 		<set name="immediate_effect" val="true" />
-		<set name="material" val="FISH" />
+		<set name="material" val="STEEL" />
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="handler" val="ExtractableItems" />
+		<capsuled_items>
+			<item id="93301" min="1" max="1" minEnchant="3" maxEnchant="3" chance="100" /> <!-- +3 Cloak of Protection -->
+		</capsuled_items>
 	</item>
 	<item id="95717" name="Ancient Piggy-Bank (Time-limited)" additionalName="Sealed" type="EtcItem">
 		<!-- Double-click to obtain one of the following items. -->
@@ -1453,6 +1457,7 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
 	</item>
 	<item id="95783" name="Aden's Soul Crystal Lv. 1" type="EtcItem">
 		<!-- Double-click to add Soul Crystal's properties to a weapon. Can be used in compounding. -->

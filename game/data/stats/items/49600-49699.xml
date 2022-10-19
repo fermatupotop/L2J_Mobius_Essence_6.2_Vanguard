@@ -876,6 +876,8 @@
 		<set name="is_stackable" val="true" />
 		<set name="is_tradable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="is_freightable" val="true" />
+		<set name="handler" val="NicknameColor" />
 	</item>
 	<item id="49663" name="Special HP Recovery Potion" type="EtcItem">
 		<!-- Momentarily recovers 500 HP. If HP is full, CP is recovered. -->

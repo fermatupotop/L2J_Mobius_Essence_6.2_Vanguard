@@ -54,7 +54,7 @@ public class UnsummonServitor implements IPlayerActionHandler
 			if (canUnsummon)
 			{
 				final WorldObject target = player.getTarget();
-				if ((target != null) && target.isSummon() && (((Summon) target).getOwner() == player))
+				if ((target != null) && target.isSummon() && (((Summon) target).getOwner() == player) && !target.isPet())
 				{
 					((Summon) target).unSummon(player);
 				}

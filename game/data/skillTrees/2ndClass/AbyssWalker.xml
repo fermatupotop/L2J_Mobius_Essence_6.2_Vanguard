@@ -160,7 +160,7 @@
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="MP Recovery" skillId="45177" skillLevel="2" getLevel="50" levelUpSp="300000">
-			<item id="57" count="1000000" /> <!-- Adena -->
+			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Potion Mastery" skillId="45184" skillLevel="2" getLevel="50">
 			<item id="57" count="3000000" /> <!-- Adena -->
@@ -285,7 +285,9 @@
 		<skill skillName="Rogue Armor Mastery" skillId="47332" skillLevel="3" getLevel="60" levelUpSp="640000" />
 		<skill skillName="Acrobatic Body" skillId="47333" skillLevel="5" getLevel="60" levelUpSp="640000" />
 		<skill skillName="Backstab" skillId="47334" skillLevel="3" getLevel="60" levelUpSp="640000" />
-
+		<skill skillName="MP Recovery" skillId="45177" skillLevel="3" getLevel="60" levelUpSp="300000">
+			<item id="57" count="1000000" /> <!-- Adena -->
+		</skill>
 		<skill skillName="Deadly Blow" skillId="263" skillLevel="26" getLevel="61" levelUpSp="640000" >
 					<removeSkill id="3" onlyReplaceByLearn="true" /> <!-- Power Strike -->
 			<removeSkill id="16" onlyReplaceByLearn="true" /> <!-- Mortal Blow -->

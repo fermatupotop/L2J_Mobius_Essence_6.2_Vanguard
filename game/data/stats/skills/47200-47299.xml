@@ -843,6 +843,7 @@
 		<!-- AUTO GENERATED SKILL TODO: FIX IT -->
 		<icon>icon.s_refine</icon>
 		<operateType>A1</operateType>
+		<isHeal>true</isHeal>
 	</skill>
 	<skill id="47248" toLevel="1" name="Eva's Nocturne">
 		<icon>icon.s_nocturn_of_eva</icon>

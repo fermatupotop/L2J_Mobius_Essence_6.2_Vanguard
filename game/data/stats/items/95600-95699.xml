@@ -760,19 +760,22 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="2" />
+		<set name="extractableCountMax" val="2" />
 		<capsuled_items>
-			<item id="95416" min="1" max="1" chance="53" minEnchant="4" maxEnchant="4" />
-			<item id="95416" min="1" max="1" chance="24" minEnchant="5" maxEnchant="5" />
-			<item id="95416" min="1" max="1" chance="6" minEnchant="6" maxEnchant="6" />
-			<item id="95416" min="1" max="1" chance="5" minEnchant="7" maxEnchant="7" />
-			<item id="95416" min="1" max="1" chance="4" minEnchant="8" maxEnchant="8" />
-			<item id="95416" min="1" max="1" chance="3" minEnchant="9" maxEnchant="9" />
-			<item id="95416" min="1" max="1" chance="2" minEnchant="10" maxEnchant="10" />
-			<item id="95416" min="1" max="1" chance="1.4" minEnchant="11" maxEnchant="11" />
-			<item id="95416" min="1" max="1" chance="0.8" minEnchant="12" maxEnchant="12" />
-			<item id="95416" min="1" max="1" chance="0.5" minEnchant="13" maxEnchant="13" />
-			<item id="95416" min="1" max="1" chance="0.2" minEnchant="14" maxEnchant="14" />
-			<item id="95416" min="1" max="1" chance="0.1" minEnchant="15" maxEnchant="15" />
+			<item id="94893" min="1" max="1" chance="98.3201" />
+			<item id="95416" min="1" max="1" chance="0.66" minEnchant="4" maxEnchant="4" />
+			<item id="95416" min="1" max="1" chance="0.55" minEnchant="5" maxEnchant="5" />
+			<item id="95416" min="1" max="1" chance="0.25" minEnchant="6" maxEnchant="6" />
+			<item id="95416" min="1" max="1" chance="0.15" minEnchant="7" maxEnchant="7" />
+			<item id="95416" min="1" max="1" chance="0.05" minEnchant="8" maxEnchant="8" />
+			<item id="95416" min="1" max="1" chance="0.01" minEnchant="9" maxEnchant="9" />
+			<item id="95416" min="1" max="1" chance="0.005" minEnchant="10" maxEnchant="10" />
+			<item id="95416" min="1" max="1" chance="0.003" minEnchant="11" maxEnchant="11" />
+			<item id="95416" min="1" max="1" chance="0.001" minEnchant="12" maxEnchant="12" />
+			<item id="95416" min="1" max="1" chance="0.0005" minEnchant="13" maxEnchant="13" />
+			<item id="95416" min="1" max="1" chance="0.0003" minEnchant="14" maxEnchant="14" />
+			<item id="95416" min="1" max="1" chance="0.0001" minEnchant="15" maxEnchant="15" />
 		</capsuled_items>
 	</item>
 	<item id="95659" name="+4 ~ +15 Weapon Pack - Volcano" additionalName="Sealed" type="EtcItem">
@@ -786,6 +789,8 @@
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
 		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
 		<capsuled_items>
 			<item id="95418" min="1" max="1" chance="53" minEnchant="4" maxEnchant="4" />
 			<item id="95418" min="1" max="1" chance="24" minEnchant="5" maxEnchant="5" />

@@ -47,7 +47,7 @@
 			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="MP Recovery" skillId="45177" skillLevel="2" getLevel="50" levelUpSp="300000">
-			<item id="57" count="1000000" /> <!-- Adena -->
+			<item id="57" count="500000" /> <!-- Adena -->
 		</skill>
 		<skill skillName="Potion Mastery" skillId="45184" skillLevel="2" getLevel="50">
 			<item id="57" count="3000000" /> <!-- Adena -->
@@ -80,6 +80,9 @@
 		</skill>
 		<skill skillName="Potion Mastery" skillId="45184" skillLevel="3" getLevel="60">
 			<item id="57" count="6000000" /> <!-- Adena -->
+		</skill>
+		<skill skillName="MP Recovery" skillId="45177" skillLevel="3" getLevel="60" levelUpSp="300000">
+			<item id="57" count="1000000" /> <!-- Adena -->
 		</skill>
 		
 		<skill skillName="Divine Inspiration" skillId="1405" skillLevel="2" getLevel="61" levelUpSp="900000">

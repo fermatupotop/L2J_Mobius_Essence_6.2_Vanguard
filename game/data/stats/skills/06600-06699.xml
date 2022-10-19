@@ -2079,7 +2079,7 @@
 			</effect>
 			<effect name="BlockActions" />
 			<effect name="DefenceCriticalRate">
-				<amount>-50</amount>
+				<amount>50</amount>
 				<mode>PER</mode>
 			</effect>
 		</effects>

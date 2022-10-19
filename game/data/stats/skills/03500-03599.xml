@@ -465,8 +465,12 @@
 				<amount>5.26</amount>
 				<mode>PER</mode>
 			</effect>
-			<effect name="MagicalAttackSpeed" fromLevel="3" toLevel="3">
-				<amount>15</amount>
+			<effect name="MagicalAttackSpeed" fromLevel="1" toLevel="3">
+				<amount>
+				<value level ="1">0</value>
+				<value level ="2">10</value>
+				<value level ="3">15</value>
+				</amount>
 				<mode>PER</mode>
 			</effect>
 		</effects>

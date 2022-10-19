@@ -1997,6 +1997,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="379" max="419" chance="70" /> <!-- Adena -->
+				<item id="96623" min="1" max="1" chance="0.1"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2036,32 +2037,16 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
+
 					<item id="57" min="379" max="419" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="5.3001">
-					<item id="92909" min="1" max="1" chance="10.2576" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="5.1288" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="1.7096" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="1.0258" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92913" min="1" max="1" chance="0.5129" /> <!-- Material: Unknown Metal - Sealed -->
-					<item id="92914" min="1" max="1" chance="0.171" /> <!-- Material: Sack Shreds - Sealed -->
-					<item id="92915" min="1" max="1" chance="0.1026" /> <!-- Material: Bag of Low-grade Stuff - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0513" /> <!-- Material: Animal Spirit - Sealed -->
-					<item id="92919" min="1" max="1" chance="0.0051" /> <!-- Material: Blacksmith's High-grade Power - Sealed -->
-					<item id="3031" min="1" max="1" chance="12.822" /> <!-- Spirit Ore - Sealed -->
-					<item id="92996" min="1" max="1" chance="51.2882" /> <!-- Ancient Resources - Sealed -->
-					<item id="92997" min="1" max="1" chance="10.2576" /> <!-- Old Unknown Resources - Sealed -->
-					<item id="92998" min="1" max="1" chance="5.1288" /> <!-- Old Shining Resources - Sealed -->
-					<item id="92999" min="1" max="1" chance="1.0258" /> <!-- Old High-grade Resources - Sealed -->
-					<item id="92995" min="1" max="1" chance="0.5129" /> <!-- Drained Thons - Sealed -->
-				</group>
+					<item id="96623" min="1" max="1" chance="0.1"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="92996" min="1" max="1" chance="29.0008" /> <!-- Ancient Resources - Sealed -->
 				<item id="92997" min="1" max="1" chance="5.8002" /> <!-- Old Unknown Resources - Sealed -->
 				<item id="92998" min="1" max="1" chance="2.9001" /> <!-- Old Shining Resources - Sealed -->
 				<item id="92995" min="1" max="1" chance="0.29" /> <!-- Drained Thons - Sealed -->
+
 			</spoil>
 		</dropLists>
 	</npc>
@@ -2105,25 +2090,9 @@
 		</ai>
 		<dropLists>
 			<drop>
-				<group chance="70">
 					<item id="57" min="381" max="421" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="3.4204">
-					<item id="92909" min="1" max="1" chance="11.7663" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="5.8832" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="1.9611" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="1.1766" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92913" min="1" max="1" chance="0.5883" /> <!-- Material: Unknown Metal - Sealed -->
-					<item id="92914" min="1" max="1" chance="0.1961" /> <!-- Material: Sack Shreds - Sealed -->
-					<item id="92915" min="1" max="1" chance="0.1177" /> <!-- Material: Bag of Low-grade Stuff - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0588" /> <!-- Material: Animal Spirit - Sealed -->
-					<item id="92919" min="1" max="1" chance="0.0059" /> <!-- Material: Blacksmith's High-grade Power - Sealed -->
-					<item id="92996" min="1" max="1" chance="58.8316" /> <!-- Ancient Resources - Sealed -->
-					<item id="92997" min="1" max="1" chance="11.7663" /> <!-- Old Unknown Resources - Sealed -->
-					<item id="92998" min="1" max="1" chance="5.8832" /> <!-- Old Shining Resources - Sealed -->
-					<item id="92999" min="1" max="1" chance="1.1766" /> <!-- Old High-grade Resources - Sealed -->
-					<item id="92995" min="1" max="1" chance="0.5883" /> <!-- Drained Thons - Sealed -->
-				</group>
+					<item id="96623" min="1" max="1" chance="0.1"/> <!-- Dye Powder -->
+
 			</drop>
 			<spoil>
 				<item id="92996" min="1" max="1" chance="20.037" /> <!-- Ancient Resources - Sealed -->
@@ -2170,6 +2139,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="381" max="421" chance="70" /> <!-- Adena -->
+				<item id="96623" min="1" max="1" chance="0.1"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2209,6 +2179,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="382" max="423" chance="70" /> <!-- Adena -->
+				<item id="96623" min="1" max="1" chance="0.1"/> <!-- Dye Powder -->
 				<item id="3031" min="1" max="1" chance="1.4459" /> <!-- Spirit Ore - Sealed -->
 				<item id="92477" min="1" max="1" chance="1.1567" /> <!-- Wood -->
 				<item id="92479" min="1" max="1" chance="1.1567" /> <!-- Metallograph -->

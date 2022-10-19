@@ -59,7 +59,7 @@ public class Atingo extends AbstractNpcAI
 		new Location(-93785, 105300, -3486, 16115), // Orc Barracks
 	};
 	// Misc
-	private static final Duration ATINGO_RESPAWN_DURATION = Duration.ofMinutes(10);
+	private static final Duration ATINGO_RESPAWN_DURATION = Duration.ofMinutes(20);
 	private static final double ATINGO_PET_SPAWN_RATE = 30;
 	
 	public Atingo()

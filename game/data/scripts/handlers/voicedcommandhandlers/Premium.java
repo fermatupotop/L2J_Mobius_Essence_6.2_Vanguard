@@ -58,9 +58,6 @@ public class Premium implements IVoicedCommandHandler
 				html.append("<tr><td>Drop Amount: <font color=\"LEVEL\"> x" + (Config.RATE_DEATH_DROP_AMOUNT_MULTIPLIER * Config.PREMIUM_RATE_DROP_AMOUNT) + "<br1></font></td></tr>");
 				html.append("<tr><td>Spoil Chance: <font color=\"LEVEL\"> x" + (Config.RATE_SPOIL_DROP_CHANCE_MULTIPLIER * Config.PREMIUM_RATE_SPOIL_CHANCE) + "<br1></font></td></tr>");
 				html.append("<tr><td>Spoil Amount: <font color=\"LEVEL\"> x" + (Config.RATE_SPOIL_DROP_AMOUNT_MULTIPLIER * Config.PREMIUM_RATE_SPOIL_AMOUNT) + "<br1></font></td></tr>");
-				html.append("<tr><td> <font color=\"70FFCA\">1. Premium benefits CAN NOT BE TRANSFERED.<br1></font></td></tr>");
-				html.append("<tr><td> <font color=\"70FFCA\">2. Premium does not effect party members.<br1></font></td></tr>");
-				html.append("<tr><td> <font color=\"70FFCA\">3. Premium benefits effect ALL characters in same account.</font></td></tr>");
 			}
 			else
 			{
@@ -75,10 +72,6 @@ public class Premium implements IVoicedCommandHandler
 				html.append("<tr><td>Spoil Amount: <font color=\"LEVEL\">x" + (Config.RATE_SPOIL_DROP_AMOUNT_MULTIPLIER * Config.PREMIUM_RATE_SPOIL_AMOUNT) + " <br1></font></td></tr>");
 				html.append("<tr><td>Expires: <font color=\"00A5FF\">" + format.format(endDate) + "</font></td></tr>");
 				html.append("<tr><td>Current Date: <font color=\"70FFCA\">" + format.format(System.currentTimeMillis()) + "<br><br></font></td></tr>");
-				html.append("<tr><td><center>Premium Info & Rules<br></center></td></tr>");
-				html.append("<tr><td><font color=\"70FFCA\">1. Premium accounts CAN NOT BE TRANSFERED.<br1></font></td></tr>");
-				html.append("<tr><td><font color=\"70FFCA\">2. Premium does not effect party members.<br1></font></td></tr>");
-				html.append("<tr><td><font color=\"70FFCA\">3. Premium account effects ALL characters in same account.<br><br><br></font></td></tr>");
 				html.append("<tr><td><center>Thank you for supporting our server.</td></tr>");
 			}
 			html.append("</table>");

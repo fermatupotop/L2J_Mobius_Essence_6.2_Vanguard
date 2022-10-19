@@ -2570,6 +2570,7 @@
 				<item id="92833" min="1" max="1" chance="0.0962" /> <!-- Sealed Dark Crystal Gaiter Pattern -->
 				<item id="91745" min="1" max="1" chance="0.0049" /> <!-- Talisman of Aden - Sealed -->
 				<item id="5288" min="1" max="1" chance="0.0018" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="5424" min="1" max="1" chance="0.0228" /> <!-- Recipe: Sealed Dark Crystal Gaiters (60%) -->
@@ -2620,6 +2621,7 @@
 			<drop>
 				<item id="57" min="903" max="997" chance="70" /> <!-- Adena -->
 				<item id="91745" min="1" max="1" chance="0.0165" /> <!-- Talisman of Aden - Sealed -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2669,6 +2671,7 @@
 				<item id="91745" min="1" max="1" chance="0.0033" /> <!-- Talisman of Aden - Sealed -->
 				<item id="171" min="1" max="1" chance="0.001" /> <!-- Deadman's Glory -->
 				<item id="7889" min="1" max="1" chance="0.001" /> <!-- Wizard's Tear -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="4194" min="1" max="1" chance="0.0093" /> <!-- Recipe: Deadman's Glory (100%) -->
@@ -2722,6 +2725,7 @@
 				<item id="91745" min="1" max="1" chance="0.0033" /> <!-- Talisman of Aden - Sealed -->
 				<item id="79" min="1" max="1" chance="0.001" /> <!-- Damascus Sword -->
 				<item id="2626" min="1" max="1" chance="0.001" /> <!-- Samurai Long Sword*Samurai Long Sword -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="4192" min="1" max="1" chance="0.0093" /> <!-- Recipe: Damascus Sword (100%) -->
@@ -2774,6 +2778,7 @@
 				<item id="91745" min="1" max="1" chance="0.0055" /> <!-- Talisman of Aden - Sealed -->
 				<item id="7883" min="1" max="1" chance="0.001" /> <!-- Guardian's Sword -->
 				<item id="91900" min="1" max="1" chance="0.001" /> <!-- Colichemarde -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2818,21 +2823,9 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
 					<item id="57" min="678" max="1584" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="9.6831">
-					<item id="92912" min="1" max="1" chance="5.458" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92913" min="1" max="1" chance="2.729" /> <!-- Material: Unknown Metal - Sealed -->
-					<item id="92914" min="1" max="1" chance="0.9097" /> <!-- Material: Sack Shreds - Sealed -->
-					<item id="92915" min="1" max="1" chance="0.5458" /> <!-- Material: Bag of Low-grade Stuff - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.2729" /> <!-- Material: Animal Spirit - Sealed -->
-					<item id="92919" min="1" max="1" chance="0.0273" /> <!-- Material: Blacksmith's High-grade Power - Sealed -->
-					<item id="92997" min="1" max="1" chance="54.5802" /> <!-- Old Unknown Resources - Sealed -->
-					<item id="92998" min="1" max="1" chance="27.2901" /> <!-- Old Shining Resources - Sealed -->
-					<item id="92999" min="1" max="1" chance="5.458" /> <!-- Old High-grade Resources - Sealed -->
-					<item id="92995" min="1" max="1" chance="2.729" /> <!-- Drained Thons - Sealed -->
-				</group>
+					<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
+			
 			</drop>
 			<spoil>
 				<item id="5394" min="1" max="1" chance="0.0225" /> <!-- Recipe: Sealed Tallum Gloves (60%) -->
@@ -2885,6 +2878,7 @@
 			<drop>
 				<item id="57" min="901" max="997" chance="70" /> <!-- Adena -->
 				<item id="91745" min="1" max="1" chance="0.0165" /> <!-- Talisman of Aden - Sealed -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -2929,12 +2923,11 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="901" max="997" chance="70" /> <!-- Adena -->
-				<item id="92768" min="1" max="1" chance="0.0233" /> <!-- Blue Wolf Breastplate Part -->
-				<item id="92800" min="1" max="1" chance="0.0057" /> <!-- Lance Blade -->
 				<item id="91745" min="1" max="1" chance="0.0025" /> <!-- Talisman of Aden - Sealed -->
 				<item id="97" min="1" max="1" chance="0.001" /> <!-- Lance -->
-				<item id="358" min="1" max="1" chance="0.0012" /> <!-- Blue Wolf Breastplate -->
-				<item id="7901" min="1" max="1" chance="0.001" /> <!-- Star Buster -->
+				<item id="358" min="1" max="1" chance="0.12" /> <!-- Blue Wolf Breastplate -->
+				<item id="7901" min="1" max="1" chance="0.1" /> <!-- Star Buster -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="4155" min="1" max="1" chance="0.0189" /> <!-- Recipe: Blue Wolf Breastplate (100%) -->
@@ -2991,6 +2984,7 @@
 				<item id="171" min="1" max="1" chance="0.001" /> <!-- Deadman's Glory -->
 				<item id="2391" min="1" max="1" chance="0.0011" /> <!-- Blue Wolf Leather Armor -->
 				<item id="91885" min="1" max="1" chance="0.001" /> <!-- Dismantler -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="4159" min="1" max="1" chance="0.0173" /> <!-- Recipe: Blue Wolf Leather Armor (100%) -->
@@ -3041,11 +3035,10 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="901" max="997" chance="70" /> <!-- Adena -->
-				<item id="92799" min="1" max="1" chance="0.0057" /> <!-- Damascus Sword Blade -->
-				<item id="92803" min="1" max="1" chance="0.0057" /> <!-- Staff of Evil Spirits Head -->
-				<item id="91745" min="1" max="1" chance="0.0033" /> <!-- Talisman of Aden - Sealed -->
-				<item id="79" min="1" max="1" chance="0.001" /> <!-- Damascus Sword -->
-				<item id="210" min="1" max="1" chance="0.001" /> <!-- Staff of Evil Spirits -->
+				<item id="91745" min="1" max="1" chance="0.33" /> <!-- Talisman of Aden - Sealed -->
+				<item id="79" min="1" max="1" chance="0.1" /> <!-- Damascus Sword -->
+				<item id="210" min="1" max="1" chance="0.1" /> <!-- Staff of Evil Spirits -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="4192" min="1" max="1" chance="0.0047" /> <!-- Recipe: Damascus Sword (100%) -->

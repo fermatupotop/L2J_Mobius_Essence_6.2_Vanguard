@@ -882,7 +882,7 @@
 					<value level="11">5</value>
 					<value level="12">5</value>
 				</criticalChance>
-				<chanceBoost>400</chanceBoost>
+				<chanceBoost>1000</chanceBoost>
 				<overHit>true</overHit>
 			</effect>
 		</effects>

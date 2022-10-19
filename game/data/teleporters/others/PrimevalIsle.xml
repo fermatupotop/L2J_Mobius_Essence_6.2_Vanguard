@@ -5,7 +5,7 @@
 			<location x="9306" y="-21634" z="-3621" /> <!-- Primeval Plains North -->
 			<location x="7707" y="-8896" z="-3603" /> <!-- Primeval Plains South -->
 			<location x="25308" y="-14492" z="-2700" /> <!-- Lost Nest East -->
-			<location x="131787" y="-10333" z="-3246" /> <!-- Lost Nest West -->
+			<location x="14010" y="-14090" z="-3194" /> <!-- Lost Nest West -->
 		</teleport>
 	</npc>
 </list>

@@ -55,7 +55,7 @@ public class Q10296_LetsPayRespectsToOurFallenBrethren extends Quest
 	private static final ItemHolder SOE_FIELDS_OF_MASSACRE = new ItemHolder(95592, 1);
 	private static final ItemHolder SOE_HIGH_PRIEST_OVEN = new ItemHolder(91768, 1);
 	private static final ItemHolder MAGIC_LAMP_CHARGING_POTION = new ItemHolder(91757, 3);
-	private static final ItemHolder SOULSHOT_TICKET = new ItemHolder(90907, 10);
+	private static final ItemHolder ADEN_TALISMAN = new ItemHolder(92446, 1);
 	private static final ItemHolder SAYHA_GUST = new ItemHolder(91776, 9);
 	private static final ItemHolder SPIRIT_ORE = new ItemHolder(3031, 450);
 	// Misc
@@ -114,7 +114,7 @@ public class Q10296_LetsPayRespectsToOurFallenBrethren extends Quest
 				{
 					addExpAndSp(player, 30000000, 810000);
 					giveItems(player, MAGIC_LAMP_CHARGING_POTION);
-					giveItems(player, SOULSHOT_TICKET);
+					giveItems(player, ADEN_TALISMAN);
 					giveItems(player, SAYHA_GUST);
 					giveItems(player, SPIRIT_ORE);
 					htmltext = "30857-05.html";

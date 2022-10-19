@@ -34,6 +34,9 @@ import quests.Q10298_TracesOfBattle.Q10298_TracesOfBattle;
 import quests.Q10299_GetIncrediblePower.Q10299_GetIncrediblePower;
 import quests.Q10300_ExploringTheCrumaTower.Q10300_ExploringTheCrumaTower;
 import quests.Q10301_NotSoSilentValley.Q10301_NotSoSilentValley;
+import quests.Q10302_FoilPlansOfTheLizardmen.Q10302_FoilPlansOfTheLizardmen;
+import quests.Q10303_SymbolOfHubris.Q10303_SymbolOfHubris;
+import quests.Q10304_ChangesintheDragonValley.Q10304_ChangesintheDragonValley;
 import quests.Q10311_BestMedicine.Q10311_BestMedicine;
 import quests.Q10312_GordesLegend.Q10312_GordesLegend;
 import quests.Q10313_CunningMorgos.Q10313_CunningMorgos;
@@ -113,6 +116,9 @@ public class QuestMasterHandler
 		Q10988_Conspiracy.class,
 		Q10989_DangerousPredators.class,
 		Q10990_PoisonExtraction.class,
+		Q10302_FoilPlansOfTheLizardmen.class,
+		Q10303_SymbolOfHubris.class,
+		Q10304_ChangesintheDragonValley.class,
 		
 		Q10978_MissingPets.class,
 	};

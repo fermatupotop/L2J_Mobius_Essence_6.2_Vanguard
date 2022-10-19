@@ -37,14 +37,19 @@
 		<ingredient id="91663" count="200" /> <!-- L-Coin -->
 		<production id="94173" /> <!-- Talisman Bracelet Lv. 1 Pack-->
 	</product>
+	
+	<!-- 
 	<product id="323" category="0">
-		<ingredient id="91663" count="200" /> <!-- L-Coin -->
-		<production id="94172" /> <!-- Brooch Lv. 1 Pack -->
+		<ingredient id="91663" count="200" /> 
+		<production id="94172" /> 
 	</product>
 	<product id="324" category="0">
-		<ingredient id="91663" count="200" /> <!-- L-Coin -->
-		<production id="94171" /> <!-- Agathion Bracelet Lv. 1 Pack-->
-	</product>
+		<ingredient id="91663" count="200" /> 
+		<production id="94171" /> 
+	</product>	
+	-->
+	
+	
 	<!-- Cat 1 Upgrade -->
 	<product id="219" category="1">
 		<ingredient id="91663" count="1500" /> <!-- L-Coin -->

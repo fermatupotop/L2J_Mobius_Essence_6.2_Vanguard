@@ -1046,6 +1046,9 @@
 		<set name="is_tradable" val="false" />
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+		<set name="is_freightable" val="true" />
+		<set name="handler" val="NicknameColor" />
 	</item>
 	<item id="94765" name="Lv. 90 Achievement Reward Box" additionalName="Sealed" type="EtcItem">
 		<!-- Double-click to obtain the following. -->

@@ -2998,7 +2998,6 @@
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-			<skill name="Buff" id="4029" level="2" />
 		</parameters>
 		<race>BEAST</race>
 		<sex>MALE</sex>
@@ -3025,7 +3024,6 @@
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="4029" level="2" /> <!-- NPC Shield -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>

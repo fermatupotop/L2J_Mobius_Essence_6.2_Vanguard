@@ -3,10 +3,10 @@ package custom.buffOnBossKill;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
+import org.l2jmobius.gameserver.data.xml.SkillData;
 import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.actor.Npc;
 import org.l2jmobius.gameserver.model.actor.Player;
-import org.l2jmobius.gameserver.model.holders.SkillHolder;
 import org.l2jmobius.gameserver.model.skill.Skill;
 
 import ai.AbstractNpcAI;
@@ -71,7 +71,7 @@ public class buffOnBossKill extends AbstractNpcAI
 	}
 	
 	private final static int min_damage = 0;
-	private final SkillHolder buff = new SkillHolder(55297, 1);
+	private static final Skill BOSS_BUFF = SkillData.getInstance().getSkill(55297, 1);
 	private static final Map<Npc, Map<Integer, Integer>> RAIDBOSS_HITS = new ConcurrentHashMap<>(new ConcurrentHashMap<>());
 	
 	@Override
@@ -92,7 +92,7 @@ public class buffOnBossKill extends AbstractNpcAI
 		{
 			if (RAIDBOSS_HITS.containsKey(npc) && (min_damage <= RAIDBOSS_HITS.get(npc).getOrDefault(killers.getObjectId(), 0)) && (npc.getTemplate().getLevel() > (killers.getLevel() - 15)) && (npc.getTemplate().getLevel() < (killers.getLevel() + 15)))
 			{
-				killers.doCast(buff.getSkill());
+				BOSS_BUFF.applyEffects(killers, killers);
 			}
 		}
 		RAIDBOSS_HITS.get(npc).clear();

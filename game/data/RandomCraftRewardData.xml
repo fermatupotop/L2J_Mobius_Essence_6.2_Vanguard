@@ -454,7 +454,8 @@
 		<item id="92447" count="1" chance="5" announce="true" /> <!-- Aden 5 -->
 		<item id="96300" count="1" chance="2" announce="true" /> <!-- Spellbook: Dragon Slayer -->
 		<item id="92401" count="1" chance="2" announce="true" /> <!-- Spellbook: White Guardian -->
-		<item id="90045" count="5" chance="10" announce="true" /> <!-- Magic Table -->
+		<item id="90045" count="5" chance="10"  /> <!-- Magic Table -->
+		<item id="94314" count="1" chance="5" announce="true" /> <!-- Elixir -->
 
 	</rewards>
 </list>

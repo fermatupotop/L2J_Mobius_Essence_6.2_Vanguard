@@ -50,7 +50,7 @@ public class Q10297_MemoryOfTheGloriousPast extends Quest
 	private static final ItemHolder SOE_PLAINS_OF_GLORY = new ItemHolder(95593, 1);
 	private static final ItemHolder SOE_HIGH_PRIEST_OVEN = new ItemHolder(91768, 1);
 	private static final ItemHolder MAGIC_LAMP_CHARGING_POTION = new ItemHolder(91757, 3);
-	private static final ItemHolder SOULSHOT_TICKET = new ItemHolder(90907, 10);
+	private static final ItemHolder CLOAK_PROTECTION = new ItemHolder(95716, 1);
 	private static final ItemHolder SAYHA_GUST = new ItemHolder(91776, 9);
 	private static final ItemHolder SPIRIT_ORE = new ItemHolder(3031, 450);
 	// Misc
@@ -109,7 +109,7 @@ public class Q10297_MemoryOfTheGloriousPast extends Quest
 				{
 					addExpAndSp(player, 35000000, 945000);
 					giveItems(player, MAGIC_LAMP_CHARGING_POTION);
-					giveItems(player, SOULSHOT_TICKET);
+					giveItems(player, CLOAK_PROTECTION);
 					giveItems(player, SAYHA_GUST);
 					giveItems(player, SPIRIT_ORE);
 					htmltext = "30857-05.html";

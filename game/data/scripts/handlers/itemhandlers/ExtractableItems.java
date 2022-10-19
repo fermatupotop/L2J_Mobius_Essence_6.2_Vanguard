@@ -34,6 +34,7 @@ import org.l2jmobius.gameserver.model.item.EtcItem;
 import org.l2jmobius.gameserver.model.item.instance.Item;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 import org.l2jmobius.gameserver.network.serverpackets.InventoryUpdate;
+import org.l2jmobius.gameserver.network.serverpackets.Sopenbox;
 import org.l2jmobius.gameserver.network.serverpackets.SystemMessage;
 
 /**
@@ -230,6 +231,11 @@ public class ExtractableItems implements IItemHandler
 			player.sendPacket(playerIU);
 		}
 		
+		if (player.AUtoUZE)
+		{
+			player.sendPacket(new Sopenbox(player.nTotalPeelCount, player.nRemainPeelCount, extractedItems, false));
+			player.AUtoUZE = false;
+		}
 		for (Entry<Item, Long> entry : extractedItems.entrySet())
 		{
 			sendMessage(player, entry.getKey(), entry.getValue().longValue());

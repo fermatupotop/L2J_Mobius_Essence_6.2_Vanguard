@@ -4728,6 +4728,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>3000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<isHeal>true</isHeal>
 		<targetType>TARGET</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
@@ -5027,8 +5028,9 @@
 					<value level="54">7338</value>
 					<value level="55">7438</value>
 				</power>
-				<chanceBoost>800</chanceBoost>
+				<chanceBoost>1000</chanceBoost>
 				<overHit>true</overHit>
+				
 			</effect>
 		</effects>
 	</skill>
@@ -6219,6 +6221,8 @@
 		<operateType>A1</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />

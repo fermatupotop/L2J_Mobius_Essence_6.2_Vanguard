@@ -192,6 +192,11 @@
 				<pDefMod>0.75</pDefMod>
 			</effect>
 		</effects>
+		<selfEffects>
+			<effect name="ModifyDeathPoints">
+				<amount>1</amount>
+			</effect>
+		</selfEffects>
 	</skill>
 	<skill id="45302" toLevel="20" name="Punishment">
 		<!-- Inflicts a sword attack. Power $s1. Ignores Shield Defense. Ignores $s2 of the target's defense. Critical. -->
@@ -408,6 +413,11 @@
 				<pDefMod>0.75</pDefMod>
 			</effect>
 		</effects>
+				<selfEffects>
+			<effect name="ModifyDeathPoints">
+				<amount>1</amount>
+			</effect>
+		</selfEffects>
 	</skill>
 	<skill id="45304" toLevel="5" name="Drain Magic Energy - MP Recovery">
 		<effectPoint>
@@ -555,15 +565,12 @@
 				<overHit>true</overHit>
 				<pDefMod>0.9</pDefMod>
 			</effect>
-			<effect name="ModifyDeathPoints">
-				<amount>
-					<value fromLevel="1" toLevel="9">1</value>
-					<value fromLevel="10" toLevel="14">2</value>
-					<value fromLevel="15" toLevel="20">3</value>
-				</amount>
-				<chance>20</chance>
-			</effect>
 		</effects>
+				<selfEffects>
+			<effect name="ModifyDeathPoints">
+				<amount>1</amount>
+			</effect>
+		</selfEffects>
 	</skill>
 	<skill id="45306" toLevel="20" name="Fist of Fury">
 		<!-- Attacks the target with a fist imbued with fire energy. Power $s1. Has a chance to get $s2 DP after an attack. Ignores Shield Defense. Ignores $s3 of the target's defense. Critical. -->
@@ -679,15 +686,12 @@
 				<overHit>true</overHit>
 				<pDefMod>0.9</pDefMod>
 			</effect>
-			<effect name="ModifyDeathPoints">
-				<amount>
-					<value fromLevel="1" toLevel="9">1</value>
-					<value fromLevel="10" toLevel="14">2</value>
-					<value fromLevel="15" toLevel="20">3</value>
-				</amount>
-				<chance>20</chance>
-			</effect>
 		</effects>
+				<selfEffects>
+			<effect name="ModifyDeathPoints">
+				<amount>1</amount>
+			</effect>
+		</selfEffects>
 	</skill>
 	<skill id="45307" toLevel="20" name="Fist of Fury">
 		<!-- Attacks the target with a fist imbued with frost energy. Power $s1. Has a chance to get $s2 DP after an attack. Ignores Shield Defense. Ignores $s3 of the target's defense. Critical. -->
@@ -803,15 +807,12 @@
 				<overHit>true</overHit>
 				<pDefMod>0.9</pDefMod>
 			</effect>
-			<effect name="ModifyDeathPoints">
-				<amount>
-					<value fromLevel="1" toLevel="9">1</value>
-					<value fromLevel="10" toLevel="14">2</value>
-					<value fromLevel="15" toLevel="20">3</value>
-				</amount>
-				<chance>20</chance>
-			</effect>
 		</effects>
+				<selfEffects>
+			<effect name="ModifyDeathPoints">
+				<amount>1</amount>
+			</effect>
+		</selfEffects>
 	</skill>
 	<skill id="45308" toLevel="20" name="Fist of Fury">
 		<!-- Attacks the target with a fist imbued with frost energy. Power $s1. Has a chance to get $s2 DP after an attack. Ignores Shield Defense. Ignores $s3 of the target's defense. Critical. -->
@@ -1483,9 +1484,9 @@
 		<effects>
 			<effect name="ModifyDeathPoints">
 				<amount>
-					<value level="1">1</value>
-					<value level="2">1</value>
-					<value level="3">1</value>
+					<value level="1">2</value>
+					<value level="2">2</value>
+					<value level="3">2</value>
 				</amount>
 			</effect>
 		</effects>
@@ -1720,7 +1721,7 @@
 				<skillId>45323</skillId> <!-- Death Fire -->
 				<skillLevel>1</skillLevel>
 			</effect>
-		</effects>
+		</effects>	
 	</skill>
 	<skill id="45323" toLevel="1" name="Death Fire">
 		<!-- Decreases P./ M. Def., deals damage over time. -->

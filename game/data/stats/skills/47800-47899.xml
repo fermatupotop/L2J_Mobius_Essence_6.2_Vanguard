@@ -1144,7 +1144,7 @@ skill_begin	skill_id=47806	skill_level=10	skill_sublevel=0	name=[Теневая 
 			</effect>
 			<effect name="TriggerSkillByDamage">
 				<chance>100</chance>
-				<skillId>47858</skillId> <!-- Decrease BP -->
+				<skillId>47858</skillId> <!-- Increase BP -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			

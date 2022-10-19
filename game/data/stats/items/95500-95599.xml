@@ -701,6 +701,16 @@
 		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
 		<set name="is_stackable" val="true" />
+		<set name="handler" val="ExtractableItems" />
+		<set name="extractableCountMin" val="1" />
+		<set name="extractableCountMax" val="1" />
+		<capsuled_items>
+			<item id="57" min="300000" max="300000" chance="1" /> <!-- Adena -->
+			<item id="57" min="100000" max="100000" chance="3" /> <!-- Adena -->
+			<item id="57" min="50000" max="50000" chance="7" /> <!-- Adena -->
+			<item id="57" min="30000" max="30000" chance="14" /> <!-- Adena -->
+			<item id="57" min="10000" max="10000" chance="75" /> <!-- Adena -->
+		</capsuled_items>
 	</item>
 	<item id="95570" name="Honor Coin" additionalName="Sealed" type="EtcItem">
 		<set name="icon" val="icon.pledge_coin_dummy" />

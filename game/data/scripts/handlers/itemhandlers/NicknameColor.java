@@ -20,7 +20,7 @@ import org.l2jmobius.gameserver.handler.IItemHandler;
 import org.l2jmobius.gameserver.model.actor.Playable;
 import org.l2jmobius.gameserver.model.item.instance.Item;
 import org.l2jmobius.gameserver.network.SystemMessageId;
-import org.l2jmobius.gameserver.network.serverpackets.ExRequestChangeNicknameColor;
+import org.l2jmobius.gameserver.network.serverpackets.ExChangeNicknameEmote;
 
 public class NicknameColor implements IItemHandler
 {
@@ -33,7 +33,7 @@ public class NicknameColor implements IItemHandler
 			return false;
 		}
 		
-		playable.sendPacket(new ExRequestChangeNicknameColor(item.getId()));
+		playable.sendPacket(new ExChangeNicknameEmote(item.getId()));
 		return true;
 	}
 }

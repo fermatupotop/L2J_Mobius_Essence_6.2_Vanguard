@@ -3030,7 +3030,7 @@
 			<height normal="33.4" />
 		</collision>
 	</npc>
-	<npc id="21738" level="80" type="Monster" name="Ketra Orc Ranger Officer" element="EARTH">
+	<npc id="21738" level="65" type="Monster" name="Shroomod" element="EARTH" title="Spot Defender">
 		<parameters>
 			<param name="MoveAroundSocial" value="90" />
 			<param name="MoveAroundSocial1" value="65" />
@@ -3043,19 +3043,18 @@
 			<param name="SoulShot" value="100" />
 			<param name="SoulShotRate" value="30" />
 			<skill name="PhysicalSpecial" id="4573" level="9" />
-			<skill name="DeBuff1" id="4578" level="1" />
 		</parameters>
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="80" /> <!-- Tallum Blade -->
-		<acquire exp="357549" sp="10727" attributeExp="1040" />
-		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="6076.74" hpRegen="17" mp="2512.2" mpRegen="6" />
-			<attack physical="15528.6" magical="7953.02" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="983.16" magical="539.5753656" />
+		<acquire exp="257549" sp="10727" attributeExp="1040" />
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="18615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
+			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
+			<defence physical="1631.34198" magical="795.84" />
 			<speed>
-				<walk ground="33" />
-				<run ground="175" />
+				<walk ground="70" />
+				<run ground="170" />
 			</speed>
 			<hitTime>480</hitTime>
 			<abnormalResist physical="10" magical="10" />
@@ -3074,61 +3073,13 @@
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="4389" level="5" /> <!-- Fear Resistance -->
 			<skill id="4225" level="5" /> <!-- Shock Attack Resistance -->
-			<skill id="50010" level="2" /> <!-- Greater Hold Resistance -->
 			<skill id="4573" level="9" /> <!-- NPC Sonic Blaster -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<sNpcPropHpRate>2</sNpcPropHpRate>
-		<ai clanHelpRange="300" aggroRange="300">
-			<clanList>
-				<clan>KETRA_ORC</clan>
-			</clanList>
-		</ai>
 		<collision>
 			<radius normal="14.4" />
 			<height normal="29.4" />
 		</collision>
-		<dropLists>
-			<drop>
-				<group chance="70">
-					<item id="57" min="342" max="799" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.0197">
-					<item id="92814" min="1" max="1" chance="24.3659" /> <!-- Sealed Tallum Tunic Texture -->
-					<item id="92815" min="1" max="1" chance="14.9923" /> <!-- Sealed Dark Crystal Robe Fabric -->
-					<item id="92816" min="1" max="1" chance="9.8563" /> <!-- Sealed Robe of Nightmare Fabric -->
-					<item id="92817" min="1" max="1" chance="9.8563" /> <!-- Sealed Majestic Robe Fabric -->
-					<item id="92818" min="1" max="1" chance="38.9709" /> <!-- Sealed Tallum Stocking Fabric -->
-					<item id="5308" min="1" max="1" chance="0.3748" /> <!-- Sealed Dark Crystal Robe -->
-					<item id="5304" min="1" max="1" chance="0.6091" /> <!-- Sealed Tallum Tunic -->
-					<item id="5305" min="1" max="1" chance="0.9744" /> <!-- Sealed Tallum Stockings -->
-				</group>
-				<group chance="6.6069">
-					<item id="92908" min="1" max="1" chance="37.054" /> <!-- Material: Lump of Wood - Sealed -->
-					<item id="92909" min="1" max="1" chance="7.4108" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="3.7054" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="1.2351" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="0.7411" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92913" min="1" max="1" chance="0.3705" /> <!-- Material: Unknown Metal - Sealed -->
-					<item id="92914" min="1" max="1" chance="0.1235" /> <!-- Material: Sack Shreds - Sealed -->
-					<item id="92915" min="1" max="1" chance="0.0741" /> <!-- Material: Bag of Low-grade Stuff - Sealed -->
-					<item id="92919" min="1" max="1" chance="0.0037" /> <!-- Material: Blacksmith's High-grade Power - Sealed -->
-					<item id="92996" min="1" max="1" chance="37.054" /> <!-- Ancient Resources - Sealed -->
-					<item id="92997" min="1" max="1" chance="7.4108" /> <!-- Old Unknown Resources - Sealed -->
-					<item id="92998" min="1" max="1" chance="3.7054" /> <!-- Old Shining Resources - Sealed -->
-					<item id="92999" min="1" max="1" chance="0.7411" /> <!-- Old High-grade Resources - Sealed -->
-					<item id="92995" min="1" max="1" chance="0.3705" /> <!-- Drained Thons - Sealed -->
-				</group>
-			</drop>
-			<spoil>
-				<item id="5346" min="1" max="1" chance="0.0024" /> <!-- Recipe: Sealed Tallum Tunic (60%) -->
-				<item id="5348" min="1" max="1" chance="0.0015" /> <!-- Recipe: Sealed Dark Crystal Robe (60%) -->
-				<item id="5352" min="1" max="1" chance="0.001" /> <!-- Recipe: Sealed Majestic Robe (60%) -->
-				<item id="5354" min="1" max="1" chance="0.0039" /> <!-- Recipe: Sealed Tallum Stockings (60%) -->
-				<item id="5350" min="1" max="1" chance="0.001" /> <!-- Recipe: Sealed Robe of Nightmare (60%) -->
-			</spoil>
-		</dropLists>
 	</npc>
 	<npc id="21752" level="82" type="Monster" name="Ketra Orc Commander" element="EARTH">
 		<parameters>

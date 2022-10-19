@@ -837,6 +837,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="3180" max="3908" chance="70" /> <!-- Adena -->
+				<item id="96623" min="1" max="1" chance="2"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -867,6 +868,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="3180" max="3908" chance="70" /> <!-- Adena -->
+				<item id="96623" min="1" max="1" chance="2"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 		<ai aggroRange="450" isAggressive="true"/>
@@ -898,6 +900,7 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="3191" max="3920" chance="70" /> <!-- Adena -->
+				<item id="96623" min="1" max="1" chance="2"/> <!-- Dye Powder -->
 			</drop>
 		</dropLists>
 	</npc>
@@ -928,26 +931,14 @@
 		<dropLists>
 			<drop>
 				<item id="57" min="3191" max="4420" chance="70" /> <!-- Adena -->
-				<item id="92476" min="1" max="1" chance="9.6444" /> <!-- Metal Ingot -->
-				<item id="92479" min="1" max="1" chance="9.6444" /> <!-- Metallograph -->
-				<item id="92481" min="1" max="1" chance="9.6444" /> <!-- Cloth -->
-				<item id="92812" min="1" max="1" chance="0.0146" /> <!-- Sealed Majestic Leather Armor Fabric -->
-				<item id="92817" min="1" max="1" chance="0.0146" /> <!-- Sealed Majestic Robe Fabric -->
-				<item id="92824" min="1" max="1" chance="0.0712" /> <!-- Sealed Majestic Boot Lining -->
-				<item id="92828" min="1" max="1" chance="0.0712" /> <!-- Sealed Majestic Gauntlet Design -->
-				<item id="92832" min="1" max="1" chance="0.0109" /> <!-- Sealed Majestic Plate Armor Pattern -->
-				<item id="92837" min="1" max="1" chance="0.0475" /> <!-- Sealed Majestic Circlet Design -->
-				<item id="92900" min="1" max="1" chance="0.0036" /> <!-- Behemoth' Tuning Fork Piece -->
-				<item id="93100" min="1" max="1" chance="0.0064" /> <!-- Life Stone Lv. 2 - Shield/ Sigil -->
-				<item id="94303" min="1" max="1" chance="0.0032" /> <!-- Life Stone - Circlet -->
-				<item id="95569" min="1" max="1" chance="0.0965" /> <!-- Adena Pouch - Sealed -->
-				<item id="5316" min="1" max="1" chance="0.001" /> <!-- Sealed Majestic Plate Armor -->
-				<item id="5317" min="1" max="1" chance="0.0033" /> <!-- Sealed Majestic Circlet -->
-				<item id="5318" min="1" max="1" chance="0.005" /> <!-- Sealed Majestic Gauntlets -->
-				<item id="5319" min="1" max="1" chance="0.005" /> <!-- Sealed Majestic Boots -->
-				<item id="5323" min="1" max="1" chance="0.001" /> <!-- Sealed Majestic Leather Armor -->
-				<item id="5329" min="1" max="1" chance="0.001" /> <!-- Sealed Majestic Robe -->
-				<item id="8681" min="1" max="1" chance="0.001" /> <!-- Behemoth' Tuning Fork -->
+				<item id="5316" min="1" max="1" chance="0.1" /> <!-- Sealed Majestic Plate Armor -->
+				<item id="5317" min="1" max="1" chance="0.33" /> <!-- Sealed Majestic Circlet -->
+				<item id="5318" min="1" max="1" chance="0.5" /> <!-- Sealed Majestic Gauntlets -->
+				<item id="5319" min="1" max="1" chance="0.5" /> <!-- Sealed Majestic Boots -->
+				<item id="5323" min="1" max="1" chance="0.1" /> <!-- Sealed Majestic Leather Armor -->
+				<item id="5329" min="1" max="1" chance="0.1" /> <!-- Sealed Majestic Robe -->
+				<item id="8681" min="1" max="1" chance="0.1" /> <!-- Behemoth' Tuning Fork -->
+				<item id="96623" min="1" max="1" chance="2"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="5338" min="1" max="1" chance="0.0064" /> <!-- Recipe: Sealed Majestic Leather Armor (60%) -->

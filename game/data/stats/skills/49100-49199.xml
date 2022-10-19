@@ -5,7 +5,7 @@
 		<magicLevel>1</magicLevel>
 		<operateType>A1</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
-		<hitCancelTime>0</hitCancelTime>
+		<reuseDelay>140</reuseDelay>
 		<targetType>PET</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>

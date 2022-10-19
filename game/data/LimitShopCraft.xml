@@ -3,12 +3,6 @@
 
 <!--
 Essence Waytrel x3 Special Craft item list
-29/07/2022:
-	Remove A grade armor \ weapon
-	Remove 2*-3* stars book
-	Enchant scrolls increace cost to 10 000 adena per 1 pc.
-	Remove event items
-	Remove bless belt
 -->
 
 	<product id="2015" category="0">
@@ -430,28 +424,21 @@ Essence Waytrel x3 Special Craft item list
 		<production id="94676" chance="50" id2="92314" count2="11" accountBuyLimit="20" /> <!-- Spellbook: Chant of Healing -->
 	</product>
 	
-	<product id="2283" category="3">
-		<ingredient id="94717" count="100" /> <!-- Hellbound Energy -->
-		<ingredient id="57" count="10000000" /> <!-- Adena -->
-		<production id="94706" chance="30" id2="94717" count2="20" accountBuyLimit="5" /> <!-- Talisman of Hellbound Lv. 1 -->
-	</product>
-	<product id="2284" category="3">
-		<ingredient id="94717" count="10" /> <!-- Hellbound Energy -->
-		<ingredient id="57" count="1000000" /> <!-- Adena -->
-		<production id="94716" chance="20" id2="94717" count2="10" accountBuyLimit="20" /> <!-- Talisman of Hellbound Fragment - Hellbound Energy -->
-	</product>
-	<product id="2285" category="3">
-		<ingredient id="94706" count="1" /> <!-- Talisman of Hellbound Lv. 1 -->
-		<production id="94716" count="2" accountBuyLimit="20" /> <!-- Talisman of Hellbound Fragment - Talisman Lv. 1 -->
-	</product>
+
 	<product id="2286" category="3">
 		<ingredient id="57" count="2000000" /> <!-- Adena -->
 		<production id="91077" accountBuyLimit="5" /> <!-- Venir's Talisman Lv. 1 (Sealed) -->
 	</product>
-	<product id="2872" category="3">
+	<product id="3100" category="3">
 		<ingredient id="57" count="1000000" /> <!-- Adena -->
 		<production id="91076" accountBuyLimit="100" /> <!-- Осколок Талисмана Бенира -->
 	</product>
+	<product id="3103" category="3">
+		<ingredient id="57" count="1000000" /> <!-- Adena -->
+		<production id="92403" accountBuyLimit="5" /> <!-- Talisman of Speed (Sealed) -->
+	</product>
+	
+	
 	<product id="2287" category="4">
 		<ingredient id="57" count="10000" /> <!-- Adena -->
 		<production id="92402" accountBuyLimit="100" /> <!-- Scroll: Enchant Talisman of Speed (Sealed) -->
@@ -481,26 +468,28 @@ Essence Waytrel x3 Special Craft item list
 		<production id="93133" accountBuyLimit="100" /> <!-- Scroll: Enchant Agathion (Sealed) -->
 	</product>
 	
+	<product id="3101" category="5"> <!-- Sigil -->
+	<ingredient id="92314" count="120"/>  <!-- Giran Seal -->
+	<production id="94315" count="1" chance="5" id2="94316" count2="1" chance2="15" id3="92314" count3="30" chance3="80" />
+	</product> 
+	
+		<product id="3102" category="5"> <!-- Shield -->
+	<ingredient id="92314" count="120"/>  <!-- Giran Seal -->
+	<production id="94317" count="1" chance="5" id2="94318" count2="1" chance2="15" id3="92314" count3="30" chance3="80" />
+	</product> 
+	
+	
 	<product id="2303" category="4">
 		<ingredient id="94328" count="10" /> <!-- Elixir Powder -->
-		<production id="94314" chance="5" id2="94328" count2="7" accountBuyLimit="20" /> <!-- Elixir (Sealed) -->
+		<production id="
+		94314" chance="5" id2="94328" count2="7" accountBuyLimit="20" /> <!-- Elixir (Sealed) -->
 	</product>
+	
 	<product id="2304" category="4">
 		<ingredient id="96623" count="10" /> <!-- Dye Powder -->
 		<production id="96630" count="3" chance="8" id2="96630" count2="1" chance2="67" id3="96623" count3="2" chance3="25" accountBuyLimit="20" /> <!-- Enhanced Dye Powder -->
 	</product>
 	
-	<product id="2863" category="5">
-		<ingredient id="92314" count="126" /> <!-- Giran Seal -->
-		<production id="94299" count="1" chance="5" id2="94300" count2="1" chance2="15" id3="92314" count3="8" chance3="8" accountBuyLimit="20" /> 
-	</product>
-	<product id="2864" category="5">
-		<ingredient id="92314" count="126" /> <!-- Giran Seal -->
-		<production id="94301" count="1" chance="5" id2="94302" count2="1" chance2="15" id3="92314" count3="8" chance3="8" accountBuyLimit="20" /> 
-	</product>
-	<product id="2881" category="5">
-		<ingredient id="94834" count="30" /> 
-		<production id="96649" count="3" chance="10" id2="96649" count2="2" chance2="20" id3="96649" count3="1" accountBuyLimit="100" /> 
-	</product>
+	
 
 </list>

@@ -713,6 +713,7 @@
 				<item id="91745" min="1" max="1" chance="0.0033" /> <!-- Talisman of Aden - Sealed -->
 				<item id="175" min="1" max="1" chance="0.001" /> <!-- Art of Battle Axe -->
 				<item id="2626" min="1" max="1" chance="0.001" /> <!-- Samurai Long Sword*Samurai Long Sword -->
+				<item id="96623" min="1" max="1" chance="0.8"/> <!-- Dye Powder -->
 			</drop>
 			<spoil>
 				<item id="4195" min="1" max="1" chance="0.0093" /> <!-- Recipe: Art of Battle Axe (100%) -->

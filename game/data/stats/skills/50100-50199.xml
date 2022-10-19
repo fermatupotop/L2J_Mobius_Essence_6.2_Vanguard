@@ -182,8 +182,19 @@
 	<skill id="50123" toLevel="1" name="Benefaction of Blue Hawk">
 		<!-- Sayha's Grace Consumption -50%. -->
 		<icon>icon.ev_10th_present1</icon>
+		<abnormalTime>300</abnormalTime>
 		<operateType>A2</operateType>
 		<isMagic>4</isMagic>
+		<magicLevel>1</magicLevel>
+		<stayAfterDeath>true</stayAfterDeath>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="VitalityPointsRate">
+				<amount>-50</amount>
+					<mode>PER</mode>
+			</effect>
+		</effects>	
 	</skill>
 	<skill id="50124" toLevel="1" name="Lord Ishka's Assassin">
 		<!-- Combat characteristics of the player who killed Lord Ishka are increased. -->

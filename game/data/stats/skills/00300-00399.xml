@@ -1947,8 +1947,8 @@
 					<value level="14">9539</value>
 					<value level="15">9669</value>
 				</power>
-				<criticalChance>20</criticalChance>
-				<chanceBoost>300</chanceBoost>
+				
+				<chanceBoost>1000</chanceBoost>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -2538,9 +2538,9 @@
 		<!-- Duration: 20 min. Vital Point Critical Damage +30% -->
 		<icon>icon.skill0355</icon>
 		<castRange>-1</castRange>
-		<abnormalLevel>1</abnormalLevel>
+
 		<abnormalTime>1200</abnormalTime>
-		<abnormalType>FOCUS_DAGGER</abnormalType>
+
 		<hitTime>2000</hitTime>
 		<itemConsumeCount>10</itemConsumeCount>
 		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->
@@ -2602,7 +2602,7 @@
 		<icon>icon.skill0357</icon>
 		<abnormalLevel>1</abnormalLevel>
 		<abnormalTime>1200</abnormalTime>
-		<abnormalType>FOCUS_DAGGER</abnormalType>
+
 		<hitTime>2000</hitTime>
 		<itemConsumeCount>10</itemConsumeCount>
 		<itemConsumeId>3031</itemConsumeId> <!-- Spirit Ore -->

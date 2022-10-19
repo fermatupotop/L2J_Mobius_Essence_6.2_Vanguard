@@ -1,13 +1,13 @@
-2022.10.12 20:35:01,430	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
-2022.10.12 20:35:01,462	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
-2022.10.12 20:35:01,796	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
-2022.10.12 20:35:01,856	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
-2022.10.12 20:35:01,858	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
-2022.10.12 20:35:01,919	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
-2022.10.12 20:35:01,923	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
-2022.10.12 20:35:01,925	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
-2022.10.12 20:35:02,073	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:6666
-2022.10.12 20:35:37,495	INFO	31	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Bartz IP's:
-2022.10.12 20:35:37,497	INFO	31	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
-2022.10.12 20:35:37,498	INFO	31	org.l2jmobius.loginserver.GameServerThread	192.168.0.28/192.168.0.0/24
-2022.10.12 20:35:37,498	INFO	31	org.l2jmobius.loginserver.GameServerThread	188.123.230.31/0.0.0.0/0
+2022.10.19 20:57:16,732	INFO	1	org.l2jmobius.commons.database.DatabaseFactory	Database: Initialized.
+2022.10.19 20:57:17,623	INFO	1	org.l2jmobius.loginserver.LoginController	Loading LoginController...
+2022.10.19 20:57:17,934	INFO	1	org.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication.
+2022.10.19 20:57:18,011	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 127 server names.
+2022.10.19 20:57:18,013	INFO	1	org.l2jmobius.loginserver.GameServerTable	Loaded 1 registered Game Servers.
+2022.10.19 20:57:18,067	INFO	1	org.l2jmobius.loginserver.GameServerTable	Cached 10 RSA keys for Game Server communication.
+2022.10.19 20:57:18,071	INFO	1	org.l2jmobius.loginserver.LoginServer	Loaded 2 IP Bans.
+2022.10.19 20:57:18,073	INFO	1	org.l2jmobius.loginserver.LoginServer	Listening for GameServers on 127.0.0.1:9014
+2022.10.19 20:57:18,218	INFO	1	org.l2jmobius.commons.network.NetworkManager	ClientNetworkManager: Listening on 0.0.0.0:6666
+2022.10.19 20:58:00,295	INFO	32	org.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Bartz IP's:
+2022.10.19 20:58:00,297	INFO	32	org.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2022.10.19 20:58:00,297	INFO	32	org.l2jmobius.loginserver.GameServerThread	192.168.0.28/192.168.0.0/24
+2022.10.19 20:58:00,298	INFO	32	org.l2jmobius.loginserver.GameServerThread	188.123.230.58/0.0.0.0/0

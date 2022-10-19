@@ -23,6 +23,7 @@ import org.l2jmobius.gameserver.handler.IItemHandler;
 import org.l2jmobius.gameserver.instancemanager.PremiumManager;
 import org.l2jmobius.gameserver.model.actor.Playable;
 import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.holders.SkillHolder;
 import org.l2jmobius.gameserver.model.item.instance.Item;
 
 /**
@@ -35,6 +36,9 @@ public class PremiumItem implements IItemHandler
 	
 	private static int PREMIUM_ITEM_1 = 71717; // premium ticket 1 day
 	private static int PREMIUM_TIME_1 = 1; // How much days to add
+	
+	private final SkillHolder premiumBuffDay = new SkillHolder(55299, 1);
+	private final SkillHolder premiumBuffMonth = new SkillHolder(55299, 2);
 	
 	@Override
 	public boolean useItem(Playable playable, Item item, boolean forceUse)
@@ -50,6 +54,7 @@ public class PremiumItem implements IItemHandler
 			player.destroyItemByItemId("Premium", PREMIUM_ITEM_1, 1, player, true);
 			PremiumManager.getInstance().addPremiumTime(player.getAccountName(), PREMIUM_TIME_1, TimeUnit.DAYS);
 			player.sendMessage("Your account will now have premium status until " + new SimpleDateFormat("dd.MM.yyyy HH:mm").format(PremiumManager.getInstance().getPremiumExpiration(player.getAccountName())) + ".");
+			player.doCast(premiumBuffDay.getSkill());
 			return true;
 		}
 		if ((player.getInventory().getInventoryItemCount(PREMIUM_ITEM, -1) > 0) && (player.getInventory().getInventoryItemCount(PREMIUM_ITEM_1, -1) == 0))
@@ -57,6 +62,7 @@ public class PremiumItem implements IItemHandler
 			player.destroyItemByItemId("Premium", PREMIUM_ITEM, 1, player, true);
 			PremiumManager.getInstance().addPremiumTime(player.getAccountName(), PREMIUM_TIME, TimeUnit.DAYS);
 			player.sendMessage("Your account will now have premium status until " + new SimpleDateFormat("dd.MM.yyyy HH:mm").format(PremiumManager.getInstance().getPremiumExpiration(player.getAccountName())) + ".");
+			player.doCast(premiumBuffMonth.getSkill());
 			return true;
 		}
 		if ((player.getInventory().getInventoryItemCount(PREMIUM_ITEM, -1) > 0) && (player.getInventory().getInventoryItemCount(PREMIUM_ITEM_1, -1) != 0))
@@ -64,6 +70,7 @@ public class PremiumItem implements IItemHandler
 			player.destroyItemByItemId("Premium", PREMIUM_ITEM_1, 1, player, true);
 			PremiumManager.getInstance().addPremiumTime(player.getAccountName(), PREMIUM_TIME_1, TimeUnit.DAYS);
 			player.sendMessage("Your account will now have premium status until " + new SimpleDateFormat("dd.MM.yyyy HH:mm").format(PremiumManager.getInstance().getPremiumExpiration(player.getAccountName())) + ".");
+			player.doCast(premiumBuffDay.getSkill());
 			return true;
 		}
 		

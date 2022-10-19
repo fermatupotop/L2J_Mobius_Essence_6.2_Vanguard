@@ -1280,6 +1280,7 @@
 		<mpConsume>5</mpConsume>
 		<operateType>A1</operateType>
 		<magicCriticalRate>5</magicCriticalRate>
+		<autoBuffOf>true</autoBuffOf>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
@@ -2067,7 +2068,7 @@
 					<value level="24">1006</value>
 				</power>
 				<overHit>true</overHit>
-				<chanceBoost>200</chanceBoost>
+				<chanceBoost>1000</chanceBoost>
 			</effect>
 		</effects>
 	</skill>
@@ -2701,6 +2702,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>5000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<isHeal>true</isHeal>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
@@ -3047,6 +3049,8 @@
 		<reuseDelay>5000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
+		<smartServitors>true</smartServitors>
+		<autoBuffOf>true</autoBuffOf>
 		<affectScope>SINGLE</affectScope>
 		<conditions>
 			<condition name="CanSummon" />
@@ -3882,6 +3886,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>1000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<autoBuffOf>true</autoBuffOf>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
@@ -4366,6 +4371,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>2000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<autoBuffOf>true</autoBuffOf>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
@@ -4444,6 +4450,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>2000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<isHeal>true</isHeal>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
@@ -5706,6 +5713,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>3000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<isHeal>true</isHeal>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
@@ -6148,6 +6156,7 @@
 		<operateType>A1</operateType>
 		<reuseDelay>5000</reuseDelay>
 		<magicCriticalRate>5</magicCriticalRate>
+		<isHeal>true</isHeal>
 		<targetType>TARGET</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>

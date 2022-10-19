@@ -10,11 +10,11 @@
 		<current enchant="8" chance="60" />
 		<current enchant="9" chance="60" />
 		<current enchant="10" chance="50" />
-		<current enchant="11" chance="50" />
-		<current enchant="12" chance="50" />
-		<current enchant="13" chance="50" />
-		<current enchant="14" chance="50" />
-		<current enchant="15" chance="50" />
+		<current enchant="11" chance="40" />
+		<current enchant="12" chance="40" />
+		<current enchant="13" chance="40" />
+		<current enchant="14" chance="30" />
+		<current enchant="15" chance="30" />
 	</enchantRateGroup>
 	<enchantRateGroup name="MAGE_WEAPON_GROUP">
 		<current enchant="0-3" chance="100" />
@@ -25,11 +25,11 @@
 		<current enchant="8" chance="60" />
 		<current enchant="9" chance="60" />
 		<current enchant="10" chance="50" />
-		<current enchant="11" chance="50" />
-		<current enchant="12" chance="50" />
-		<current enchant="13" chance="50" />
-		<current enchant="14" chance="50" />
-		<current enchant="15" chance="50" />
+		<current enchant="11" chance="40" />
+		<current enchant="12" chance="40" />
+		<current enchant="13" chance="40" />
+		<current enchant="14" chance="30" />
+		<current enchant="15" chance="30" />
 	</enchantRateGroup>
 	<enchantRateGroup name="DK_FLAME_SWORD"> <!-- Death Knight's Flame Sword -->
 		<current enchant="0" chance="23" />
@@ -132,7 +132,7 @@
 		<current enchant="5" chance="30" />
 		<current enchant="6" chance="24" />
 		<current enchant="7" chance="16" />
-		<current enchant="8" chance="10" />
+		<current enchant="8" chance="12" />
 		<current enchant="9" chance="10" />
 	</enchantRateGroup>
 	<enchantRateGroup name="PIERCING_MASK"> <!-- Piercing Mask -->
@@ -264,6 +264,28 @@
 		<current enchant="8" chance="14" />
 		<current enchant="9" chance="8" />
 	</enchantRateGroup>
+	
+	<!-- A Grade Weapon enchant group. -->
+	<enchantRateGroup name="A_GRADE_ENCHANT_WEAPON">
+		<current enchant="0-3" chance="100" />
+		<current enchant="4" chance="33" />
+		<current enchant="5" chance="30" />
+		<current enchant="6" chance="24" />
+		<current enchant="7" chance="20" />
+		<current enchant="8" chance="16" />
+		<current enchant="9" chance="14" />
+	</enchantRateGroup>
+	
+	<!-- A Grade Armor enchant group. -->
+	<enchantRateGroup name="A_GRADE_ENCHANT_ARMOR">
+		<current enchant="0-3" chance="100" />
+		<current enchant="4" chance="28" />
+		<current enchant="5" chance="24" />
+		<current enchant="6" chance="20" />
+		<current enchant="7" chance="16" />
+		<current enchant="8" chance="14" />
+		<current enchant="9" chance="12" />
+	</enchantRateGroup>
 	<!-- Default scrolls enchanting route line -->
 	<enchantScrollGroup id="0">
 		<!-- Weapon -->
@@ -371,5 +393,31 @@
 		<enchantRate group="SPIRITS_NECK">
 			<item itemId="94682" /> <!-- Necklace of Spirits -->
 		</enchantRate>
+	</enchantScrollGroup>
+	
+	<enchantScrollGroup id="4">
+		<!-- Enchant Group A Grade Weapon -->
+		<enchantRate group="A_GRADE_ENCHANT_WEAPON">
+			<item slot="rhand" /> <!-- Right hand: Weapons -->
+			<item slot="lrhand" /> <!-- Two hands: Weapons -->
+		</enchantRate>
+		
+	</enchantScrollGroup>
+	<enchantScrollGroup id="5">
+	
+		<!-- Enchant Group A Grade Armor -->
+		<enchantRate group="A_GRADE_ENCHANT_ARMOR">
+			<item slot="lhand" /> <!-- Left hand: Shields, Sigils -->
+			<item slot="head" /> <!-- Head: Helmet -->
+			<item slot="chest" /> <!-- Chest: Armor upper body. -->
+			<item slot="legs" /> <!-- Legs: Armor lower body. -->
+			<item slot="feet" /> <!-- Feet: Boots -->
+			<item slot="gloves" /> <!-- Gloves: Gloves -->
+			<item slot="neck" /> <!-- Neck: Necklaces -->
+			<item slot="rear;lear" /> <!-- Right ear, Left ear: Earrings -->
+			<item slot="rfinger;lfinger" /> <!-- Right finger, Left finger: Rings -->
+			<item slot="fullarmor" /> <!-- Full Armor: Full armor pants are included. -->
+		</enchantRate>
+		
 	</enchantScrollGroup>
 </list>

@@ -55,6 +55,10 @@ public class Hp extends AbstractEffect
 		{
 			return;
 		}
+		if (effected.isPlayer())
+		{
+			return;
+		}
 		
 		int basicAmount = _amount;
 		if ((item != null) && (item.isPotion() || item.isElixir()))

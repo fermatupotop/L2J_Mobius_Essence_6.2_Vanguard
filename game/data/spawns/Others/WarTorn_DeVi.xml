@@ -2,6 +2,14 @@
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="24_18">
 		<group>
+		
+			<npc id="21738" x="156250" y="7438" z="-4469" heading="45342" respawnTime="600sec"></npc>
+			<npc id="21738" x="158840" y="2681" z="-4344" heading="45342" respawnTime="600sec"></npc>
+			<npc id="21738" x="155072" y="16068" z="-3919" heading="45342" respawnTime="600sec"></npc>
+			<npc id="21738" x="160408" y="29617" z="-3446" heading="45342" respawnTime="600sec"></npc>
+			<npc id="21738" x="160937" y="12719" z="-3869" heading="45342" respawnTime="600sec"></npc>
+
+		
 			<npc id="20659" x="160750" y="20814" z="-3720" heading="45342" respawnTime="15sec" /> <!-- Graveyard Wanderer -->
 			<npc id="20659" x="160842" y="21377" z="-3696" heading="11099" respawnTime="15sec" /> <!-- Graveyard Wanderer -->
 			<npc id="20660" x="160741" y="21629" z="-3697" heading="26781" respawnTime="15sec" /> <!-- Archer of Greed -->

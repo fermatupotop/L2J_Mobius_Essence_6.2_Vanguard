@@ -1,84 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/Variations.xsd">
 	<variations>
-		<!-- Common Life Stone -->
-		<variation mineralId="90012">
-			<optionGroup order="0">
-				<optionCategory chance="100">
-					<optionRange from="40000" to="40072" chance="1.37" />
-				</optionCategory>
-			</optionGroup>
-			<optionGroup order="1">
-				<optionCategory chance="55">
-					<optionRange from="15095" to="15111" chance="5.89" />
-				</optionCategory>
-				<optionCategory chance="35">
-					<optionRange from="15112" to="15218" chance="0.94" />
-				</optionCategory>
-				<optionCategory chance="10">
-					<optionRange from="15219" to="15272" chance="10" />
-				</optionCategory>
-			</optionGroup>
-		</variation>
-		<!-- Mid-grade Life Stone -->
-		<variation mineralId="90013">
-			<optionGroup order="0">
-				<optionCategory chance="100">
-					<optionRange from="40073" to="40145" chance="1.37" />
-				</optionCategory>
-			</optionGroup>
-			<optionGroup order="1">
-				<optionCategory chance="55">
-					<optionRange from="15807" to="15823" chance="5.89" />
-				</optionCategory>
-				<optionCategory chance="35">
-					<optionRange from="15824" to="15930" chance="0.94" />
-				</optionCategory>
-				<optionCategory chance="10">
-					<optionRange from="15931" to="15984" chance="1.85" />
-				</optionCategory>
-			</optionGroup>
-		</variation>
-		<!-- High-grade Life Stone -->
-		<variation mineralId="90014">
-			<optionGroup order="0">
-				<optionCategory chance="100">
-					<optionRange from="40146" to="40218" chance="1.37" />
-				</optionCategory>
-			</optionGroup>
-			<optionGroup order="1">
-				<optionCategory chance="55">
-					<optionRange from="16163" to="16179" chance="5.89" />
-				</optionCategory>
-				<optionCategory chance="35">
-					<optionRange from="16180" to="16286" chance="0.94" />
-				</optionCategory>
-				<optionCategory chance="10">
-					<optionRange from="16287" to="16340" chance="1.73" />
-					<optionRange from="16377" to="16380" chance="1.72" />
-				</optionCategory>
-			</optionGroup>
-		</variation>
-		<!-- Top-grade Life Stone -->
-		<variation mineralId="90015">
-			<optionGroup order="0">
-				<optionCategory chance="100">
-					<optionRange from="40146" to="40218" chance="1.37" />
-				</optionCategory>
-			</optionGroup>
-			<optionGroup order="1">
-				<optionCategory chance="55">
-					<optionRange from="16163" to="16179" chance="5.89" />
-				</optionCategory>
-				<optionCategory chance="35">
-					<optionRange from="16180" to="16286" chance="0.94" />
-				</optionCategory>
-				<optionCategory chance="10">
-					<optionRange from="16287" to="16340" chance="1.73" />
-					<optionRange from="16377" to="16380" chance="1.72" />
-				</optionCategory>
-			</optionGroup>
-		</variation>
+	
 		<!-- Life Stone Lv.1 - Weapons -->
 		<variation mineralId="94185">
 			<optionGroup order="0">
@@ -126,7 +49,7 @@
 			<optionGroup order="0">
 				<optionCategory chance="100">
 					<optionRange from="33949" to="33968" chance="1.37" />
-					<optionRange from="33989" to="34008" chance="1.37" />
+					<optionRange from="33986" to="34008" chance="1.37" />
 					<optionRange from="34009" to="34088" chance="1.37" />
 				</optionCategory>
 			</optionGroup>
