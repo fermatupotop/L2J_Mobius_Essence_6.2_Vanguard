@@ -363,7 +363,7 @@
 			<item id="3031" count="40" /> <!-- Spirit Ore -->
 			<item id="91912" count="8" /> <!-- Hp Potion (Exchangeable) -->
 			<item id="97224" count="10" /> <!-- Mission Points -->
-			<item id="97145" count="30" /> <!-- Ancient Adena -->
+			<item id="97145" count="50" /> <!-- Ancient Adena -->
 		</items>
 	</reward>
 	<reward id="2505" reward_id="2505" name="Daily Hunting V (Lv. 76+)" requiredCompletion="500" isOneTime="false">
@@ -377,7 +377,7 @@
 			<item id="3031" count="40" /> <!-- Spirit Ore -->
 			<item id="91912" count="8" /> <!-- Hp Potion (Exchangeable) -->
 			<item id="97224" count="10" /> <!-- Mission Points -->
-			<item id="97145" count="30" /> <!-- Ancient Adena -->
+			<item id="97145" count="50" /> <!-- Ancient Adena -->
 		</items>
 	</reward>
 
@@ -880,7 +880,7 @@
 		</handler>
 		<items>
 			<item id="93080" count="4" /> <!-- Charging Stone of Random Craft - 4 Charge -->
-			<item id="91668" count="2" /> <!-- Red Lantern -->
+			<item id="91668" count="1" /> <!-- Red Lantern -->
 		</items>
 	</reward>
 	
@@ -922,7 +922,7 @@
 		<items>
 			<item id="92459" count="6" />
 			<item id="97246" count="10" /> 
-			<item id="94780" count="2" /> <!-- Growth Rune Fragment Sealed -->
+			<item id="94780" count="2" /> <!-- GrowthRune Fragment Sealed -->
 		</items>
 	</reward>
 			<reward id="1508" reward_id="1508" name="Explore Forgotten Primeval Garden" requiredCompletion="1000">
@@ -1125,6 +1125,32 @@
 			<item id="91830" count="5" /> <!-- Improved Fire Attack Potion -->
 		</items>
 	</reward>
+	
+	<reward id="1512" reward_id="1512" name="Incessant Training" requiredCompletion="1">
+	<!-- Daily Mission for killing Boss in Training Camp -->
+	<handler name="monster">
+	<param name="ids">25952,25953,25954,25955,25963,25961,25962</param>
+	<param name="minLevel">76</param>
+	<param name="maxLevel">99</param>
+	</handler>
+	<items>
+	<item id="97145" count="100" /> <!-- Ancient Adena -->
+	</items>
+	</reward>
+	
+	<reward id="1514" reward_id="1514" name="Explore Goddard" requiredCompletion="1000">
+	<!-- Explore Goddard -->
+	<handler name="monster">
+	<param name="ids">22426,22427,22428,22429,22431,22432</param>
+	<param name="minLevel">85</param>
+	<param name="maxLevel">99</param>
+	</handler>
+	<items>
+	<item id="97145" count="100" /> <!-- Ancient Adena -->
+	</items>
+	</reward>
+	
+	
 	<!-- TODO: FIND ID
 	<reward id="9004" reward_id="9004" name="Battle with Frintezza" requiredCompletion="1">
 		Weekly mission. A reward is given for defeating Scarlet van Halisha during a command channel raid to Frintezza.

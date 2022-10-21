@@ -51,6 +51,7 @@
 	
 	
 	<!-- Cat 1 Upgrade -->
+
 	<product id="219" category="1">
 		<ingredient id="91663" count="1500" /> <!-- L-Coin -->
 		<production id="93976" /> <!-- Scroll: Enchant A-grade Weapon -->
@@ -131,12 +132,28 @@
 
 
 	<!-- Cat 3 Ancient Adena Shop. -->
+
+	<product id ="507" category ="3">
+	 <ingredient id="91663" count = "50" />
+	 <production id="90045" accountDailyLimit="10" />  <!-- Magic Tablet-->
+	</product>
+	
+	<product id ="508" category ="3">
+	 <ingredient id="91663" count = "50" />
+	 <production id="96623" accountDailyLimit="10" />  <!-- Dye Powder-->
+	</product> 
+	
+	<product id ="509" category ="3">
+	 <ingredient id="91663" count = "50" />
+	 <production id="92020" accountDailyLimit="10" />  <!-- Talisman Eva -->
+	</product> 
+	
 	<product id="325" category="3">
-		<ingredient id="97145" count="4000" /> <!-- Ancient Adena -->
+		<ingredient id="97145" count="2250" /> <!-- Ancient Adena -->
 		<production id="93449" accountDailyLimit="1" /> <!-- A-grade Armor Coupon -->
 	</product>
 	<product id="326" category="3">
-		<ingredient id="97145" count="8000" /> <!-- Ancient Adena -->
+		<ingredient id="97145" count="2500" /> <!-- Ancient Adena -->
 		<production id="93448" accountDailyLimit="1" /> <!-- A-grade Weapon Coupon -->
 	</product>
 	<product id="327" category="3">

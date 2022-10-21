@@ -729,7 +729,7 @@
 					<item>DUALBLUNT</item>
 				</weaponType>
 			</effect>
-		</effects>
+			</effects>
 	</skill>
 	<skill id="49022" toLevel="20" name="Dire Claw">
 		<!-- Attacks with sharp wolf claws. Power: $s1 -->
@@ -854,9 +854,9 @@
 		<operateType>A1</operateType>
 		<mpConsume>50</mpConsume>
 		<castRange>80</castRange>
-		<hitTime>1</hitTime>
+		<hitTime>700</hitTime>
 		<coolTime>500</coolTime>
-		<reuseDelay>10</reuseDelay>
+		<reuseDelay>10000</reuseDelay>
 		<effectPoint>
 			<value level="1">-760</value>
 			<value level="2">-790</value>
@@ -880,7 +880,7 @@
 			<condition name="RemainHpPer">
 				<amount>30</amount>
 				<percentType>LESS</percentType>
-				<affectType>CASTER</affectType>
+				<affectType>TARGET</affectType>
 			</condition>
 		</conditions>
 		<effects>
@@ -904,14 +904,25 @@
 				</power>
 			</effect>
 		</effects>
+		<selfEffects>
+			<effect name="CallSkill">
+				<skillId>49025</skillId> 
+				<skillLevel>1</skillLevel>
+			</effect>
+		</selfEffects>
 	</skill>
 	<skill id="49025" toLevel="1" name="Giant Wolf">
 		<!-- <Buff Skill> P. Atk. +20% Atk. Spd. +20% -->
 		<icon>icon.skill0000</icon>
 		<operateType>A2</operateType>
-		<coolTime>500</coolTime>
-		<reuseDelay>10</reuseDelay>
-		<abnormalTime>10</abnormalTime>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>60</abnormalTime>
+		<abnormalType>BIG_BODY</abnormalType>
+		<abnormalVisualEffect>BIG_BODY</abnormalVisualEffect>
+		<isMagic>5</isMagic>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>-5</magicCriticalRate>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>

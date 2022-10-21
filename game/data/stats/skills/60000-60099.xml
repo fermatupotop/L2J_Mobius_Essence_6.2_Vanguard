@@ -6,23 +6,28 @@
 		<operateType>P</operateType>
 		<effectPoint>5000</effectPoint>
 	</skill>
-	<skill id="60002" toLevel="3" name="Einhasad Overseeing">
+	<skill id="60002" toLevel="10" name="Einhasad Overseeing">
+		<!-- In case of death during PvP/ PK Increased chance to lose items. Up to $s1 items can be lost. -->
 		<icon>icon.karma</icon>
-		<abnormalLevel>1</abnormalLevel>
-		<abnormalVisualEffect>COSTUME_DEVIL</abnormalVisualEffect>
 		<operateType>A2</operateType>
-		<isMagic>4</isMagic>
-		<magicCriticalRate>5</magicCriticalRate>
-		<magicLevel>1</magicLevel>
-		<stayAfterDeath>true</stayAfterDeath>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
-		<effects>
+		<isMagic>4</isMagic>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>-1</abnormalTime>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<irreplacableBuff>true</irreplacableBuff>
+		<canBeDispelled>false</canBeDispelled>
+		<stayAfterDeath>true</stayAfterDeath>
+				<effects>
 			<effect name="PhysicalDefence">
 				<amount>
 					<value level="1">-5</value>
 					<value level="2">-10</value>
 					<value level="3">-15</value>
+					<value level="4">-20</value>
+					<value level="5">-25</value>
+					<value level="6">-30</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
@@ -31,15 +36,21 @@
 					<value level="1">-5</value>
 					<value level="2">-10</value>
 					<value level="3">-15</value>
+					<value level="4">-20</value>
+					<value level="5">-25</value>
+					<value level="6">-30</value>
 				</amount>
 				<mode>PER</mode>
 			</effect>
 			<effect name="Speed">
-				<amount>
+-				<amount>
 					<value level="1">-5</value>
 					<value level="2">-10</value>
 					<value level="3">-30</value>
-				</amount>
+					<value level="4">-40</value>
+					<value level="5">-50</value>
+					<value level="6">-60</value>
+			</amount>
 				<mode>DIFF</mode>
 			</effect>
 		</effects>
@@ -325,6 +336,9 @@
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
 		<hitTime>5000</hitTime>
+		<effects>
+			<effect name="Teleport" />
+		</effects>
 	</skill>
 	<skill id="60019" toLevel="4" name="Jaban's Blessing">
 		<!-- Jaban's Blessing. Max HP $s1 Received PvP damage $s2 -->

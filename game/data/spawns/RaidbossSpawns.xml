@@ -40,6 +40,9 @@
 			<npc id="25911" x="-92358" y="119334" z="-3488" heading="46378" dbSave="true" dbName="Ourick" respawnPattern="0 1-23/2 * * *" />
 			<npc id="25925" x="-60496" y="137347" z="-2392" heading="46378" dbSave="true" dbName="Jisra" respawnPattern="0 1-23/2 * * *" />
 			<npc id="25926" x="-58974" y="135294" z="-2392" heading="46378" dbSave="true" dbName="Kuka" respawnPattern="0 1-23/2 * * *" />
+			
+			<npc id="25600" x="-53865" y="181636" z="-4552" heading="46378" dbSave="true" dbName="Cursed Mammon" respawnPattern="0 1-23/2 * * *" />
+
 		</group>
 		<group name="High Elites">
 			<npc id="25054" x="113489" y="16586" z="3960" heading="46378" dbSave="true" dbName="Kernon" respawnTime="22hour" respawnRandom="0hour" />

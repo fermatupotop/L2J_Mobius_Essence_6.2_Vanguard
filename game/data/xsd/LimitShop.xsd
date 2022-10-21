@@ -12,6 +12,8 @@
 											<xs:attribute type="xs:int" name="id" use="optional"/>
 											<xs:attribute type="xs:long" name="count" use="optional"/>
 											<xs:attribute type="xs:int" name="enchant" use="optional"/>
+											<xs:attribute type="xs:int" name="id2" use="optional"/>
+											<xs:attribute type="xs:long" name="count2" use="optional"/>
 										</xs:extension>
 									</xs:simpleContent>
 								</xs:complexType>

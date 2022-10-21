@@ -429,6 +429,13 @@ Essence Waytrel x3 Special Craft item list
 		<ingredient id="57" count="2000000" /> <!-- Adena -->
 		<production id="91077" accountBuyLimit="5" /> <!-- Venir's Talisman Lv. 1 (Sealed) -->
 	</product>
+	
+		<product id="3104" category="3">
+		<ingredient id="91077" count="1" /> 
+		<ingredient id="91076" count="150" /> 
+		<production id="91082" count="1" chance="90" id2="91076" count2="100" chance2="10" accountBuyLimit="1" /> <!-- Venir's Talisman Lv. 6 (Sealed) -->
+	</product>
+	
 	<product id="3100" category="3">
 		<ingredient id="57" count="1000000" /> <!-- Adena -->
 		<production id="91076" accountBuyLimit="100" /> <!-- Осколок Талисмана Бенира -->
@@ -470,12 +477,12 @@ Essence Waytrel x3 Special Craft item list
 	
 	<product id="3101" category="5"> <!-- Sigil -->
 	<ingredient id="92314" count="120"/>  <!-- Giran Seal -->
-	<production id="94315" count="1" chance="5" id2="94316" count2="1" chance2="15" id3="92314" count3="30" chance3="80" />
+	<production id="94315" count="1" chance="3" id2="94316" count2="1" chance2="7" id3="92314" count3="30" chance3="90" />
 	</product> 
 	
 		<product id="3102" category="5"> <!-- Shield -->
 	<ingredient id="92314" count="120"/>  <!-- Giran Seal -->
-	<production id="94317" count="1" chance="5" id2="94318" count2="1" chance2="15" id3="92314" count3="30" chance3="80" />
+	<production id="94317" count="1" chance="3" id2="94318" count2="1" chance2="7" id3="92314" count3="30" chance3="90" />
 	</product> 
 	
 	

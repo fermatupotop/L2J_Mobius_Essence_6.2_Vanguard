@@ -97,8 +97,8 @@ public class Hp extends AbstractEffect
 			SystemMessage sm;
 			if (effector.getObjectId() != effected.getObjectId())
 			{
-				sm = new SystemMessage(SystemMessageId.S2_HP_HAS_BEEN_RESTORED_BY_C1);
-				sm.addString(effector.getName());
+				sm = new SystemMessage(SystemMessageId.S1_HP_HAS_BEEN_RESTORED);
+				sm.addInt((int) amount);
 			}
 			else
 			{

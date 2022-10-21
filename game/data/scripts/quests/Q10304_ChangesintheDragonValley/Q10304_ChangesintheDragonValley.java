@@ -12,10 +12,6 @@ import org.l2jmobius.gameserver.model.quest.Quest;
 import org.l2jmobius.gameserver.model.quest.QuestState;
 import org.l2jmobius.gameserver.network.NpcStringId;
 
-/*
- * @author Valera
- */
-
 public class Q10304_ChangesintheDragonValley extends Quest
 {
 	// NPCs
@@ -64,6 +60,7 @@ public class Q10304_ChangesintheDragonValley extends Quest
 		addTalkId(ORVEN);
 		addKillId(MONSTERS);
 		addCondMinLevel(MIN_LEVEL, "no_lvl.html");
+		setQuestNameNpcStringId(NpcStringId.DEFEAT_MONSTERS_IN_THE_DRAGON_VALLEY_WEST);
 	}
 	
 	@Override
@@ -101,7 +98,7 @@ public class Q10304_ChangesintheDragonValley extends Quest
 			{
 				if (qs.isCond(2))
 				{
-					addExpAndSp(player, 40000000, 1080000);
+					addExpAndSp(player, 100000000, 2700000);
 					giveItems(player, MAGIC_LAMP_CHARGING_POTION);
 					giveItems(player, SAYHA_GUST);
 					giveItems(player, SPIRIT_ORE);
@@ -180,8 +177,7 @@ public class Q10304_ChangesintheDragonValley extends Quest
 		if ((qs != null) && qs.isCond(1))
 		{
 			final Set<NpcLogListHolder> holder = new HashSet<>();
-			holder.add(new NpcLogListHolder(NpcStringId.KILL_THE_MONSTERS_IN_THE_SILENT_VALLEY_AND_PLAINS_OF_THE_LIZARDMEN.getId(), true, qs.getInt(KILL_COUNT_VAR)));
-			holder.add(new NpcLogListHolder(NpcStringId.LEVEL_70_ACCOMPLISHED, player.getLevel() > 70 ? 1 : 0));
+			holder.add(new NpcLogListHolder(NpcStringId.DEFEAT_MONSTERS_IN_THE_DRAGON_VALLEY_WEST.getId(), true, qs.getInt(KILL_COUNT_VAR)));
 			return holder;
 			
 		}
