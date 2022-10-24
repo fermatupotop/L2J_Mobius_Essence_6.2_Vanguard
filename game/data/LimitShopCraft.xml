@@ -433,8 +433,22 @@ Essence Waytrel x3 Special Craft item list
 		<product id="3104" category="3">
 		<ingredient id="91077" count="1" /> 
 		<ingredient id="91076" count="150" /> 
-		<production id="91082" count="1" chance="90" id2="91076" count2="100" chance2="10" accountBuyLimit="1" /> <!-- Venir's Talisman Lv. 6 (Sealed) -->
+		<production id="91082" accountBuyLimit="1" /> <!-- Venir's Talisman Lv. 6 (Sealed) -->
 	</product>
+		<product id="3105" category="3">
+		<ingredient id="91077" count="1" /> 
+		<ingredient id="91076" count="600" /> 
+		<production id="91088"  accountBuyLimit="1" /> <!-- Venir's Talisman Lv. 12 (Sealed) -->
+	</product>
+	
+		<product id="2021" category="0">
+		<ingredient id="95485" count="1" /> <!-- Recipe: Plains of the Lizardmen Purge Equipment -->
+		<ingredient id="95481" count="1" /> <!-- Aden Purge Crystal -->
+		<ingredient id="92477" count="174" /> <!-- Wood -->
+		<ingredient id="57" count="435000" /> <!-- Adena -->
+		<production id="96741" chance="20" id2="90907" count2="44" accountBuyLimit="5" /> <!-- Lizardman Shaman's Staff (Sealed) -->
+	</product>
+	
 	
 	<product id="3100" category="3">
 		<ingredient id="57" count="1000000" /> <!-- Adena -->

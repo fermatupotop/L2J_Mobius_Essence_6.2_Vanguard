@@ -167,7 +167,7 @@
 		<location x="124836" y="109958" z="-3096" />
 		<location x="116098" y="119102" z="-3720" />
 	</teleport>
-	<teleport id="437" x="92821" y="18847" z="-3608" price="2000" /> <!-- Outskirts of the Ivory Tower -->
+	<teleport id="437" x="92821" y="18847" z="-3608" price="2000" /> <!-- Outskirts of the Ivory Tower lv 53 -->
 	<teleport id="438" x="15074" y="246054" z="-176" price="200" special="true" /> <!-- Hellbound -->
 	<teleport id="439" x="8890" y="239060" z="-2440" price="200" special="true" /> <!-- Satina's Laboratory -->
 	<teleport id="440" x="2901" y="235565" z="-3352" price="200" special="true" /> <!-- Beleth's Magic Circle -->
@@ -190,4 +190,7 @@
 	<teleport id="457" x="107643" y="51995" z="-4800" price="200" /> <!-- Quiet Plain -->
 	<teleport id="458" x="109763" y="57475" z="-4360" price="200" /> <!-- Whispering Woods -->
 	<teleport id="459" x="17782" y="252753" z="-1744" price="0" /> <!-- Otherworldly Tower -->
+	
+	<teleport id="475" x="107343" y="-87842" z="-2936" price="10000" /> <!-- Benedict Monastery -->
+	<teleport id="476" x="119094" y="-83944" z="-3068" price="20000" /> <!-- Inner part Benedict Monastery -->
 </list>

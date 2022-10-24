@@ -4022,7 +4022,7 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20563" level="40" type="Monster" name="Manashen Gargoyle" element="WIND">
+	<npc id="20563" level="55" type="Monster" name="Manashen Gargoyle" element="WIND">
 		<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
@@ -4038,14 +4038,14 @@
 		<sex>MALE</sex>
 		<acquire exp="1410" sp="102" attributeExp="4" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1019.59695680077" hpRegen="4.5" mp="478.8" mpRegen="1.8" />
-			<attack physical="176.36077" magical="120.43155" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="156.55035" magical="114.55675" />
+			<vitals hp="3653.254" hpRegen="6.5" mp="948" mpRegen="2.4" />
+			<attack physical="424.23295" magical="289.69611" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="233.18839" magical="170.63714" />
 			<speed>
-				<walk ground="140" />
+				<walk ground="80" />
 				<run ground="174" />
 			</speed>
-			<hitTime>370</hitTime>
+			<hitTime>340</hitTime>
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
@@ -4059,11 +4059,6 @@
 			<skill id="4413" level="11" /> <!-- Average M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="2" /> <!-- Greater Bow Resistance -->
-			<skill id="4273" level="3" /> <!-- Dagger Resistance -->
-			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-			<skill id="4073" level="4" /> <!-- Stun -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -4078,38 +4073,7 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="7" max="18" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.0063">
-					<item id="606" min="1" max="1" chance="3.125" /> <!-- Rip Gauntlets -->
-					<item id="92533" min="1" max="1" chance="9.375" /> <!-- Rip Gauntlet Pattern -->
-					<item id="1124" min="1" max="1" chance="3.125" /> <!-- Boots of Strength -->
-					<item id="92535" min="1" max="1" chance="9.375" /> <!-- Boot of Strength Pattern -->
-					<item id="2424" min="1" max="1" chance="3.125" /> <!-- Manticore Skin Boots -->
-					<item id="92701" min="1" max="1" chance="9.375" /> <!-- Manticore Skin Boot Lining -->
-					<item id="2425" min="1" max="1" chance="3.125" /> <!-- Brigandine Boots -->
-					<item id="92702" min="1" max="1" chance="9.375" /> <!-- Brigandine Boot Design -->
-					<item id="2426" min="1" max="1" chance="3.125" /> <!-- Elven Mithril Boots -->
-					<item id="92703" min="1" max="1" chance="9.375" /> <!-- Elven Mithril Boot Design -->
-					<item id="2448" min="1" max="1" chance="3.125" /> <!-- Manticore Skin Gloves -->
-					<item id="92704" min="1" max="1" chance="9.375" /> <!-- Manticore Skin Glove Lining -->
-					<item id="2449" min="1" max="1" chance="3.125" /> <!-- Brigandine Gauntlets -->
-					<item id="92705" min="1" max="1" chance="9.375" /> <!-- Brigandine Gauntlet Pattern -->
-					<item id="2450" min="1" max="1" chance="3.125" /> <!-- Elven Mithril Gloves -->
-					<item id="92706" min="1" max="1" chance="9.375" /> <!-- Elven Mithril Glove Design -->
-				</group>
-				<group chance="0.119">
-					<item id="92908" min="1" max="1" chance="73.6739" /> <!-- Material: Lump of Wood - Sealed -->
-					<item id="92909" min="1" max="1" chance="14.7348" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="7.3674" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="2.4558" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="1.4735" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0737" /> <!-- Material: Animal Spirit - Sealed -->
-					<!-- <item id="3046" min="1" max="1" chance="0.0491" /> Spellbook: Sacrifice - Not Available -->
-					<!-- <item id="49427" min="1" max="1" chance="0.0246" /> Spellbook: Shield Deflect Magic - Not Available -->
-					<!-- <item id="3101" min="1" max="1" chance="0.1472" /> Spellbook: Death Whisper - Not Available -->
-				</group>
+				<item id="57" min="88" max="98" chance="70" /> <!-- Adena -->
 			</drop>
 			<spoil>
 				<item id="92528" min="1" max="1" chance="0.0032" /> <!-- Brigandine Temper -->
@@ -4117,118 +4081,79 @@
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20564" level="41" type="Monster" name="Reinforced Monster Eye" element="WIND">
-		<parameters>
+	<npc id="20564" level="62" type="Monster" name="Reinforced Monster Eye" element="EARTH">
+	<parameters>
 			<param name="MoveAroundSocial" value="0" />
 			<param name="MoveAroundSocial1" value="0" />
 			<param name="MoveAroundSocial2" value="0" />
-			<param name="SoulShot" value="200" />
-			<param name="SoulShotRate" value="5" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="10" />
-			<param name="LongRangeGuardRate" value="10" />
-			<skill name="W_LongRangeDDMagic" id="4151" level="4" />
-			<skill name="W_ShortRangeDDMagic" id="4160" level="4" />
-			<skill name="DeBuff" id="4076" level="3" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
 		</parameters>
-		<race>CONSTRUCT</race>
+		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1481" sp="107" attributeExp="4" />
+		<acquire exp="4377" sp="341" attributeExp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1063.54199060681" hpRegen="5.5" mp="504.8" mpRegen="2.1" />
-			<attack physical="187.11878" magical="127.77787" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="160.69002" magical="117.58598" />
+			<vitals hp="2149.58946769827" hpRegen="7.5" mp="1097" mpRegen="2.7" />
+			<attack physical="521.12391" magical="355.86007" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="257.34267" magical="188.3122" />
 			<speed>
-				<walk ground="90" />
+				<walk ground="80" />
 				<run ground="174" />
 			</speed>
-			<hitTime>300</hitTime>
+			<hitTime>390</hitTime>
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
 		<skillList>
-			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4276" level="1" /> <!-- Bow Vulnerability -->
-			<skill id="4076" level="3" /> <!-- Decrease Speed -->
-			<skill id="4151" level="4" /> <!-- NPC Windstrike - Magic -->
-			<skill id="4160" level="4" /> <!-- NPC Aura Burn - Magic -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
+			<skill id="4408" level="6" /> <!-- HP Very High -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai aggroRange="450" clanHelpRange="300" isAggressive="true">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
 		<collision>
-			<radius normal="21" />
-			<height normal="43" />
+			<radius normal="12" />
+			<height normal="33" />
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="15" max="36" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.0083">
-					<item id="630" min="1" max="1" chance="9.257" /> <!-- Square Shield -->
-					<item id="92543" min="1" max="1" chance="27.7705" /> <!-- Square Shield Fragment -->
-					<item id="2412" min="1" max="1" chance="6.4862" /> <!-- Plate Helmet -->
-					<item id="92708" min="1" max="1" chance="19.4586" /> <!-- Plate Helmet Design -->
-					<item id="2494" min="1" max="1" chance="9.257" /> <!-- Plate Shield -->
-					<item id="92712" min="1" max="1" chance="27.7707" /> <!-- Plate Shield Fragment -->
-				</group>
-				<group chance="0.2152">
-					<item id="92908" min="1" max="1" chance="73.556" /> <!-- Material: Lump of Wood - Sealed -->
-					<item id="92909" min="1" max="1" chance="14.7112" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="7.3556" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="2.4519" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="1.4711" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0736" /> <!-- Material: Animal Spirit - Sealed -->
-					<!-- <item id="3051" min="1" max="1" chance="0.049" /> Spellbook: Spirit Barrier - Not Available -->
-					<!-- <item id="4923" min="1" max="1" chance="0.049" /> Spellbook: Summon Aqua Cubic - Not Available -->
-					<!-- <item id="49562" min="1" max="1" chance="0.049" /> Spellbook: Spirit Sharing - Not Available -->
-					<item id="2993" min="1" max="1" chance="0.2336" /> <!-- Recipe: Dwarven Chain Boots (100%) -->
-				</group>
+					<item id="57" min="203" max="476" chance="100" /> <!-- Adena -->
 			</drop>
 			<spoil>
-				<item id="2306" min="1" max="1" chance="0.0006" /> <!-- Recipe: Stick of Faith (100%) -->
-				<item id="2298" min="1" max="1" chance="0.0006" /> <!-- Recipe: Stormbringer (100%) -->
+				<item id="92996" min="1" max="1" chance="19.3542" /> <!-- Ancient Resources - Sealed -->
+				<item id="92997" min="1" max="1" chance="3.8708" /> <!-- Old Unknown Resources - Sealed -->
+				<item id="92999" min="1" max="1" chance="0.3871" /> <!-- Old High-grade Resources - Sealed -->
 			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20565" level="42" type="Monster" name="Reinforced Stone Golem" element="WIND">
+	<npc id="20565" level="54" type="Monster" name="Reinforced Stone Golem" element="WIND">
 		<parameters>
-			<param name="MoveAroundSocial" value="116" />
-			<param name="MoveAroundSocial1" value="116" />
-			<param name="MoveAroundSocial2" value="116" />
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
 			<param name="SoulShot" value="200" />
 			<param name="SoulShotRate" value="5" />
 			<param name="SpiritShot" value="100" />
 			<param name="SpiritShotRate" value="10" />
 			<param name="LongRangeGuardRate" value="10" />
-			<skill name="DDMagicSlow" id="4254" level="4" />
 		</parameters>
 		<race>CONSTRUCT</race>
 		<sex>MALE</sex>
 		<acquire exp="1555" sp="129" attributeExp="4" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1108.45623972656" hpRegen="5.5" mp="531" mpRegen="2.1" />
-			<attack physical="198.34591" magical="135.44454" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="164.88513" magical="120.65578" />
+			<vitals hp="3512.744" hpRegen="6.5" mp="918.8" mpRegen="2.4" />
+			<attack physical="405.96455" magical="277.22116" random="5" critical="8" accuracy="0" attackSpeed="253" type="DAGGER" range="40" distance="80" width="120" />
+			<defence physical="228.40135" magical="167.1342" />
 			<speed>
-				<walk ground="23" />
-				<run ground="23" />
+				<walk ground="80" />
+				<run ground="174" />
 			</speed>
-			<hitTime>410</hitTime>
+			<hitTime>520</hitTime>
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
@@ -4239,15 +4164,9 @@
 			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
 			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
 			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="18" /> <!-- Extremely Strong M. Def. -->
 			<skill id="4414" level="2" /> <!-- Standard Type -->
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="2" /> <!-- Greater Bow Resistance -->
-			<skill id="4273" level="3" /> <!-- Dagger Resistance -->
-			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-			<skill id="4284" level="5" /> <!-- Infection Resistance -->
-			<skill id="4254" level="4" /> <!-- NPC Prominence - Slow -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
@@ -4262,196 +4181,112 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="17" max="40" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.0006">
-					<item id="262" min="1" max="1" chance="25" /> <!-- Scallop Jamadhr -->
-					<item id="92628" min="1" max="1" chance="75" /> <!-- Scallop Jamadhr Edge -->
-				</group>
-				<group chance="0.2647">
-					<item id="92908" min="1" max="1" chance="73.6102" /> <!-- Material: Lump of Wood - Sealed -->
-					<item id="92909" min="1" max="1" chance="14.722" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="7.361" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="2.4537" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="1.4722" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0736" /> <!-- Material: Animal Spirit - Sealed -->
-					<!-- <item id="8890" min="1" max="1" chance="0.0245" /> Spellbook: Summon Attractive Cubic - Not Available -->
-					<!-- <item id="4922" min="1" max="1" chance="0.0491" /> Spellbook: Summon Binding Cubic - Not Available -->
-					<item id="2990" min="1" max="1" chance="0.2337" /> <!-- Recipe: Chain Boots (100%) -->
-				</group>
+			<item id="57" min="78" max="87" chance="70" /> <!-- Adena -->
 			</drop>
 		</dropLists>
 	</npc>
-	<npc id="20566" level="43" type="Monster" name="Reinforced Steel Golem" element="WIND">
+	<npc id="20566" level="56" type="Monster" name="Reinforced Steel Golem" element="EARTH">
 		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<param name="SoulShot" value="200" />
-			<param name="SoulShotRate" value="5" />
+			<param name="MoveAroundSocial" value="80" />
+			<param name="MoveAroundSocial1" value="80" />
+			<param name="MoveAroundSocial2" value="80" />
+			<param name="SoulShot" value="100" />
+			<param name="SoulShotRate" value="10" />
 			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="10" />
-			<param name="LongRangeGuardRate" value="10" />
-			<skill name="DDMagicSlow" id="4252" level="4" />
+			<param name="SpiritShotRate" value="5" />
+			<param name="LongRangeGuardRate" value="5" />
+			<skill name="SelfRangeDDMagic" id="4101" level="6" />
+			<skill name="SelfBuff" id="4090" level="1" />
 		</parameters>
-		<race>CONSTRUCT</race>
+		<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1633" sp="131" attributeExp="4" />
+		<equipment rhand="1472" /> <!-- Dreadbane -->
+		<acquire exp="4170" sp="684" attributeExp="18" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1154.31374327461" hpRegen="5.5" mp="557.4" mpRegen="2.1" />
-			<attack physical="210.04832" magical="143.43577" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="169.13417" magical="123.76505" />
+			<vitals hp="3512.744" hpRegen="7.5" mp="1188.8" mpRegen="2.7" />
+			<attack physical="582.81759" magical="397.98887" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="271.89033" magical="198.95754" />
 			<speed>
-				<walk ground="20" />
-				<run ground="20" />
+				<walk ground="100" />
+				<run ground="174" />
 			</speed>
-			<hitTime>410</hitTime>
+			<hitTime>450</hitTime>
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
 		<skillList>
-			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="10" /> <!-- Slightly Weak P. Atk. -->
-			<skill id="4411" level="10" /> <!-- Slightly Weak M. Atk. -->
-			<skill id="4412" level="12" /> <!-- Slightly Strong P. Def. -->
-			<skill id="4413" level="19" /> <!-- Extremely Strong M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="2" /> <!-- Greater Bow Resistance -->
-			<skill id="4273" level="3" /> <!-- Dagger Resistance -->
-			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-			<skill id="4284" level="5" /> <!-- Infection Resistance -->
-			<skill id="4252" level="4" /> <!-- NPC Flamestrike - Slow -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
 		<collision>
-			<radius normal="18" />
-			<height normal="34" />
+			<radius normal="15" />
+			<height normal="45" />
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="17" max="41" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.0093">
-					<item id="630" min="1" max="1" chance="9.257" /> <!-- Square Shield -->
-					<item id="92543" min="1" max="1" chance="27.7705" /> <!-- Square Shield Fragment -->
-					<item id="2412" min="1" max="1" chance="6.4862" /> <!-- Plate Helmet -->
-					<item id="92708" min="1" max="1" chance="19.4586" /> <!-- Plate Helmet Design -->
-					<item id="2494" min="1" max="1" chance="9.257" /> <!-- Plate Shield -->
-					<item id="92712" min="1" max="1" chance="27.7707" /> <!-- Plate Shield Fragment -->
-				</group>
-				<group chance="0.2666">
-					<item id="92908" min="1" max="1" chance="73.6012" /> <!-- Material: Lump of Wood - Sealed -->
-					<item id="92909" min="1" max="1" chance="14.7202" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="7.3601" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="2.4534" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="1.472" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0736" /> <!-- Material: Animal Spirit - Sealed -->
-					<!-- <item id="3045" min="1" max="1" chance="0.0491" /> Spellbook: Summon Life Cubic - Not Available -->
-					<!-- <item id="3041" min="1" max="1" chance="0.0491" /> Spellbook: Summon Phantom Cubic - Not Available -->
-					<item id="2209" min="1" max="1" chance="0.2213" /> <!-- Recipe: Eldarake (100%) -->
-				</group>
+				<item id="57" min="78" max="87" chance="70" /> <!-- Adena -->
+				<item id="92502" min="1" max="1" chance="0.0147" /> <!-- Ring of Ages Gemstone -->
+				<item id="92578" min="1" max="1" chance="0.0105" /> <!-- Gauntlet of Ghost Pattern -->
+				<item id="92666" min="1" max="1" chance="0.001" /> <!-- Homunkulus' Sword Blade -->
+				<item id="92679" min="1" max="1" chance="0.001" /> <!-- Mace of Underworld Head -->
+				<item id="92731" min="1" max="1" chance="0.0118" /> <!-- Demon's Glove Fabric -->
+				<item id="92734" min="1" max="1" chance="0.0118" /> <!-- Compound Boot Fragment -->
+				<item id="64" min="1" max="1" chance="0.0024" /> <!-- Compound Boots -->
+				<item id="84" min="1" max="1" chance="0.001" /> <!-- Homunkulus' Sword -->
+				<item id="202" min="1" max="1" chance="0.001" /> <!-- Mace of Underworld -->
+				<item id="609" min="1" max="1" chance="0.0021" /> <!-- Gauntlets of Ghost -->
+				<item id="885" min="1" max="1" chance="0.003" /> <!-- Ring of Ages -->
+				<item id="888" min="1" max="1" chance="0.0021" /> <!-- Divine Ring -->
+				<item id="2459" min="1" max="1" chance="0.0024" /> <!-- Demon's Gloves -->
+				<item id="7891" min="1" max="1" chance="0.001" /> <!-- Ecliptic Axe -->
+				<item id="91882" min="1" max="1" chance="0.001" /> <!-- Saber Tooth -->
 			</drop>
 			<spoil>
-				<item id="2995" min="1" max="1" chance="0.0114" /> <!-- Recipe: Reinforced Mithril Gloves (100%) -->
-				<item id="3000" min="1" max="1" chance="0.0092" /> <!-- Recipe: Dwarven Chain Shield (100%) -->
+				<item id="2167" min="1" max="1" chance="0.0479" /> <!-- Recipe: Ring of Ages (100%) -->
+				<item id="2248" min="1" max="1" chance="0.0342" /> <!-- Recipe: Gauntlets of Ghost (100%) -->
+				<item id="2330" min="1" max="1" chance="0.0022" /> <!-- Recipe: Homunkulus' Sword (100%) -->
+				<item id="2343" min="1" max="1" chance="0.0022" /> <!-- Recipe: Mace of Underworld (100%) -->
+				<item id="3006" min="1" max="1" chance="0.0383" /> <!-- Recipe: Demon's Gloves (100%) -->
+				<item id="3009" min="1" max="1" chance="0.0383" /> <!-- Recipe: Compound Boots (100%) -->
 			</spoil>
 		</dropLists>
 	</npc>
 	<npc id="20567" level="44" type="Monster" name="Reinforced Gargoyle" element="WIND">
-		<parameters>
-			<param name="MoveAroundSocial" value="0" />
-			<param name="MoveAroundSocial1" value="0" />
-			<param name="MoveAroundSocial2" value="0" />
-			<param name="SoulShot" value="200" />
-			<param name="SoulShotRate" value="5" />
-			<param name="SpiritShot" value="100" />
-			<param name="SpiritShotRate" value="10" />
-			<param name="LongRangeGuardRate" value="10" />
-			<skill name="PhysicalSpecial" id="4073" level="4" />
-		</parameters>
-		<race>CONSTRUCT</race>
+	<race>UNDEAD</race>
 		<sex>MALE</sex>
-		<acquire exp="1714" sp="123" attributeExp="5" />
+		<equipment rhand="134" lhand="6721" />
+		<acquire exp="4971" sp="288" attributeExp="19" />
 		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
-			<vitals hp="1201.08570061422" hpRegen="5.5" mp="584" mpRegen="2.1" />
-			<attack physical="222.23112" magical="151.75505" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="173.43552" magical="126.91259" />
+			<vitals hp="3951.36" hpRegen="7.5" mp="1188.8" mpRegen="2.7" />
+			<attack physical="582.81759" magical="397.98887" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="271.89033" magical="198.95754" />
 			<speed>
-				<walk ground="140" />
-				<run ground="174" />
+				<walk ground="39" />
+				<run ground="180" />
 			</speed>
-			<hitTime>370</hitTime>
+			<hitTime>480</hitTime>
 			<abnormalResist physical="10" magical="10" />
 		</stats>
 		<status attackable="true" />
 		<skillList>
-			<skill id="4416" level="2" /> <!-- Magical Creatures -->
-			<skill id="4408" level="1" /> <!-- HP Increase (1x) -->
-			<skill id="4409" level="1" /> <!-- MP Increase (1x) -->
-			<skill id="4410" level="12" /> <!-- Slightly Strong P. Atk. -->
-			<skill id="4411" level="12" /> <!-- Slightly Strong M. Atk. -->
-			<skill id="4412" level="10" /> <!-- Slightly Weak P. Def. -->
-			<skill id="4413" level="11" /> <!-- Average M. Def. -->
-			<skill id="4414" level="2" /> <!-- Standard Type -->
-			<skill id="4415" level="3" /> <!-- One-handed Sword -->
-			<skill id="48046" level="1" /> <!-- Wind Attribute Monster -->
-			<skill id="4444" level="2" /> <!-- Greater Bow Resistance -->
-			<skill id="4273" level="3" /> <!-- Dagger Resistance -->
-			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-			<skill id="4073" level="4" /> <!-- Stun -->
+			<skill id="4416" level="1" /> <!-- Undead -->
+			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
+			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
 		</skillList>
-		<shots shotChance="30" spiritChance="30" />
-		<exCrtEffect>false</exCrtEffect>
-		<ai clanHelpRange="300" aggroRange="450">
-			<clanList>
-				<clan>ALL</clan>
-			</clanList>
-		</ai>
 		<collision>
-			<radius normal="16" />
-			<height normal="50" />
+			<radius normal="7" />
+			<height normal="30" />
 		</collision>
 		<dropLists>
 			<drop>
-				<group chance="70">
-					<item id="57" min="17" max="41" chance="100" /> <!-- Adena -->
-				</group>
-				<group chance="0.0006">
-					<item id="263" min="1" max="1" chance="9.0909" /> <!-- Chakram -->
-					<item id="92648" min="1" max="1" chance="90.9091" /> <!-- Chakram Edge -->
-				</group>
-				<group chance="0.2688">
-					<item id="92908" min="1" max="1" chance="73.7594" /> <!-- Material: Lump of Wood - Sealed -->
-					<item id="92909" min="1" max="1" chance="14.7519" /> <!-- Material: Pack of Knickknacks - Sealed -->
-					<item id="92910" min="1" max="1" chance="7.3759" /> <!-- Material: Rags - Sealed -->
-					<item id="92911" min="1" max="1" chance="2.4586" /> <!-- Material: Leather Scraps - Sealed -->
-					<item id="92912" min="1" max="1" chance="1.4752" /> <!-- Material: Plain Fabric - Sealed -->
-					<item id="92916" min="1" max="1" chance="0.0738" /> <!-- Material: Animal Spirit - Sealed -->
-					<!-- <item id="3940" min="1" max="1" chance="0.0492" /> Blueprint: Summon Siege Golem - Not Available -->
-					<!-- <item id="4924" min="1" max="1" chance="0.0492" /> Spellbook: Summon Spark Cubic - Not Available -->
-					<item id="2340" min="1" max="1" chance="0.0068" /> <!-- Recipe: Pa'agrio Hammer (100%) -->
-				</group>
+				<item id="57" min="132" max="145" chance="70" /> <!-- Adena -->
 			</drop>
-			<spoil>
-				<item id="92636" min="1" max="1" chance="0.0011" /> <!-- Big Hammer Head -->
-				<item id="3004" min="1" max="1" chance="0.006" /> <!-- Recipe: Rind Leather Gloves (100%) -->
-				<item id="2298" min="1" max="1" chance="0.0004" /> <!-- Recipe: Stormbringer (100%) -->
-			</spoil>
 		</dropLists>
 	</npc>
-	<npc id="20568" level="45" type="Monster" name="Formor">
+	<npc id="20568" level="57" type="Monster" name="Formor">
 		<parameters>
 			<param name="MoveAroundSocial" value="135" />
 			<param name="MoveAroundSocial1" value="135" />

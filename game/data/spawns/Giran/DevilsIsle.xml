@@ -14,16 +14,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -40,16 +40,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -64,16 +64,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -88,16 +88,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -114,16 +114,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -141,16 +141,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -167,16 +167,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -192,16 +192,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -218,16 +218,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	
@@ -244,16 +244,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -269,16 +269,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -294,16 +294,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 
@@ -318,16 +318,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	
@@ -342,16 +342,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -367,16 +367,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24025" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24026" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24027" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24025" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24026" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24027" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24032" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24033" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24034" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24032" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24033" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24034" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -393,16 +393,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -415,16 +415,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -437,16 +437,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -460,16 +460,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -485,16 +485,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -508,16 +508,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -534,16 +534,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -557,16 +557,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -585,16 +585,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -613,16 +613,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -638,16 +638,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -667,16 +667,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -690,16 +690,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -713,16 +713,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -737,16 +737,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -760,16 +760,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -790,16 +790,16 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24028" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24029" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24030" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24031" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24028" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24029" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24030" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24031" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24035" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24036" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24037" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24038" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24035" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24036" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24037" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24038" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -812,12 +812,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -830,12 +830,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -848,12 +848,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -866,12 +866,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -884,12 +884,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -902,12 +902,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -920,12 +920,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -938,12 +938,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -956,12 +956,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -974,12 +974,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -992,12 +992,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1010,12 +1010,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1028,12 +1028,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1046,12 +1046,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1064,12 +1064,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1082,12 +1082,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1100,12 +1100,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1118,12 +1118,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1136,12 +1136,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1154,12 +1154,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1172,12 +1172,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1190,12 +1190,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1208,12 +1208,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1226,12 +1226,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24050" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24052" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24050" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24052" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24051" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24053" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24051" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24053" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1244,12 +1244,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1262,12 +1262,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1280,12 +1280,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1298,12 +1298,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1316,12 +1316,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1334,12 +1334,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1352,12 +1352,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1370,12 +1370,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1388,12 +1388,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1406,12 +1406,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1424,12 +1424,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1442,12 +1442,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1460,12 +1460,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1478,12 +1478,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1496,12 +1496,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1514,12 +1514,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1532,12 +1532,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1550,12 +1550,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1568,12 +1568,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1586,12 +1586,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1604,12 +1604,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1622,12 +1622,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24052" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24054" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24052" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24054" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24053" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24055" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24053" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24055" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1640,12 +1640,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1658,12 +1658,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1676,12 +1676,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1694,12 +1694,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1712,12 +1712,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1730,12 +1730,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1748,12 +1748,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1766,12 +1766,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1784,12 +1784,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1802,12 +1802,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1820,12 +1820,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1838,12 +1838,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1856,12 +1856,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1874,12 +1874,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1892,12 +1892,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1910,12 +1910,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1928,12 +1928,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1946,12 +1946,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1964,12 +1964,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -1982,12 +1982,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="1" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="1" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -2000,12 +2000,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -2018,12 +2018,12 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24046" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24048" count="1" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24046" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24048" count="1" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24047" count="2" respawnTime="80sec" respawnRandom="20sec" />
-			<npc id="24049" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24047" count="4" respawnTime="10sec" respawnRandom="5sec" />
+			<npc id="24049" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -2082,10 +2082,10 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24039" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24039" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24040" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24040" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -2143,10 +2143,10 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24039" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24039" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24040" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24040" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -2205,10 +2205,10 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24039" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24039" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24040" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24040" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -2281,10 +2281,10 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24039" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24039" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24040" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24040" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 	<spawn name="DevilIsle" ai="DayNightSpawns">
@@ -2347,10 +2347,10 @@
 			</territory>
 		</territories>
 		<group name="dayTime" spawnByDefault="false">
-			<npc id="24039" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24039" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 		<group name="nightTime" spawnByDefault="false">
-			<npc id="24040" count="2" respawnTime="80sec" respawnRandom="20sec" />
+			<npc id="24040" count="4" respawnTime="10sec" respawnRandom="5sec" />
 		</group>
 	</spawn>
 </list>

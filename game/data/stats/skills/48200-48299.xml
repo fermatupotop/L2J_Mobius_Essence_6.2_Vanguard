@@ -319,16 +319,17 @@
 		<!-- Deals $s1 fixed damage. -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
-		<isMagic>1</isMagic>
-		<hitTime>3500</hitTime>
-		<castRange>1800</castRange>
-		<effectPoint>-300</effectPoint>
+		<castRange>700</castRange>
+		<effectPoint>-500</effectPoint>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
 		<targetType>ENEMY</targetType>
 		<affectScope>SINGLE</affectScope>
-		<basicProperty>MAGIC</basicProperty>
 		<effects>
-			<effect name="MagicalAttack">
-				<power>2000</power>
+			<effect name="RealDamage">
+				<power>500</power>
 			</effect>
 		</effects>
 	</skill>
@@ -336,21 +337,73 @@
 		<!-- Deals $s1 fixed damage. -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-500</effectPoint>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="RealDamage">
+				<power>500</power>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="48256" toLevel="1" name="Zaken's Blood Prison">
 		<!-- Deals $s1 fixed damage. -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-500</effectPoint>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="RealDamage">
+				<power>500</power>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="48257" toLevel="1" name="Orfen's Poison Storm">
 		<!-- Deals $s1 fixed damage. -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-500</effectPoint>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="RealDamage">
+				<power>500</power>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="48258" toLevel="1" name="Core's Plasmic Shock">
 		<!-- Deals $s1 fixed damage. -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-500</effectPoint>
+		<isTriggeredSkill>true</isTriggeredSkill>
+		<basicProperty>NONE</basicProperty>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<hitCancelTime>0</hitCancelTime>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<effects>
+			<effect name="RealDamage">
+				<power>500</power>
+			</effect>
+		</effects>
 	</skill>
 	<skill id="48259" toLevel="1" name="Dragon's Protection">
 		<!-- The barrier's HP: $s1 Can be activated up to $s2 time(s). The barrier disappears when its HP is 0 or after all trigger attempts. -->

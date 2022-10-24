@@ -2061,7 +2061,7 @@
 	<!-- Buff for boss killing -->
 		<icon>icon.skill5762</icon>
 		<abnormalLevel>1</abnormalLevel>
-		<abnormalVisualEffect>SEED_TALISMAN6</abnormalVisualEffect>
+		<abnormalVisualEffect>RO_GHOST_REFLECT</abnormalVisualEffect>
 		<abnormalTime>3600</abnormalTime>
 		<operateType>A2</operateType>
 		<isMagic>4</isMagic>

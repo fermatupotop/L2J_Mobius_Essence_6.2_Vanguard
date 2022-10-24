@@ -25,6 +25,9 @@
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
 		<set name="is_sellable" val="false" />
+		<set name="is_tradeble" val="false" />
+		<set name="is_dropable" val="false" />
+		<set name="is_tradable" val="false" />
 	</item>
 		<item id="99359" name="Talisman Bracelet Lv. 9" type="Armor">
 
@@ -64,7 +67,9 @@
 		<set name="default_action" val="NONE" />
 		<set name="immediate_effect" val="true" />
 		<set name="material" val="PAPER" />
+		<set name="is_dropable" val="false" />
 		<set name="is_sellable" val="false" />
+		<set name="is_tradable" val="false" />
 	</item>
 	
 </list>

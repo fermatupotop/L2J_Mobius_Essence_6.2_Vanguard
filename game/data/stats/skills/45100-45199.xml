@@ -4112,7 +4112,6 @@
 		<effectRange>600</effectRange>
 		<magicLevel>40</magicLevel>
 		<hitTime>800</hitTime>
-		<coolTime>200</coolTime>
 		<reuseDelay>3000</reuseDelay>
 		<effectPoint>-300</effectPoint>
 		<mpConsume>35</mpConsume>

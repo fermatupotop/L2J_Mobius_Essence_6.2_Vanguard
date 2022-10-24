@@ -1,0 +1,522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="23_15">
+		<group>
+			<npc id="22010" x="110692" y="-87745" z="-3264" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110692" y="-87745" z="-3264" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110692" y="-87745" z="-3264" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110692" y="-87745" z="-3264" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110692" y="-87745" z="-3264" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="110572" y="-87847" z="-3264" heading="38849" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110572" y="-87847" z="-3264" heading="38849" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110572" y="-87847" z="-3264" heading="38849" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110572" y="-87847" z="-3264" heading="38849" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110572" y="-87847" z="-3264" heading="38849" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="110681" y="-85331" z="-3392" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110681" y="-85331" z="-3392" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110681" y="-85331" z="-3392" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110681" y="-85331" z="-3392" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110681" y="-85331" z="-3392" heading="21220" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="110182" y="-85502" z="-3392" heading="32333" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110182" y="-85502" z="-3392" heading="32333" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110182" y="-85502" z="-3392" heading="32333" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110182" y="-85502" z="-3392" heading="32333" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110182" y="-85502" z="-3392" heading="32333" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="110012" y="-85208" z="-3392" heading="21852" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110012" y="-85208" z="-3392" heading="21852" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110012" y="-85208" z="-3392" heading="21852" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110012" y="-85208" z="-3392" heading="21852" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110012" y="-85208" z="-3392" heading="21852" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="110440" y="-84999" z="-3392" heading="4738" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110440" y="-84999" z="-3392" heading="4738" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110440" y="-84999" z="-3392" heading="4738" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110440" y="-84999" z="-3392" heading="4738" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110440" y="-84999" z="-3392" heading="4738" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="109892" y="-84166" z="-3392" heading="17481" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="109892" y="-84166" z="-3392" heading="17481" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="109892" y="-84166" z="-3392" heading="17481" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="109892" y="-84166" z="-3392" heading="17481" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="109892" y="-84166" z="-3392" heading="17481" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="110106" y="-84321" z="-3392" heading="65246" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110106" y="-84321" z="-3392" heading="65246" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110106" y="-84321" z="-3392" heading="65246" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110106" y="-84321" z="-3392" heading="65246" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110106" y="-84321" z="-3392" heading="65246" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="109744" y="-83116" z="-3392" heading="49910" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="109744" y="-83116" z="-3392" heading="49910" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="109744" y="-83116" z="-3392" heading="49910" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="109744" y="-83116" z="-3392" heading="49910" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="109744" y="-83116" z="-3392" heading="49910" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="109734" y="-82386" z="-3392" heading="16273" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="109734" y="-82386" z="-3392" heading="16273" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="109734" y="-82386" z="-3392" heading="16273" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="109734" y="-82386" z="-3392" heading="16273" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="109734" y="-82386" z="-3392" heading="16273" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22012" x="109739" y="-82738" z="-3392" heading="49300" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="109739" y="-82738" z="-3392" heading="49300" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="109739" y="-82738" z="-3392" heading="49300" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22010" x="110375" y="-81730" z="-3392" heading="64746" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110375" y="-81730" z="-3392" heading="64746" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110375" y="-81730" z="-3392" heading="64746" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110375" y="-81730" z="-3392" heading="64746" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110375" y="-81730" z="-3392" heading="64746" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="111170" y="-81712" z="-3392" heading="65263" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="111291" y="-81716" z="-3392" heading="65263" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="111291" y="-81716" z="-3392" heading="65263" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="111291" y="-81716" z="-3392" heading="65263" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="111291" y="-81716" z="-3392" heading="65263" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22010" x="110111" y="-80379" z="-3520" heading="55829" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="110111" y="-80379" z="-3520" heading="55829" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="110111" y="-80379" z="-3520" heading="55829" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="110111" y="-80379" z="-3520" heading="55829" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="110111" y="-80379" z="-3520" heading="55829" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22014" x="109863" y="-80288" z="-3520" heading="29099" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="109863" y="-80288" z="-3520" heading="29099" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="109863" y="-80288" z="-3520" heading="29099" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="109863" y="-80288" z="-3520" heading="29099" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="109863" y="-80288" z="-3520" heading="29099" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22010" x="109492" y="-80191" z="-3520" heading="29891" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="109492" y="-80191" z="-3520" heading="29891" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="109492" y="-80191" z="-3520" heading="29891" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="109492" y="-80191" z="-3520" heading="29891" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="109492" y="-80191" z="-3520" heading="29891" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="109212" y="-80099" z="-3520" heading="29456" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="109212" y="-80099" z="-3520" heading="29456" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22012" x="109212" y="-80099" z="-3520" heading="29456" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="109212" y="-80099" z="-3520" heading="29456" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="109212" y="-80099" z="-3520" heading="29456" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="109179" y="-80406" z="-3520" heading="48035" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="109179" y="-80406" z="-3520" heading="48035" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="109179" y="-80406" z="-3520" heading="48035" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22010" x="111406" y="-80602" z="-3520" heading="54887" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22011" x="111406" y="-80602" z="-3520" heading="54887" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="111406" y="-80602" z="-3520" heading="54887" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="111406" y="-80602" z="-3520" heading="54887" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="111406" y="-80602" z="-3520" heading="54887" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22014" x="111417" y="-80350" z="-3520" heading="15928" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="111417" y="-80350" z="-3520" heading="15928" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="111417" y="-80350" z="-3520" heading="15928" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="111417" y="-80350" z="-3520" heading="15928" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="111417" y="-80350" z="-3520" heading="15928" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22014" x="111664" y="-80409" z="-3520" heading="63090" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="111664" y="-80409" z="-3520" heading="63090" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="111664" y="-80409" z="-3520" heading="63090" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="111664" y="-80409" z="-3520" heading="63090" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22014" x="111085" y="-80448" z="-3520" heading="274" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="111085" y="-80448" z="-3520" heading="274" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="111085" y="-80448" z="-3520" heading="274" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="111085" y="-80448" z="-3520" heading="274" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22012" x="111113" y="-80061" z="-3520" heading="15630" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22013" x="111113" y="-80061" z="-3520" heading="15630" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22011" x="111113" y="-80061" z="-3520" heading="15630" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="111113" y="-80061" z="-3520" heading="15630" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22012" x="111524" y="-80002" z="-3520" heading="1540" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="111574" y="-79995" z="-3520" heading="1540" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="111574" y="-79995" z="-3520" heading="1540" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22013" x="111464" y="-79970" z="-3520" heading="30437" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22014" x="111464" y="-79970" z="-3520" heading="30437" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22014" x="111937" y="-81740" z="-3392" heading="63091" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="111937" y="-81740" z="-3392" heading="63091" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="111937" y="-81740" z="-3392" heading="63091" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="111937" y="-81740" z="-3392" heading="63091" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="111937" y="-81740" z="-3392" heading="63091" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22014" x="112746" y="-81815" z="-3392" heading="35462" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="112746" y="-81815" z="-3392" heading="35462" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="112746" y="-81815" z="-3392" heading="35462" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="112746" y="-81815" z="-3392" heading="35462" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="112746" y="-81815" z="-3392" heading="35462" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22014" x="113030" y="-82118" z="-3392" heading="57012" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="113035" y="-82123" z="-3392" heading="57012" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="113035" y="-82123" z="-3392" heading="57012" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="113035" y="-82123" z="-3392" heading="57012" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="113035" y="-82123" z="-3392" heading="57012" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22014" x="112439" y="-83079" z="-3392" heading="31343" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="112439" y="-83079" z="-3392" heading="31343" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="112439" y="-83079" z="-3392" heading="31343" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="112439" y="-83079" z="-3392" heading="31343" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="112439" y="-83079" z="-3392" heading="31343" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22014" x="112993" y="-83146" z="-3392" heading="49068" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="112993" y="-83146" z="-3392" heading="49068" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="112993" y="-83146" z="-3392" heading="49068" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="112993" y="-83146" z="-3392" heading="49068" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="112993" y="-83146" z="-3392" heading="49068" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22014" x="112004" y="-83101" z="-3392" heading="62562" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="112004" y="-83101" z="-3392" heading="62562" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="112004" y="-83101" z="-3392" heading="62562" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="112004" y="-83101" z="-3392" heading="62562" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="112004" y="-83101" z="-3392" heading="62562" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22014" x="112099" y="-83442" z="-3392" heading="51966" respawnTime="15sec" /> <!-- Platinum Tribe Officer -->
+			<npc id="22013" x="112099" y="-83442" z="-3392" heading="51966" respawnTime="15sec" /> <!-- Platinum Tribe Knight -->
+			<npc id="22012" x="112099" y="-83442" z="-3392" heading="51966" respawnTime="15sec" /> <!-- Platinum Tribe Guard -->
+			<npc id="22011" x="112099" y="-83442" z="-3392" heading="51966" respawnTime="15sec" /> <!-- Platinum Tribe Shaman -->
+			<npc id="22010" x="112099" y="-83442" z="-3392" heading="51966" respawnTime="15sec" /> <!-- Platinum Tribe Soldier -->
+			<npc id="22016" x="111371" y="-84488" z="-3392" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="111685" y="-84316" z="-3392" heading="52507" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="111685" y="-84316" z="-3392" heading="52507" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="111685" y="-84316" z="-3392" heading="52507" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="111685" y="-84316" z="-3392" heading="52507" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22019" x="111685" y="-84316" z="-3392" heading="52507" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="111685" y="-84316" z="-3392" heading="52507" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="112880" y="-85022" z="-3392" heading="19018" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="112880" y="-85022" z="-3392" heading="19018" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="112880" y="-85022" z="-3392" heading="19018" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="112880" y="-85022" z="-3392" heading="19018" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="112880" y="-85022" z="-3392" heading="19018" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="112880" y="-85022" z="-3392" heading="19018" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="112932" y="-85474" z="-3392" heading="48950" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="112932" y="-85474" z="-3392" heading="48950" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="112932" y="-85474" z="-3392" heading="48950" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="112932" y="-85474" z="-3392" heading="48950" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="113246" y="-85451" z="-3392" heading="762" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="113246" y="-85451" z="-3392" heading="762" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="113258" y="-84528" z="-3392" heading="17444" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="113255" y="-84493" z="-3392" heading="17444" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="113255" y="-84493" z="-3392" heading="17444" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22018" x="112522" y="-84533" z="-3392" heading="31701" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="112522" y="-84533" z="-3392" heading="31701" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="112522" y="-84533" z="-3392" heading="31701" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="112522" y="-84533" z="-3392" heading="31701" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22015" x="113455" y="-87217" z="-3392" heading="50007" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="113455" y="-87217" z="-3392" heading="50007" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="113455" y="-87217" z="-3392" heading="50007" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="113455" y="-87217" z="-3392" heading="50007" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22019" x="113455" y="-87217" z="-3392" heading="50007" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="113455" y="-87217" z="-3392" heading="50007" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="113518" y="-87373" z="-3392" heading="53155" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="113518" y="-87373" z="-3392" heading="53155" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="113518" y="-87373" z="-3392" heading="53155" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="113518" y="-87373" z="-3392" heading="53155" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="113518" y="-87373" z="-3392" heading="53155" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="113518" y="-87373" z="-3392" heading="53155" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="113343" y="-87461" z="-3392" heading="37627" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="113343" y="-87461" z="-3392" heading="37627" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="113343" y="-87461" z="-3392" heading="37627" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22015" x="113343" y="-87461" z="-3392" heading="37627" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22015" x="114668" y="-88901" z="-3528" heading="32796" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="114668" y="-88901" z="-3528" heading="32796" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="114668" y="-88901" z="-3528" heading="32796" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="114668" y="-88901" z="-3528" heading="32796" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22019" x="114668" y="-88901" z="-3528" heading="32796" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="114668" y="-88901" z="-3528" heading="32796" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="115073" y="-88867" z="-3528" heading="873" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115073" y="-88867" z="-3528" heading="873" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115073" y="-88867" z="-3528" heading="873" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115073" y="-88867" z="-3528" heading="873" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115073" y="-88867" z="-3528" heading="873" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115073" y="-88867" z="-3528" heading="873" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22015" x="115204" y="-88695" z="-3528" heading="9594" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="115204" y="-88695" z="-3528" heading="9594" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="115204" y="-88695" z="-3528" heading="9594" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="115204" y="-88695" z="-3528" heading="9594" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22019" x="115204" y="-88695" z="-3528" heading="9594" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115687" y="-88958" z="-3528" heading="58208" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="115687" y="-88958" z="-3528" heading="58208" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115687" y="-88958" z="-3528" heading="58208" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115687" y="-88958" z="-3528" heading="58208" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115687" y="-88958" z="-3528" heading="58208" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="115687" y="-88958" z="-3528" heading="58208" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22015" x="115687" y="-88958" z="-3528" heading="58208" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="115484" y="-88713" z="-3528" heading="23601" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="115484" y="-88713" z="-3528" heading="23601" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22019" x="115484" y="-88713" z="-3528" heading="23601" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22015" x="115484" y="-88713" z="-3528" heading="23601" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22019" x="116209" y="-88825" z="-3528" heading="60619" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="116209" y="-88825" z="-3528" heading="60619" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="116209" y="-88825" z="-3528" heading="60619" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116209" y="-88825" z="-3528" heading="60619" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116209" y="-88825" z="-3528" heading="60619" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="115964" y="-88694" z="-3528" heading="27646" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115964" y="-88694" z="-3528" heading="27646" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22049" x="117410" y="-87437" z="-3520" heading="13076" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="117410" y="-87437" z="-3520" heading="13076" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="117410" y="-87437" z="-3520" heading="13076" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="117410" y="-87437" z="-3520" heading="13076" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="117410" y="-87437" z="-3520" heading="13076" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="117410" y="-87437" z="-3520" heading="13076" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="117367" y="-87753" z="-3520" heading="47741" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="117367" y="-87753" z="-3520" heading="47741" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="117367" y="-87753" z="-3520" heading="47741" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22019" x="117367" y="-87753" z="-3520" heading="47741" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22015" x="117367" y="-87753" z="-3520" heading="47741" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="117578" y="-87667" z="-3520" heading="4036" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="115911" y="-86200" z="-3392" heading="17445" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115911" y="-86200" z="-3392" heading="17445" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115911" y="-86200" z="-3392" heading="17445" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115911" y="-86200" z="-3392" heading="17445" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115911" y="-86200" z="-3392" heading="17445" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115911" y="-86200" z="-3392" heading="17445" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="115897" y="-86112" z="-3392" heading="53907" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115897" y="-86112" z="-3392" heading="53907" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115897" y="-86112" z="-3392" heading="53907" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115931" y="-85052" z="-3392" heading="16190" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115932" y="-85036" z="-3392" heading="16190" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115932" y="-85036" z="-3392" heading="16190" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115932" y="-85036" z="-3392" heading="16190" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115932" y="-85036" z="-3392" heading="16190" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115932" y="-85036" z="-3392" heading="16190" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="116078" y="-85115" z="-3392" heading="60362" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116078" y="-85115" z="-3392" heading="60362" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116078" y="-85115" z="-3392" heading="60362" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115030" y="-84956" z="-3392" heading="42748" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115030" y="-84956" z="-3392" heading="42748" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115030" y="-84956" z="-3392" heading="42748" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115030" y="-84956" z="-3392" heading="42748" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115030" y="-84956" z="-3392" heading="42748" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115030" y="-84956" z="-3392" heading="42748" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="115075" y="-85295" z="-3392" heading="50528" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22018" x="115075" y="-85295" z="-3392" heading="50528" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22015" x="115075" y="-85295" z="-3392" heading="50528" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115935" y="-84057" z="-3392" heading="6169" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115935" y="-84057" z="-3392" heading="6169" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115935" y="-84057" z="-3392" heading="6169" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115935" y="-84057" z="-3392" heading="6169" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115935" y="-84057" z="-3392" heading="6169" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115935" y="-84057" z="-3392" heading="6169" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="115729" y="-84125" z="-3392" heading="36093" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115729" y="-84125" z="-3392" heading="36093" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115729" y="-84125" z="-3392" heading="36093" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="116186" y="-84163" z="-3392" heading="64331" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116186" y="-84163" z="-3392" heading="64331" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116186" y="-84163" z="-3392" heading="64331" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22018" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116899" y="-85047" z="-3392" heading="1239" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115922" y="-82517" z="-3392" heading="18815" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115922" y="-82517" z="-3392" heading="18815" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115922" y="-82517" z="-3392" heading="18815" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="116016" y="-82777" z="-3392" heading="56870" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116016" y="-82777" z="-3392" heading="56870" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116016" y="-82777" z="-3392" heading="56870" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="116151" y="-82438" z="-3392" heading="12210" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116157" y="-82425" z="-3392" heading="12210" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116157" y="-82425" z="-3392" heading="12210" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115927" y="-81329" z="-3392" heading="17203" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115927" y="-81329" z="-3392" heading="17203" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115927" y="-81329" z="-3392" heading="17203" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115927" y="-81329" z="-3392" heading="17203" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115927" y="-81329" z="-3392" heading="17203" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115927" y="-81329" z="-3392" heading="17203" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="115820" y="-81572" z="-3392" heading="2743" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115820" y="-81572" z="-3392" heading="2743" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115820" y="-81572" z="-3392" heading="2743" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115975" y="-81653" z="-3392" heading="60513" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="115933" y="-80258" z="-3392" heading="17252" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115933" y="-80258" z="-3392" heading="17252" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115933" y="-80258" z="-3392" heading="17252" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115933" y="-80258" z="-3392" heading="17252" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115933" y="-80258" z="-3392" heading="17252" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115933" y="-80258" z="-3392" heading="17252" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22017" x="116074" y="-80487" z="-3392" heading="54908" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116074" y="-80487" z="-3392" heading="54908" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116074" y="-80487" z="-3392" heading="54908" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="116852" y="-81386" z="-3392" heading="52924" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="116855" y="-81393" z="-3392" heading="52924" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="116855" y="-81393" z="-3392" heading="52924" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="116855" y="-81393" z="-3392" heading="52924" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22017" x="116855" y="-81393" z="-3392" heading="52924" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22015" x="116855" y="-81393" z="-3392" heading="52924" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="116855" y="-81393" z="-3392" heading="52924" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22016" x="116830" y="-81547" z="-3392" heading="47521" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="116823" y="-81596" z="-3392" heading="47521" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22049" x="115057" y="-81502" z="-3392" heading="21513" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="114981" y="-81360" z="-3392" heading="21513" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="114981" y="-81360" z="-3392" heading="21513" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="114981" y="-81360" z="-3392" heading="21513" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22015" x="114981" y="-81360" z="-3392" heading="21513" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22016" x="114981" y="-81360" z="-3392" heading="21513" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="114981" y="-81360" z="-3392" heading="21513" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="114920" y="-81376" z="-3392" heading="35443" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22017" x="114920" y="-81376" z="-3392" heading="35443" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22049" x="118938" y="-76570" z="-3392" heading="51098" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="118938" y="-76570" z="-3392" heading="51098" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="118938" y="-76570" z="-3392" heading="51098" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="118938" y="-76570" z="-3392" heading="51098" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="118938" y="-76570" z="-3392" heading="51098" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="118938" y="-76570" z="-3392" heading="51098" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22019" x="119360" y="-76475" z="-3392" heading="2289" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="119360" y="-76475" z="-3392" heading="2289" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22049" x="119360" y="-76475" z="-3392" heading="2289" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22017" x="119360" y="-76475" z="-3392" heading="2289" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="119360" y="-76475" z="-3392" heading="2289" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="119360" y="-76475" z="-3392" heading="2289" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="119294" y="-77021" z="-3392" heading="47897" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="119294" y="-77021" z="-3392" heading="47897" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="119294" y="-77021" z="-3392" heading="47897" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="119294" y="-77021" z="-3392" heading="47897" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="119294" y="-77021" z="-3392" heading="47897" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="119294" y="-77021" z="-3392" heading="47897" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22019" x="118826" y="-77089" z="-3392" heading="34272" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="118826" y="-77089" z="-3392" heading="34272" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="118826" y="-77089" z="-3392" heading="34272" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="118826" y="-77089" z="-3392" heading="34272" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="118826" y="-77089" z="-3392" heading="34272" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="118826" y="-77089" z="-3392" heading="34272" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="118954" y="-78568" z="-3520" heading="18299" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="118954" y="-78568" z="-3520" heading="18299" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="118954" y="-78568" z="-3520" heading="18299" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="118954" y="-78568" z="-3520" heading="18299" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="118954" y="-78568" z="-3520" heading="18299" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="118954" y="-78568" z="-3520" heading="18299" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22019" x="119151" y="-78341" z="-3520" heading="8928" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="119151" y="-78341" z="-3520" heading="8928" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="119151" y="-78341" z="-3520" heading="8928" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="119151" y="-78341" z="-3520" heading="8928" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="119151" y="-78341" z="-3520" heading="8928" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="118728" y="-78858" z="-3520" heading="42839" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="118728" y="-78858" z="-3520" heading="42839" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="118728" y="-78858" z="-3520" heading="42839" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="118728" y="-78858" z="-3520" heading="42839" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="118728" y="-78858" z="-3520" heading="42839" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="118728" y="-78858" z="-3520" heading="42839" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="117132" y="-77609" z="-3392" heading="26874" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="117132" y="-77609" z="-3392" heading="26874" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="117132" y="-77609" z="-3392" heading="26874" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="117132" y="-77609" z="-3392" heading="26874" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="117132" y="-77609" z="-3392" heading="26874" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="117132" y="-77609" z="-3392" heading="26874" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22019" x="117151" y="-78024" z="-3392" heading="49636" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="117155" y="-78104" z="-3392" heading="49636" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="117155" y="-78104" z="-3392" heading="49636" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="117155" y="-78104" z="-3392" heading="49636" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="117155" y="-78104" z="-3392" heading="49636" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="117155" y="-78104" z="-3392" heading="49636" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="116308" y="-77959" z="-3392" heading="26782" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="116308" y="-77959" z="-3392" heading="26782" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="116308" y="-77959" z="-3392" heading="26782" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="116308" y="-77959" z="-3392" heading="26782" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116308" y="-77959" z="-3392" heading="26782" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116308" y="-77959" z="-3392" heading="26782" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="116378" y="-77234" z="-3392" heading="15023" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="116379" y="-77229" z="-3392" heading="15023" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="116379" y="-77229" z="-3392" heading="15023" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="116379" y="-77229" z="-3392" heading="15023" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116379" y="-77229" z="-3392" heading="15023" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116379" y="-77229" z="-3392" heading="15023" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22018" x="116404" y="-77627" z="-3392" heading="49806" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22019" x="116404" y="-77627" z="-3392" heading="49806" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22049" x="116404" y="-77627" z="-3392" heading="49806" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22017" x="116404" y="-77627" z="-3392" heading="49806" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="116404" y="-77627" z="-3392" heading="49806" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="116404" y="-77627" z="-3392" heading="49806" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22019" x="117051" y="-77206" z="-3392" heading="55764" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="117051" y="-77206" z="-3392" heading="55764" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="117051" y="-77206" z="-3392" heading="55764" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="117051" y="-77206" z="-3392" heading="55764" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="117051" y="-77206" z="-3392" heading="55764" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115468" y="-78746" z="-3392" heading="12214" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115468" y="-78746" z="-3392" heading="12214" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115468" y="-78746" z="-3392" heading="12214" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115468" y="-78746" z="-3392" heading="12214" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115468" y="-78746" z="-3392" heading="12214" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22015" x="115468" y="-78746" z="-3392" heading="12214" respawnTime="15sec" /> <!-- Platinum Tribe Warrior -->
+			<npc id="22049" x="115384" y="-78416" z="-3392" heading="35402" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22019" x="115384" y="-78416" z="-3392" heading="35402" respawnTime="15sec" /> <!-- Platinum Tribe Prefect -->
+			<npc id="22018" x="115384" y="-78416" z="-3392" heading="35402" respawnTime="15sec" /> <!-- Platinum Tribe Gladiator -->
+			<npc id="22017" x="115384" y="-78416" z="-3392" heading="35402" respawnTime="15sec" /> <!-- Platinum Tribe Archer -->
+			<npc id="22016" x="115384" y="-78416" z="-3392" heading="35402" respawnTime="15sec" /> <!-- Platinum Tribe Elite Soldier -->
+			<npc id="22020" x="118781" y="-84131" z="-3088" heading="15349" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="118749" y="-84239" z="-3084" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22020" x="118749" y="-84239" z="-3084" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22021" x="118749" y="-84239" z="-3084" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22022" x="118749" y="-84239" z="-3084" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22023" x="119015" y="-83865" z="-3088" heading="13442" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="119015" y="-83865" z="-3088" heading="13442" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="119015" y="-83865" z="-3088" heading="13442" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="119015" y="-83865" z="-3088" heading="13442" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="118594" y="-83741" z="-3088" heading="28335" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="118594" y="-83741" z="-3088" heading="28335" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="118594" y="-83741" z="-3088" heading="28335" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="118594" y="-83741" z="-3088" heading="28335" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22022" x="118906" y="-83325" z="-3088" heading="5769" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22023" x="118906" y="-83325" z="-3088" heading="5769" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22020" x="118906" y="-83325" z="-3088" heading="5769" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22021" x="118906" y="-83325" z="-3088" heading="5769" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22023" x="118927" y="-82878" z="-3088" heading="20894" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="118927" y="-82878" z="-3088" heading="20894" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="118927" y="-82878" z="-3088" heading="20894" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="118927" y="-82878" z="-3088" heading="20894" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="118618" y="-82831" z="-3088" heading="31221" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="118552" y="-82822" z="-3088" heading="31221" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="118552" y="-82822" z="-3088" heading="31221" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="118552" y="-82822" z="-3088" heading="31221" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="118546" y="-83289" z="-3088" heading="46159" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="118546" y="-83289" z="-3088" heading="46159" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="118546" y="-83289" z="-3088" heading="46159" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="118546" y="-83289" z="-3088" heading="46159" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="118758" y="-80519" z="-2688" heading="17585" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="118758" y="-80519" z="-2688" heading="17585" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="118758" y="-80519" z="-2688" heading="17585" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="118758" y="-80519" z="-2688" heading="17585" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22022" x="118955" y="-80427" z="-2688" heading="4557" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="118955" y="-80427" z="-2688" heading="4557" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="118955" y="-80427" z="-2688" heading="4557" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="118518" y="-80808" z="-2688" heading="40914" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="118518" y="-80808" z="-2688" heading="40914" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22023" x="116634" y="-80504" z="-2240" heading="6926" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="116634" y="-80504" z="-2240" heading="6926" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="116634" y="-80504" z="-2240" heading="6926" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="116634" y="-80504" z="-2240" heading="6926" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="116468" y="-80256" z="-2240" heading="22536" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="116468" y="-80256" z="-2240" heading="22536" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="116468" y="-80256" z="-2240" heading="22536" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="116468" y="-80256" z="-2240" heading="22536" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="116850" y="-80009" z="-2240" heading="5986" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="116850" y="-80009" z="-2240" heading="5986" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="116850" y="-80009" z="-2240" heading="5986" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="116850" y="-80009" z="-2240" heading="5986" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="116462" y="-79727" z="-2240" heading="26212" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="116462" y="-79727" z="-2240" heading="26212" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="116462" y="-79727" z="-2240" heading="26212" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="116462" y="-79727" z="-2240" heading="26212" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="116675" y="-79431" z="-2240" heading="9863" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="116735" y="-79347" z="-2240" heading="9863" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="116755" y="-79321" z="-2240" heading="9863" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="116755" y="-79321" z="-2240" heading="9863" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22021" x="116437" y="-79502" z="-2240" heading="38165" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22022" x="116437" y="-79502" z="-2240" heading="38165" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22020" x="116437" y="-79502" z="-2240" heading="38165" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22021" x="116869" y="-80424" z="-2240" heading="53722" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22023" x="116869" y="-80424" z="-2240" heading="53722" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22020" x="116869" y="-80424" z="-2240" heading="53722" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="115845" y="-79493" z="-2240" heading="49449" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="115845" y="-79493" z="-2240" heading="49449" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="115845" y="-79493" z="-2240" heading="49449" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="115845" y="-79493" z="-2240" heading="49449" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22022" x="115781" y="-79778" z="-2240" heading="46847" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22023" x="115781" y="-79778" z="-2240" heading="46847" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22021" x="115781" y="-79778" z="-2240" heading="46847" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="115781" y="-79778" z="-2240" heading="46847" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="115851" y="-80097" z="-2240" heading="51405" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="115851" y="-80097" z="-2240" heading="51405" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="115851" y="-80097" z="-2240" heading="51405" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="115851" y="-80097" z="-2240" heading="51405" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="115764" y="-80450" z="-2240" heading="46639" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="115751" y="-80504" z="-2240" heading="46639" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22020" x="115751" y="-80504" z="-2240" heading="46639" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22021" x="115751" y="-80504" z="-2240" heading="46639" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22023" x="115860" y="-81104" z="-2112" heading="60737" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="115860" y="-81104" z="-2112" heading="60737" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="115860" y="-81104" z="-2112" heading="60737" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="115860" y="-81104" z="-2112" heading="60737" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22021" x="116174" y="-81161" z="-2112" heading="63662" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22022" x="116174" y="-81161" z="-2112" heading="63662" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22023" x="116174" y="-81161" z="-2112" heading="63662" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22020" x="116174" y="-81161" z="-2112" heading="63662" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22023" x="116589" y="-81160" z="-2112" heading="21" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22022" x="116649" y="-81160" z="-2112" heading="21" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22021" x="116649" y="-81160" z="-2112" heading="21" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="116649" y="-81160" z="-2112" heading="21" respawnTime="15sec" /> <!-- Guardian Angel -->
+			<npc id="22022" x="117141" y="-81219" z="-2112" heading="64291" respawnTime="15sec" /> <!-- Guardian Angel Messenger -->
+			<npc id="22023" x="117141" y="-81219" z="-2112" heading="64291" respawnTime="15sec" /> <!-- Guiding Angel Messenger -->
+			<npc id="22021" x="117141" y="-81219" z="-2112" heading="64291" respawnTime="15sec" /> <!-- Guardian Archangel -->
+			<npc id="22020" x="117141" y="-81219" z="-2112" heading="64291" respawnTime="15sec" /> <!-- Guardian Angel -->
+		</group>
+	</spawn>
+</list>

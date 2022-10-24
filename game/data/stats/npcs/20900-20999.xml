@@ -3479,9 +3479,9 @@
 			<skill id="4415" level="3" /> <!-- One-handed Sword -->
 			<skill id="48047" level="1" /> <!-- Earth Attribute Monster -->
 			<skill id="4274" level="1" /> <!-- Blunt Weapon Vulnerability -->
-			<skill id="4071" level="1" /> <!-- Bow Resistance -->
+
 			<skill id="5620" level="2" /> <!-- Melee Attack Vulnerability -->
-			<skill id="4073" level="6" /> <!-- Stun -->
+
 		</skillList>
 		<shots shotChance="30" spiritChance="30" />
 		<exCrtEffect>false</exCrtEffect>

@@ -11,14 +11,11 @@
 			<npc id="21995" x="115752" y="16740" z="-3611" heading="61654" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="116179" y="17376" z="-3611" heading="21386" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="116070" y="17518" z="-3611" heading="23202" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21997" x="115928" y="17710" z="-3611" heading="22725" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="115666" y="18077" z="-3611" heading="10228" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="115780" y="18069" z="-3611" heading="64805" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="115766" y="17890" z="-3611" heading="48385" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="115689" y="17605" z="-3611" heading="45028" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="115653" y="17337" z="-3611" heading="49209" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21997" x="115653" y="17337" z="-3611" heading="49209" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
-			<npc id="21995" x="115891" y="17087" z="-3611" heading="53791" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21995" x="116229" y="16805" z="-3611" heading="42682" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21999" x="116051" y="16684" z="-3611" heading="35280" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21995" x="116172" y="16866" z="-3611" heading="13256" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
@@ -37,7 +34,6 @@
 			<npc id="21998" x="115838" y="16797" z="-3611" heading="28359" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
 			<npc id="21995" x="115717" y="16929" z="-3611" heading="24122" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="115620" y="18008" z="-3611" heading="20685" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
-			<npc id="21997" x="115455" y="18330" z="-3611" heading="12142" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="115517" y="17890" z="-3611" heading="56659" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21994" x="116004" y="17549" z="-3611" heading="53406" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="116919" y="16967" z="-3611" heading="56590" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
@@ -46,7 +42,6 @@
 			<npc id="21995" x="115448" y="16861" z="-3611" heading="55472" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21999" x="115590" y="16730" z="-3611" heading="27017" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21995" x="114157" y="17357" z="-3611" heading="15552" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21997" x="114015" y="17264" z="-3611" heading="40496" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="113968" y="17685" z="-3611" heading="13615" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="113894" y="18018" z="-3611" heading="40903" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="113889" y="17907" z="-3611" heading="49455" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
@@ -54,18 +49,14 @@
 			<npc id="21998" x="113791" y="17603" z="-3611" heading="55997" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
 			<npc id="21995" x="113678" y="17751" z="-3611" heading="23992" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="113648" y="17867" z="-3611" heading="18982" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
-			<npc id="21995" x="113580" y="17954" z="-3611" heading="38779" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="113602" y="17677" z="-3611" heading="53078" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
-			<npc id="21997" x="113672" y="17424" z="-3611" heading="40521" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="113454" y="17523" z="-3611" heading="28281" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="113321" y="17737" z="-3611" heading="20255" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21994" x="113345" y="17746" z="-3611" heading="48585" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
-			<npc id="21999" x="113345" y="17746" z="-3611" heading="48585" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21998" x="113345" y="17746" z="-3611" heading="48585" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
 			<npc id="21997" x="113285" y="17512" z="-3611" heading="46533" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="112841" y="17054" z="-3611" heading="39183" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="112721" y="16713" z="-3611" heading="50347" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
-			<npc id="21994" x="113028" y="16640" z="-3611" heading="63542" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="113179" y="16824" z="-3611" heading="9222" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="113279" y="17072" z="-3611" heading="12536" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="113434" y="17246" z="-3611" heading="5100" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
@@ -75,7 +66,6 @@
 			<npc id="21995" x="113483" y="16688" z="-3611" heading="35043" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="113216" y="16692" z="-3611" heading="27455" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21994" x="113738" y="16769" z="-3611" heading="3262" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
-			<npc id="21997" x="113827" y="16828" z="-3611" heading="31935" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="113809" y="16770" z="-3611" heading="46063" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21999" x="113634" y="16789" z="-3611" heading="29716" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21998" x="113634" y="16789" z="-3611" heading="29716" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
@@ -89,15 +79,12 @@
 			<npc id="21995" x="113574" y="17133" z="-3611" heading="4793" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="113749" y="17272" z="-3611" heading="7001" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="113801" y="17207" z="-3611" heading="12674" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21997" x="113497" y="17048" z="-3611" heading="40376" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="112789" y="17175" z="-3611" heading="15194" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21999" x="113167" y="17514" z="-3611" heading="6291" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21995" x="113957" y="18134" z="-3611" heading="50424" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21994" x="113997" y="18099" z="-3611" heading="58038" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="113876" y="17826" z="-3611" heading="44804" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21998" x="113848" y="16964" z="-3611" heading="50998" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
 			<npc id="21999" x="114000" y="16975" z="-3611" heading="62287" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
-			<npc id="21994" x="115660" y="16690" z="-3611" heading="44464" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="116226" y="16911" z="-3611" heading="61829" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21999" x="115765" y="17711" z="-3611" heading="25000" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21997" x="115684" y="17624" z="-3611" heading="41332" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
@@ -105,11 +92,9 @@
 			<npc id="21995" x="115214" y="17290" z="-3611" heading="10250" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="115216" y="17208" z="-3611" heading="47258" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="115207" y="15029" z="-3611" heading="43376" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
-			<npc id="21995" x="115220" y="14765" z="-3611" heading="53702" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="115253" y="14528" z="-3611" heading="50632" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21997" x="115566" y="14093" z="-3611" heading="65103" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="115912" y="14241" z="-3611" heading="12034" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21994" x="116198" y="14757" z="-3611" heading="9432" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="116383" y="14990" z="-3611" heading="9342" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21995" x="116581" y="15426" z="-3611" heading="22807" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21995" x="115985" y="15478" z="-3611" heading="33101" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
@@ -125,11 +110,9 @@
 			<npc id="21995" x="115855" y="14983" z="-3611" heading="43783" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="115796" y="14879" z="-3611" heading="43783" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21994" x="115276" y="13949" z="-3611" heading="46304" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
-			<npc id="21997" x="115386" y="14046" z="-3611" heading="8004" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="115610" y="14202" z="-3611" heading="7877" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="116298" y="14493" z="-3611" heading="2401" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="116729" y="15288" z="-3611" heading="10437" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21997" x="116763" y="15408" z="-3611" heading="13504" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="115787" y="15197" z="-3611" heading="41456" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="115743" y="14974" z="-3611" heading="48897" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21994" x="115999" y="14504" z="-3611" heading="56431" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
@@ -140,7 +123,6 @@
 			<npc id="21999" x="115991" y="15436" z="-3611" heading="62257" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21999" x="115372" y="14506" z="-3611" heading="38272" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21999" x="115316" y="14248" z="-3611" heading="51632" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
-			<npc id="21999" x="115751" y="14055" z="-3611" heading="7109" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21998" x="115557" y="15387" z="-3611" heading="20245" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
 			<npc id="21998" x="115267" y="14642" z="-3611" heading="43454" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
 			<npc id="21998" x="116645" y="15117" z="-3611" heading="5042" respawnTime="14sec" respawnRandom="6sec" /> <!-- Archer of Insolence -->
@@ -156,7 +138,6 @@
 			<npc id="21994" x="113822" y="14587" z="-3611" heading="14786" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="113840" y="14942" z="-3611" heading="16897" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="113620" y="15388" z="-3611" heading="24761" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
-			<npc id="21997" x="113131" y="15414" z="-3611" heading="34388" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="113013" y="15396" z="-3611" heading="34388" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="112656" y="15394" z="-3611" heading="32010" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="112421" y="15229" z="-3611" heading="42991" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
@@ -169,15 +150,12 @@
 			<npc id="21994" x="113508" y="14880" z="-3611" heading="31747" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21994" x="113417" y="15164" z="-3611" heading="19578" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="113304" y="15167" z="-3611" heading="37217" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
-			<npc id="21995" x="113116" y="14958" z="-3611" heading="41511" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21997" x="112893" y="15019" z="-3611" heading="29982" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="112730" y="14942" z="-3611" heading="37344" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="113465" y="14545" z="-3611" heading="6854" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21994" x="113712" y="14603" z="-3611" heading="61167" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="113821" y="14554" z="-3611" heading="61167" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="113975" y="14882" z="-3611" heading="9734" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21997" x="114080" y="15024" z="-3611" heading="9734" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
-			<npc id="21995" x="113968" y="15066" z="-3611" heading="29004" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21994" x="113921" y="15084" z="-3611" heading="29004" respawnTime="14sec" respawnRandom="6sec" /> <!-- Crendion -->
 			<npc id="21995" x="113423" y="15314" z="-3611" heading="38506" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="113101" y="15235" z="-3611" heading="38064" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
@@ -221,7 +199,6 @@
 			<npc id="21995" x="114091" y="15911" z="-3611" heading="43547" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="114238" y="15664" z="-3611" heading="47111" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21996" x="114370" y="15707" z="-3611" heading="3284" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
-			<npc id="21999" x="114488" y="15480" z="-3611" heading="46317" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21996" x="114471" y="15486" z="-3611" heading="29229" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
 			<npc id="21995" x="114452" y="15401" z="-3611" heading="46858" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21997" x="114648" y="15288" z="-3611" heading="60081" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
@@ -236,16 +213,13 @@
 			<npc id="21996" x="114945" y="15988" z="-3611" heading="47140" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
 			<npc id="21995" x="114765" y="15954" z="-3611" heading="34118" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21996" x="114661" y="15859" z="-3611" heading="44315" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
-			<npc id="21995" x="114749" y="15887" z="-3611" heading="3213" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21996" x="114800" y="16418" z="-3611" heading="14600" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
 			<npc id="21995" x="114812" y="16483" z="-3611" heading="14600" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21996" x="114802" y="16249" z="-3611" heading="50069" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
 			<npc id="21999" x="114593" y="16306" z="-3611" heading="30128" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21996" x="114602" y="16280" z="-3611" heading="52627" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
-			<npc id="21997" x="114483" y="16267" z="-3611" heading="33825" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21995" x="114307" y="16250" z="-3611" heading="33825" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
 			<npc id="21995" x="114662" y="15708" z="-3611" heading="55244" respawnTime="14sec" respawnRandom="6sec" /> <!-- Swordsman of Ordeal -->
-			<npc id="21997" x="114665" y="15870" z="-3611" heading="16190" respawnTime="14sec" respawnRandom="6sec" /> <!-- Royal Guard of Insolence -->
 			<npc id="21999" x="114567" y="16350" z="-3611" heading="19934" respawnTime="14sec" respawnRandom="6sec" /> <!-- Haughty Judge -->
 			<npc id="21996" x="114413" y="16318" z="-3611" heading="37157" respawnTime="14sec" respawnRandom="6sec" /> <!-- Hound of Destruction -->
 		</group>

@@ -158,7 +158,6 @@
 			<npc id="22005" x="115115" y="15996" z="-647" heading="63791" respawnTime="21sec" respawnRandom="9sec" /> <!-- Hallate's Inspector -->
 			<npc id="22006" x="115142" y="15913" z="-647" heading="52432" respawnTime="21sec" respawnRandom="9sec" /> <!-- Hallate's Knight -->
 			<npc id="22007" x="115224" y="15900" z="-647" heading="63896" respawnTime="21sec" respawnRandom="9sec" /> <!-- Hallate's Commander -->
-			<npc id="22008" x="115252" y="16011" z="-647" heading="13806" respawnTime="21sec" respawnRandom="9sec" /> <!-- Hallate's Maid -->
 			<npc id="22009" x="115153" y="16079" z="-647" heading="26425" respawnTime="21sec" respawnRandom="9sec" /> <!-- Erin Ediunce -->
 			<npc id="22005" x="115153" y="16215" z="-647" heading="9137" respawnTime="21sec" respawnRandom="9sec" /> <!-- Hallate's Inspector -->
 			<npc id="22007" x="115217" y="16106" z="-647" heading="61601" respawnTime="21sec" respawnRandom="9sec" /> <!-- Hallate's Commander -->

@@ -62,7 +62,7 @@
 			<item id="94367,95770" count="1" /> <!-- Master's Book: Clarity -->
 		</skill>
 		<skill skillName="Collect Light Souls" skillId="45151" skillLevel="2" getLevel="76" levelUpSp="8000000">
-			<item id="4347,95498" count="1" /> <!-- Crystal of Light -->
+			<item id="91942,95498" count="1" /> <!-- Crystal of Light -->
 		</skill>
 		<skill skillName="Collect Shadow Souls" skillId="45152" skillLevel="2" getLevel="76" levelUpSp="8000000">
 			<item id="91943,95499" count="1" /> <!-- Crystal of Shadows -->

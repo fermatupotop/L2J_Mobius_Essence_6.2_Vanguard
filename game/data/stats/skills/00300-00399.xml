@@ -3687,6 +3687,7 @@
 		<magicLevel>20</magicLevel>
 		<operateType>A1</operateType>
 		<reuseDelay>5000</reuseDelay>
+		<autoBuffOf>true</autoBuffOf>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
@@ -3721,6 +3722,7 @@
 		<magicLevel>40</magicLevel>
 		<operateType>A1</operateType>
 		<reuseDelay>5000</reuseDelay>
+		<autoBuffOf>true</autoBuffOf>
 		<magicCriticalRate>5</magicCriticalRate>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
@@ -3858,8 +3860,6 @@
 	</skill>
 	<skill id="397" toLevel="2" name="Light Veil">
 		<!-- Uses collected Light Souls to boost your parameters. <Evolved Wings Lv. 1> P. Atk. +130 Atk. Spd. +30 Casting Spd. +40 P. Def. +5% M. Def. +5% Speed +10 With a certain chance, absorbs part of the inflicted damage as MP. -->
-
-
 		<operateType>A2</operateType>
 <magicLevel>85</magicLevel>
 		<isMagic>2</isMagic>

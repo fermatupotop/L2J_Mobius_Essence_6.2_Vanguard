@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="22_18">
+		<group>
+			<npc id="20563" x="88502" y="13151" z="-5288" heading="25335" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88502" y="13151" z="-5288" heading="25335" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88502" y="13151" z="-5288" heading="25335" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88470" y="13409" z="-5288" heading="17671" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88470" y="13409" z="-5288" heading="17671" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88170" y="13548" z="-5288" heading="33568" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88166" y="13441" z="-5288" heading="48762" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88166" y="13441" z="-5288" heading="48762" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88166" y="13441" z="-5288" heading="48762" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88136" y="13310" z="-5288" heading="46803" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="87694" y="13840" z="-5272" heading="24118" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87694" y="13840" z="-5272" heading="24118" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="87825" y="13821" z="-5288" heading="64033" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87825" y="13821" z="-5288" heading="64033" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87821" y="13981" z="-5272" heading="16644" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="87509" y="14093" z="-5272" heading="29173" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="87509" y="14093" z="-5272" heading="29173" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="87290" y="14039" z="-5272" heading="35254" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="87113" y="13989" z="-5264" heading="35922" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="88697" y="12744" z="-5288" heading="60464" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88697" y="12744" z="-5288" heading="60464" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88697" y="12744" z="-5288" heading="60464" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88697" y="12744" z="-5288" heading="60464" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="89084" y="12802" z="-5288" heading="1551" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="88389" y="13733" z="-5289" heading="40016" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88274" y="13638" z="-5288" heading="40016" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88327" y="13656" z="-5288" heading="3584" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88369" y="13672" z="-5288" heading="3584" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88369" y="13672" z="-5288" heading="3584" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88785" y="13870" z="-5288" heading="6297" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88785" y="13870" z="-5288" heading="6297" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88785" y="13870" z="-5288" heading="6297" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88785" y="13870" z="-5288" heading="6297" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88785" y="13870" z="-5288" heading="6297" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88535" y="14249" z="-5256" heading="22466" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88535" y="14249" z="-5256" heading="22466" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88535" y="14249" z="-5256" heading="22466" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88535" y="14249" z="-5256" heading="22466" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="89260" y="13812" z="-5288" heading="53014" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89260" y="13812" z="-5288" heading="53014" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89260" y="13812" z="-5288" heading="53014" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89260" y="13812" z="-5288" heading="53014" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89260" y="13812" z="-5288" heading="53014" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88993" y="14313" z="-5288" heading="19852" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88993" y="14313" z="-5288" heading="19852" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88993" y="14313" z="-5288" heading="19852" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88993" y="14313" z="-5288" heading="19852" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88993" y="14313" z="-5288" heading="19852" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88680" y="14610" z="-5256" heading="22087" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88680" y="14610" z="-5256" heading="22087" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88680" y="14610" z="-5256" heading="22087" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88680" y="14610" z="-5256" heading="22087" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88680" y="14610" z="-5256" heading="22087" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88524" y="14864" z="-5256" heading="20544" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88524" y="14864" z="-5256" heading="20544" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88524" y="14864" z="-5256" heading="20544" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88524" y="14864" z="-5256" heading="20544" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88524" y="14864" z="-5256" heading="20544" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="89476" y="14612" z="-5288" heading="60617" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89476" y="14612" z="-5288" heading="60617" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89476" y="14612" z="-5288" heading="60617" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89476" y="14612" z="-5288" heading="60617" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89476" y="14612" z="-5288" heading="60617" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="89176" y="15087" z="-5259" heading="22252" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="89143" y="15140" z="-5256" heading="22252" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="89143" y="15140" z="-5256" heading="22252" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="89143" y="15140" z="-5256" heading="22252" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="89143" y="15140" z="-5256" heading="22252" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="88905" y="15380" z="-5256" heading="24507" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88787" y="15500" z="-5256" heading="24507" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88689" y="15600" z="-5256" heading="24507" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88689" y="15600" z="-5256" heading="24507" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88689" y="15600" z="-5256" heading="24507" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="88715" y="15311" z="-5256" heading="47583" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88715" y="15311" z="-5256" heading="47583" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88715" y="15311" z="-5256" heading="47583" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88715" y="15311" z="-5256" heading="47583" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88715" y="15311" z="-5256" heading="47583" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="89736" y="15654" z="-5288" heading="2125" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89736" y="15654" z="-5288" heading="2125" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89736" y="15654" z="-5288" heading="2125" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89736" y="15654" z="-5288" heading="2125" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89736" y="15654" z="-5288" heading="2125" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="89405" y="16037" z="-5276" heading="23797" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="89303" y="16157" z="-5272" heading="23797" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="89034" y="16240" z="-5272" heading="29613" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88818" y="16301" z="-5267" heading="30183" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88655" y="16342" z="-5259" heading="30183" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="89223" y="15724" z="-5267" heading="57364" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89388" y="15572" z="-5272" heading="58188" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89518" y="15464" z="-5277" heading="58625" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89747" y="15304" z="-5277" heading="61537" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89955" y="15220" z="-5259" heading="61537" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="90160" y="15172" z="-5260" heading="63546" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="90381" y="15129" z="-5270" heading="63546" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="90511" y="15133" z="-5275" heading="694" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="90730" y="15165" z="-5282" heading="4184" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20566" x="90267" y="14616" z="-5256" heading="43353" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="90267" y="14616" z="-5256" heading="43353" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="90267" y="14616" z="-5256" heading="43353" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="90267" y="14616" z="-5256" heading="43353" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="90267" y="15935" z="-5276" heading="13828" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="90307" y="16098" z="-5279" heading="13828" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="90338" y="16263" z="-5281" heading="15769" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="90344" y="16431" z="-5281" heading="16356" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="90344" y="16600" z="-5282" heading="16356" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="89921" y="16379" z="-5288" heading="39874" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="89831" y="16312" z="-5288" heading="38969" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="89635" y="16199" z="-5288" heading="37949" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="89511" y="16132" z="-5288" heading="37949" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="89511" y="16132" z="-5288" heading="37949" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89208" y="16451" z="-5280" heading="21338" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89100" y="16581" z="-5276" heading="23592" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88965" y="16678" z="-5271" heading="27745" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88865" y="16730" z="-5266" heading="27745" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88606" y="16841" z="-5260" heading="29237" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88447" y="16897" z="-5258" heading="29237" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88233" y="16967" z="-5257" heading="29643" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88071" y="17016" z="-5257" heading="29643" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87964" y="17050" z="-5257" heading="29643" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="87957" y="16486" z="-5256" heading="55480" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88053" y="16348" z="-5256" heading="51282" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88093" y="16126" z="-5256" heading="50298" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88105" y="16014" z="-5256" heading="49529" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88110" y="15788" z="-5256" heading="49068" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="89609" y="16662" z="-5277" heading="14502" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89662" y="16817" z="-5275" heading="9800" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89761" y="16953" z="-5274" heading="9800" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89834" y="17038" z="-5273" heading="8191" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89954" y="17158" z="-5273" heading="8191" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="90072" y="17276" z="-5272" heading="8191" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="90081" y="17331" z="-5269" heading="14575" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="90120" y="17550" z="-5256" heading="14575" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="90009" y="17530" z="-5258" heading="34551" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89787" y="17492" z="-5263" heading="34551" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20563" x="89473" y="17384" z="-5277" heading="37912" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89332" y="17292" z="-5282" heading="40433" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89165" y="17141" z="-5285" heading="40433" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20567" x="88957" y="17031" z="-5281" heading="36788" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88801" y="16968" z="-5274" heading="36788" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88643" y="17070" z="-5263" heading="24698" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88490" y="17260" z="-5256" heading="22027" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88408" y="17397" z="-5256" heading="22027" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88538" y="17580" z="-5261" heading="10217" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88631" y="17719" z="-5270" heading="10217" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88725" y="17859" z="-5280" heading="10217" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20563" x="88883" y="17972" z="-5283" heading="3418" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89096" y="18044" z="-5273" heading="3418" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89305" y="18127" z="-5273" heading="3961" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89459" y="18193" z="-5272" heading="4362" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89614" y="18262" z="-5272" heading="4362" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="89896" y="18441" z="-5272" heading="6185" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89936" y="18468" z="-5272" heading="6185" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89964" y="18576" z="-5275" heading="13718" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="90021" y="18794" z="-5284" heading="13718" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89896" y="19024" z="-5288" heading="23284" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="89630" y="19013" z="-5288" heading="37800" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="89480" y="18935" z="-5288" heading="37800" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="89324" y="18777" z="-5288" heading="42090" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="89183" y="18601" z="-5288" heading="42090" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89004" y="18466" z="-5288" heading="38675" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88909" y="18405" z="-5288" heading="38675" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88746" y="18302" z="-5288" heading="38675" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88483" y="18137" z="-5272" heading="38612" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88483" y="18137" z="-5272" heading="38612" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88483" y="18137" z="-5272" heading="38612" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88483" y="18137" z="-5272" heading="38612" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="88912" y="18110" z="-5279" heading="60811" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="89064" y="18036" z="-5274" heading="60135" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20564" x="89333" y="17838" z="-5275" heading="56495" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89442" y="17709" z="-5274" heading="56495" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20563" x="89552" y="17580" z="-5272" heading="56495" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="89129" y="19201" z="-5283" heading="10878" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89244" y="19394" z="-5275" heading="10704" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89359" y="19585" z="-5264" heading="10791" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89471" y="19779" z="-5247" heading="11241" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89577" y="19976" z="-5225" heading="11241" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="89226" y="19708" z="-5251" heading="39964" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="89097" y="19600" z="-5261" heading="40123" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88925" y="19454" z="-5265" heading="40123" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88728" y="19267" z="-5274" heading="41443" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88615" y="19141" z="-5278" heading="41691" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88504" y="19014" z="-5281" heading="41358" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88389" y="18890" z="-5281" heading="41358" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88274" y="18766" z="-5283" heading="41358" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88202" y="18688" z="-5288" heading="41358" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88047" y="18621" z="-5276" heading="36984" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87894" y="18547" z="-5267" heading="38428" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="87752" y="18455" z="-5263" heading="39430" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20565" x="87500" y="18367" z="-5256" heading="11673" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87637" y="18610" z="-5260" heading="9207" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87779" y="18783" z="-5263" heading="9336" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="87884" y="18915" z="-5263" heading="9257" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87990" y="19045" z="-5260" heading="9257" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88174" y="19258" z="-5258" heading="8894" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88281" y="19387" z="-5254" heading="9325" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88422" y="19563" z="-5246" heading="9325" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="88570" y="19730" z="-5237" heading="8273" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88768" y="19930" z="-5227" heading="8273" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88841" y="20014" z="-5220" heading="8892" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88969" y="20160" z="-5208" heading="8892" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="89113" y="20332" z="-5197" heading="9137" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="89184" y="20418" z="-5192" heading="9137" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="88743" y="20320" z="-5199" heading="34691" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88577" y="20289" z="-5205" heading="36340" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88418" y="20229" z="-5208" heading="36830" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88316" y="20182" z="-5211" heading="38383" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88171" y="20095" z="-5216" heading="38383" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="88032" y="19998" z="-5225" heading="39519" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="87898" y="19896" z="-5237" heading="39519" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87769" y="19786" z="-5247" heading="40472" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87645" y="19673" z="-5259" heading="41248" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20563" x="87490" y="19509" z="-5269" heading="41048" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87371" y="19388" z="-5269" heading="41048" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="87257" y="19262" z="-5265" heading="41497" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87144" y="19137" z="-5260" heading="39367" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87007" y="19037" z="-5258" heading="37255" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="86909" y="19296" z="-5264" heading="15215" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86928" y="19464" z="-5261" heading="15215" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="87027" y="19647" z="-5259" heading="7214" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="87157" y="19755" z="-5259" heading="14844" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="87333" y="19959" z="-5259" heading="7580" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87530" y="20033" z="-5256" heading="7205" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="87690" y="20307" z="-5247" heading="14493" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87786" y="20434" z="-5243" heading="65256" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="87954" y="20427" z="-5240" heading="65109" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88044" y="20493" z="-5236" heading="6650" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88180" y="20594" z="-5231" heading="6650" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="88552" y="20446" z="-5212" heading="58271" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88665" y="20558" z="-5206" heading="12836" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88740" y="20770" z="-5198" heading="12836" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88797" y="20929" z="-5192" heading="12836" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="88789" y="21032" z="-5188" heading="21293" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="88470" y="21177" z="-5169" heading="35042" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88250" y="21128" z="-5169" heading="35042" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88028" y="21091" z="-5170" heading="33947" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="87901" y="20996" z="-5173" heading="34085" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="87622" y="20960" z="-5180" heading="34085" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87317" y="20647" z="-5196" heading="42030" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="87211" y="20516" z="-5202" heading="41940" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87297" y="20356" z="-5212" heading="57627" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87222" y="20023" z="-5224" heading="41433" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="87048" y="19975" z="-5230" heading="33231" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86824" y="19965" z="-5238" heading="33231" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86655" y="19958" z="-5245" heading="33231" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="86499" y="19818" z="-5248" heading="42563" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="86399" y="19682" z="-5248" heading="42563" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="86349" y="19479" z="-5248" heading="50694" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="86382" y="19256" z="-5248" heading="50694" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86118" y="19124" z="-5244" heading="33539" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20567" x="86501" y="20694" z="-5243" heading="65086" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86534" y="20598" z="-5243" heading="48022" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86510" y="20374" z="-5243" heading="48022" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86486" y="20150" z="-5243" heading="47075" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="86413" y="20012" z="-5243" heading="37837" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="86336" y="19876" z="-5243" heading="46656" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="86322" y="19821" z="-5243" heading="30486" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="86157" y="19857" z="-5243" heading="30486" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="85882" y="19918" z="-5243" heading="30486" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="85847" y="19962" z="-5243" heading="23214" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="85744" y="20096" z="-5243" heading="23214" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="85676" y="20185" z="-5243" heading="15624" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="85692" y="20409" z="-5243" heading="15624" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="85869" y="20608" z="-5243" heading="7178" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="86000" y="20715" z="-5245" heading="7178" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="86018" y="20825" z="-5245" heading="6878" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="86151" y="20928" z="-5245" heading="6878" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86418" y="21135" z="-5246" heading="6878" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86510" y="21199" z="-5246" heading="6351" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86621" y="21187" z="-5247" heading="64447" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="86733" y="21175" z="-5247" heading="64447" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="86865" y="21321" z="-5247" heading="12374" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86956" y="21453" z="-5247" heading="5240" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="87104" y="21534" z="-5247" heading="5240" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="87351" y="21670" z="-5247" heading="63000" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="87460" y="21642" z="-5247" heading="63000" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="86369" y="21079" z="-5271" heading="32500" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86200" y="21083" z="-5271" heading="38580" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86056" y="20993" z="-5271" heading="38580" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86015" y="20888" z="-5271" heading="45295" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="85974" y="20783" z="-5271" heading="33772" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="85816" y="20737" z="-5271" heading="45891" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20566" x="85408" y="20285" z="-5269" heading="41843" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="85242" y="20153" z="-5265" heading="33127" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="85130" y="20149" z="-5263" heading="33127" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="84976" y="20184" z="-5260" heading="24696" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="84929" y="20362" z="-5258" heading="9081" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="85074" y="20534" z="-5258" heading="9081" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="85146" y="20620" z="-5258" heading="9081" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="85216" y="20762" z="-5258" heading="16808" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="85432" y="21013" z="-5258" heading="1101" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="85600" y="21031" z="-5258" heading="1101" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="85653" y="21093" z="-5258" heading="16787" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="85647" y="21262" z="-5258" heading="24905" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="85875" y="21290" z="-5258" heading="1023" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="85252" y="21304" z="-5258" heading="33173" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="85118" y="21219" z="-5258" heading="41402" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="85004" y="21094" z="-5258" heading="41402" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="84890" y="20970" z="-5258" heading="41402" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="84776" y="20844" z="-5258" heading="41470" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="84625" y="20677" z="-5258" heading="41470" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="84549" y="20594" z="-5258" heading="41470" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="84514" y="20439" z="-5258" heading="49478" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="84519" y="20270" z="-5258" heading="49478" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="84525" y="20101" z="-5258" heading="49478" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="84535" y="19820" z="-5258" heading="49613" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="84542" y="19651" z="-5258" heading="49613" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="84550" y="19482" z="-5258" heading="49613" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="84558" y="19313" z="-5257" heading="41434" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="84425" y="19226" z="-5254" heading="33267" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="84156" y="19407" z="-5248" heading="25331" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="84070" y="19480" z="-5246" heading="25331" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="84018" y="19629" z="-5245" heading="17232" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="84009" y="19741" z="-5245" heading="17232" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="83995" y="19909" z="-5245" heading="17232" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="83812" y="20227" z="-5245" heading="17158" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="83800" y="20395" z="-5245" heading="17158" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="83791" y="20507" z="-5245" heading="17158" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="83787" y="20563" z="-5245" heading="17158" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="83943" y="20747" z="-5246" heading="974" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="83647" y="21536" z="-5259" heading="40881" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="83567" y="21457" z="-5257" heading="40881" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="83487" y="21378" z="-5255" heading="40881" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="83407" y="21299" z="-5253" heading="44085" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="83407" y="21299" z="-5253" heading="24534" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="83481" y="21032" z="-5241" heading="51680" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="83522" y="20868" z="-5238" heading="51680" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="83470" y="20722" z="-5237" heading="42736" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="83372" y="20584" z="-5237" heading="42736" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="83311" y="20435" z="-5236" heading="49952" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="83281" y="20333" z="-5236" heading="49528" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="83287" y="20164" z="-5236" heading="49528" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="83293" y="19995" z="-5238" heading="49528" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="83297" y="19883" z="-5240" heading="49528" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="83300" y="19769" z="-5241" heading="49512" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="83308" y="19544" z="-5241" heading="49512" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="83312" y="19432" z="-5241" heading="49512" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="83318" y="19263" z="-5243" heading="49519" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="83323" y="19094" z="-5243" heading="42604" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="83201" y="18989" z="-5243" heading="35060" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="82981" y="18940" z="-5243" heading="35060" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="82826" y="18949" z="-5243" heading="26013" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="82736" y="19017" z="-5243" heading="26013" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="82601" y="19119" z="-5243" heading="26013" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="82466" y="19221" z="-5243" heading="26013" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="82291" y="19361" z="-5245" heading="25611" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="82204" y="19433" z="-5245" heading="25611" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="82073" y="19540" z="-5249" heading="25611" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="81987" y="19612" z="-5250" heading="25255" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="81903" y="19686" z="-5251" heading="25255" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="82136" y="20527" z="-5251" heading="20237" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="82120" y="20682" z="-5252" heading="3088" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="82281" y="20731" z="-5252" heading="3088" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="82443" y="20780" z="-5252" heading="59950" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="82632" y="20370" z="-5253" heading="43926" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="82611" y="20163" z="-5253" heading="52257" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="82644" y="20055" z="-5253" heading="52257" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20565" x="82710" y="19840" z="-5254" heading="52257" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="82759" y="19678" z="-5254" heading="52332" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="82810" y="19517" z="-5254" heading="52332" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="83044" y="19305" z="-5254" heading="60567" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="83194" y="19228" z="-5254" heading="60567" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="83294" y="19176" z="-5254" heading="60567" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="83283" y="19072" z="-5254" heading="44062" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20567" x="83094" y="20210" z="-5254" heading="19735" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="83059" y="20317" z="-5255" heading="19735" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="83005" y="20477" z="-5256" heading="17418" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="82938" y="20736" z="-5256" heading="25570" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20564" x="82801" y="20956" z="-5255" heading="17004" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="82791" y="21124" z="-5255" heading="17004" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="82742" y="21275" z="-5254" heading="24955" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="82577" y="21428" z="-5252" heading="24955" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="81959" y="20434" z="-5268" heading="63046" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="81808" y="20222" z="-5268" heading="37530" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="81606" y="20123" z="-5268" heading="37530" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="81455" y="20048" z="-5268" heading="45867" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="81402" y="19887" z="-5268" heading="45867" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="81332" y="19673" z="-5268" heading="45867" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="81280" y="19512" z="-5268" heading="45940" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="81287" y="19407" z="-5268" heading="53846" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="81488" y="19241" z="-5268" heading="53390" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="81638" y="19098" z="-5268" heading="61770" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="81796" y="19038" z="-5268" heading="53895" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="81845" y="18936" z="-5268" heading="53895" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="81894" y="18835" z="-5268" heading="53895" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="81944" y="18734" z="-5268" heading="53895" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="82176" y="18522" z="-5268" heading="61804" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="82334" y="18463" z="-5268" heading="61804" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="82438" y="18466" z="-5267" heading="4407" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="82541" y="18512" z="-5265" heading="4407" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="82746" y="18604" z="-5261" heading="4407" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20565" x="82857" y="18378" z="-5253" heading="38890" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="82716" y="18285" z="-5250" heading="38890" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="82529" y="18160" z="-5246" heading="38890" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20564" x="82288" y="18014" z="-5246" heading="38436" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="82125" y="18060" z="-5246" heading="29850" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="81937" y="18157" z="-5246" heading="21189" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="81837" y="18359" z="-5247" heading="21189" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="81762" y="18510" z="-5247" heading="21189" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="81603" y="18641" z="-5247" heading="29867" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="81338" y="18887" z="-5247" heading="21273" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="81262" y="19038" z="-5248" heading="21273" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="81211" y="19138" z="-5248" heading="21273" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="81160" y="19239" z="-5248" heading="21273" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="81036" y="19234" z="-5249" heading="38083" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="80245" y="19602" z="-5239" heading="5802" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="80436" y="19721" z="-5230" heading="5802" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="80744" y="19948" z="-5230" heading="6741" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="80831" y="20072" z="-5233" heading="16782" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="80825" y="20240" z="-5236" heading="16782" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="81077" y="20679" z="-5248" heading="6684" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="81167" y="20746" z="-5250" heading="6684" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="81257" y="20814" z="-5253" heading="6684" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="81347" y="20881" z="-5257" heading="6684" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="81437" y="20948" z="-5263" heading="6709" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="81735" y="21004" z="-5263" heading="6792" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="81869" y="21106" z="-5263" heading="6792" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="81958" y="21174" z="-5263" heading="6792" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="82048" y="21242" z="-5263" heading="6792" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="82137" y="21311" z="-5263" heading="6728" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="88316" y="12320" z="-5242" heading="41634" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88117" y="12327" z="-5241" heading="29686" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="87955" y="12376" z="-5241" heading="29686" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="87794" y="12425" z="-5240" heading="29686" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="87686" y="12459" z="-5241" heading="29218" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="87527" y="12516" z="-5245" heading="29218" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87368" y="12572" z="-5248" heading="29218" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="87262" y="12610" z="-5250" heading="29218" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87157" y="12649" z="-5252" heading="28623" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87053" y="12693" z="-5252" heading="28623" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="86887" y="12813" z="-5252" heading="18073" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86860" y="12980" z="-5252" heading="18073" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86824" y="13202" z="-5253" heading="18073" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86806" y="13313" z="-5253" heading="19552" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="86772" y="13420" z="-5251" heading="19552" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="86654" y="13796" z="-5247" heading="29872" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="86545" y="13826" z="-5247" heading="29872" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="86437" y="13857" z="-5246" heading="38201" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="86339" y="13800" z="-5245" heading="38201" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="86144" y="13688" z="-5243" heading="38201" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="86314" y="13176" z="-5251" heading="43159" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86278" y="12914" z="-5248" heading="50804" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86305" y="12747" z="-5248" heading="58833" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86440" y="12645" z="-5248" heading="58833" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="86530" y="12578" z="-5248" heading="51024" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="86640" y="12399" z="-5248" heading="58845" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="86740" y="12372" z="-5248" heading="1407" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="86888" y="12315" z="-5249" heading="59186" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="87026" y="12219" z="-5249" heading="59186" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87119" y="12154" z="-5249" heading="59186" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="87257" y="12058" z="-5249" heading="59238" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="87368" y="12071" z="-5249" heading="1210" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="87424" y="12077" z="-5249" heading="59522" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="87518" y="12015" z="-5249" heading="59522" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="87612" y="11954" z="-5249" heading="59522" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="87801" y="11831" z="-5249" heading="59522" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="87941" y="11738" z="-5249" heading="59425" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88035" y="11676" z="-5248" heading="59425" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88129" y="11614" z="-5247" heading="59425" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="88270" y="11520" z="-5245" heading="59425" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="88736" y="11205" z="-5245" heading="59343" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="88830" y="11142" z="-5245" heading="59343" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="88970" y="11048" z="-5245" heading="59343" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="88599" y="11627" z="-5251" heading="12727" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="88621" y="11768" z="-5256" heading="18154" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="88583" y="11990" z="-5256" heading="18154" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20563" x="88565" y="12098" z="-5256" heading="18154" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="89028" y="11652" z="-5243" heading="56575" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="89138" y="11524" z="-5240" heading="56575" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="89175" y="11482" z="-5239" heading="56575" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="89285" y="11354" z="-5236" heading="56575" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="87719" y="11124" z="-5244" heading="48441" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="87707" y="10955" z="-5244" heading="39226" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="87615" y="10889" z="-5244" heading="39226" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="87512" y="10935" z="-5244" heading="28302" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="87410" y="10982" z="-5244" heading="38845" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="87123" y="10852" z="-5244" heading="27831" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="86973" y="10929" z="-5244" heading="27831" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="86873" y="10980" z="-5244" heading="27831" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="86773" y="11032" z="-5244" heading="27831" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="86723" y="11057" z="-5244" heading="28120" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="86367" y="10935" z="-5243" heading="27633" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86317" y="10961" z="-5243" heading="19115" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86273" y="11124" z="-5243" heading="19115" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86244" y="11232" z="-5243" heading="19115" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="86214" y="11341" z="-5243" heading="19115" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="86120" y="12370" z="-5273" heading="60660" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86220" y="12319" z="-5271" heading="60660" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86371" y="12243" z="-5268" heading="60660" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="86472" y="12193" z="-5266" heading="60660" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="86522" y="12167" z="-5265" heading="56835" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20567" x="86487" y="11774" z="-5256" heading="43558" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="86375" y="11759" z="-5254" heading="23654" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="86076" y="11835" z="-5252" heading="33185" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="85927" y="11873" z="-5252" heading="23819" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="85853" y="11958" z="-5252" heading="23819" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="85763" y="12310" z="-5252" heading="32127" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="85594" y="12320" z="-5252" heading="32127" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="85425" y="12330" z="-5252" heading="32127" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="85369" y="12334" z="-5252" heading="39892" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="85288" y="12018" z="-5252" heading="55996" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="85562" y="11661" z="-5252" heading="55996" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="85597" y="11616" z="-5252" heading="56381" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="85668" y="11529" z="-5252" heading="56381" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="85740" y="11442" z="-5252" heading="56381" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="85812" y="11356" z="-5252" heading="56381" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="85959" y="11390" z="-5252" heading="13918" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="85972" y="11444" z="-5252" heading="41429" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="85668" y="11111" z="-5252" heading="41429" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="85592" y="11028" z="-5252" heading="32970" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="85479" y="11025" z="-5252" heading="32970" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="85339" y="11219" z="-5252" heading="32195" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="85298" y="11258" z="-5252" heading="24762" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="85217" y="11336" z="-5252" heading="24762" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="85211" y="11392" z="-5252" heading="17424" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="85200" y="11504" z="-5252" heading="17424" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="85068" y="11796" z="-5252" heading="24113" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="85030" y="11838" z="-5252" heading="17289" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="85020" y="11950" z="-5252" heading="17289" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="84978" y="12048" z="-5252" heading="23720" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="84905" y="12134" z="-5252" heading="23720" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20567" x="84751" y="12418" z="-5250" heading="17160" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+			<npc id="20566" x="84743" y="12530" z="-5248" heading="17160" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20565" x="84734" y="12642" z="-5246" heading="17160" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20564" x="84726" y="12755" z="-5245" heading="17160" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20563" x="84722" y="12811" z="-5245" heading="16351" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20563" x="84623" y="13002" z="-5244" heading="15856" respawnTime="15sec" /> <!-- Manashen Gargoyle -->
+			<npc id="20564" x="84629" y="13114" z="-5243" heading="23060" respawnTime="15sec" /> <!-- Reinforced Monster Eye -->
+			<npc id="20565" x="84595" y="13159" z="-5243" heading="23060" respawnTime="15sec" /> <!-- Reinforced Stone Golem -->
+			<npc id="20566" x="84494" y="13294" z="-5243" heading="23060" respawnTime="15sec" /> <!-- Reinforced Steel Golem -->
+			<npc id="20567" x="84427" y="13384" z="-5243" heading="23060" respawnTime="15sec" /> <!-- Reinforced Gargoyle -->
+		</group>
+	</spawn>
+</list>

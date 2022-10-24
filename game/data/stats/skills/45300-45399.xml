@@ -1647,15 +1647,15 @@
 			</effect>
 		</selfEffects>
 	</skill>
-	<skill id="45320" toLevel="3" name="Hailstorm">
+<skill id="45320" toLevel="3" name="Hailstorm">
 		<!-- Deals continuous damage. -->
-		<abnormalTime>7</abnormalTime>
+		<abnormalTime>1</abnormalTime>
 		<activateRate>-1</activateRate>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<magicLevel>80</magicLevel>
 		<operateType>A2</operateType>
 		<isDebuff>true</isDebuff>
-		<abnormalType>DOT_ATTR</abnormalType>
+		<abnormalType>MULTI_DEBUFF</abnormalType>
 		<basicProperty>PHYSICAL</basicProperty>
 		<magicCriticalRate>-5</magicCriticalRate>
 		<abnormalLevel>3</abnormalLevel>
@@ -1663,13 +1663,15 @@
 		<targetType>ENEMY_ONLY</targetType>
 		<affectScope>SINGLE</affectScope>
 		<effects>
-			<effect name="DamOverTime">
+			<effect name="PhysicalAttack">
 				<power>
-					<value level="1">8606</value>
-					<value level="2">10165</value>
-					<value level="3">12508</value>
+					<value level="1">10606</value>
+					<value level="2">13165</value>
+					<value level="3">16508</value>
 				</power>
-				<ticks>2</ticks>
+				<criticalChance>15</criticalChance>
+				<ignoreShieldDefence>true</ignoreShieldDefence>
+				<pDefMod>0.7</pDefMod>
 			</effect>
 		</effects>
 	</skill>

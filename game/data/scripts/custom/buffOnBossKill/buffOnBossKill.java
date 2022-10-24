@@ -18,7 +18,7 @@ public class buffOnBossKill extends AbstractNpcAI
 {
 	private static final int[] RAID_BOSSES =
 	{
-		// 65
+		// 65 (75)
 		25102, // Shacram
 		25122, // Refugee Applicant Leo
 		25226, // Roaring Lord Kastor
@@ -26,7 +26,7 @@ public class buffOnBossKill extends AbstractNpcAI
 		25749, // Tayga Feron King
 		25750, // Tayga Marga Shaman
 		25751, // Tayga Septon Champion
-		// 70
+		// 70 (80)
 		25004, // Turek Mercenary Captain
 		25230, // Priest Ragoth
 		25256, // High Prefect Arak

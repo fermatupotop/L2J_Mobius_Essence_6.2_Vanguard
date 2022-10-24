@@ -81,7 +81,7 @@
 		<icon>icon.skillraid</icon>
 		<operateType>P</operateType>
 	</skill>
-	<skill id="50010" toLevel="5" name="Greater Hold Resistance">
+	<skill id="50010" toLevel="8" name="Greater Hold Resistance">
 		<!-- Very resistant to Hold. -->
 		<icon>icon.skill4288</icon>
 		<operateType>P</operateType>

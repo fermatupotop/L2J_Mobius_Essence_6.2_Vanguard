@@ -2103,21 +2103,21 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>1</chance>
+				<chance>90</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50269</skillId>
+				<skillId>48255</skillId>
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>1</chance>
+				<chance>90</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50269</skillId>
+				<skillId>48255</skillId>
 				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
@@ -3613,6 +3613,7 @@
 			</effect>
 		</effects>
 	</skill>
+		
 	<skill id="50295" toLevel="1" name="Baium's Thunder Breaker">
 		<!-- A dagger containing Baium's Soul. Allows to use Baium's power. <Level Bonus Effect> P./ M. Atk. are increased depending on level. <Lv. 60-69> P. Atk. +3-5 M. Atk. +2-3 <Lv. 70-79> P. Atk. +8 M. Atk. +5 <Lv. 80-89> P. Atk. +13-50 M. Atk. +8-51 <Lv. 90+> P. Atk. +56 and higher M. Atk. +34 and higher -->
 		<icon>icon.weapon_terakan_i00</icon>
@@ -3631,21 +3632,25 @@
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
-				<targetType>SELF</targetType>
+				<chance>90</chance>
+				<targetType>ENEMY</targetType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50453</skillId> <!-- Baium Power -->
+				<skillId>48255</skillId> <!-- Baium Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByAttack">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>10</chance>
-				<targetType>SELF</targetType>
+				<chance>90</chance>
+				<targetType>ENEMY</targetType>
+				<allowSkillAttack>true</allowSkillAttack>
+				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50453</skillId> <!-- Baium Power -->
+				<skillId>48255</skillId> <!-- Baium Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
@@ -3664,7 +3669,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50451</skillId> <!-- Queen Ant Power -->
+				<skillId>48254</skillId> <!-- Queen Ant Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByAttack">
@@ -3676,7 +3681,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50451</skillId> <!-- Queen Ant Power -->
+				<skillId>48254</skillId> <!-- Queen Ant Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
@@ -3695,7 +3700,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50455</skillId> <!-- Zaken Power -->
+				<skillId>48256</skillId> <!-- Zaken Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByAttack">
@@ -3707,7 +3712,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50455</skillId> <!-- Zaken Power -->
+				<skillId>48256</skillId> <!-- Zaken Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
@@ -3726,7 +3731,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50454</skillId> <!-- Orfen Power -->
+				<skillId>48257</skillId> <!-- Orfen Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByAttack">
@@ -3738,7 +3743,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50454</skillId> <!-- Orfen Power -->
+				<skillId>48257</skillId> <!-- Orfen Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
@@ -3757,7 +3762,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50452</skillId> <!-- Core Power -->
+				<skillId>48258</skillId> <!-- Core Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByAttack">
@@ -3769,7 +3774,7 @@
 				<allowNormalAttack>true</allowNormalAttack>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
-				<skillId>50452</skillId> <!-- Core Power -->
+				<skillId>48258</skillId> <!-- Core Power -->
 				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>

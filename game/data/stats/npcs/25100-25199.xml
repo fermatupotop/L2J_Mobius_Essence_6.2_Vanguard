@@ -74,7 +74,7 @@
 			<height normal="35" grown="43" />
 		</collision>
 	</npc>
-	<npc id="25102" level="65" type="RaidBoss" name="Shacram" title="Elite">
+	<npc id="25102" level="75" type="RaidBoss" name="Shacram" title="Elite">
 		<parameters>
 			<param name="RaidSpawnMusic" value="Rm01_A" />
 			<skill name="SelfRangePhysicalSpecial_a" id="4172" level="5" />
@@ -83,20 +83,20 @@
 		<sex>MALE</sex>
 		<equipment rhand="2499" /> <!-- Great Axe -->
 		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="51615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
-			<attack physical="710.8508484" magical="551.612985" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
-			<defence physical="1631.34198" magical="795.84" />
+			<vitals hp="64816.3054176643" hpRegen="1" mp="3015.6" mpRegen="6" />
+			<attack physical="1809.34202064" magical="981.225735" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1915.47738" magical="934.44" />
 			<speed>
-				<walk ground="40" />
-				<run ground="170" />
+				<walk ground="50" />
+				<run ground="175" />
 			</speed>
-			<hitTime>590</hitTime>
+			<hitTime>600</hitTime>
 			<abnormalResist physical="230" magical="230" />
 		</stats>
 		<status attackable="true" />
 		<skillList>
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
-			<skill id="4827" level="1" /> <!-- Raid Boss (Lv. 65) -->
+			<skill id="4826" level="1" /> <!-- Raid Boss (Lv. 75) -->
 			<skill id="4416" level="11" /> <!-- Giants -->
 			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 			<skill id="4172" level="5" /> <!-- Stun -->
@@ -109,12 +109,26 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="951" min="1" max="1" chance="2.4" /> <!-- Scroll: Enchant C-grade Weapon -->
-				<item id="952" min="1" max="1" chance="9.6" /> <!-- Scroll: Enchant C-grade Armor -->
-				<item id="91035" min="2" max="4" chance="50" /> <!-- Water Spirit Ore -->
-				<item id="93002" min="1" max="1" chance="100" /> <!-- Sayha's Blessing Pouch - Sealed -->
-				<item id="93003" min="1" max="3" chance="80" /> <!-- Sayha's Grace - Sealed -->
-				<item id="90045" min="1" max="2" chance="50" /> <!-- Magical Tablet -->
+				<item id="5287" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5288" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5289" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5290" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5291" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5292" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5293" min="1" max="1" chance="15" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5294" min="1" max="1" chance="15" /> <!-- Sealed Tallum Helmet -->
+				<item id="5295" min="1" max="1" chance="15" /> <!-- Sealed Tallum Gloves -->
+				<item id="5296" min="1" max="1" chance="15" /> <!-- Sealed Tallum Boots -->
+				<item id="5297" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5298" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5301" min="1" max="1" chance="15" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5304" min="1" max="1" chance="15" /> <!-- Sealed Tallum Tunic -->
+				<item id="5305" min="1" max="1" chance="15" /> <!-- Sealed Tallum Stockings -->
+				<item id="5308" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5311" min="1" max="1" chance="15" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5312" min="1" max="1" chance="15" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5313" min="1" max="1" chance="15" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="90045" min="1" max="2" chance="100" /> <!-- Magical Tablet -->
 
 			</drop>
 		</dropLists>
@@ -1052,7 +1066,7 @@
 			<height normal="25" />
 		</collision>
 	</npc>
-	<npc id="25122" level="65" type="RaidBoss" name="Refugee Applicant Leo" title="Elite">
+	<npc id="25122" level="75" type="RaidBoss" name="Refugee Applicant Leo" title="Elite">
 		<parameters>
 			<param name="RaidSpawnMusic" value="Rm02_A" />
 			<skill name="SelfRangeDebuff_a" id="4183" level="5" />
@@ -1060,21 +1074,21 @@
 		<race>HUMANOID</race>
 		<sex>MALE</sex>
 		<equipment rhand="201" /> <!-- Club of Nature -->
-		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
-			<vitals hp="51615.0752740999" hpRegen="1" mp="2377.6" mpRegen="5.4" />
-			<attack physical="710.8508484" magical="551.612985" random="20" critical="1" accuracy="9" attackSpeed="253" type="BLUNT" range="40" distance="80" width="120" />
-			<defence physical="1631.34198" magical="795.84" />
+	<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="64816.3054176643" hpRegen="1" mp="3015.6" mpRegen="6" />
+			<attack physical="1809.34202064" magical="981.225735" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="1915.47738" magical="934.44" />
 			<speed>
-				<walk ground="70" />
-				<run ground="170" />
+				<walk ground="50" />
+				<run ground="175" />
 			</speed>
-			<hitTime>260</hitTime>
+			<hitTime>600</hitTime>
 			<abnormalResist physical="230" magical="230" />
 		</stats>
 		<status attackable="true" />
 		<skillList>
 			<skill id="4494" level="1" /> <!-- Raid Boss -->
-			<skill id="4835" level="1" /> <!-- Raid Boss (Lv. 65) -->
+			<skill id="4836" level="1" /> <!-- Raid Boss (Lv. 75) -->
 			<skill id="4416" level="6" /> <!-- Humanoids -->
 			<skill id="4045" level="1" /> <!-- Full Magic Attack Resistance -->
 			<skill id="4183" level="5" /> <!-- Decrease P. Atk. -->
@@ -1087,13 +1101,26 @@
 		</collision>
 		<dropLists>
 			<drop>
-				<item id="951" min="1" max="1" chance="2.4" /> <!-- Scroll: Enchant C-grade Weapon -->
-				<item id="952" min="1" max="1" chance="9.6" /> <!-- Scroll: Enchant C-grade Armor -->
-				<item id="91036" min="2" max="4" chance="50" /> <!-- Fire Spirit Ore -->
-				<item id="93002" min="1" max="1" chance="100" /> <!-- Sayha's Blessing Pouch - Sealed -->
-				<item id="93003" min="1" max="3" chance="80" /> <!-- Sayha's Grace - Sealed -->
-				<item id="90045" min="1" max="2" chance="50" /> <!-- Magical Tablet -->
-
+				<item id="5287" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Breastplate -->
+				<item id="5288" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Gaiters -->
+				<item id="5289" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Helmet -->
+				<item id="5290" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Gloves -->
+				<item id="5291" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Boots -->
+				<item id="5292" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Shield -->
+				<item id="5293" min="1" max="1" chance="15" /> <!-- Sealed Tallum Plate Armor -->
+				<item id="5294" min="1" max="1" chance="15" /> <!-- Sealed Tallum Helmet -->
+				<item id="5295" min="1" max="1" chance="15" /> <!-- Sealed Tallum Gloves -->
+				<item id="5296" min="1" max="1" chance="15" /> <!-- Sealed Tallum Boots -->
+				<item id="5297" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Leather Armor -->
+				<item id="5298" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Leggings -->
+				<item id="5301" min="1" max="1" chance="15" /> <!-- Sealed Tallum Leather Armor -->
+				<item id="5304" min="1" max="1" chance="15" /> <!-- Sealed Tallum Tunic -->
+				<item id="5305" min="1" max="1" chance="15" /> <!-- Sealed Tallum Stockings -->
+				<item id="5308" min="1" max="1" chance="15" /> <!-- Sealed Dark Crystal Robe -->
+				<item id="5311" min="1" max="1" chance="15" /> <!-- Sealed Armor of Nightmare -->
+				<item id="5312" min="1" max="1" chance="15" /> <!-- Sealed Helm of Nightmare -->
+				<item id="5313" min="1" max="1" chance="15" /> <!-- Sealed Gauntlets of Nightmare -->
+				<item id="90045" min="1" max="2" chance="100" /> <!-- Magical Tablet -->
 			</drop>
 		</dropLists>
 	</npc>
